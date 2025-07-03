@@ -36,6 +36,7 @@ with st.sidebar:
         ("Hugging Face (Cloud)", "Ollama (Local)"),
         help="Choose which backend to use for LLM responses. Hugging Face works everywhere; Ollama only works locally."
     )
+    hf_api_url_input = st.text_input("Hugging Face API URL (paste here for cloud backend)")
     hf_token_input = st.text_input("Hugging Face Token (paste here for cloud backend)", type="password")
     download_status = st.empty()
     regulation = st.selectbox(
@@ -106,7 +107,7 @@ with st.sidebar:
 
     if backend == "Hugging Face (Cloud)":
         if st.button("Download Hugging Face Model", key="download_hf_model"):
-            HF_API_URL = st.secrets.get("HF_API_URL") or os.environ.get("HF_API_URL")
+            HF_API_URL = hf_api_url_input or st.secrets.get("HF_API_URL") or os.environ.get("HF_API_URL")
             HF_TOKEN = hf_token_input or st.secrets.get("HF_TOKEN") or os.environ.get("HF_TOKEN")
             if not HF_API_URL or not HF_TOKEN:
                 download_status.error("[Hugging Face API credentials not set. Please set HF_API_URL and HF_TOKEN in Streamlit secrets, environment variables, or paste in the sidebar.]")
@@ -134,7 +135,7 @@ with st.sidebar:
 # --- LLM call abstraction ---
 def call_llm(prompt, backend, model_name="gemma3:4b"):
     if backend == "Hugging Face (Cloud)":
-        HF_API_URL = st.secrets.get("HF_API_URL") or os.environ.get("HF_API_URL")
+        HF_API_URL = hf_api_url_input or st.secrets.get("HF_API_URL") or os.environ.get("HF_API_URL")
         HF_TOKEN = hf_token_input or st.secrets.get("HF_TOKEN") or os.environ.get("HF_TOKEN")
         if not HF_API_URL or not HF_TOKEN:
             return "[Hugging Face API credentials not set. Please set HF_API_URL and HF_TOKEN in Streamlit secrets, environment variables, or paste in the sidebar.]"
