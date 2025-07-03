@@ -46,3 +46,5 @@
 - When you click "Check Other Regulations", it will show NON-COMPLIANT for the other 2 regulations  
 - Multi-regulation summary should show "3 regulation(s) found non-compliant"
 - Clicking "Provide Explanation" should show detailed explanations for all 3 regulations (FDA, EMA, HSA)
+
+streamlit hosted demo:- https://floccare.streamlit.app/
