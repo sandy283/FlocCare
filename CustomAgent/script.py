@@ -234,7 +234,7 @@ with st.sidebar:
 
 
 # --- Replace ask_ollama with call_llm ---
-def extract_things_to_find(claim, regulation_results, explanations, backend_to_use="Ollama (Local)"):
+def extract_things_to_find(claim, regulation_results, explanations, backend_to_use="Ollama (Local)", gemini_api_key=""):
     prompt = f"""
 You are a regulatory research assistant. Based on the medical claim and compliance analysis, identify the specific things that need to be searched in regulatory documents.
 
@@ -252,7 +252,7 @@ Provide a concise summary (max 200 words) of what exactly needs to be searched i
 
 Focus on actionable search terms and specific regulatory areas, not general explanations.
 """
-    response = ask_llm(prompt, backend_to_use)
+    response = ask_llm(prompt, backend_to_use, gemini_api_key)
     return response.strip()
 
 
@@ -493,7 +493,8 @@ if st.session_state.awaiting_rag_response:
                         st.session_state.current_claim,
                         ', '.join(regulation_results),
                         chr(10).join(st.session_state.current_explanations),
-                        backend
+                        backend,
+                        gemini_api_key
                     )
                     
                     st.session_state.messages.append({
@@ -521,7 +522,7 @@ Provide a final, authoritative compliance assessment that:
 Structure your response clearly with sections for Final Decision, Evidence, and Recommendations.
 """
                     
-                    final_response = ask_llm(final_prompt, backend)
+                    final_response = ask_llm(final_prompt, backend, gemini_api_key)
                     
                     st.session_state.messages.append({
                         "role": "assistant",
