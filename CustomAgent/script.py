@@ -36,6 +36,7 @@ with st.sidebar:
         ("Hugging Face (Cloud)", "Ollama (Local)"),
         help="Choose which backend to use for LLM responses. Hugging Face works everywhere; Ollama only works locally."
     )
+    hf_token_input = st.text_input("Hugging Face Token (paste here for cloud backend)", type="password")
     regulation = st.selectbox(
         "Select Regulation:",
         ["FDA", "EMA", "HSA"],
@@ -107,9 +108,9 @@ with st.sidebar:
 def call_llm(prompt, backend, model_name="gemma3:4b"):
     if backend == "Hugging Face (Cloud)":
         HF_API_URL = st.secrets.get("HF_API_URL") or os.environ.get("HF_API_URL")
-        HF_TOKEN = st.secrets.get("HF_TOKEN") or os.environ.get("HF_TOKEN")
+        HF_TOKEN = hf_token_input or st.secrets.get("HF_TOKEN") or os.environ.get("HF_TOKEN")
         if not HF_API_URL or not HF_TOKEN:
-            return "[Hugging Face API credentials not set. Please set HF_API_URL and HF_TOKEN in Streamlit secrets or environment variables.]"
+            return "[Hugging Face API credentials not set. Please set HF_API_URL and HF_TOKEN in Streamlit secrets, environment variables, or paste in the sidebar.]"
         headers = {"Authorization": f"Bearer {HF_TOKEN}"}
         try:
             response = requests.post(
