@@ -65,6 +65,7 @@ with st.sidebar:
                 "compliant": None,
                 "explanation": None,
                 "ask_human": None,
+                "backend": backend,
             }
            
             thread_id = uuid4().hex
@@ -134,13 +135,38 @@ with st.sidebar:
 
 # --- LLM call abstraction ---
 def call_llm(prompt, backend, model_name="gemma3:4b"):
+    import time
+    import logging
+    from datetime import datetime
+    
+    # Set up logging to file
+    log_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), "llm_debug.log")
+    logging.basicConfig(
+        filename=log_file,
+        level=logging.INFO,
+        format='%(asctime)s - %(message)s',
+        filemode='a'
+    )
+    
+    start_time = time.time()
+    timestamp = datetime.now().strftime("%H:%M:%S")
+    
+    # Log what's being called
+    logging.info(f"=== LLM CALL START [{timestamp}] ===")
+    logging.info(f"Backend: {backend}")
+    logging.info(f"Model: {model_name}")
+    logging.info(f"Prompt length: {len(prompt)} characters")
+    logging.info(f"Prompt preview: {prompt[:200]}...")
+    
     if backend == "Hugging Face (Cloud)":
         HF_API_URL = hf_api_url_input or st.secrets.get("HF_API_URL") or os.environ.get("HF_API_URL")
         HF_TOKEN = hf_token_input or st.secrets.get("HF_TOKEN") or os.environ.get("HF_TOKEN")
         if not HF_API_URL or not HF_TOKEN:
+            logging.info("HF credentials not set")
             return "[Hugging Face API credentials not set. Please set HF_API_URL and HF_TOKEN in Streamlit secrets, environment variables, or paste in the sidebar.]"
         headers = {"Authorization": f"Bearer {HF_TOKEN}"}
         try:
+            logging.info("Making HF API call...")
             response = requests.post(
                 HF_API_URL,
                 headers=headers,
@@ -148,36 +174,69 @@ def call_llm(prompt, backend, model_name="gemma3:4b"):
             )
             response.raise_for_status()
             result = response.json()
+            end_time = time.time()
+            logging.info(f"HF response received in {end_time - start_time:.2f} seconds")
+            
             if isinstance(result, list) and "generated_text" in result[0]:
-                return result[0]["generated_text"]
+                response_text = result[0]["generated_text"]
+                logging.info(f"HF response length: {len(response_text)} chars")
+                logging.info(f"=== LLM CALL END [{timestamp}] ===")
+                return response_text
             elif "generated_text" in result:
-                return result["generated_text"]
+                response_text = result["generated_text"]
+                logging.info(f"HF response length: {len(response_text)} chars")
+                logging.info(f"=== LLM CALL END [{timestamp}] ===")
+                return response_text
             elif "error" in result:
+                logging.info(f"HF API error: {result['error']}")
                 return f"[Hugging Face API error: {result['error']}]"
             else:
+                logging.info(f"HF unexpected response: {str(result)}")
                 return str(result)
         except Exception as e:
+            logging.info(f"HF exception: {e}")
             return f"[Hugging Face API error: {e}]"
     elif backend == "Ollama (Local)":
         try:
             import ollama
+            logging.info("Making Ollama call...")
             response = ollama.chat(
                 model=model_name,
                 messages=[{"role": "user", "content": prompt}]
             )
-            return response["message"]["content"]
+            end_time = time.time()
+            logging.info(f"Ollama response received in {end_time - start_time:.2f} seconds")
+            logging.info(f"Response type: {type(response)}")
+            
+            # Try both access methods for compatibility
+            try:
+                result = response["message"]["content"]
+                logging.info(f"Dict access worked, response length: {len(result)} chars")
+                logging.info(f"Response preview: {result[:200]}...")
+                logging.info(f"=== LLM CALL END [{timestamp}] ===")
+                return result
+            except (TypeError, KeyError):
+                result = response.message.content
+                logging.info(f"Object access worked, response length: {len(result)} chars")
+                logging.info(f"Response preview: {result[:200]}...")
+                logging.info(f"=== LLM CALL END [{timestamp}] ===")
+                return result
         except Exception as e:
+            logging.info(f"Ollama error: {e}")
+            logging.info(f"=== LLM CALL END [{timestamp}] ===")
             return f"[Ollama error: {e}]"
     else:
+        logging.info("Invalid backend selected")
+        logging.info(f"=== LLM CALL END [{timestamp}] ===")
         return "[Invalid backend selected.]"
 
 
 # --- Replace ask_ollama with call_llm ---
-def ask_llm(question: str) -> str:
-    return call_llm(question, backend)
+def ask_llm(question: str, backend_to_use: str = "Ollama (Local)") -> str:
+    return call_llm(question, backend_to_use)
 
 
-def extract_things_to_find(claim, regulation_results, explanations):
+def extract_things_to_find(claim, regulation_results, explanations, backend_to_use="Ollama (Local)"):
     prompt = f"""
 You are a regulatory research assistant. Based on the medical claim and compliance analysis, identify the specific things that need to be searched in regulatory documents.
 
@@ -195,7 +254,7 @@ Provide a concise summary (max 200 words) of what exactly needs to be searched i
 
 Focus on actionable search terms and specific regulatory areas, not general explanations.
 """
-    response = ask_llm(prompt)
+    response = ask_llm(prompt, backend_to_use)
     return response.strip()
 
 
@@ -213,11 +272,13 @@ class ComplianceState(TypedDict):
     regulation: Optional[Literal["FDA", "EMA", "HSA"]]
     explanation: Optional[str]
     ask_human: Optional[str]
+    backend: Optional[str]
 
 
 def classifier_node(state: ComplianceState) -> dict:
     user_msg = next((m.content for m in state["messages"] if isinstance(m, HumanMessage)), "")
     regulation = state.get('regulation', 'FDA')
+    backend_to_use = state.get('backend', 'Ollama (Local)')
     reg_contexts = {
         'FDA': 'Food and Drug Administration (USA) pharmaceutical and medical device regulations',
         'EMA': 'European Medicines Agency pharmaceutical and medical product regulations',
@@ -230,7 +291,7 @@ def classifier_node(state: ComplianceState) -> dict:
         "Respond with ONLY 'yes' if compliant, 'no' if non-compliant.\n\n"
         f"Medical Claim: {user_msg}"
     )
-    result = ask_llm(prompt).strip().lower()
+    result = ask_llm(prompt, backend_to_use).strip().lower()
     if "yes" in result:
         return {"compliant": "yes"}
     elif "no" in result:
@@ -248,6 +309,7 @@ def reasoning_node(state: ComplianceState) -> dict:
     user_msg = next((m.content for m in state["messages"] if isinstance(m, HumanMessage)), "")
     decision = state.get("compliant", "no")
     regulation = state.get("regulation", "FDA")
+    backend_to_use = state.get('backend', 'Ollama (Local)')
     reg_contexts = {
         'FDA': 'Food and Drug Administration (USA) pharmaceutical and medical device regulations',
         'EMA': 'European Medicines Agency pharmaceutical and medical product regulations', 
@@ -261,7 +323,7 @@ def reasoning_node(state: ComplianceState) -> dict:
         f"Medical Claim: {user_msg}\n"
         f"Classification: {decision.upper()}"
     )
-    explanation = ask_llm(prompt)
+    explanation = ask_llm(prompt, backend_to_use)
     return {"explanation": explanation}
 
 
@@ -400,6 +462,7 @@ if st.session_state.awaiting_other_regulation_check:
                         "compliant": None,
                         "explanation": None,
                         "ask_human": None,
+                        "backend": backend,
                     }
                    
                     result = st.session_state.graph.invoke(state, config=st.session_state.current_config)
@@ -469,6 +532,7 @@ if st.session_state.awaiting_explanation_response:
                         "compliant": "no",
                         "explanation": None,
                         "ask_human": None,
+                        "backend": backend,
                     }
                     
                     # Directly call the reasoning function for regulation-specific explanations
@@ -519,7 +583,8 @@ if st.session_state.awaiting_rag_response:
                     search_summary = extract_things_to_find(
                         st.session_state.current_claim,
                         ', '.join(regulation_results),
-                        chr(10).join(st.session_state.current_explanations)
+                        chr(10).join(st.session_state.current_explanations),
+                        backend
                     )
                     
                     st.session_state.messages.append({
@@ -547,7 +612,7 @@ Provide a final, authoritative compliance assessment that:
 Structure your response clearly with sections for Final Decision, Evidence, and Recommendations.
 """
                     
-                    final_response = ask_llm(final_prompt)
+                    final_response = ask_llm(final_prompt, backend)
                     
                     st.session_state.messages.append({
                         "role": "assistant",
@@ -584,6 +649,7 @@ if not st.session_state.awaiting_explanation_response and not st.session_state.a
             "compliant": None,
             "explanation": None,
             "ask_human": None,
+            "backend": backend,
         }
        
         thread_id = uuid4().hex
