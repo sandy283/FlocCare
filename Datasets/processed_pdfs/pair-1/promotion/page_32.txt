@@ -1,0 +1,43 @@
+=== PAGE 32 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving its layout and structure, along with descriptions of visual elements:
+
+(Left pink vertical bar)
+
+                                                                                               US/Canada Phase 3 Study:
+                                                                                               Impact on Glucose Metabolism/Tolerance
+
+
+                                                 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                 | NEXTSTELLIS had no significant effects on serum fasting glucose or hemoglobin |
+                                                 | A1C over the 13 cycles of the clinical trial (N=1,864)                                                                                                                                                                                                                                                                          |
+                                                 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+(Two bar charts are presented side-by-side. Both charts show data for "Baseline," "Cycle 7," and "Cycle 13," represented by dark purple, pink, and light blue bars respectively. Error bars are included for each bar.)
+
+**Left Chart Description:**
+*   **Title/X-axis label:** Fasting Glucose
+*   **Y-axis label:** mmol/L
+*   **Y-axis values:** 0 to 6
+*   **Data represented:** The chart shows three bars, each with a similar height, indicating that Fasting Glucose levels remained relatively stable across Baseline, Cycle 7, and Cycle 13. The values for all three time points appear to be around 4.5-5 mmol/L.
+
+**Right Chart Description:**
+*   **Title/X-axis label:** Glycated Hemoglobin (A1C)
+*   **Y-axis label:** mmol/mol
+*   **Y-axis values:** 0 to 40
+*   **Data represented:** The chart shows three bars, each with a similar height, indicating that Glycated Hemoglobin (A1C) levels remained relatively stable across Baseline, Cycle 7, and Cycle 13. The values for all three time points appear to be around 32-33 mmol/mol.
+
+(Below the charts, a legend and additional text are provided.)
+
+                                          ■ Baseline      ■ Cycle 7      ■ Cycle 13
+                                          Women with diabetes mellitus with vascular
+                                          involvement or diabetes of >20 years duration were
+                                          excluded from the study.
+
+(Bottom left corner)
+maynepharma                               A1C, hemoglobin A1C.
+                                          Reference: Data on file. Raleigh, NC. Mayne Pharma LLC.
+
+31                                                                                                                                             Full Prescribing Information is available at www.Nextstellis.com

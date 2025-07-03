@@ -1,0 +1,425 @@
+=== PAGE 2 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving the original layout, spacing, and structure:
+
+160x600
+
+Animated Banner
+
+       In a Real-World Study with
+          nearly 11,000 patients
+          _                                               _                                               _                                               _
+         |                       |                       |                       |                       |                       |
+         |         31%*          |         31%*          |   Neulasta® Onpro®    |   Neulasta® Onpro®    |   Neulasta® Onpro®    |
+         |         *p = 0.01     |         *p = 0.01     |   (pegfilgrastim) injection   |   (pegfilgrastim) injection   |   (pegfilgrastim) injection   |
+         |                       |                       |          kit          |          kit          |          kit          |
+         |      Pegfilgrastim    |      With PFS,        |      Choose           |      Choose to        |      Choose to        |
+         |      PFS resulted in  |      FN incidence     |      Neulasta®        |      help avoid       |      let patients     |
+         |      a significantly  |      increased        |      Onpro®           |      next-day         |      stay home.       |
+         |      higher risk of   |      by 31%           |                       |      visits,          |                       |
+         |      FN† vs Onpro®¹   |      vs Onpro®¹       |                       |                       |                       |
+         |                       |                       |                       |                       |                       |
+         | Across all cycles of  | FN was defined as:    |                       |                       |                       |
+         | chemotherapy, the incidence of | • Inpatient: Diagnosis of neutropenia |                       |                       |                       |
+         | FN associated with prefilled | AND (fever OR inpatient diagnosis |                       |                       |                       |
+         | syringe (PFS) was 1.7% | of infection)         |                       |                       |                       |
+         | (n = 455) vs 1.3% (n = 126) for | • Outpatient: Diagnosis of neutropenia |                       |                       |                       |
+         | Neulasta® Onpro®.¹    | AND (fever OR diagnosis of infection |                       |                       |                       |
+         |                       | AND prescribed antimicrobials) |                       |                       |                       |
+         | FN = febrile neutropenia. |                       |                       |                       |                       |
+         |                       |                       |                       |                       |                       |
+         |     Indication and Important  |     Indication and Important  |     Indication and Important  |     Indication and Important  |     Indication and Important  |
+         |      Safety Information       |      Safety Information       |      Safety Information       |      Safety Information       |      Safety Information       |
+         | Neulasta® (pegfilgrastim) is | Neulasta® (pegfilgrastim) is | Neulasta® (pegfilgrastim) is | Neulasta® (pegfilgrastim) is | Neulasta® (pegfilgrastim) is |
+         | indicated to decrease the | indicated to decrease the | indicated to decrease the | indicated to decrease the | indicated to decrease the |
+         | incidence of infection, as | incidence of infection, as | incidence of infection, as | incidence of infection, as | incidence of infection, as |
+         | manifested by febrile | manifested by febrile | manifested by febrile | manifested by febrile | manifested by febrile |
+         | neutropenia, in patients with | neutropenia, in patients with | neutropenia, in patients with | neutropenia, in patients with | neutropenia, in patients with |
+         | non-myeloid malignancies | non-myeloid malignancies | non-myeloid malignancies | non-myeloid malignancies | non-myeloid malignancies |
+         | receiving myelosuppressive | receiving myelosuppressive | receiving myelosuppressive | receiving myelosuppressive | receiving myelosuppressive |
+         | anti-cancer drugs associated | anti-cancer drugs associated | anti-cancer drugs associated | anti-cancer drugs associated | anti-cancer drugs associated |
+         | with a clinically significant | with a clinically significant | with a clinically significant | with a clinically significant | with a clinically significant |
+         | incidence of febrile | incidence of febrile | incidence of febrile | incidence of febrile | incidence of febrile |
+         | neutropenia.          | neutropenia.          | neutropenia.          | neutropenia.          | neutropenia.          |
+         |                       |                       |                       |                       |                       |
+         |   Prescribing   Instructions  |   Prescribing   Instructions  |   Prescribing   Instructions  |   Prescribing   Instructions  |   Prescribing   Instructions  |
+         |   Information   for Use |   Information   for Use |   Information   for Use |   Information   for Use |   Information   for Use |
+         |_______________________|_______________________|_______________________|_______________________|_______________________|
+
+Graphic and type scrolls up            First frame text fades out;            Previous frame text fades out          Previous frame text fades out          Logo and text fade out and scroll
+from bottom of frame and              graphic shifts up slightly as          and new text fades in below            and new text fades in below            out of top of frame as footnote copy
+fixes in place.                       new copy slides in from                fixed logo.                            fixed logo.                            from the bottom, and these
+                                      bottom of frame and fixes                                                    frames will start to scroll at
+                                      into place.                                                                  second. They will continue
+                                                                                                                   scroll past the 30th second point
+                                                                                                                   till the material has run through. And
+                                                                                                                   there will be a bar at the right for a
+                                                                                                                   user to go back on the blue content
+                                                                                                                   two frames.
+
+                                                                                     Pivotal Trial Study Design and
+                                                                                     Results¹
+                                                                                     Phase 3, multicenter,
+                                                                                     double-blind, placebo-controlled trial of
+                                                                                     Neulasta® (pegfilgrastim) in patients
+                                                                                     with breast cancer (Neulasta®
+                                                                                     [n = 463] or placebo [n = 464])
+                                                                                     receiving myelosuppressive
+                                                                                     chemotherapy (doxorubicin
+                                                                                     100 mg/m² followed by docetaxel
+                                                                                     60 mg/m²) for up to 4 cycles. The primary
+                                                                                     endpoint was the mean
+                                                                                     percentage of patients who developed
+                                                                                     FN (Neulasta® 1% versus placebo 17%,
+                                                                                     P < 0.001). Also, secondary endpoints
+                                                                                     were lower for Neulasta®-treated
+                                                                                     patients than placebo for
+                                                                                     hospitalization (1% versus 2% versus
+                                                                                     10%) and IV anti-infective use (2%
+                                                                                     versus 10%]).
+                                                                                     FN = temperature ≥ 38.2°C and
+                                                                                     absolute neutrophil count < 0.5 x 10⁹/L.
+                                                                                     Q3W = once every 3 weeks; IV =
+                                                                                     intravenous.
+
+                                                                                     Real-World Study Design¹
+                                                                                     A retrospective study designed to
+                                                                                     compare the incidence of FN associated
+                                                                                     with Neulasta® Onpro® vs Neulasta® PFS
+                                                                                     among patients receiving
+                                                                                     myelosuppressive chemotherapy. The
+                                                                                     study included 35,856 cycles of
+                                                                                     chemotherapy in which Neulasta® was
+                                                                                     administered (9395 Neulasta® Onpro®
+                                                                                     and 26,461 PFS administrations).¹
+                                                                                     • Patients were followed for 6 to 12
+                                                                                     months following the start of the first
+                                                                                     chemotherapy cycle. The study period
+                                                                                     was 1/1/16-9/30/18¹.
+                                                                                     • Data Source: MarketScan® Commercial
+                                                                                     Claims and Encounters/Medicare
+                                                                                     Supplemental and Coordination of
+                                                                                     Benefits Databases¹
+
+                                                                                     Real-World Study Limitations¹
+                                                                                     • Retrospective analysis that did not
+                                                                                     control for additional variables that may
+                                                                                     influence the incidence of FN
+                                                                                     • Database was not sufficient to
+                                                                                     understand root causes for observed
+                                                                                     lower rate of FN for patients receiving
+                                                                                     Onpro®
+
+                                                                                     LEARN MORE
+
+Full Scrolling ISI                              (continued)
+
+Indication and Important
+Safety Information
+Neulasta® (pegfilgrastim) is
+indicated to decrease the
+incidence of infection, as
+manifested by febrile
+neutropenia, in patients with
+non-myeloid malignancies
+receiving myelosuppressive
+anti-cancer drugs associated
+with a clinically significant
+incidence of febrile
+neutropenia.
+
+Neulasta® is not indicated for
+the mobilization of peripheral
+blood progenitor cells for
+hematopoietic stem cell
+transplantation.
+
+Important Safety Information
+Contraindication
+• Neulasta® is contraindicated
+in patients with a history of
+serious allergic reactions to
+pegfilgrastim or filgrastim.
+• Reactions have included
+anaphylaxis.
+
+Splenic Rupture
+• Splenic rupture, including
+fatal cases, can occur
+following the administration
+of Neulasta®.
+• Evaluate for an enlarged or
+ruptured spleen in patients
+who report left upper
+abdominal or shoulder pain.
+
+Acute Respiratory Distress
+Syndrome (ARDS)
+• ARDS has occurred in
+patients receiving Neulasta®.
+• Evaluate patients who
+develop a fever and lung
+infiltrates or respiratory
+distress after receiving
+Neulasta®.
+• Discontinue Neulasta® in
+patients with ARDS.
+
+Serious Allergic Reactions
+• Serious allergic reactions,
+including anaphylaxis can
+occur in patients receiving
+Neulasta®.
+• Majority of events occurred
+upon initial exposure and can
+recur within days after
+discontinuation of initial anti-
+allergic treatment.
+• Permanently discontinue
+Neulasta® in patients with
+serious allergic reactions.
+
+Allergies to Acrylics
+• On-body injector (OBI) for
+Neulasta® uses acrylic
+adhesives.
+• Patients who are allergic to
+acrylic adhesives may have a
+significant reaction.
+
+Use in Patients With Sickle
+Cell Disorders
+• In patients with sickle cell
+trait or disease, sickle cell
+crisis, in some cases fatal,
+can occur in patients
+receiving Neulasta®.
+• Discontinue Neulasta® if
+sickle cell crisis occurs.
+
+Glomerulonephritis
+• Has occurred in patients
+receiving Neulasta®.
+• Diagnoses based on
+azotemia, hematuria,
+proteinuria, and renal biopsy.
+• Generally events resolved
+after dose reduction or
+discontinuation of Neulasta®.
+• If suspected, evaluate for
+cause and if cause is likely,
+consider dose-reduction or
+interruption of Neulasta®.
+
+Leukocytosis
+• Increased white blood cell
+counts of 100 x 10⁹/L have
+been observed.
+• Monitoring CBCs is
+recommended.
+
+Capillary Leak Syndrome
+(CLS)
+• CLS has been reported after
+G-CSF administration,
+including Neulasta®.
+• Characterized by
+hypotension, hypoalbuminemia,
+edema, and hemoconcentration.
+• Episodes vary in frequency,
+severity, and may be life-
+threatening if treatment
+is delayed.
+• Patients with symptoms
+should be closely monitored
+and receive standard
+treatment, include intensive
+care.
+
+Potential for Tumor Growth
+Promoting Effects on
+Malignant Cells
+• G-CSF has been shown to
+stimulate in vitro tumor cell lines.
+• The possibility that Neulasta®
+acts as a growth factor for any
+tumor type, including myeloid
+malignancies and
+myelodysplastic syndrome,
+cannot be excluded.
+
+Potential Device Failures
+• Missed or partial doses have
+been reported in patients
+receiving pegfilgrastim via
+on-body injector (OBI) due to
+a device not performing as
+intended.
+• In the event of a missed or
+partial dose, patients may be
+at increased risk of
+neutropenia, febrile
+neutropenia and/or infection
+if the dose had been
+incorrectly delivered.
+• Instruct patients to notify
+their healthcare professional
+immediately in order to
+determine the need for a
+replacement dose if they
+suspect that the device may
+not have performed as
+intended.
+
+Aortitis
+• Aortitis has been reported in
+patients receiving Neulasta®.
+• It may occur as early as the
+first week after start of
+therapy.
+• Manifestations may include
+generalized signs and
+symptoms such as fever,
+abdominal pain, malaise,
+back pain, and increased
+inflammatory markers (e.g.,
+C-reactive protein and white
+blood cell count).
+• Consider aortitis in patients
+who develop these signs and
+symptoms without known
+etiology. Discontinue
+Neulasta® if aortitis is
+suspected.
+
+Nuclear Imaging
+• Increased hematopoietic
+activity of the bone marrow
+in response to G-CSF therapy
+has been associated with
+transient positive bone
+imaging changes. This should
+be considered when
+interpreting bone imaging
+results.
+
+Most common adverse
+reactions
+• Bone pain
+• Pain in extremity
+
+Please see Neulasta® full
+Prescribing Information.
+
+Special Instructions for the
+on-body injector (OBI) for
+Neulasta®
+A healthcare provider must fill
+the on-body injector (OBI) with
+the co-packaged prefilled
+syringe and apply the OBI to the
+patient's skin (abdomen or
+back of arm). The back of the
+OBI must be checked by a
+caregiver to verify the status of
+the OBI. Approximately 27 hours
+after the OBI is applied to the
+patient's skin, Neulasta® will be
+delivered over approximately
+45 minutes. A healthcare
+provider may initiate
+administration with the OBI on
+the same day as the
+administration of cytotoxic
+chemotherapy, as long as the
+OBI delivers Neulasta® no less
+than 24 hours after the
+administration of cytotoxic
+chemotherapy.
+The prefilled syringe co-
+packaged in the Neulasta®
+Onpro® kit contains additional
+solution to compensate for
+liquid loss during delivery
+through the OBI. If this syringe
+is used for manual
+subcutaneous injection, the
+patient will receive an
+overdose. If the prefilled
+syringe for manual use is used
+with the OBI, the patient may
+receive less than the
+recommended dose.
+Do not use the OBI to deliver
+any other drug product except
+the Neulasta® prefilled syringe
+co-packaged with the OBI. Use
+of the OBI has not been
+studied in pediatric patients.
+The OBI should be applied to
+the intact, non-irritated skin on the
+arm or abdomen.
+
+A missed dose could occur due
+to an OBI failure or leakage.
+Instruct patients using the OBI
+to notify their healthcare
+professional immediately in
+order to determine the need for
+a replacement dose of
+pegfilgrastim if they suspect
+that the device may not have
+performed as intended. If the
+patient misses a dose, a new
+dose should be administered
+by single prefilled syringe for
+manual use as soon as
+possible after detection.
+
+Review the Patient Information
+and Patient Instructions for
+Use with the patient and
+provide the Instructions to the
+patient.
+
+Refer to the Healthcare
+Provider Instructions for Use
+for full
+administration information.
+
+For any OBI problems, call
+Amgen at 1-800-772-6436 or
+1-844-MYNEULASTA
+(1-844-696-3852).
+
+References: 1. Data on file,
+Amgen. 2019. 2. Vogel CL, et
+al. J Clin Oncol.
+2005;23(6):1178-1184.
+
+© 2020 Amgen Inc. All rights
+reserved. Not for reproduction.
+USA-003-80637 05-20
+
+AMGEN®
+
+Amgen Inc.
+One Amgen Center Drive
+Thousand Oaks, CA
+91320-1799
+www.amgen.com
+
+Visual Elements Description:
+
+1.  **Animated Banner Frames:** The top section of the page presents five distinct frames of an animated banner, each approximately identical in size and arranged horizontally.
+    *   **Frames 1 and 2:** These frames feature a white graphic of an upward-pointing arrow inside a house outline, with "31%*" and "*p = 0.01" beneath it. This visual element represents a statistical increase or positive outcome related to patients staying home. The surrounding text in these frames elaborates on the 31% increase in FN incidence with PFS versus Onpro®.
+    *   **Frames 3, 4, and 5:** These frames display the "Neulasta® Onpro® (pegfilgrastim) injection kit" logo. This logo consists of the word "Neulasta" with a registered trademark symbol, followed by "Onpro®" in a stylized box, and then "(pegfilgrastim) injection kit" below it. These frames use the logo to brand the messaging about choosing Neulasta® Onpro® for patient convenience ("Choose Neulasta® Onpro®", "Choose to help avoid next-day visits,", "Choose to let patients stay home.").
+    *   All five frames include a consistent footer section with two grey boxes labeled "Prescribing Information" and "Instructions for Use", implying that more detailed information is available there.
+
+2.  **"LEARN MORE" Button:** Located in the "Real-World Study Limitations" section on the upper right side of the page, there is a prominent button with a blue-green gradient background and white text that reads "LEARN MORE". This button serves as a call to action, indicating that further information can be accessed.
+
+3.  **Neulasta® Onpro® Logo (bottom right of ISI section):** Near the bottom of the "Full Scrolling ISI" content, after the copyright information and document number, there is a distinct logo for "Neulasta® Onpro® (pegfilgrastim) injection kit". This is the same logo as seen in banner frames 3, 4, and 5, serving as a branding element for the product.
+
+4.  **AMGEN® Logo and Contact Information:** At the very bottom right of the page, the "AMGEN®" logo is displayed. This is a standard corporate logo, indicating the pharmaceutical company responsible for the product. It is presented above the company's address and website, providing corporate identification and contact details.

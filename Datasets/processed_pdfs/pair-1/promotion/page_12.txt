@@ -1,0 +1,49 @@
+=== PAGE 12 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+The following text content is extracted from the PDF page, preserving its original layout, spacing, and structure:
+
+Estetrol (E4) Is an Estrogen With Selective
+Action in Tissues¹⁻⁴,ᵃ
+
+                                         Impact              MOA                      Outcome
+    Organ
+                                                                                 Good cycle controlᵇ,ᶜ
+                                    HIGH           Estrogen receptor
+                                                   (ER) agonist
+    Endometrium
+
+
+                                    NEUTRAL        Not metabolized
+                                                   by CYP450                     Minimal to no impact on:
+                                                                                      Cholesterolᵇ,ᶜ
+                                                                                      Triglyceridesᵇ,ᶜ
+    Liver                                          ER mixed                          Glucoseᵇ,ᶜ
+                                                   antagonist/agonist                  Clotting factorsᶜ
+                                                                                    Sex hormone binding globulinᶜ
+
+
+                                    LOW            ER antagonist                 Inhibits estradiol-induced proliferationᵈ
+    Breast
+
+ᵃBased on data from nonclinical studies in humans and animal models. ᵇStudied paired with a progestin. ᶜWomen with diabetes mellitus with vascular involvement, diabetes of >20 years
+duration, or dyslipoproteinemia requiring active treatment with antilipidemic agents were excluded from the study. ᵈBased on data from nonclinical studies in animal models.
+CYP, cytochrome P; MOA, mechanism of action.
+maynepharma       References: 1. Foidart JM, et al. *Frontiers in Gynecological Endocrinology*. New York, NY: Springer International Publishing; 2019:169-195. 2. Data on file. Clinical study report MIT-
+                  Es0001-C302. Mayne Pharma US. Raleigh, NC. 3. Arnal JF, et al. *Physiol Rev*. 2017;97(3):1045-1087. 4. Moggs JG, et al. *EMBO Rep*. 2001;2(9):775-781.
+11                                                                                                        Full Prescribing Information is available at www.Nextstellis.com
+
+***
+
+**Visual Elements Description:**
+
+The central part of the page features a prominent table or matrix, which visually organizes information about the action of Estetrol (E4) in different tissues. The table is structured with four columns and three main rows, plus a header row for the columns.
+
+*   **Column Headers:** "Organ", "Impact", "MOA" (Mechanism of Action), and "Outcome".
+*   **Rows:** Each row represents a specific organ and contains a black outline icon representing that organ, along with its name in blue text.
+    *   **Row 1 (Endometrium):** The "Organ" cell contains an icon of a uterus/ovaries with the text "Endometrium". The "Impact" cell states "HIGH". The "MOA" cell states "Estrogen receptor (ER) agonist". The "Outcome" cell states "Good cycle controlᵇ,ᶜ".
+    *   **Row 2 (Liver):** The "Organ" cell contains an icon of a liver with the text "Liver". The "Impact" cell states "NEUTRAL". The "MOA" cell has two lines of text: "Not metabolized by CYP450" and "ER mixed antagonist/agonist". The "Outcome" cell lists multiple points: "Minimal to no impact on: Cholesterolᵇ,ᶜ", "Triglyceridesᵇ,ᶜ", "Glucoseᵇ,ᶜ", "Clotting factorsᶜ", and "Sex hormone binding globulinᶜ".
+    *   **Row 3 (Breast):** The "Organ" cell contains an icon of a breast with the text "Breast". The "Impact" cell states "LOW". The "MOA" cell states "ER antagonist". The "Outcome" cell states "Inhibits estradiol-induced proliferationᵈ".
+
+The icons are simple line drawings in black, helping to visually distinguish the organs discussed in each row of the table. The table effectively summarizes the key characteristics and effects of Estetrol (E4) on different target tissues.

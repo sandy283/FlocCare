@@ -1,0 +1,56 @@
+=== PAGE 9 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Mandy Edwards
+Mayne Pharma LLC
+NDA 214154/ MA 107
+
+Page 9
+
+The speaker deck includes the following claims and graphical presentations on slides 23-25
+regarding the bleeding profile observed with Nextstellis:
+
+*   Graphical presentation titled "Pooled Analysis of Two Phase 3 Trials (N= 3,409)
+    Demonstrates consistency of cycle patterns and the withdrawal bleed"
+    *   Groups defined as: "Bleeding", "Spotting" and "No Bleeding or Spotting"
+    *   "*Spotting is defined as minimal bleeding that did not require use of any
+        sanitary protection (including panty liners)" (slide 23)
+*   Graphical presentation of the "% of Participants with Unscheduled Bleeding/Spotting
+    N=1,864)"
+    *   Groups defined as: "Unscheduled bleeding/spotting" and "Unscheduled
+        bleeding (only)" (slide 24)
+*   Graphical presentation of the "Mean Number of Bleeding/Spotting Days per
+    Treatment Cycle (ITT Population) (N= 1,756)"
+    *   Groups defined as: "Mean number of unscheduled spotting days" and "Mean
+        number of unscheduled bleeding days" (slide 25)
+
+These claims and graphical presentations misleadingly minimize bleeding irregularities
+associated with Nextstellis. Specifically, these graphical presentations misrepresent the
+frequency of unscheduled bleeding associated with Nextstellis by using a definition of
+“unscheduled bleeding” that excludes unscheduled bleeding events that occurred
+immediately before (“early bleeding”) or immediately after (“continued bleeding”) the
+scheduled bleeding days (day 25 through day 3 of the cycle). Unscheduled bleeding is
+defined in the WARNINGS AND PRECAUTIONS section of the PI, Section 5.11, as
+bleeding or spotting that occurs on Day 4 through Day 24 of a 28-day cycle. The
+presentation on these slides, which excludes “early bleeding” and “continued bleeding” from
+the definition of “unscheduled bleeding,” is misleading because it gives the appearance that
+individuals had much lower “unscheduled bleeding/spotting” rates over time (~8% at Cycle 1
+versus ~6% at Cycle 12), when the rates of unscheduled bleeding or spotting were actually
+higher per cycle. Specifically, as stated in the WARNINGS AND PRECAUTIONS section of
+the PI, Section 5.11, the proportion of subjects reporting unscheduled bleeding or spotting
+per 28-day cycle was actually 30.3% at Cycle 1 versus 17.4% at Cycle 12.
+
+Furthermore, the presentation on slide 23 includes the claim (emphasis added),
+"Demonstrates consistency of cycle patterns and the withdrawal bleed." This claim is
+misleading because it is based on data that are inadequate to support such conclusions.
+The claim “demonstrates consistency” is based on pooled data from phase III studies C301
+and C302. However, studies C301 and C302 were not designed to assess the difference
+between bleeding and spotting, as these were secondary endpoints with no prespecified
+statistical procedure controlling for Type 1 error rate (false positive rate); therefore, it is not
+possible to ascertain whether the findings were attributable to treatment with Nextstellis or
+merely due to chance. As a result, these findings are exploratory (hypothesis-generating).
+Therefore, claims and presentations that draw conclusions (e.g., “demonstrates
+consistency”) are misleading.
+
+Reference ID: 5580097

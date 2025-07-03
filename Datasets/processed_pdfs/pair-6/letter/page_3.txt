@@ -1,0 +1,62 @@
+=== PAGE 3 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Nicole Van de Vaarst
+Mirati Therapeutics Inc., a Bristol Myers Squibb Co.
+NDA 216340/MA 166
+
+headings: “ORR,” “DCR,” “Intracranial ORR,” “OS,” “PFS,” and “DOR.”
+
+The “DCR” navigation bar item on the “KRYSTAL-1 Efficacy” webpage includes the
+prominent headline claim, “DCR IN PATIENTS TAKING KRAZATI: 80% (n=112; 95% CI:
+70.8-86.5)” together with the claim “Depth of response: 80% of patients experienced tumor
+shrinkage of any magnitude.” According to the website, “DCR” stands for “disease control
+rate” and is presented as the sum of the percentages of patients who had stable disease
+(SD), partial response (PR), or complete response (CR). These claims are presented in
+conjunction with a waterfall plot that allows viewers to click on buttons to the right of the plot
+to highlight patients with: “Stable Disease,” “Partial Response,” “Complete Response,” and
+“Progressive Disease.”⁵ Clicking on the “Stable Disease” button shows the claim, “Stable
+Disease: 37%,” and highlights various bars along the plot.
+
+This presentation misleadingly suggests that Krazati improves DCR and “depth of response”
+in patients with _KRAS G12C_-mutated locally advanced or metastatic NSCLC based on a
+composite of CR, PR, and SD, even though the study was not designed to demonstrate this.
+As noted previously, Krazati was approved under the accelerated approval pathway based
+on results from KRYSTAL-1. KRYSTAL-1 was a multicenter, single-arm, open-label
+expansion cohort study that evaluated the effect of Krazati on two efficacy endpoints:
+Objective Response Rate (ORR) and Duration of Response (DOR). In KRYSTAL-1, the
+endpoint of ORR was comprised only of PR + CR, as defined by RECIST v 1.1. Because
+KRYSTAL-1 was designed as a single arm trial, the study did not establish that the SD
+result was attributable to the effect of the drug; for example, the result may instead reflect
+the natural history of the disease. An assessment of delay in time to disease progression in
+patients treated with Krazati (i.e., an assessment of SD) would need to be based on the
+results of a randomized controlled trial.
+
+One reference is cited in support of the claims in the above presentation.⁶ The reference
+presents a summary of NCT03785249 (KRYSTAL-1).⁷ However, it is misleading to include
+in promotional materials representations or suggestions that rely on a study or studies
+whose design is not capable of supporting such representations or suggestions. Here, as
+already noted, since KRYSTAL-1 was a single-arm trial, it is not known whether the data on
+SD are attributable to treatment with Krazati. Consequently, the DCR calculations, which
+are based on a composite that includes SD data, and the associated “depth of response”
+claim, are not supported by the data cited. Your presentation of these data conveys to
+viewers of the website that the data are relevant to their understanding of the efficacy of
+Krazati notwithstanding the limitations in the study.
+
+⁵Response was measured using the Response Evaluation Criteria in Solid Tumors (RECIST) v 1.1., which
+defines the evaluation of target lesions as the following: Complete Response (CR): Disappearance of all target
+Page 3
+lesions. Partial Response (PR): At least a 30% decrease in the sum of diameters of target lesions, taking as
+reference the baseline sum diameters. Progressive Disease (PD): At least a 20% increase in the sum of
+diameters of target lesions, taking as reference the smallest sum on study. In addition to the relative increase of
+20%, the sum must also demonstrate an absolute increase of at least 5 mm. Stable Disease (SD): Neither
+sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest
+sum diameters while on study. https://ctep.cancer.gov/protocoldelopment/docs/recist_guideline.pdf
+⁶Janne PA, Riely, GJ, Gadgeel SM, et al, 2022, Adagrasib in Non-Small-Cell Lung Cancer Harboring a
+KRASG12C Mutation, N Eng J Med; 387:120-131.
+⁷Janne et al. (2022) includes data for SD and DCR, and defines disease control as “complete response, partial
+response, or stable disease . . . ” and presents the composite endpoint of DCR (which comprises the
+percentage of patients who achieved “disease control” [CR + PR + SD]) as 79.5%.
+
+Reference ID: 5423579

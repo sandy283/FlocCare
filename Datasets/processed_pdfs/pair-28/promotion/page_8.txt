@@ -1,0 +1,38 @@
+=== PAGE 8 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Overview of PET/CT Imaging in Recurrent Prostate Cancer – Current and Emerging Techniques — DrFabio
+
+An image is present on the page, displaying four medical imaging scans (likely PET/CT) arranged in a 2x2 grid. Each scan shows an axial view of the torso, with a yellow arrow pointing to a specific region of interest.
+The top-left image is described as a "Fused Axumin PET/CT", and the top-right image as an "axial Axumin PET".
+The bottom two images are from the "same patient after 11C-Acetate PET/CT imaging".
+
+                                                                                               8
+                                                        Detection of a
+                                                        bony metastasis.
+                                                        Top row shows a
+                                                        Axumin study in
+                                                        a patient with
+                                                        Gleason 4+4=8
+                                                        disease, post
+                                                        prostatectomy
+and salvage radiation two years previously. PSA now rising, 1.1 ng/mL. Fused
+Axumin PET/CT on the top left and axial Axumin PET on the top right. The
+Axumin study is negative.
+
+Bottom row of same patient after 11C-Acetate PET/CT imaging clearly shows a
+metastasis in the body of T5.
+
+PSMA PET/CT SCANS
+
+The prostate-specific membrane antigen (PSMA) is a transmembrane
+glycoprotein that occurs much more commonly in prostate cancer cells compared
+to benign prostate tissue. The clinically approved imaging method using PSMA
+was ProstaScint. ProstaScint, however, has several limitations. The technique uses
+an intact antibody which targets the internal portion of the cell membrane
+glycoprotein (PSMA) which requires long circulating times. There is prolonged
+blood-pool retention leading to high background signals, low detection rates, and
+much lower spatial resolution compared to PET.
+
+http://www.drfabio.com/imagingblog/2018/1/9/overview-of-petct-imaging-in-recurrent-prostate-cancer-current-and-emerging-techniques[11/15/2018 11:25:57 AM]

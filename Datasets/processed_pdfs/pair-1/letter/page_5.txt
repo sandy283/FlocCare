@@ -1,0 +1,60 @@
+=== PAGE 5 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Mandy Edwards
+Mayne Pharma LLC
+NDA 214154/ MA 107
+
+Page 5
+
+*   “Impact on Hemostatic Parameters at Cycle 6”
+    *   “Study Reference: MIT-Es0001-C201”
+        *   Graphical presentation of the “% Change from baseline at Cycle 6” depicting
+            the following measures (in pertinent part): Factor VIIb, Protein Cb, Protein S
+            activityb, Protein S freeb, APCR-(ETP) a, Plasminogena, t-PAa, Prothrom Frag
+            1+2a, Soluble E-selectina and SHBG*.
+            *   “a p <0.05 DRSP/E4 vs LNG/EE and DRSP/EE
+            *   b p <0.05 DRSP/E4 vs DRSP/EE”
+        *   “Significant differences observed at Cycle 6”
+
+These claims, with the associated p-values, misleadingly suggest that Nextstellis
+demonstrated a *statistically significant* difference in several observed endocrine and
+hemostatic parameters as compared to the two reference CHCs. This suggestion is not
+supported by the safety study, MIT-Es0001-C201, cited in these presentations because the
+study did not prespecify the thresholds for clinically relevant differences in effects of the
+studied products on the various endocrine and hemostatic parameters. As a result, data
+derived from the study are considered descriptive, and do not support the conclusions
+referenced above. Moreover, a p-value is generally understood to indicate statistical
+significance if it is less than 0.05. The inclusion of a p-value of “<0.05” in conjunction with
+these claims creates the misleading suggestion that there were statistically significant
+differences in the described endocrine and hemostatic parameters when that has not been
+demonstrated. These comparative claims, which suggest a statistically significant difference
+between impact of Nextstellis and other CHCs on endocrine and hemostatic parameters, add
+to the misleading suggestion that Nextstellis is safer than other CHCs.3 We acknowledge the
+statement, “No clinical inferences should be made from the results shown” on slide 16
+directly preceding these claims and presentations; however, this statement does not mitigate
+the misleading impression.
+
+The speaker deck claims that E4 (estetrol), the estrogen component of Nextstellis, has “a low
+**impact on breast tissue**” (slide 10, bolded emphasis original) and “[d]oes not stimulate
+breast tissue” (slide 40). This adds to the misleading suggestion that the estrogen contained
+in Nextstellis is safer compared to other CHCs, and misleadingly minimizes the risk of breast
+related effects posed by Nextstellis. These claims suggest that Nextstellis is a safer option for
+patients who have or have had breast cancer when, in fact, Nextstellis is contraindicated in
+patients with a current diagnosis or history of breast cancer, which may be sensitive to female
+hormones. The PI for Nextstellis also contains a warning and precaution regarding the
+potential risk of hormonally-sensitive malignancies, like breast cancer. Furthermore, slides 9
+and 10 suggest that because Nextstellis is an antagonist at the membrane ERα, the drug has
+a lower impact on breast tissue than ethinyl estradiol, noting that “[e]thinyl estradiol activates
+both the nuclear and membrane receptor[.]” However, nuclear and membrane ERαs are the
+same receptor, which can move between different locations in the cell. All estrogens,
+including estetrol, act through both nuclear and membrane-associated receptors.
+
+---
+3 Although no clinical effect has been confirmed with these parameters, they are reasonably predictive of
+downstream effects which are closely tied to established endocrine risks (i.e., glucose intolerance and
+hypertriglyceridemia, effect on binding globulins) and hemostatic risks (i.e., thromboembolic disorders and other
+vascular problems, hypertension) associated with all CHCs, including Nextstellis.
+
+Reference ID: 5580097

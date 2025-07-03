@@ -1,0 +1,51 @@
+=== PAGE 8 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+The page displays a user interface for editing and previewing an online text ad.
+
+**Left Panel: Edit text ad**
+
+**Edit text ad** [Plus icon]
+
+Final URL
+https://alkindisprinkle.com
+
+Headline 1
+Treat Adrenal Insufficiency [Question mark in circle icon]
+
+Headline 2
+FDA Approved Alkindi Sprinkle [Question mark in circle icon]
+27 / 30
+
+Headline 3
+Low strengths, no compounding [Question mark in circle icon]
+29 / 30
+
+Display path [Question mark in circle icon]
+www.alkindisprinkle.com / Path 1 / Path 2
+0 / 15 0 / 15
+
+Description 1
+Alkindi Sprinkle is the accurate, hassle-free hydrocortisone granules for kids. [Question mark in circle icon]
+79 / 90
+
+Description 2
+No cutting, no splitting, just sprinkles with Alkindi Sprinkle for adrenal insufficiency. [Question mark in circle icon]
+89 / 90
+
+**Right Panel: Preview**
+
+2 of 2 previews [Left arrow icon] [Right arrow icon]
+
+Desktop
+
+Ad • www.alkindisprinkle.com ▾
+**Treat Adrenal Insufficiency | FDA Approved Alkindi Sprinkle**
+Alkindi Sprinkle is the accurate, hassle-free hydrocortisone granules for kids. No cutting, no splitting, just sprinkles with Alkindi Sprinkle for adrenal insufficiency.
+
+Your ad might not always include all your text. Some shortening may also occur in some formats. You can make sure certain text appears in your ad. Learn more
+
+**Bottom of the page**
+
+PM-ALK-016-rev0-12/20

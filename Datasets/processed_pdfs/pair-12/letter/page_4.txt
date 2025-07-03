@@ -1,0 +1,51 @@
+=== PAGE 4 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Michele Yelmene
+Xeris Pharmaceuticals, Inc.
+NDA 214133 MA 14                                                                       Page 4
+
+maintenance phase were eligible for the withdrawal phase. Only 39 patients with “normal
+cortisol levels” entered the withdrawal phase (37 from the dose titration and maintenance
+phase of the LOGICS study and 2 directly from a separate study as allowed by the LOGICS
+study design). Over half of the patients who entered the titration and maintenance phase of
+the LOGICS study discontinued for various reasons, including experiencing adverse
+reactions and lack of efficacy. Of the 39 patients that continued to the withdrawal phase of
+the study, 21 were randomized to Recorlev, and 18 to placebo. It is only out of those 21
+patients in the Recorlev group (from the 79 that underwent dose titration) that 52% (11/21)
+achieved “normal cortisol levels” at the end of the withdrawal phase. Thus, it is misleading to
+suggest that the results from this enriched patient population represent the general
+experience expected in patients who take Recorlev.
+
+**False or Misleading Risk Presentation**
+
+Promotional communications misbrand a drug if they are false or misleading with respect to
+risk. The determination of whether a promotional communication is misleading includes,
+among other things, not only representations made or suggested in the promotional
+communication, but also the extent to which the promotional communication fails to reveal
+facts material in light of the representations made or with respect to consequences that may
+result from the use of the drug as recommended or suggested in the promotional
+communication.
+
+The “Taking Recorlev®” webpage includes the following presentation under the header
+“Monitoring and side effects” (emphasis original):
+
+*   “Monitoring”
+    *   “As with other medicines for Cushing’s, monitoring by your doctor is important
+        so they know how you’re doing”
+    *   . . .
+    *   “Heart and liver tests before and during treatment with Recorlev will help your doctor
+        avoid side effects”
+*   “Possible side effects”
+    *   “Side effects can occur with Recorlev, including some that are serious”
+
+This presentation minimizes the serious and significant risks associated with the use of
+Recorlev by acknowledging that “[s]ide effects can occur with Recorlev, including some that
+are serious,” without discussing information regarding Recorlev’s boxed warnings or specific
+side effects associated with the drug, including those that are potentially fatal. Additionally,
+this presentation suggests that heart and liver tests alone will enable patients to “avoid” side
+effects altogether. As noted above, the PI for Recorlev includes boxed warnings for
+hepatotoxicity and QT prolongation. The risk of hepatotoxicity has been associated with use
+
+Reference ID: 5186528

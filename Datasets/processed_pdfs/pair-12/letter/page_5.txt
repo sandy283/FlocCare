@@ -1,0 +1,57 @@
+=== PAGE 5 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Michele Yelmene
+Xeris Pharmaceuticals, Inc.
+NDA 214133 MA 14
+
+Page 5
+
+of oral ketoconazole³ and has led to fatal outcomes or the need for liver transplantation.
+Similarly, the risk of QT prolongation associated with Recorlev has resulted in life-threatening
+ventricular dysrhythmias. The webpage's presentation is especially concerning given that a
+number of patients taking Recorlev in clinical studies experienced these potentially life-
+threatening side effects. For example, the WARNINGS AND PRECAUTIONS section of the
+PI states that 13% of patients using Recorlev experienced drug-induced liver injury, and
+14.7% of patients experienced a change-from-baseline QTcF >60 msec. The PI also notes
+that Recorlev is associated with multiple other serious and potentially life-threatening risks
+unrelated to heart or liver problems, as well as numerous common adverse reactions, many
+of which occurred in more than 20% of patients treated with the drug.
+
+We acknowledge that risk information for Recorlev is presented separately in the
+“INDICATION AND IMPORTANT SAFETY INFORMATION” section of the webpage.
+However, this does not mitigate the misleading impression created by the “Monitoring and
+side effects” presentation because the boxed warnings are relegated to the middle of this
+consolidated risk section, after the contraindications and indication and use statement, and
+without any significant signal to alert the viewer to them. The overall effect of this webpage's
+presentation of risk information undermines the communication of the significant and
+potentially fatal risks associated with Recorlev and thereby misleadingly minimizes the risks
+associated with the use of Recorlev.
+
+Conclusion and Requested Action
+
+For the reasons discussed above, the webpages misbrand Recorlev within the meaning of
+the FD&C Act and make its distribution violative. 21 U.S.C. 352(a), (n); 321(n), 331(a). See
+21 CFR 202.1 (e)(3)(i); (e)(5).
+
+This letter notifies you of our concerns and provides you with an opportunity to address them.
+OPDP requests that Xeris cease any violations of the FD&C Act. Please submit a written
+response to this letter within 15 working days from the date of receipt, addressing the
+concerns described in this letter, listing all promotional communications (with the 2253
+submission date) for Recorlev that contain representations like those described above, and
+explaining any plan for discontinuing use of such communications, or for ceasing distribution
+of Recorlev.
+
+If you believe that your products are not in violation of the FD&C Act, please include in your
+submission to us your reasoning and any supporting information for our consideration within
+15 working days from the date of receipt of this letter.
+
+The concerns discussed in this letter do not necessarily constitute an exhaustive list of
+potential violations. It is your responsibility to ensure compliance with each applicable
+requirement of the FD&C Act and FDA implementing regulations.
+
+---
+³ Ketoconazole is the racemic mixture from which levoketoconazole is derived.
+
+Reference ID: 5186528

@@ -1,0 +1,35 @@
+=== PAGE 13 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Overview of PET/CT Imaging in Recurrent Prostate Cancer – Current and Emerging Techniques — DrFabio                                         13
+
+                                         IN SUMMARY
+
+The excitement surrounding the current and emerging PET agents is
+appropriately exuberant. Radical breakthroughs are occurring in the area of
+imaging, however a fair amount of confusion exists and further research is
+needed. There is still no “perfect” imaging methodology with 100% accuracy,
+with each of the current agents demonstrating some pros and cons.
+
+Our experience at Phoenix Molecular Imaging has shown 11C-Acetate PET to be
+a valuable and accurate tool, providing a better understanding of the location and
+extent of local recurrences and distant disease - often leading to changes in
+treatment plans.
+
+The recent FDA approval of Auxmin is exciting as its 18F tag makes it more
+readily available than 11C tagged agents. So far Axumin (detection rate 68%,
+38% false positive) however it does not appear to perform nearly as well as
+Acetate or Choline (88-90% detection rate and <10% false positive rate). Given
+the predilection for bony metastasis in prostate cancer, the routine addition of NaF
+PET/CT studies with Axumin appears prudent in order to help mitigate its much
+lower detection rate of bony lesions. Acetate or Choline remain overall much
+better choices for imaging.
+
+PSMA-targeted imaging appears to be promising and may provide higher
+sensitivity and specificity than other imaging agents to date. There are some
+important and practical limitations with PSMA however, as detailed above - lack
+of PSMA expression in some cancers, false positives in benign vascular lesions
+and inability to fully assess the lower pelvis due to high urinary excretion.
+
+http://www.drfabio.com/imagingblog/2018/1/9/overview-of-petct-imaging-in-recurrent-prostate-cancer-current-and-emerging-techniques[11/15/2018 11:25:57 AM]

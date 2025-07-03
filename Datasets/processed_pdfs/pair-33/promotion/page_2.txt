@@ -1,0 +1,106 @@
+=== PAGE 2 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page:
+
+(Image: A logo for "Xtampza ER (oxycodone) EXTENDED-RELEASE CAPSULES" is prominently displayed at the top center of the page. The "ER" in Xtampza is stylized with a yellow-green gradient. To the right of the brand name, a circle with the Roman numeral "II" is visible, likely indicating a drug schedule.)
+
+Xtampza®ER
+(oxycodone) EXTENDED-RELEASE
+                  CAPSULES
+
+INDICATIONS AND USAGE
+Xtampza® ER (oxycodone) is indicated for the management of pain severe enough to require daily, around-the-clock, long-term opioid treatment and for which alternative treatment options are inadequate.
+
+Limitations of Use
+• Because of the risks of addiction, abuse, and misuse, even at recommended doses, and because of the greater risks of overdose and death with extended-release opioid formulations, reserve Xtampza ER for patients for whom alternative treatment options (e.g., non-opioid analgesics or immediate-release opioids) are ineffective, not tolerated, or would be otherwise inadequate to provide sufficient management of pain.
+• Xtampza ER is not indicated as an as-needed analgesic.
+
+IMPORTANT SAFETY INFORMATION
+WARNING: ADDICTION, ABUSE, AND MISUSE; LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; NEONATAL OPIOID WITHDRAWAL SYNDROME; CYTOCHROME P450 3A4 INTERACTION; AND RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
+Addiction, Abuse, and Misuse
+Xtampza ER exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death. Assess each patient's risk prior to prescribing Xtampza ER and monitor all patients regularly for the development of these behaviors or conditions.
+
+Life-Threatening Respiratory Depression
+• Serious, life-threatening, or fatal respiratory depression may occur with use of Xtampza ER. Monitor for respiratory depression, especially during initiation of Xtampza ER or following a dose increase.
+
+Accidental Ingestion
+Accidental ingestion of even one dose of Xtampza ER, especially by children, can result in a fatal overdose of oxycodone.
+
+Neonatal Opioid Withdrawal Syndrome
+Prolonged use of Xtampza ER during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts. If opioid use is required for a prolonged period in a pregnant woman, advise the patient of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available.
+
+CONTRAINDICATIONS:
+• Xtampza ER is contraindicated in patients with significant respiratory depression, acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment, known or suspected paralytic ileus, and known hypersensitivity (e.g., anaphylaxis) to oxycodone.
+
+WARNINGS AND PRECAUTIONS
+Addiction, Abuse, and Misuse
+• Xtampza ER contains oxycodone, a Schedule II controlled substance. As an opioid, Xtampza ER exposes users to the risks of addiction, abuse, and misuse. An extended release product such as Xtampza ER delivers the opioid over an extended period of time; there is a greater risk for overdose and death due to the larger amount of oxycodone present.
+
+Life-Threatening Respiratory Depression
+• Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended. Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death. Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient's clinical status. Carbon dioxide (CO₂) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
+
+Neonatal Opioid Withdrawal Syndrome
+• Prolonged use of Xtampza ER during pregnancy can result in withdrawal in the neonate. Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts. Observe neonates for signs of neonatal opioid withdrawal syndrome and manage accordingly. Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available.
+
+Risks of Concomitant Use or Discontinuation of Cytochrome P450 3A4 Inhibitors and Inducers
+• Concomitant use of Xtampza ER with a CYP3A4 inhibitor, such as macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g., ketoconazole), and protease inhibitors (e.g., ritonavir), may increase plasma concentrations of oxycodone and prolong opioid adverse reactions, which may cause potentially fatal respiratory depression, particularly when an inhibitor is added after a stable dose of Xtampza ER is achieved. Similarly, discontinuation of a CYP3A4 inducer, such as rifampin, carbamazepine, and phenytoin, in Xtampza ER treated patients may increase oxycodone plasma concentrations and prolong opioid adverse reactions. When using Xtampza ER with CYP3A4 inhibitors or discontinuing CYP3A4 inducers in Xtampza ER treated patients, monitor patients closely at frequent intervals and consider dosage reduction of Xtampza ER until stable drug effects are achieved.
+• Concomitant use of Xtampza ER with CYP3A4 inducers or discontinuation of a CYP3A4 inhibitor could decrease oxycodone plasma concentrations, decrease opioid efficacy or possibly lead to a withdrawal syndrome in a patient who had developed physical dependence to oxycodone. When using Xtampza ER with CYP3A4 inducers or discontinuing CYP3A4 inhibitors, monitor patients closely at frequent intervals and consider increasing the opioid dosage if needed to maintain adequate analgesia or if symptoms of opioid withdrawal occur.
+
+Risks From Concomitant Use With Benzodiazepines
+or Other CNS Depressants
+• Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Xtampza ER with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol). Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+• Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone. Because of similar pharmacologic properties, it is reasonable to expect similar risk with the concomitant use of other CNS depressant drugs with opioid analgesics.
+
+Risk of Life-Threatening Respiratory Depression in Patients With
+Chronic Pulmonary Disease or in Elderly, Cachectic, or Debilitated
+Patients
+The use of Xtampza ER in patients with acute or severe bronchial asthma or an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
+
+Patients With Chronic Pulmonary Disease:
+Xtampza ER-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of Xtampza ER.
+
+Elderly, Cachectic, or Debilitated Patients:
+Life-threatening respiratory depression is more likely to occur in elderly, cachectic or debilitated patients as they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients.
+Monitor such patients closely, particularly when initiating and titrating Xtampza ER and when Xtampza ER is given concomitantly with other drugs that depress respiration.
+Alternatively, consider the use of non-opioid analgesics in these patients. Use an alternative analgesic for patients who require a dose of Xtampza ER less than 9 mg.
+
+Adrenal Insufficiency
+• Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use. Presentation of adrenal insufficiency may include non-specific symptoms and signs, such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure. If adrenal insufficiency is suspected, confirm the diagnosis with diagnostic testing as soon as possible. If adrenal insufficiency is diagnosed, treat with physiologic replacement doses of corticosteroids. Wean the patient off the opioid if possible and continue to monitor and continue corticosteroid treatment until adrenal function recovers. Other opioids may be tried as some cases have been reported to be associated with a different opioid.
+
+Severe Hypotension
+• Xtampza ER may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients. There is an increased risk in patients whose ability to maintain blood pressure has been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics). Monitor these patients for signs of hypotension after initiating or titrating the dosage of Xtampza ER. In patients with circulatory shock, Xtampza ER may cause vasodilation that can further reduce cardiac output and blood pressure. Avoid the use of Xtampza ER in patients with circulatory shock.
+
+Risks of Use in Patients With Increased Intracranial Pressure, Brain Tumor, Head Injury, or Impaired Consciousness
+• In patients who may be susceptible to the intracranial effects of CO₂ retention (e.g., those with evidence of increased intracranial pressure or brain tumors), Xtampza ER may reduce respiratory drive, and the resultant CO₂ retention can further increase intracranial pressure. Monitor for signs of sedation and respiratory depression, particularly when initiating therapy with Xtampza ER. Opioids may also obscure the clinical course in a patient with a head injury. Avoid the use of Xtampza ER in patients with impaired consciousness or coma.
+
+Risks of Use in Patients With Gastrointestinal Conditions
+• Xtampza ER is contraindicated in patients with known or suspected paralytic ileus.
+• The oxycodone in Xtampza ER may cause spasm of the sphincter of Oddi. Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
+
+Risks of Use in Patients With Seizure Disorders
+• The oxycodone in Xtampza ER may increase the risk of seizures in patients with seizure disorders and may aggravate seizures in other clinical settings associated with seizures. Monitor patients with a history of seizure disorders for worsened seizure control during Xtampza ER therapy.
+
+Withdrawal
+• Avoid the use of mixed agonists/antagonists (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who have received or are receiving a course of opioid analgesics, including Xtampza ER. In these patients, mixed agonists/antagonists may reduce the analgesic effect and/or may precipitate withdrawal symptoms.
+• When discontinuing Xtampza ER, gradually taper the dosage. Do not abruptly discontinue Xtampza ER.
+
+Risks of Driving and Operating Machinery
+• Xtampza ER may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery. Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of Xtampza ER and know how they will react to the medication.
+
+Laboratory Monitoring
+• Not every urine drug screen for opioids is especially designed to detect oxycodone. False positive test results may result from certain poppy seed preparations. False negative test results may result from insufficient assay sensitivity or when assay specificity is not considered in the clinical context of the patient. Confirm positive results with a more specific test such as chromatography, and if necessary, evaluate using the context of the surrounding text. The sensitivity and specificity of the immunoassay of the testing used.
+
+ADMINISTRATION WITH FOOD:
+• Tested patients to always take Xtampza ER capsules with food and with approximately the same amount of food in order to ensure consistent plasma levels are achieved. For patients who have difficulty swallowing, Xtampza ER capsules can also be taken as a sprinkle on soft food or administered directly into the mouth or through a nasogastric or gastric feeding tube.
+
+ADVERSE REACTIONS:
+• The most common adverse reactions (≥ 5%) reported by patients in the Phase 3 clinical trial comparing Xtampza ER with placebo were nausea, headache, constipation, somnolence, pruritus, vomiting, and dizziness.
+
+PLEASE SEE ACCOMPANYING FULL PRESCRIBING
+INFORMATION, INCLUDING BOXED WARNING.
+
+(Image: A logo with the text "COLLEGIUM" and an abstract design appears at the bottom left.)
+COLLEGIUM Xtampza® ER and DETER® are registered trademarks of Collegium Pharmaceutical, Inc.
+PHARMACEUTICAL © 2017 Collegium Pharmaceutical, Inc. All rights reserved. PP-XT-US-0275 2/17

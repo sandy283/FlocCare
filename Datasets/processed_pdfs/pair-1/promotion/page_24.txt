@@ -1,0 +1,30 @@
+=== PAGE 24 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content and description of the visual elements from the PDF page:
+
+23
+
+Pooled Analysis of Two Phase 3 Trials (N=3,409)¹,²
+Demonstrates consistency of cycle patterns and the withdrawal bleed
+
+Percentage of participants reporting bleeding or spotting by study day during use of E4/DRSP oral contraception.
+Red vertical lines delineate the scheduled bleeding period that occurs between Day 25 and Day 3 of the next cycle.
+
+Below is a bar chart titled "Percentage of Participants reporting bleeding or spotting by study day during use of E4/DRSP oral contraception." The y-axis is labeled "% of Participants" ranging from 0 to 100 in increments of 10. The x-axis represents 'Study Day' and is divided into 13 cycles, labeled "Cycle 1" through "Cycle 13". Each cycle on the x-axis shows specific day numbers beneath it, starting from 1 and going up to 363.
+
+Within each cycle, there are daily vertical bars of varying heights, colored red or light blue, representing "Bleeding" and "Spotting" respectively. A gray background behind the bars likely represents "No Bleeding or Spotting." The red vertical lines, as described by the text above the chart, delineate the scheduled bleeding period between Day 25 and Day 3 of the next cycle for each cycle. These red lines are visibly present, framing a period where the red (Bleeding) bars are generally taller and more prominent. The chart visually demonstrates the pattern of bleeding and spotting over 13 cycles, with peaks of bleeding occurring around the scheduled withdrawal bleed period (between Day 25 and Day 3 of the next cycle) and lower levels of spotting and bleeding outside these periods.
+
+Below the chart:
+
+[Image: mayne pharma logo - a black circle with "maynepharma" in white text.]
+
+Bleeding        Spotting        No Bleeding or Spotting
+
+*Spotting is defined as minimal bleeding that did not require use of any sanitary protection (including panty liners).
+
+DRSP, drospirenone; E4, estetrol.
+References: 1. Kaunitz AM, et al. Contraception 2022;116:29-36. 2. Study Reference: MIT-Es0001-C302.
+
+Full Prescribing Information is available at www.Nextstellis.com

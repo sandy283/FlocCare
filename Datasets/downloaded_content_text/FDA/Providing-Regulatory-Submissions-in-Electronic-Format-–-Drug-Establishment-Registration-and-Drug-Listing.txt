@@ -1,0 +1,1092 @@
+=== PAGE 1 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Guidance for Industry  
+Providing Regulatory  
+Submissions in Electronic  
+Format – Drug Establishment  
+Registration and Drug Listing  
+U.S. Department of Health and Human Services  
+Food and Drug Administration  
+Office of the Commissioner  
+May 2009  
+Electronic Submission  
+OMB Control No. 0910-0045  
+Expiration Date: 3/31/2012  
+See additional PRA statement in Section VII of this guidance  
+
+
+=== PAGE 2 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Guidance for Industry  
+Providing Regulatory  
+Submissions in Electronic  
+Format – Drug Establishment  
+Registration and Drug Listing  
+Additional copies are available from:  
+Office of Training and Communication  
+Division of Drug Information, HFD-240  
+Center for Drug Evaluation and Research  
+Food and Drug Administration  
+5600 Fishers Lane  
+Rockville, MD  20857  
+(Tel) 301-827-4573 
+ http://www.fda.gov/cder/guidance/index.htm  
+and/or 
+ Office of Communication, Outreach and   
+Development, HFM-40  
+Center for Biologics Evaluation and Research  
+Food and Drug Administration  
+1401 Rockville Pike, Rockville, MD 20852-1448   
+ http://www.fda.gov/cber/guidelines.htm    
+(Tel) 800-835-4709 or 301-827-1800  
+and/or 
+Communications Staff, HFV-12  
+Center for Veterinary Medicine  
+Food and Drug Administration  
+7500 Standish Place,  
+Rockville, MD  20855  
+(Tel) 240-276-9300  
+http://www.fda.gov/cvm/guidance/guidance.htm  
+U.S. Department of Health and Human Services  
+Food and Drug Administration  
+Office of the Commissioner  
+May 2009  
+Electronic Submission  
+
+
+=== PAGE 3 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+TABLE OF CONTENTS  
+I. 
+INTRODUCTION............................................................................................................. 1  
+II. 
+BACKGROUND ............................................................................................................... 1  
+III. 
+DRUG ESTABLISHMENT REGISTRATION AND DRUG LISTING  
+INFORMATION FOR ELECTRONIC SUBMISSION ........................................................... 4  
+A. 
+Drug Establishment Registration .................................................................................................4  
+1. Who must register, when, and how? ................................................................................................4  
+2. What information is submitted for drug establishment registration? ..............................................5  
+B. 
+Drug Listing....................................................................................................................................6  
+1. Who must list, when, and how?........................................................................................................6  
+2. What information is submitted for drug listing?..............................................................................7  
+IV. 
+CREATING THE DRUG ESTABLISHMENT REGISTRATION AND DRUG  
+LISTING FILE FOR ELECTRONIC SUBMISSION .............................................................. 9  
+A. 
+Structured Product Labeling ........................................................................................................9  
+B. 
+Code Sets and Codes....................................................................................................................10  
+1. Unique Ingredient Identifiers (UNII).............................................................................................10  
+2. Data Universal Numbering System (D-U-N-S®) Number.............................................................10  
+3. Other code sets...............................................................................................................................11  
+C. 
+Submission and FDA Validation of Electronic Drug Establishment Registration and Drug  
+Listing Information ..............................................................................................................................11  
+D. 
+Technical Assistance ....................................................................................................................12  
+V. 
+IMPLEMENTATION .................................................................................................... 12  
+VI. 
+WAIVER REQUEST...................................................................................................... 12  
+VII. 
+PAPERWORK REDUCTION ACT OF 1995.............................................................. 13  
+
+
+=== PAGE 4 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Guidance for Industry1  
+Providing Regulatory Submissions in Electronic Format –  
+Drug Establishment Registration and Drug Listing  
+This guidance represents the Food and Drug Administration's (FDA's) current thinking on this topic.  It 
+does not create or confer any rights for or on any person and does not operate to bind FDA or the public.  
+You can use an alternative approach if the approach satisfies the requirements of the applicable statutes 
+and regulations.  If you want to discuss an alternative approach, contact the FDA staff responsible for 
+implementing this guidance.  If you cannot identify the appropriate FDA staff, call the appropriate 
+number listed on the title page of this guidance.  
+I. 
+INTRODUCTION 
+This is one in a series of guidance documents intended to assist persons making regulatory 
+submissions to FDA in electronic format.  This guidance is designed to assist manufacturers with 
+electronic submissions of drug establishment registration and drug listing information. The 
+guidance and accompanying technical documents explain (among other things): 
+•  The statutory requirement to submit electronically drug establishment registration and 
+drug listing information;  
+•  How to create a Structured Product Labeling (SPL)2 file for submitting drug 
+establishment registration and drug listing information to FDA through the Electronic 
+Submissions Gateway (ESG) using defined code sets and codes, i.e., a language 
+recognized by the computer system; and  
+•  Beginning June 1, 2009, FDA intends to no longer accept drug establishment registration 
+and drug listing information in paper format unless a waiver is granted. 
+FDA intends to update these documents regularly to reflect the evolving technology and user 
+experience. 
+FDA's guidance documents, including this guidance, do not establish legally enforceable 
+responsibilities. Instead, guidances describe the Agency's current thinking on a topic and should 
+be viewed only as recommendations, unless specific regulatory or statutory requirements are 
+cited. The use of the word should in Agency guidances means that something is suggested or 
+recommended, but not required.  
+II. 
+BACKGROUND 
+1 The Office of Critical Path Programs, Office of the Commissioner, Food and Drug Administration prepared this 
+guidance document in cooperation with the Center for Drug Evaluation and Research, the Center for Biologics 
+Evaluation and Research, and the Center for Veterinary Medicine.  
+2 SPL standard is a Health Level Seven, Inc. standard for the exchange of product information using extensible 
+markup language (XML). 
+1  
+
+
+=== PAGE 5 ===
+
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Requirements for drug establishment registration and drug listing are set forth in section 510 of 
+the Federal Food, Drug, and Cosmetic Act (the Act) and section 351 of the Public Health Service 
+Act (the PHS Act), and 21 CFR Part 207.3  Fundamental to FDA’s mission to protect the public 
+health is the collection of this information, which is used for important activities such as 
+postmarket surveillance for serious adverse drug reactions, inspection of drug manufacturing and 
+processing facilities, and monitoring of drug products imported into the United States.  
+Comprehensive, accurate, and up-to-date information is critical to conducting these activities 
+with efficiency and effectiveness.   
+Section 510 of the Act and 21 CFR part 207, subject to certain limited exceptions, require 
+establishment owners and operators (registrants) upon first engaging in the manufacture, 
+preparation, propagation, compounding, or processing of drugs, (including human drugs, 
+veterinary drugs, and biological drug products4) to register their establishments and submit 
+listing information for all drugs in commercial distribution.  Registrants are also required to 
+submit registration information for their establishments on or before December 31 of each year.5 
+At the time of registration, registrants must also submit required listing information.6 
+Additionally, registrants are required to update listing information in June and December of each 
+year to include information for drugs that have not been previously listed.7 Certain changes to 
+information for previously listed drugs must also be submitted every June and December.8 
+Changes in the Act, resulting from the Food and Drug Administration Amendments Act of 2007 
+(Public Law 110-85) (FDAAA),9 require that drug establishment registration and drug listing 
+information be submitted electronically unless a waiver is granted.  Before FDAAA was enacted, 
+section 510(p) of the Act expressly provided that drug establishment registration information 
+must be submitted electronically, based on a finding that electronic receipt was feasible, and 
+section 510(j) of the Act stipulated that drug listing information must be submitted in the form 
+and manner prescribed by FDA.  Section 224 of FDAAA, which amends section 510(p) of the 
+Act, now expressly requires drug listing information to be submitted by electronic means in 
+addition to requiring electronic drug establishment registration.   
+3 This guidance document does not apply to establishment registration and product listing information required 
+solely under 21 CFR part 607 (Blood and Blood Products), 21 CFR part 807 (Devices), and 21 CFR part 1271 
+(Human Cells, Tissues, and Cellular and Tissue-Based Products). 
+4 Under section 351(j) of the PHS Act, the Federal Food, Drug, and Cosmetic Act (and regulations promulgated 
+thereunder) applies to biological drug products, except that New Drug Applications (NDAs) are not required for 
+products licensed under section 351(a) of the PHS Act.  
+5 Section 510(b)(1) of the Act.  
+6 Section 510(j)(1) of the Act. 
+7 Section 510(j)(2)(A) of the Act.   
+8 Section 510(j)(2) of the Act. 
+9 Signed into law on September 27, 2007. 
+2  
+
+
+=== PAGE 6 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Drug establishment registration and drug listing information have, until now, been submitted 
+using a paper-based format, i.e., Form FDA 2656 (Registration of Drug Establishment/Labeler 
+Code Assignment), Form FDA 2657 (Drug Product Listing), and Form FDA 2658 (Registered 
+Establishments’ Report of Private Label Distributors).10  Moving from a paper-based format to 
+an electronic system will improve the timeliness and accuracy of the submissions.   
+Prior to the amendment of the statute to require electronic submission of both drug listing and 
+establishment registration information, FDA issued a proposed rule that would amend 21 CFR 
+part 207 to require electronic submission of drug establishment registration and drug listing 
+information, and that included proposals such as certain changes to the National Drug Code 
+(NDC) system and requirements regarding placement of the appropriate NDC on the drug label 
+(71 FR 51276, August 29, 2006). FDA is considering comments submitted on the proposed rule 
+and intends to issue a final rule based on that proposal which will also serve to conform the 
+regulations to the changes in section 510(p) mandating electronic submission.  FDA intends to 
+revise, reissue, or revoke this guidance document as appropriate to make it consistent with the 
+final rule, when the rule is issued. 
+To facilitate the submission of drug establishment registration and drug listing information 
+(including labeling as specified under 21 CFR 207.25), FDA is adopting the use of extensible 
+markup language (XML) files in a standard SPL format. The automated submission process 
+functions most efficiently and effectively when this information is provided in a standardized 
+format with defined code sets and codes.  This guidance and accompanying technical documents 
+describe how to make these submissions using the SPL format, which FDA can process, review, 
+and archive.11  Information in a properly created and complete SPL file can facilitate processing 
+and allows for greater precision and accuracy through the use of coded data fields rather than just 
+electronic text. Receipt of timely and accurate information will enhance FDA’s efforts to help 
+ensure the integrity of the drug supply and protect public health. 
+Technical specifications for creation of the electronic files are provided in the following 
+technical documents, which can be found on the FDA Data Standards Council website, 
+http://www.fda.gov/oc/datacouncil/spl.html: 
+•  Structured Product Labeling Implementation Guide for FDA Drug Establishment  
+Registration and Drug Listing  
+•  Step-by-Step Instructions for Creating Structured Product Labeling (SPL) Files for Drug 
+Establishment Registration and Drug Listing 
+•  Structured Product Labeling Validation Procedures for Drug Establishment Registration 
+and Drug Listing 
+10 These forms can be referenced at http://www.fda.gov/opacom/morechoices/fdaforms/default.html. 
+11 When we are ready to receive a particular submission type in electronic format only, we generally identify the 
+specific type of document that FDA can process, review, and archive.  This information can be found in the public 
+docket 92S-0251 at regulations.gov.  See 21 CFR 11.2(b)(2);  see also Guidance for Industry: Part 11, Electronic 
+Records; Electronic Signatures -- Scope and Application (August 2003). 
+3  
+
+
+=== PAGE 7 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+See also Section IV of this document for discussion of these specifications and other information 
+on creating the drug establishment registration and drug listing file for electronic submission. 
+SPL format is already used for submission of content of labeling in electronic format as required 
+in New Drug Applications (NDAs), Abbreviated New Drug Applications (ANDAs), Biological 
+License Applications (BLAs), and annual reports on approved drugs.12  See Providing 
+Regulatory Submissions in Electronic Format – Content of Labeling (April 2005).13  Because the 
+content of labeling required under those provisions can be duplicative in content and format 
+(SPL) of the labeling required to be submitted electronically as part of listing information, FDA 
+encourages applicants to submit this labeling material, and updates, primarily through the drug 
+establishment registration and drug listing system.  Rather than make duplicate submissions, 
+applicants are then encouraged to reference the SPL labeling file submitted through the 
+electronic drug registration and listing system in making labeling updates to applications under 
+the content of labeling requirements.  FDA intends to issue guidance that will address this issue 
+in further detail. 
+Beginning June 1, 2009, FDA intends to use the electronic drug establishment registration and 
+listing system as the source of SPL to provide postapproval content of labeling for public access 
+on the Web, making that system the key repository of this information.   
+III. 
+ DRUG ESTABLISHMENT REGISTRATION AND DRUG LISTING 
+INFORMATION FOR ELECTRONIC SUBMISSION 
+The following information should be submitted to FDA in the SPL file format described in the 
+technical documents and the defined code sets and codes as described in section IV of this 
+document. 
+A.  
+Drug Establishment Registration 
+1.  
+Who must register, when, and how? 
+The owner or operator of an establishment entering into the manufacture, preparation, 
+propagation, compounding, or processing (which includes, among other things, repackaging and 
+relabeling) of a drug or drugs14 and not exempt under section 510(g) of the Act or subpart B of 
+21 CFR part 207, must register the establishment with FDA within 5 days after beginning the 
+operation (21 CFR 207.21(a) and 21 CFR 207.3(a)(8)).  Alternatively, if the establishment has 
+not previously entered into such an operation, the owner or operator must register within 5 days 
+after submitting (among other things) a drug application, biological license application, or 
+12 For regulations requiring submission of content of labeling in electronic format that FDA can process, review, and 
+archive, see 21 CFR 314.50(l) (NDAs), 21 CFR 314.94(d) (ANDAs), 21 CFR 601.14(b) (BLAs), and 21 CFR 
+314.81(b) (annual reports to marketing applications). 
+13 http://www.fda.gov/cder/guidance/6719fnl.htm 
+14 Means both human, including biological drug products, and animal drugs. 
+4  
+
+
+=== PAGE 8 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+medicated feed mill license application. (21 CFR 207.21(a)).  Owners or operators must renew 
+their registration information annually (Section 510(b)(1) of the Act; 21 CFR 207.21(a)). 
+Establishments within any foreign country that engage in the manufacture, preparation, 
+propagation, compounding, or processing (which includes, among other things, repackaging and 
+relabeling) of a drug that is imported or offered for import into the United States (and that are not 
+exempt) must upon first engaging in such activity immediately register and register annually 
+thereafter (Section 510(i) of the Act; 21 CFR 207.40).   
+Amendments to drug establishment registration must be submitted in accordance with 21 CFR 
+207.26. 
+Section 510(p) of the Act, as amended by FDAAA, now requires drug establishment 
+registrations to be submitted electronically unless a waiver is granted.  Therefore, registration 
+information should now be submitted electronically using SPL files with coded data fields.15 
+Failure to register in accordance with section 510 of the Act is a prohibited act under section 
+301(p) of the Act. Also, under section 502(o) of the Act, a drug is misbranded if it is 
+manufactured in an establishment in any State not duly registered under section 510 of the Act.  
+2. 
+What information is submitted for drug establishment registration? 
+Section 510 of the Act and 21 CFR Part 207 set forth registration information required to be 
+submitted by domestic and foreign drug establishments.  (See sections 510(b), (c), (d), and (i) of 
+the Act and 21 CFR 207.25(a), 21 CFR 207.26, and 21 CFR 207.40).  Under these provisions, all 
+registrants must provide the name and full address of each establishment, all trade names used by 
+the establishment, the kind of ownership or operation (e.g., individually owned, partnership, or 
+corporation), and the name of the owner or operator (including in the case of a partnership the 
+name of each partner, and in the case of a corporation, the name and title of each corporate 
+officer and director and the State of incorporation). 
+In addition to the information required for all registered establishments, certain additional 
+information must be provided to register a foreign establishment.  For example, a foreign 
+registrant must submit:  
+•  the name, address, and phone number of the foreign registrant’s United States agent 
+(Section 510(i)(1)(A) of the Act and 21 CFR 207.40)c)); 
+•  the name of each importer that is known to the establishment (Section 510(i)(1)(A) of the 
+Act). (This means each U.S. company or individual in the United States that is an owner, 
+consignee, or recipient of the foreign establishment’s drug that is imported into the 
+United States.  An importer does not include the consumer or patient who ultimately 
+15 As explained in section IV.C., of this document, once the SPL file is created it can be submitted (uploaded) by 
+following the instructions for the FDA Electronic Submissions Gateway (ESG).  There may be some delay in 
+obtaining an ESG account; review section IV.C. for further information. 
+5  
+
+
+=== PAGE 9 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+purchases, receives, or is administered the drug, unless the foreign establishment ships 
+the drug directly to the consumer or patient.); and  
+•  the name of each person who imports or offers for import such drug (Section 510(i)(1)(A) 
+of the Act). (This means the name of each agent, broker, or other entity, other than a 
+carrier, that the foreign drug establishment uses to facilitate the import of their drug into 
+the United States).   
+To facilitate correspondence between registrants and FDA, foreign registrants should submit the 
+email address for the U.S. agent, and the telephone number(s) and email address for the importer 
+and person who imports or offers for import described in section III.A.2 of this document.   
+Historically, registrants have also included additional drug establishment registration information 
+when making submissions, using Form FDA 2656.16  Likewise, for electronic submission, 
+registrants should submit the following additional information in their SPL file: 
+•  Official contact’s name, mailing address, telephone number(s), and email address; and 
+•  The type of operation(s) performed at each establishment. 
+Under section 510(e) of the Act, FDA may assign a registration number to any person or 
+registered establishment.  FDA intends to use the Data Universal Numbering System (D-U-N­
+S®) as the registration number for the electronic system.  Therefore, to facilitate and expedite 
+processing of the SPL file, the registrant should submit their D-U-N-S® Number with the 
+registration information.  If the business entity does not submit a D-U-N-S® Number with its 
+submission, FDA intends to make arrangements for obtaining a D-U-N-S® Number for that 
+entity. An explanation of the D-U-N-S® Number and how to obtain one is described in section 
+IV.B of this document.   
+B. 
+Drug Listing 
+1. 
+Who must list, when, and how? 
+Registrants not exempt under 21 CFR 207.10 must submit the initial listing information for all 
+drugs17 in commercial distribution at the time of their initial registration of their establishment(s) 
+(21 CFR 207.21(a)). 
+Failure to provide any listing information required by section 510(j) of the Act is a prohibited act 
+under section 301(p). Also, under section 502(o) of the Act, a drug is misbranded if it was not 
+included in a list required by section 510(j) of the Act. 
+16  See 21 CFR 207.22(a) and 21 CFR 207.25(a).  As noted, with the amendment of section 510(p) of the Act in 
+2007, registration information is required to be submitted electronically. Therefore, submission of such information 
+on a particular paper form is no longer acceptable (absent grant of a waiver), and information should instead be 
+submitted in accordance with this guidance document.  FDA intends to amend the regulations to conform to the 
+changes in the underlying statutory provision.   
+17 Registration and listing requirements for drugs should also be met for combination products that include a drug as 
+a constituent part, and for drugs intended as a constituent part of a combination product, regardless of which FDA 
+center has the lead for review of the combination product (See 21 U.S.C. 503(g); 21 CFR part 3). 
+6  
+
+
+=== PAGE 10 ===
+
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Although FDA does not accept drug establishment registration information from private label 
+distributors (PLDs),18 PLDs may request their own NDC Labeler Code and elect to submit drug 
+listing information to FDA.  (21 CFR 207.20(b)).  By submitting drug listing information, the 
+PLD assumes full responsibility for compliance with the listing requirements. (21 CFR 
+207.20(b)) In such instances, at the time of submitting or updating drug listing information, 
+private label distributors must certify to the registered establishment(s) that manufactured, 
+prepared, propagated, compounded or processed (which includes, among other things, 
+repackaging and relabeling) the listed drug(s) that the drug listing submission was made (21 CFR 
+207.20(b)). The certification to the registered establishment by the private label distributor may 
+be satisfied using paper format.  If a drug product is listed by the PLD, it should not also be listed 
+by the owner(s) of the registered establishment(s) that manufactured, prepared, propagated, 
+compounded or processed (which includes, among other things, repackaging and relabeling) the 
+listed drug(s). 
+Registrants (and, if applicable, private label distributors) must update their drug listing 
+information, and include drugs that have been introduced for commercial distribution and have 
+not previously been listed (Section 510(j)(2) of the Act; 21 CFR 207.21(b); 21 CFR 20720(b)).  
+Any updates must be submitted every June and December (Section 510(j)(2) of the Act; 21 CFR 
+207.21(b)). However, registrants (and, if applicable, private label distributors) are encouraged to 
+submit updates through the registration and listing system more frequently as changes occur, 
+including labeling updates required to be submitted under listing requirements (21 CFR 
+207.21(b); 21 CFR 207.22(b); 21 CFR 207.25; 21 CFR 207.30), or labeling submission needed 
+to fulfill obligations for electronic submission of content of labeling in connection with approval 
+applications. (See section II of this document and footnote 12.)  As previously discussed in 
+section II of this document, because the drug listing system is a key repository for labeling, it is 
+particularly important to keep this information up to date. 
+Section 510(p) of the Act, as amended by FDAAA, now requires drug listing, including updates, 
+to be submitted electronically unless a waiver is granted.  Therefore, listing information should 
+now be submitted electronically using SPL files with coded data fields. 
+The electronic drug establishment registration and drug listing system will permit FDA to 
+electronically populate the Agency’s listing databases and the NDC Directory and will, therefore, 
+improve the inclusiveness and accuracy of these databases.   
+2. 
+What information is submitted for drug listing? 
+Section 510 of the Act and 21 CFR Part 207 set forth the drug listing information required to be 
+submitted by domestic and foreign drug establishments.  (Section 510(j) of the Act; 21 CFR 
+207.25(b) and (c); 21 CFR 207.30; 21 CFR 207.31; 21 CFR 207.40).  For representative 
+18  “Private label distributor” or “PLD” means an owner or operator of an establishment not otherwise required to 
+register under section 510 of the Act, but who distributes under its own label or trade name a drug manufactured or 
+processed by a registered establishment.  (See 21 CFR 207.20(b)) 
+7  
+
+
+=== PAGE 11 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+samples of advertising and labeling required under 21 CFR 207.25(b)(4) and (b)(5), only one 
+need be submitted of each sample type, as described in 21 CFR 207.3(a)(9) and (a)(10).  
+Historically, registrants have also submitted additional drug listing information on Form FDA 
+2657 and Form FDA 2658.19  Likewise, for electronic submission, registrants should submit the 
+following additional information in their SPL file: 
+•  Name of establishment(s) manufacturing or processing the listed drug and the type of 
+operation(s) performed; 
+•  DEA schedule; 
+•  Route(s) of administration; 
+•  Inactive ingredients; 
+•  Marketing information (e.g., category, start/stop date)20; 
+•  Information related to the application (e.g., type and year of approval) or OTC  
+monograph citation number; and  
+•  Package size and type. 
+In addition to information that was previously submitted on Forms FDA 2657 and FDA 2658, 
+the registrant should also submit:  
+•  NDC Product Code for a Source Drug Repacked or Relabeled 
+Repackers and relabelers should submit the NDC Product Code for the source drug that is 
+repacked or relabeled, in order to reference manufacturing establishment information submitted 
+in the listing entry for the source drug. 
+•  Unique Ingredient Identifiers (UNII)  and other code sets 
+An explanation of UNII codes and other code sets and where they may be found is described in 
+section IV.B of this document.   
+•  Confidentiality Flag 
+Registrants (and, if applicable, private label distributor) may identify an inactive ingredient or 
+the registrant’s business relationship with an establishment that they view as confidential when 
+submitting registration and listing information.  Pursuant to a Freedom of Information Act 
+request or on our own initiative, FDA will ultimately make determinations as to whether drug 
+establishment registration and drug listing information can be disclosed to the public pursuant to 
+19 See 21 CFR 207.22 and 21 CFR 207.25(b). As noted, with the amendment of section 510(p) of the Act in 2007, 
+listing information is required to be submitted electronically. Therefore, submission of such information on 
+particular paper forms is no longer acceptable (absent grant of a waiver), and information should instead be 
+submitted in accordance with this guidance document.  FDA intends to amend the regulations to conform to the 
+changes in the underlying statutory provision.  
+20 The expiration date of the last lot released to the marketplace is considered a stop-date.  
+8  
+
+
+=== PAGE 12 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+the Trade Secrets Act, the Freedom of Information Act, and other applicable law (e.g., section 
+510(f) of the Act and 21 CFR 207.37).21 
+• Distinctive Characteristics of Certain Listed Drugs 
+Registrants (and, if applicable, private label distributors) should provide the following 
+characteristics for the listed drug, when applicable.  Registrants (or private label distributors) 
+have previously provided these characteristics voluntarily as helpful information for the safe and 
+effective use of their products. 
+o Flavor 
+When applicable, the registrant (and, if applicable, private label distributor) should provide the 
+flavor as a unique distinguishing characteristic of the listed drug. (Registrants have previously 
+provided this information on Form FDA 2657 as an ingredient.) 
+o Color 
+For liquid dosage forms, the registrant (and, if applicable, private label distributor) should 
+provide the color as a unique distinguishing characteristic.  This may be useful to assist in 
+judging whether a change in color may indicate contamination or to avoid confusion of the 
+intended color of a solution with contamination.  
+o Image 
+For solid oral dosage forms, the registrant (and, if applicable, private label distributor) may 
+submit an image of the actual dosage form.  This information is helpful in identifying the drug, 
+for example in order to help determine that the correct drug has been dispensed.  The registrant 
+can obtain instructions on obtaining the image and the proper format in the SPL file by following 
+the instructions for technical assistance in section IV.D of this document.   
+IV.  
+CREATING THE DRUG ESTABLISHMENT REGISTRATION AND DRUG 
+LISTING FILE FOR ELECTRONIC SUBMISSION 
+A.  
+Structured Product Labeling 
+SPL is the standard that FDA intends to use for the exchange of drug establishment registration 
+and drug listing information and is based on the Health Level Seven (HL7) version 3 Reference 
+Information Model (RIM) and the Clinical Document Architecture (CDA). 
+FDA uses SPL for electronic submissions of drug establishment registration and drug listing 
+information.  The technical details on using SPL for registration and listing are available in the 
+21 Other elements of listing information, including the marketing date and application ,information described above, 
+will help FDA to determine the confidentiality of listing information, including labeling, submitted for drugs still 
+under premarket review. 
+9  
+
+
+=== PAGE 13 ===
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+document Structured Product Labeling Implementation Guide for FDA Drug Establishment 
+Registration and Drug Listing (SPL Implementation Guide).  
+FDA has been accepting SPL files for certain product information since 2004, and vendors have 
+provided solutions for creating SPL files ranging from basic software tools to comprehensive 
+information management systems.  Additionally, FDA has collaborated with GlobalSubmit on 
+software to create SPL files based on XForms technology.  Information on using the XForms is 
+available in the document Step-by-Step Instructions for Creating Structured Product Labeling 
+(SPL) Files for Drug Establishment Registration and Drug Listing. 
+These documents are on the FDA Data Standards Council website, 
+http://www.fda.gov/oc/datacouncil/spl.html. 
+B. 
+Code Sets and Codes 
+To facilitate FDA’s ability to process, review, and archive electronic submissions, code sets and 
+codes are used as a language that is recognized by a computer system.  FDA has been working 
+with a number of organizations to develop and maintain such code sets and codes used for 
+submitting drug establishment registration and drug listing information electronically.  Many 
+code sets and codes are already available at the Data Standards Council website 
+(http://www.fda.gov/oc/datacouncil/spl.html), and FDA is continuously updating these codes sets 
+and adding codes.  Information on the organizations that maintain the code sets for submitting 
+drug establishment registration and drug listing information electronically and how to obtain the 
+code sets and codes used for electronic drug registration and listing follows. 
+1. 
+Unique Ingredient Identifiers (UNII) 
+UNII is the defined code FDA uses for ingredients/substances.  FDA along with United States 
+Pharmacopeia (USP) maintains the UNII using the FDA Substance Registration System. These 
+names and identifiers are accessible through USP website at http://www.usp.org and 
+publications, the Data Standards Council website (http://www.fda.gov/oc/datacouncil/spl.html) 
+and the NCI Thesaurus website at http://evs.nci.nih.gov. Additional ingredient identifiers may be 
+requested through FDA by sending a request to spl@fda.hhs.gov. 
+2. 
+Data Universal Numbering System (D-U-N-S®) Number22 
+Dun & Bradstreet assigns and maintains a database of the D-U-N-S® Numbers, which serve as 
+unique identifiers (codes) of business entities.  Upon application, each business entity (e.g., 
+registrant, establishment, importer, US agent) is assigned a distinct site-specific 9-digit D-U-N­
+S® Number.  The site-specific D-U-N-S® Number for an entity is a useful resource for FDA in 
+identifying and verifying certain business information for that entity, e.g., trade names used by 
+the entity, addresses, additional ownership information, such as the name of each partner or the 
+22 D-U-N-S® Numbers are proprietary to and controlled by Dun & Bradstreet (D&B). Where practicable, the 
+customer will refer to the number as a “D-U-N-S® Number” and state that D-U-N-S is a registered trademark of 
+D&B. 
+10  
+
+
+=== PAGE 14 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+                                                 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+name of each corporate officer and director, and the State of incorporation.  If the D-U-N-S® 
+Number for a location has not been assigned, a business may obtain one for no cost directly from 
+Dun & Bradstreet (http://www.dnb.com). If the business entity does not submit a D-U-N-S® 
+Number with its submission, FDA intends to make arrangements for obtaining a D-U-N-S® 
+Number for that entity. 
+3.  
+Other code sets 
+FDA collaborates with the National Cancer Institute Enterprise Vocabulary Services (NCI EVS) 
+to maintain code sets for dosage form, routes of administration, package types, DEA schedule, 
+product color, product shape, flavors, business operations, marketing categories and equivalence 
+codes. These code sets are located in the NCI Thesaurus and may be accessed through the NCI 
+EVS website at http://evs.nci.nih.gov and the Data Standards Council website (see section II of 
+this document).  Additional code sets and codes for use in registration and listing may be 
+requested though FDA by sending a request to spl@fda.hhs.gov. 
+The Regenstrief Institute23 maintains a number of different code sets used in electronic drug 
+establishment registration and drug listing including: document types, section headings, and units 
+of measure. These code sets are located in the Logical Observation Identifiers Names and Codes 
+(LOINC) and Unified Codes for Units of Measure (UCUM) systems.  Both of these 
+terminologies are available at http://www.regenstrief.org and at other locations.  Additional code 
+sets and codes may be requested through FDA by sending a request to spl@fda.hhs.gov 
+following the instructions in section IV.D of this document. 
+C.  
+Submission and FDA Validation of Electronic Drug Establishment 
+Registration and Drug Listing Information 
+The SPL file should be created following the technical specifications in the SPL Implementation 
+Guide and other information found in this document.  Other resources for creating the SPL file, 
+including a link to a user-friendly software tool (XForms), are also available.24  Once the SPL 
+file is created, it can then be submitted (uploaded) by following the instructions for the FDA 
+Electronic Submissions Gateway (ESG), including digital certification.25 
+The process for establishing an ESG account may involve a delay before drug registration and 
+listing information can be received electronically by FDA.  FDA encourages owners and 
+operators subject to registration and listing to establish their ESG accounts as soon as possible; 
+establishing an ESG account 4-6 weeks in advance of the time when the owner or operator must 
+register, list, or update a registration or listing will best ensure that electronic submissions are not 
+delayed. 
+23 The Regenstrief Institute is an internationally recognized informatics and healthcare research organization. 
+24 See http://www.fda.gov/oc/datacouncil/spl.html for additional resources, terminology, and data standards 
+regarding the SPL files. See http://www.fda.gov/oc/datacouncil/xforms.html for information on the user-friendly 
+software tool. 
+25 See http://www.fda.gov/esg/default.htm for information on other resources and using the FDA ESG.   
+11  
+
+
+=== PAGE 15 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+FDA recognizes that there may be a delay between the time an owner or operator requests an 
+ESG account and the time the account is established and can upload submissions.  Provided the 
+owner or operator requests an ESG account before the due date of their first electronic 
+submission, FDA intends to exercise enforcement discretion and does not intend to initiate action 
+based on a first electronic submission that is late if the owner or operator also makes the required 
+submission (e.g., registration, listing, or update) within 30 days following establishment of an 
+ESG account. 
+FDA uses a computer system for processing the SPL files using controlled code sets and codes. 
+The computer system automatically checks the SPL files for certain errors, mistakes and 
+omissions prior to entering the information into FDA systems.  FDA will work with companies 
+to help correct identified problems in order to complete the registration and listing process.  
+Information on the details used in checking SPL files for electronic drug establishment 
+registration and drug listing are in the document FDA’s Structured Product Labeling Validation 
+Procedures for Electronic Drug Establishment Registration and Drug Listing.26 This document 
+is on the Data Standards Council website (see section II of this document).    
+D. 
+Technical Assistance 
+For technical problems or assistance with creating SPL files, send an email to spl@fda.hhs.gov. 
+V. 
+IMPLEMENTATION 
+Beginning June 1, 2009, FDA intends to no longer accept drug establishment registration and 
+drug listing information in paper format unless a waiver is granted. 
+VI. 
+WAIVER REQUEST 
+Under section 510(p) of the Act, registrations and listings (including the submission of updated 
+information) must be submitted electronically unless FDA grants a waiver of such requirement 
+because use of electronic means is not reasonable for the person requesting such waiver.  FDA 
+does not anticipate many instances in which electronic submission of registration and listing 
+information will not be reasonable for the person requesting the waiver.  However, if you are 
+granted a waiver, you will be instructed as to how to submit the registration and listing 
+information. 
+To apply for a waiver from the requirement to electronically submit drug establishment 
+registration and drug listing information, provide a written request with a complete explanation 
+of why use of electronic means is not reasonable for you.  Submit the request to: 
+26 This document is used by FDA and describes FDA’s computer instructions for automating the validation of 
+submitted SPL files containing registration and listing information. 
+12  
+
+
+=== PAGE 16 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+Contains Nonbinding Recommendations 
+SPL Coordinator 
+U.S. Food and Drug Administration (HF-18) 
+5600 Fishers Lane 
+Rockville, MD 20857-0001 
+Phone: 1-888-463-6332 
+VII. 
+PAPERWORK REDUCTION ACT OF 1995 
+This guidance contains information collection provisions that are subject to review by the Office 
+of Management and Budget (OMB) under the paperwork Reduction Act of 1995 (44 U.S.C. 
+3501-3520), 
+The time required to complete this information collection is estimated to average 4.5 hours per 
+response, including the time to review instructions, search existing data sources, gather the data 
+needed, and complete and review the information collection.  Send comments regarding this 
+burden estimate or suggestions for reducing this burden to spl@fda.hhs.gov. 
+This guidance also refers to previously approved collections of information found in FDA 
+regulations. The collections of information in Part 207 have been approved under OMB Control 
+No. 0910-0045. 
+An agency may not conduct or sponsor, and a person is not required to respond to, a collection of 
+information unless it displays a currently valid OMB control number.  The OMB control number 
+for this information collection is 0910-0045 (expires 3/31/2012). 
+13  
+
+

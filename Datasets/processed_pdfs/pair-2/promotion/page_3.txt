@@ -1,0 +1,52 @@
+=== PAGE 3 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Months
+At risk       103      99      88      81      55      31      21       6        3        0
+Censored        -       1       2       0      18      16       8      14        2        2
+• At the time of data cutoff: Median follow-up was 17.1 months; the OS data were not mature; during the study, 40 patients (39%) died following treatment
+  discontinuation with the majority (90%) dying from disease progression.2,3
+
+Disease control rate (DCR) (n=103)2,3a
+
+There is a circular graphic prominently displayed on the page. Inside the circle, it shows "83% DCR" in large text, with "(95% CI: 74, 89)" underneath. This graphic visually represents the disease control rate and its confidence interval from the study.
+
+• FOENIX-CCA2 was a single-arm study2
+• In this setting, the DCR results may reflect the natural history of cholangiocarcinoma in an individual patient, rather than the direct
+  effect of treatment
+
+aDCR is the sum of complete response, partial response, and stable disease.
+
+Supplementary results
+
+Efficacy results at extended follow-up
+
+At a nonprespecified follow-up analysis conducted 8 months after the primary analysis (data cutoff, May 29, 2021; median follow-up, 25.0 months), efficacy in the overall study population was maintained
+with2,4:
+• ORR of 41.7%
+• median DoR of 9.5 months
+• median PFS of 8.9 months
+• median OS of 20.0 months
+
+The extended follow-up data were collected after the primary analysis and are descriptive in nature, and results should be interpreted with caution.
+
+There are three distinct, rectangular white cards/buttons arranged horizontally at the bottom of this section, each appearing to be an interactive element with a small icon and an arrow pointing to the right.
+1.  The leftmost card features an icon resembling a clipboard or document with a green checkmark. The text reads: "See how LYTGOBI was studied in a clinical trial".
+2.  The middle card features an icon resembling a shield with a green checkmark. The text reads: "View the safety profile of LYTGOBI".
+3.  The rightmost card features an icon resembling a pill or capsule. The text reads: "Learn about LYTGOBI dosing".
+These elements likely serve as navigation links to other relevant sections or pages for more information.
+
+                                   PREVIOUS PAGE                       NEXT PAGE
+                           ← Study Design                     Safety Profile →
+
+CI=confidence interval; DOR=duration of response; iCCA=intrahepatic cholangiocarcinoma; mo=months; PR=partial response.
+
+References:
+1. LYTGOBI [package insert]. Princeton, NJ: Taiho Oncology, Inc. 2024. 2. Goyal L, Meric-Bernstam F, Hollebecque A, et al. Futibatinib for FGFR2-Rearranged Intrahepatic Cholangiocarcinoma. N Engl J
+Med. 2023;388(3):228-239. 3. Goyal L, Meric-Bernstam F, Hollebecque A, et al. Primary results of phase 2 FOENIX-CCA2: the irreversible FGFR1-4 inhibitor futibatinib in intrahepatic cholangiocarcinoma
+with FGFR2 fusions/rearrangements. Abstract presented at American Association for Cancer Research Annual Meeting; April 10-15, 2021. Abstract CT010. 4. Goyal L, Meric-Bernstam F, Hollebecque
+A, Hollebecque A, et al. Updated results of the FOENIX-CCA2 trial: Efficacy and safety of futibatinib in intrahepatic cholangiocarcinoma (iCCA) harboring FGFR2 fusions/rearrangements. Abstract
+presented at ASCO Annual Meeting 2022. Abstract 4009. J Clin Oncol. 2022;40(16 suppl). 5. Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines®) for
+Biliary Tract Cancers. V.4.2024. © National Comprehensive Cancer Network, Inc. 2024. All rights reserved. Accessed September 10, 2024. To view the most recent and complete version of the guideline,
+go online to NCCN.org. NCCN makes no warranties of any kind whatsoever regarding their content, use or application and disclaims any responsibility for their application or use in any way.

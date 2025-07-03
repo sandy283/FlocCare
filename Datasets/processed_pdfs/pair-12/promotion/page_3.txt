@@ -1,0 +1,37 @@
+=== PAGE 3 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the text content extracted from the PDF page, preserving its layout and structure:
+
+```
+                                                                                               More patients (52%) who were on a stable
+         Recorlev                                                                              and steady dose of Recorlev had normal
+                                                                                               cortisol levels*
+                                                               
+
+                                                                     Patients who stopped taking Recorlev and started
+         Placebo                                                     taking a placebo lost control of their cortisol levels*
+         (a medicine with                                            (6% had normal cortisol levels*)
+         no effect)
+                                                               
+
+
+The SONICS clinical study supported the efficacy and safety results from LOGICS
+                                                                                                                    +
+INDICATION AND IMPORTANT SAFETY INFORMATION FOR Recorlev® (levoketoconazole) tablets
+
+What is Recorlev?
+• Recorlev is a prescription medicine used to treat high cortisol (endogenous hypercortisolemia) levels in adult patients with Cushing's syndrome who cannot have surgery or who
+  have had surgery that did not cure their Cushing's syndrome.
+• It is not known if Recorlev is safe and effective for the treatment of fungal infections. Recorlev is not to be used for treatment of fungal infections.
+```
+
+**Description of Visual Elements:**
+
+*   **Two Information Boxes:** There are two distinct, light-colored rectangular boxes with rounded corners positioned centrally towards the top of the page. These boxes present summarized clinical trial results.
+    *   The **top box** is labeled "Recorlev" on the left side, and on the right, it states: "More patients (52%) who were on a stable and steady dose of Recorlev had normal cortisol levels*".
+    *   The **bottom box** is labeled "Placebo (a medicine with no effect)" on the left side, and on the right, it states: "Patients who stopped taking Recorlev and started taking a placebo lost control of their cortisol levels* (6% had normal cortisol levels*)".
+    These boxes serve to quickly highlight key efficacy findings related to Recorlev and placebo. The asterisk (*) indicates there is likely a footnote or further explanation not visible on this page.
+
+*   **Expandable Information Icon:** In the bottom right corner of the section starting with "INDICATION AND IMPORTANT SAFETY INFORMATION FOR Recorlev®", there is a blue circle containing a white plus sign. This typically indicates an interactive element that, if clicked, would expand to reveal more detailed information or sections.

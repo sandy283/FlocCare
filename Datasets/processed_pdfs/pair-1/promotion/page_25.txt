@@ -1,0 +1,48 @@
+=== PAGE 25 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+US/Canada Phase 3 Study Bleeding Analysis:
+Unscheduled Bleeding
+
+% of Participants With Unscheduled Bleeding/Spotting (N=1,864)
+
+                                                                             TREATMENT
+                                                                             DISCONTINUATION
+10.0%                                                                              2.8%
+                                      Unscheduled bleeding/spottingᵃ             of patients withdrew
+                                      Unscheduled bleeding (only)                from treatment due to
+                                                                                 bleeding irregularities
+Women (%)    5.0%
+
+             0.0%
+                  1           2           6           8          12
+                                            Cycle
+
+                                                                             SCHEDULED BLEEDING
+                                                                                85%
+                                                                                 2%
+                                                                                               of women experienced
+                                                                                               regular withdrawal bleeding
+                                                                                  Bleeding Only    (range: 82% to 87% across cycles)
+
+ᵃSpotting is defined as minimal bleeding that did not require use of any sanitary protection (including panty liners).
+
+maynepharma  Reference: Data on file. Raleigh, NC. Mayne Pharma LLC.
+
+                                                                 Full Prescribing Information is available at www.Nextstellis.com
+24
+
+**Description of Visual Elements:**
+
+1.  **Bar Chart:** This is a bar chart displaying the percentage of women experiencing unscheduled bleeding/spotting or unscheduled bleeding only, across different treatment cycles (1, 2, 6, 8, 12).
+    *   The Y-axis represents "Women (%)" ranging from 0.0% to 10.0%.
+    *   The X-axis represents "Cycle" with labels 1, 2, 6, 8, and 12.
+    *   There are two types of bars for each cycle, distinguished by color:
+        *   **Light blue bars** represent "Unscheduled bleeding/spottingᵃ". These bars generally show a higher percentage across cycles, decreasing slightly over time.
+        *   **Dark purple bars** represent "Unscheduled bleeding (only)". These bars show a lower percentage than the light blue bars and generally appear consistent or slightly decreasing across cycles.
+    *   An annotation near Cycle 12 highlights the dark purple bar for that cycle with a pink box containing "2%" and "Bleeding Only," indicating that 2% of women experienced unscheduled bleeding only at this point (or the peak across cycles shown).
+
+2.  **Summary Boxes (Right Side):**
+    *   **"TREATMENT DISCONTINUATION" Box (Pink, dashed border):** This box presents key statistics regarding study discontinuation. It states that "2.8%" of patients withdrew from treatment due to bleeding irregularities.
+    *   **"SCHEDULED BLEEDING" Box (Light blue, dashed border):** This box provides information about scheduled bleeding. It states that "85%" of women experienced regular withdrawal bleeding, with a range of "82% to 87% across cycles."

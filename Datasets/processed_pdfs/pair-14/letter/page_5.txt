@@ -1,0 +1,64 @@
+=== PAGE 5 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving its original layout and structure:
+
+                                                                                                       Page 5
+
+Payal Patel, PharmD
+Bausch Health Companies Inc.
+NDA 209354/MA 178 and 221
+
+Webpage
+
+The webpage makes claims and presentations such as the following regarding the efficacy of
+Duobrii (bolded and italicized emphasis original, underlined emphasis added):
+
+    *    “**<u>Demonstrated synergy: superior efficacy</u> vs the aggregated results of two
+         monotherapies**”
+    *    A graph entitled, “Treatment success[6] at 8 weeks with the effect of the vehicle
+         removed[7]”
+         o    A bar graph that depicts “treatment success” as 42.8% for Duobrii Lotion and
+              32.5% for the monotherapies aggregated, after the vehicle results are removed.
+    *    “**More patients experienced treatment success[8] with DUOBRII Lotion than the
+         aggregated success rates of both monotherapies**[9]”
+    *    “**DUOBRII Lotion exceeded the clinical definition of synergy by 31.7% at 8 weeks**[10,11]”
+
+The webpage creates a misleading impression regarding the efficacy and mechanism of
+action of Duobrii because it draws conclusions based on data that are inadequate to support
+such conclusions. The claims of “demonstrated synergy” and “superior efficacy” versus the
+aggregated results of two monotherapies on the webpage are based on data derived from
+post hoc analyses of a single phase 2 trial, of limited sample size, which compared Duobrii
+separately to its individual components and vehicle. We acknowledge the statement, “Post
+hoc analysis of a phase 2 clinical trial” is included on the webpage. However, this does not
+mitigate the misleading impression created by these claims and presentations because the
+phase 2 trial was not designed to support conclusions comparing the efficacy of Duobrii to its
+aggregated components, minus the vehicle effect. Because this analysis was conducted post
+hoc, there was no prespecified statistical procedure controlling for type 1 error rate (false
+positive rate) in this phase 2 trial, so it is not possible to ascertain whether the findings were
+attributable to treatment with Duobrii and its components, or merely due to chance. As a
+result, these findings are exploratory (hypothesis-generating). Therefore, claims and
+presentations that draw conclusions (e.g., “demonstrated synergy” and/or “superior efficacy”)
+are misleading.
+
+Furthermore, this presentation of data regarding the phase 2 trial is misleading because it
+overstates the efficacy of the drug by inaccurately describing treatment success at 8 weeks.
+Specifically, the claims and presentation imply that the difference in efficacy between Duobrii
+and the aggregate of tazarotene and halobetasol (its individual components) was 10.3%,
+
+_________________________
+5 Kircik LH, Papp KA, Stein Gold L, et al. 2019. Assessing the Synergistic Effect of a Fixed Combination
+Halobetasol Propionate 0.01% and Tazarotene 0.045% Lotion in Moderate-to-Severe Plaque Psoriasis1. J
+Drugs Dermatol 2019;18(3):279-284.
+6 Treatment success was defined as at least a 2-grade improvement from baseline in Investigator Global
+Assessment (IGA) score and an IGA score equating to “clear” or “almost clear” at Week 8.
+7 See footnote 5.
+8 See footnote 6.
+9 See footnote 5.
+10 See footnote 5.
+11 Sugarman JL, Gold LS, Lebwohl MG, et al. A phase 2, multicenter, double-blind, randomized, vehicle
+controlled clinical study to assess the safety and efficacy of a halobetasol/tazarotene fixed combination in the
+treatment of plaque psoriasis. J Drugs Dermatol. 2017;16(3):611-618.
+
+Reference ID: 4961636

@@ -1,0 +1,209 @@
+=== PAGE 1 ===
+
+Guidance for Industry
+Consumer-Directed Broadcast
+Advertisements
+U.S. Department of Health and Human Services
+Food and Drug Administration
+Center for Drug Evaluation and Research (CDER)
+Center for Biologics Evaluation and Research (CBER)
+Center for Veterinary Medicine (CVM)
+August 1999
+DDMAC
+
+
+=== PAGE 2 ===
+
+Guidance for Industry
+Consumer-Directed Broadcast
+Advertisements
+Additional copies of this Guidance are available from:
+ Office of Training and Communications
+ Division of Communications Management 
+Drug Information Branch, HFD-210
+Center for Drug Evaluation and Research
+Food and Drug Administration
+ 5600 Fishers Lane, Rockville, MD  20857 
+(Phone 301-827-4573)
+Internet:   http://www.fda.gov/cder/guidance/index.htm.
+or
+ Office of Communication, Training and 
+Manufacturers Assistance, HFM-40 
+Center for Biologics Evaluation and Research
+ Food and Drug Administration
+1401 Rockville Pike, Rockville, MD 20852-1448 
+Internet:   http://www.fda.gov/cber/guidelines.htm.  
+Fax: 1-888-CBERFAX or 301-827-3844 
+Mail: the Voice Information System at 800-835-4709 or 301-827-1800
+or
+Communications Staff (HFV-12)
+Center for Veterinary Medicine (CVM)
+7500 Standish Place, Rockville, MD 20855 (Tel) 301-594-1755
+http://www.fda.gov/cvm
+U.S. Department of Health and Human Services
+Food and Drug Administration
+Center for Drug Evaluation and Research (CDER)
+Center for Biologics Evaluation and Research (CBER)
+Center for Veterinary Medicine (CVM)
+August 1999
+DDMAC
+
+
+=== PAGE 3 ===
+
+ This guidance has been prepared by the Intra-Agency Group on Advertising and Promotion at the Food and
+1
+Drug Administration.  This guidance represents the Agency’s current thinking on procedures to fulfill the requirements
+for disclosure of product information in connection with consumer-directed broadcast advertisements for prescription
+human and animal drugs, and human biological products.  It does not create or confer any rights for or on any person and
+does not operate to bind FDA or the public.  An alternative approach may be used if such approach satisfies the
+requirements of the applicable statute, regulations, or both.
+ This guidance is not intended to cover the advertising of restricted medical devices, which are subject to the
+2
+requirements of section 502(r) of the Federal Food, Drug, and Cosmetic Act.
+GUIDANCE FOR INDUSTRY1
+Consumer-Directed Broadcast Advertisements
+I. 
+INTRODUCTION
+This guidance is intended to assist sponsors who are interested in advertising their prescription
+human and animal drugs, including biological products for humans, directly to consumers through
+broadcast media, such as television, radio, or telephone communications systems.2
+II.
+BACKGROUND
+The Federal Food, Drug, and Cosmetic Act (the Act) requires that manufacturers, packers, and
+distributors (sponsors) who advertise prescription human and animal drugs, including biological
+products for humans, disclose in advertisements certain information about the advertised
+product’s uses and risks.  For prescription drugs and biologics, the Act requires advertisements to
+contain “information in brief summary relating to side effects, contraindications, and
+effectiveness” (21 U.S.C. 352(n)).  The resulting information disclosure is commonly called the
+brief summary. 
+The prescription drug advertising regulations (21 CFR 202.1) distinguish between print and
+broadcast advertisements.  Print advertisements must include the brief summary, which generally
+contains each of the risk concepts from the product's approved package labeling.  Advertisements
+broadcast through media such as television, radio, or telephone communications systems must
+disclose the product’s major risks in either the audio or audio and visual parts of the presentation;
+this is sometimes called the major statement.  This guidance does not address the major statement
+requirement.
+Sponsors of broadcast advertisements are also required to present a brief summary or,
+alternatively, may make “adequate provision ... for dissemination of the approved or permitted
+package labeling in connection with the broadcast presentation” (21 CFR 202.1(e)(1)).  This is
+referred to as the adequate provision requirement.  The regulations thus specify that the major
+
+
+=== PAGE 4 ===
+
+2
+statement, together with adequate provision for dissemination of the product’s approved labeling,
+can provide the information disclosure required for broadcast advertisements.
+The purpose of this guidance is to describe an approach that FDA believes can fulfill the
+requirement for adequate provision in connection with consumer-directed broadcast
+advertisements for prescription drug and biological products.  The approach presumes that such
+advertisements:
+!
+Are not false or misleading in any respect.  For a prescription drug, this would include
+communicating that the advertised product is available only by prescription and that only a
+prescribing healthcare professional can decide whether the product is appropriate for a
+patient.
+!
+Present a fair balance between information about effectiveness and information about risk.
+!
+Include a thorough major statement conveying all of the product’s most important risk
+information in consumer-friendly language.
+ 
+!
+Communicate all information relevant to the product’s indication (including limitations to
+use) in consumer-friendly language.
+III.
+FULFILLING THE ADEQUATE PROVISION REQUIREMENT
+A sponsor wishing to use consumer-directed broadcast advertisements may meet the adequate
+provision requirement through an approach that will allow most of a potentially diverse audience
+to have reasonably convenient access to the advertised product’s approved labeling.  This
+audience will include many persons with limited access to technologically sophisticated outlets
+(e.g., the Internet) and persons who are uncomfortable actively requesting additional product
+information or are concerned about being personally identified in their search for product
+information.  One acceptable approach to disseminating the product’s approved labeling is
+described below.  This approach includes the following components.
+A.
+Disclosure in the advertisement of an operating toll-free telephone number for
+consumers to call for the approved package labeling.  Upon calling, consumers should be
+given the choice of: 
+!
+Having the labeling mailed to them in a timely manner (e.g., within 2
+business days for receipt generally within 4-6 days); or
+!
+Having the labeling read to them over the phone (e.g., by offering
+consumers a selection of prerecorded labeling topics).
+B.
+Reference in the advertisement to a mechanism to provide package labeling to
+
+
+=== PAGE 5 ===
+
+3
+consumers with restricted access to sophisticated technology, such as the Internet, and
+those who are uncomfortable actively requesting additional product information or are
+concerned about being personally identified in their search for product information.  One
+acceptable mechanism would be to provide the additional product information in the form
+of print advertisements appearing concurrently in publications that reach the exposed
+audience.  The location of at least one of these advertisements would be referenced in the
+broadcast advertisement.  If a print advertisement is part of an adequate provision
+procedure, it should supply a toll-free telephone number and an address for further
+consumer access to full package labeling.  This mechanism of providing access to product
+labeling has the advantage of also providing considerable information in the form of the
+required brief summary and in the advertising text itself.
+When a broadcast advertisement is broadly disseminated, FDA believes that ensuring that
+passive and privacy-sensitive information seekers have adequate access to detailed product
+information is critical to complying with the adequate provision regulatory requirement. 
+Thus, print advertisements associated with broadly disseminated broadcast advertisements
+should be comparably broadly disseminated in terms of the targeted audiences. 
+An alternative mechanism for providing private access to product information would be to
+ensure the availability of sufficient numbers of brochures containing package labeling in a
+variety of publicly accessible sites (e.g., pharmacies, doctors’ offices, grocery stores,
+public libraries).  Brochures should be available at enough sites so that most consumers
+exposed to the broadcast advertisement can obtain the labeling without traveling beyond
+their normal range of activities.  This alternative mechanism is likely to be logistically
+feasible only when the associated broadcast advertising campaign is relatively limited in
+audience reach.
+C.
+Disclosure in the advertisement of an Internet web page (URL) address that
+provides access to the package labeling.
+D.
+Disclosure in the advertisement that pharmacists, physicians (or other healthcare
+providers), or veterinarians (in the case of animal drugs) may provide additional product
+information to consumers.  This statement should communicate clearly that the referenced
+professional is a source of additional product information. 
+Telephone advertisements that make a product claim (not reminder advertisements) occur when
+there is a telephone communication between an individual and a product’s sponsor where both a
+product name and a representation or suggestion relating to a product (e.g., its indication) are
+disclosed by the sponsor.  Under these circumstances, such advertisements are subject to the
+disclosure requirements of the Act and the regulations.  However, telephone advertisements are
+different from advertisements broadcast through television and radio.  By participating in the
+telephone communication, the consumer has already indicated his or her willingness to discuss the
+topic or receive additional information.  Consequently, adequate provision for disseminating
+product labeling in connection with telephone advertisements may be achieved with fewer of the
+
+
+=== PAGE 6 ===
+
+4
+components listed above.  For such advertisements, adequate provision could consist of the
+availability of the option of having product labeling mailed to the caller in a timely manner (e.g.,
+within 2 business days for receipt generally within 4-6 days), or having the labeling read to them
+over the phone (e.g., by allowing consumers to select from prerecorded labeling topics), as well as
+disclosing that healthcare providers are a source of additional product information.
+When a broadcast advertisement is presented in a foreign language, the information sources that
+are part of the advertisement’s “adequate provision” mechanism (i.e., print advertisements or
+brochures, web sites, toll-free telephone number recorded messages or operators) should be in the
+language of the broadcast ad.  Regardless of the language used for the advertisement, current
+broadcast advertising regulations require the dissemination of approved product labeling, which,
+in most cases, must be in English, and is generally written in language directed to healthcare
+professionals.  The Agency strongly encourages sponsors to consider the benefits of also
+providing consumers with nonpromotional, consumer-friendly product information in the
+language of the broadcast ad (e.g., FDA-approved patient labeling or accurate, consumer-friendly
+translations of product labeling information).
+The FDA encourages sponsors who use this adequate provision mechanism to collect relevant
+data on consumer use and make their findings publicly known.  FDA also encourages sponsors
+and other interested parties to make known their research relating to the overall effects of DTC
+promotion on the public health.
+
+

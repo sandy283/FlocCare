@@ -1,0 +1,51 @@
+=== PAGE 30 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Likelihood of VTEs in Women
+
+This page presents data on the likelihood of developing Venous Thromboembolisms (VTEs) in women across different states and compares them to the VTE rate for NEXTSTELLIS.
+
+**Likelihood of Developing a VTE¹**
+(Bar Chart)
+
+The chart displays the number of women with a blood clot out of 10,000 women-years (WY) for various groups:
+
+*   **NONPREGNANT**
+    **NON-COC USER**
+    Ranges from
+    **1 to 5**
+    [Visual: A short blue bar]
+
+*   **COC-USER**
+    Ranges from
+    **3 to 9**
+    [Visual: A slightly longer blue bar]
+
+*   **Pregnancyᵃ**
+    Ranges from
+    **5 to 20**
+    [Visual: A moderately long blue bar]
+
+*   **Postpartum**
+    **(12 weeks only)**
+    Ranges from
+    **40 to 65**
+    [Visual: A much longer blue bar, extending furthest to the right]
+
+The x-axis represents the "Number of women with a blood clot out of 10,000 women-years (WY)" and is scaled from 0 to 70 in increments of 10.
+
+**NEXTSTELLIS**
+**VTE RATE²**
+**3.66**
+PER 10,000 WOMEN-YEARS
+
+One VTE in the global phase 3 studies
+
+**Definitions:**
+COC, combined oral contraceptive; VTE, venous thromboembolism.
+ᵃPregnancy data based on actual duration of pregnancy in the reference studies. Based on a model assumption that pregnancy is 9 months, the rate is 7 to 27 per 10,000 WY.
+References: 1. NEXTSTELLIS [package insert]. Raleigh, NC. Mayne Pharma LLC. April 2022. 2. Data on file. Raleigh, NC. Mayne Pharma LLC.
+
+mayne pharma
+29                                                                                    Full Prescribing Information is available at www.Nextstellis.com

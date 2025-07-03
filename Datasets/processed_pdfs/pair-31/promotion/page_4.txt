@@ -1,0 +1,41 @@
+=== PAGE 4 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving its original layout and structure:
+
+2. Collins, R., et al., Full Doses of Crenolanib, a Type I FLT3 Inhibitor, Can be Safely Administered in AML Patients Post
+   Allogeneic Stem Cell Transplant. Blood, 2015. 126(23): p. 4359-4359.
+3. Panetta, J.C., et al., Population Pharmacokinetics of Crenolanib, a Type I FLT3 Inhibitor, in Patients with
+   Relapsed/Refractory AML. Blood, 2015. 126(23): p. 3695-3695.
+4. Zhang, H., et al., Exome Sequencing Informs Mechanisms of Clinical Resistance to the FLT3-D835 Inhibitor
+   Crenolanib. Blood, 2015. 126(23): p. 2468-2468.
+5. Inaba, H., et al., Pilot Study of Combined Type I FLT3 Tyrosine Kinase Inhibitor, Crenolanib with Sorafenib in Pediatric
+   Patients with Relapsed/Refractory FLT3+Ve AML. Blood, 2016. 128(22): p. 3937-3937.
+6. Iyer, S.P., et al., Safety Study of Salvage Chemotherapy High-Dose Ara-C/Mitoxantrone (HAM) and Type I FLT3-TKI
+   Crenolanib in First Relapsed/Primary Refractory AML. Blood, 2016. 128(22): p. 3983-3983.
+7. Ohanian, M., et al., Efficacy of a Type I FLT3 Inhibitor, Crenolanib, with Idarubicin and High-Dose Ara-C in Multiply
+   Relapsed/Refractory FLT3+ AML. Blood, 2016. 128(22): p. 2744-2744.
+8. Wang, E.S., et al., Crenolanib, a Type I FLT3 TKI, can be Safely Combined with Cytarabine and Anthracycline
+   Induction Chemotherapy and Results in High Response Rates in Patients with Newly Diagnosed FLT3 Mutant Acute
+   Myeloid Leukemia (AML). Blood, 2016. 128(22): p. 1071-1071.
+9. Cortes JE, Kantarjian HM, Kadia TM, et al. Crenolanib Besylate, a Type I Pan-FLT3 Inhibitor, to Demonstrate Clinical
+   Activity in Multiply Relapsed FLT3-ITD and D835 AML. J Clin Oncol 2016; 34 (suppl; abstr 7008).
+10. Stone RM, Collins R, Tallman MS, et al. Effect of Cytarabine/Anthracycline/Crenolanib Induction on Minimal Residual
+    Disease (MRD) in Newly Diagnosed FLT3 Mutant AML. J Clin Oncol 2017; 35(15_suppl): 7016.
+11. Wang E, Stone R, Collins R, Agrawal T, Urity V, Tallman M. Variant FLT3 Mutations Can be Eradicated by
+    Cytarabine/Anthracycline/Crenolanib Induction in Adult Patients with Newly Diagnosed FLT3 (ITD/TKD) Mutant AML.
+    Haematologica; 2017; 2017. p. 212.
+12. Tarlock K, Hylkema T, Pollard J, et al. Functional Assessment of Novel Diagnostic FLT3 Mutations and Inhibition by
+    Kinase Inhibitors. Haematologica; 2017; 2017. p. 40-1.
+
+[Visual Element]: An image depicting a microscopic view of numerous cells, stained predominantly in shades of purple and blue, against a lighter, somewhat mottled background. The cells vary in size and shape, appearing typical of a histological or cytological preparation, possibly blood or bone marrow cells. Overlaid in white text on this image are the words: "recent peer-reviewed publications". This text serves as a header or title for the list of publications that follows, indicating their nature.
+
+1. Wang, et al. Low Relapse Rate in Younger Patients ≤ 60 Years Old with Newly Diagnosed FLT3 Mutant AML Treated
+   with Crenolanib and Cytarabine/Anthracycline Chemotherapy.
+2. Zimmerman EI, Turner DC, Buaboonnam J, et al. Crenolanib is Active Against Models of Drug-Resistant FLT3-ITD-
+   Positive Acute Myeloid Leukemia. Blood 2013; 122(22): 3607-15.
+3. Fathi AT. Emergence of Crenolanib for FLT3-Mutant AML. Blood 2013; 122(22): 3547-8.
+4. Smith CC, Lasater EA, Lin KC, et al. Crenolanib is a Selective Type I Pan-FLT3 Inhibitor. Proc Natl Acad Sci U S A 2014;
+   111(14): 5319-24.
+5. Zhang W, Gao C, Konopleva M, et al. Reversal of Acquired Drug Resistance in FLT3-Mutated Acute Myeloid Leukemia

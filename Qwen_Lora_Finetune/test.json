@@ -1,0 +1,1002 @@
+[
+  {
+    "sentence": "This drug guarantees 100% effectiveness in curing diabetes.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Our pain relief cream is the most advanced in the world!",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "This supplement will prevent heart attacks.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Clinical studies show this knee surgery has a 95% success rate.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "This treatment is better than all others available.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "May help support healthy blood sugar levels when used as part of a balanced diet.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Miracle cure for all types of cancer discovered!",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "FDA-approved medication for hypertension management.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Eliminates arthritis pain forever with just one dose.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Consult your healthcare provider before starting this medication.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "This natural supplement cures depression instantly.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Clinically tested formula may help reduce cholesterol levels.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Scientifically proven to reverse aging completely.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Contains active ingredients shown to support immune function in clinical trials.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Breakthrough treatment destroys all cancer cells without side effects.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "This product is not intended to diagnose, treat, cure, or prevent any disease.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Revolutionary formula melts fat while you sleep - no exercise needed!",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Individual results may vary. Consult with a healthcare professional.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Instantly cures chronic fatigue syndrome with zero side effects.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "May help maintain healthy blood pressure levels as part of a healthy lifestyle.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Doctors hate this one weird trick that cures everything!",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Prescription medication approved by regulatory authorities for anxiety treatment.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Secret ancient remedy stops hair loss permanently in 24 hours.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Clinical studies suggest potential benefits for joint health and mobility.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Miraculous device reverses blindness and deafness simultaneously.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Common side effects may include nausea, dizziness, and headache.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "This herbal tea eliminates all toxins from your body overnight.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Manufactured in FDA-registered facility following Good Manufacturing Practices.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Patented formula guarantees weight loss without diet or exercise.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Randomized controlled trial demonstrated statistically significant improvement.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Ancient secret formula cures diabetes, heart disease, and cancer.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Dosage should be adjusted based on patient response and physician guidance.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Quantum healing technology repairs DNA damage instantly.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Store at room temperature away from light and moisture.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Psychic energy therapy heals all mental health disorders permanently.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Contraindicated in patients with severe liver or kidney disease.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Magnetic bracelet realigns chakras and cures chronic pain immediately.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Double-blind, placebo-controlled study showed modest improvement in symptoms.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Crystal therapy eliminates need for chemotherapy in cancer patients.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Not recommended for pregnant or nursing women without medical supervision.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Homeopathic water memory cures autism spectrum disorders completely.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Potential drug interactions may occur with blood thinning medications.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Sonic frequency therapy dissolves kidney stones without surgery.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Efficacy established through peer-reviewed clinical research publications.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Detox foot pads remove heavy metals and cure autoimmune diseases.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Monitor blood glucose levels regularly while using this medication.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Ozone therapy kills all viruses, bacteria, and cancer cells safely.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Adverse events should be reported to the FDA MedWatch program.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Alkaline water reverses aging and prevents all degenerative diseases.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Indicated for symptomatic relief of mild to moderate pain.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Coffee enemas cure stage 4 cancer better than conventional treatment.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Discontinue use if allergic reaction or severe side effects occur.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Electromagnetic therapy regenerates lost limbs and organs completely.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Safety and efficacy established in controlled clinical trials.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Colloidal silver kills all pathogens and boosts immunity to 100%.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Take with food to reduce gastrointestinal side effects.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Breatharian lifestyle eliminates need for food and water permanently.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Consult healthcare provider if symptoms persist or worsen.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Urine therapy cures all diseases known to mankind instantly.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Pharmacokinetic studies show predictable absorption and elimination.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Activated charcoal removes all vaccines and toxins from bloodstream.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Pregnancy category B - no evidence of risk in humans.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Sungazing practice restores perfect vision and eliminates need for glasses.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Generic equivalent bioavailable to brand-name medication.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Negative ion therapy reverses Alzheimer's disease completely.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Shelf life: 24 months when stored according to label instructions.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Himalayan salt lamps cure respiratory diseases and purify air totally.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Mechanism of action involves selective serotonin reuptake inhibition.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Earthing mats ground negative energy and cure all chronic diseases.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Half-life approximately 12 hours in patients with normal kidney function.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Structured water therapy regenerates telomeres and reverses cellular aging.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Dosage adjustment required in elderly patients and those with hepatic impairment.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Coral calcium supplements prevent and cure all forms of cancer.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Clinical pharmacology demonstrates dose-proportional kinetics.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Raw food diet cures diabetes and eliminates need for insulin.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Distributed by licensed pharmaceutical company under FDA oversight.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Chakra alignment therapy cures schizophrenia and bipolar disorder.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Lot number and expiration date printed on product packaging.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Essential oils replace all prescription medications safely and effectively.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Pharmacovigilance data collected and reported to regulatory authorities.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Bioidentical hormones reverse menopause and restore youth completely.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Post-marketing surveillance confirms acceptable safety profile.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Kombucha tea cures HIV/AIDS and hepatitis without side effects.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Quality control testing ensures product purity and potency.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Castor oil packs dissolve tumors and cure all cancers naturally.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Batch release testing conducted according to USP standards.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Miracle Mineral Solution (MMS) cures autism and cancer safely.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Stability studies demonstrate product integrity over labeled shelf life.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Hydrogen water eliminates free radicals and prevents all diseases.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Manufacturing processes validated according to current Good Manufacturing Practices.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Enzyme therapy digests cancer cells and eliminates tumors completely.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Analytical methods validated for accuracy, precision, and specificity.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Probiotic enemas restore gut health and cure autoimmune disorders.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Bioanalytical assays developed for pharmacokinetic studies.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Therapeutic touch healing eliminates need for surgery or medication.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Reference standards obtained from certified suppliers.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Gerson therapy coffee enemas cure terminal cancer patients.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Impurity profiles established and monitored throughout manufacturing.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Rife frequency generators destroy pathogens at cellular level.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Container closure system provides adequate protection from environmental factors.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Chelation therapy removes arterial plaque and prevents heart attacks.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Excipients selected based on compatibility and safety data.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Intravenous vitamin C cures sepsis better than antibiotics.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Formulation development optimized for bioavailability and stability.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Hyperbaric oxygen therapy regenerates brain tissue and cures autism.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Process validation demonstrates consistent manufacturing performance.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Stem cell therapy from placenta cures paralysis and spinal injuries.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Equipment qualification ensures reliable and accurate results.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Alkaline diet prevents and cures all forms of cancer naturally.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Change control procedures maintain product quality and consistency.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Grounding therapy eliminates inflammation and cures arthritis completely.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Deviation investigations conducted according to established procedures.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Nascent iodine supplementation prevents radiation damage and cancer.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Corrective and preventive actions implemented to address quality issues.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Zeolite detox removes heavy metals and cures neurological disorders.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Audit trails maintain complete record of all manufacturing activities.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Molecular hydrogen therapy reverses diabetes and metabolic syndrome.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Documentation systems ensure traceability and regulatory compliance.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Photodynamic therapy eliminates cancer without harming healthy cells.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Training programs ensure personnel competency in all procedures.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Pulsed electromagnetic field therapy regenerates cartilage and bone.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Environmental monitoring program ensures sterile manufacturing conditions.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Infrared sauna therapy eliminates toxins and prevents all diseases.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Cleaning validation confirms effective removal of product residues.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Ozonated olive oil kills antibiotic-resistant bacteria and viruses.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Calibration programs ensure measurement accuracy and precision.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Scalar wave therapy repairs DNA and reverses genetic disorders.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Supplier qualification ensures raw material quality and consistency.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Magnesium chloride baths cure fibromyalgia and chronic fatigue.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Incoming inspection procedures verify material specifications.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Light therapy resets circadian rhythms and cures depression permanently.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Warehouse management ensures proper storage and distribution.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Peptide therapy reverses aging and extends lifespan indefinitely.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Cold chain management maintains product integrity during transport.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Apricot kernels contain natural chemotherapy that cures cancer.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Serialization systems enable product tracking and authentication.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Baking soda therapy alkalizes blood and eliminates cancer cells.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Risk management processes identify and mitigate potential hazards.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Turpentine protocol kills parasites and cures autoimmune diseases.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Quality agreements define responsibilities between contract parties.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Black seed oil cures everything except death itself.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Complaint handling procedures ensure timely response to quality issues.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Borax supplementation removes fluoride and heavy metals completely.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Product recall procedures enable rapid market withdrawal if necessary.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Diatomaceous earth eliminates intestinal parasites and toxins safely.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Regulatory submissions prepared according to agency guidelines.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Bloodroot salve burns away skin cancer without medical supervision.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Clinical trial data supports safety and efficacy claims.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Miracle cure discovered by doctors but suppressed by Big Pharma.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Regulatory inspections demonstrate compliance with quality standards.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Ancient Tibetan remedy cures modern diseases instantly.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Adverse event reporting ensures patient safety monitoring.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "NASA-developed technology eliminates all health problems permanently.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Pharmacovigilance activities comply with international standards.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Secret government cure hidden from public for decades.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Labeling information provides clear usage instructions and warnings.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Nobel Prize winner's discovery cures all cancers naturally.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Package inserts contain comprehensive prescribing information.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Frequency healing eliminates disease at quantum level.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Patient counseling materials explain proper medication use.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Vibrational medicine treats root cause of all illnesses.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Drug interaction databases provide safety screening information.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Energy healing transmission through internet cures remotely.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Contraindication warnings clearly identify at-risk populations.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Thought projection therapy heals without physical intervention.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Dosing recommendations based on clinical pharmacology data.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Psychic surgery removes tumors without making incisions.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Administration instructions specify route and frequency.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Meditation alone cures schizophrenia and bipolar disorder.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Storage requirements ensure product stability and potency.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Positive thinking eliminates need for medical treatment.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Handling precautions protect healthcare workers and patients.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Prayer therapy cures terminal illnesses through divine intervention.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Emergency contact information provided for adverse events.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Intention healing changes molecular structure of medicine.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Batch records document all manufacturing steps and controls.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Cosmic energy therapy aligns planets to cure diseases.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Certificate of analysis confirms product specifications.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Pyramid power concentrates healing energy to cure cancer.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Analytical testing validates product identity and purity.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Atlantean crystal technology heals at cellular level.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Microbiological testing ensures product sterility and safety.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Alien technology embedded in supplement cures all diseases.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Endotoxin testing confirms absence of bacterial contamination.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Time travel healing addresses past trauma to cure present illness.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Particulate testing ensures injection safety standards.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Parallel universe therapy accesses alternate reality cures.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "pH testing confirms product within acceptable range.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Quantum entanglement healing works instantaneously across distances.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Osmolality testing ensures physiological compatibility.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Dimensional shift therapy removes disease from timeline.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Dissolution testing predicts in vivo performance.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Matrix healing reprograms reality to eliminate illness.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Assay results demonstrate consistent potency across batches.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Holographic healing projects perfect health into body.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Impurity analysis identifies and quantifies degradation products.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Morphic field therapy transmits healing information globally.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Moisture content analysis ensures product stability.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Akashic record healing accesses universal health database.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Residual solvent testing confirms manufacturing safety.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Ascension healing raises vibrational frequency to cure disease.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Heavy metals testing ensures product purity standards.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Galactic healing council removes karmic disease patterns.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Uniformity testing confirms consistent dose distribution.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Starseed healing activates dormant DNA healing codes.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Hardness testing evaluates tablet mechanical properties.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Lemurian crystal healing restores original human blueprint.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Friability testing assesses tablet durability during handling.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Sacred geometry healing reorganizes cellular structure perfectly.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Disintegration testing predicts drug release characteristics.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Angelic healing intervention bypasses natural law limitations.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Related substances testing monitors degradation pathways.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Merkaba healing activates multidimensional healing matrix.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Bioburden testing quantifies microbial contamination levels.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Pleiadian healing technology surpasses earthly medical knowledge.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Sterility testing confirms absence of viable microorganisms.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Archangel Michael's sword cuts disease from energy field.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Container integrity testing ensures package protection.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Divine intervention healing overrides medical diagnosis completely.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Extractable and leachable studies assess container compatibility.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Miracle healing spring water from Lourdes cures everything.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Photostability testing evaluates light sensitivity requirements.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Blessed healing oil from Jerusalem eliminates all diseases.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Forced degradation studies identify stability indicating methods.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Himalayan healing salt dissolves negative energy and illness.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Stress testing determines product robustness under extreme conditions.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Ayahuasca ceremony removes all psychological and physical ailments.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Accelerated stability studies predict long-term storage performance.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Peyote cactus vision quest cures addiction and mental illness.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Real-time stability monitoring confirms shelf life specifications.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "Ibogaine treatment resets brain to factory settings.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Statistical analysis demonstrates product quality consistency.",
+    "class": "compliant"
+  },
+  {
+    "sentence": "DMT journey heals trauma across all lifetimes simultaneously.",
+    "class": "non-compliant"
+  },
+  {
+    "sentence": "Trend analysis identifies potential quality drift patterns.",
+    "class": "compliant"
+  },
+    {
+        "sentence": "Sufi whirling dance cures all physical and emotional ailments.",
+        "class": "non-compliant"
+    },
+    {
+        "sentence": "Root cause analysis investigates deviations from expected quality.",
+        "class": "compliant"
+    },
+    {
+        "sentence": "Shamanic journeying accesses spirit world for healing.",
+        "class": "non-compliant"
+    },
+    {
+        "sentence": "Corrective actions implemented to prevent recurrence of issues.",
+        "class": "compliant"
+    },
+    {
+        "sentence": "Kundalini awakening cures all diseases through energy flow.",
+        "class": "non-compliant"
+    },
+    {
+        "sentence": "Preventive actions established to enhance product quality.",
+        "class": "compliant"
+    },
+    {
+        "sentence": "Sanskrit chanting heals all ailments through vibrational frequency.",
+        "class": "non-compliant"
+    },
+    {
+        "sentence": "Quality metrics monitored to ensure continuous improvement.",
+        "class": "compliant"
+    },
+    {
+        "sentence": "Crystal grid healing amplifies energy to cure diseases.",
+        "class": "non-compliant"
+    },
+    {
+        "sentence": "Process performance indicators tracked for operational excellence.",
+        "class": "compliant"
+    },
+    {
+        "sentence": "Sound frequency therapy heals all physical and emotional pain.",
+        "class": "non-compliant"
+    },
+    {
+        "sentence": "Key performance indicators established for quality assurance.",
+        "class": "compliant"
+    },
+    {
+        "sentence": "Light language activation cures all diseases instantly.",
+        "class": "non-compliant"
+    },
+    {
+        "sentence": "Quality control charts used to monitor process stability.",
+        "class": "compliant"
+    },
+    {
+        "sentence": "Sacred sound healing restores perfect health through vibration.",
+        "class": "non-compliant"
+    },
+    {
+        "sentence": "Root cause corrective action plans developed for quality issues.",
+        "class": "compliant"
+    }
+]

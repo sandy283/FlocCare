@@ -1,0 +1,60 @@
+=== PAGE 6 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Mandy Edwards
+Mayne Pharma LLC
+NDA 214154/ MA 107
+                                                                                               Page 6
+
+While references⁴ are cited for these claims, none support conclusions about the comparative
+safety and impact on breast tissue of Nextstellis relative to other CHCs. With the exception of
+Singer, et al., the references describe preclinical studies that are based on *in vitro* and *in vivo*
+animal data, which do not support clinical conclusions in humans regarding Nextstellis’ effect
+on breast tissue, including impacts on the drug’s safety profile. The Singer, et al. reference
+investigated estetrol as a hormone replacement in pre- and post-menopausal women with
+estrogen-receptor positive early-stage breast cancer and did not study the impacts of estetrol
+on breast tissue when used as an oral contraceptive in women of reproductive potential.
+These references do not support the presentations and suggestions that, in contrast to ethinyl
+estradiol, Nextstellis has a “low impact on” or “does not stimulate” breast tissue. Thus,
+implications that estetrol is safer than ethinyl estradiol due to differences in effect on breast
+tissue are misleading.
+
+Furthermore, the speaker deck includes several claims that minimize serious risks associated
+with the use of Nextstellis. For example, the speaker deck includes the following claims and
+presentations regarding parameters grouped as liver effects (bolded emphasis original,
+underlined emphasis added, footnotes omitted):
+
+*   “Unlike other estrogens, E4 has a **minimal effect on the liver**.” (slide 10)
+*   “Estetrol (E4) Is an Estrogen With Selective Action in Tissues . . .
+    *   **Minimal to no impact on** [parameters associated with the liver]:
+        *   Cholesterol . . .
+        *   <u>Triglycerides</u> . . .
+        *   <u>Glucose</u> . . .
+        *   <u>Clotting factors</u> . . . (slide 11)
+*   “Women experienced **minimal changes** in cholesterol, triglycerides, glucose, and
+    glycated hemoglobin” (slide 41)
+
+First, these claims misleadingly represent that Nextstellis has “minimal” or “no” impact on
+liver parameters, even though the PI for Nextstellis states that the product has several known
+risks associated with the liver and liver parameters. The claim that estetrol has “minimal
+effect on the liver” misleadingly minimizes the risk to the liver associated with use of
+Nextstellis, including patients with liver disease. This is especially concerning because,
+according to the CONTRAINDICATIONS section of the PI, Nextstellis is contraindicated in
+patients with hepatic adenoma, hepatocellular carcinoma, acute hepatitis, or severe
+(decompensated) cirrhosis. The PI for Nextstellis also includes a warning and precaution for
+liver disease (elevated liver enzymes and liver tumors). Specifically, according to the
+WARNINGS AND PRECAUTIONS section of the PI, Section 5.6, Nextstellis should be
+withheld or discontinued if persistent or significant elevation of liver enzymes occurs in
+patients. CHCs are known to increase the risk of hepatic tumors, in particular, hepatic
+adenomas. The rupture of hepatic adenomas may cause death from abdominal hemorrhage.
+
+⁴ Giretti, MS, Guevara, MMM, Cecchi, E, et al. Effects of estetrol on migration and invasion in T47-D breast
+cancer cells through the actin cytoskeleton. Frontiers in Endocrinology. 2014;5(80):1-8; Gerard, C, Blacher, S,
+Communal, L, et al. Estetrol is a weak estrogen antagonizing estradiol-dependent mammary gland proliferation.
+J Endocrinol. 2015(a); 224:85-95; Singer CF, Bennink HJ, Natter C, et al. Antiestrogenic effects of the fetal
+estrogen estetrol in women with estrogen-receptor positive early breast cancer. Carcinogenesis.
+2014;35(11):2447-51; Visser M, Kloosterboer HJ, Bennink HJ. Estetrol prevents and suppresses mammary
+tumors induced by DMBA in a rat model. Horm Mol Biol Clin Invest. 2012;9(1):95-103.
+
+Reference ID: 5580097

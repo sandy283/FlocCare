@@ -1,0 +1,57 @@
+=== PAGE 2 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Kateshia Brooks
+Otsuka Pharmaceutical Development and Commercialization, Inc.
+NDA 205422 / MA 772, 791
+
+Page 2
+
+hypersensitivity to brexpiprazole or any of its components. In addition, the PI for Rexulti
+includes warnings and precautions regarding cerebrovascular adverse reactions including
+stroke in elderly patients with dementia-related psychosis, neuroleptic malignant syndrome,
+tardive dyskinesia, metabolic changes, pathological gambling and other compulsive
+behaviors, leukopenia, neutropenia, and agranulocytosis, orthostatic hypotension and
+syncope, falls, seizures, body temperature dysregulation, dysphagia, and potential for
+cognitive and motor impairment. The most common adverse reactions reported with Rexulti
+as an adjunctive treatment for major depressive disorder were weight increased,
+somnolence, and akathisia.
+
+**False or Misleading Claims about Efficacy**
+
+Prescription drug advertisements and labeling (promotional communications) misbrand a
+drug if they are false or misleading with respect to efficacy. The determination of whether a
+promotional communication is misleading includes, among other things, not only
+representations made or suggested in the promotional communication, but also the extent to
+which the promotional communication fails to reveal facts material in light of the
+representations made or suggested in respect to consequences that may result from the use of the
+drug as recommended or suggested in the promotional communication.
+
+The TV ad includes the following claim (in pertinent part):
+
+* "When added to an antidepressant, REXULTI was proven to reduce depression
+  symptoms 62% more than the antidepressant alone." (Voiceover, frames 8-9)
+
+The banner also includes the following claims (in pertinent part):
+
+* "When added to an antidepressant, Rexulti was proven to provide a 62% greater
+  reduction in depression symptoms" (Frame 3)
+* "When added to an antidepressant, Rexulti was proven to provide a 62% greater
+  reduction in depression symptoms vs. the antidepressant alone." (Frame 4)
+
+These claims overstate the efficacy of the drug by misrepresenting the efficacy profile of
+Rexulti. Specifically, these claims misleadingly suggest that a patient can expect to
+experience a 62% reduction (i.e., an improvement) in depression symptoms when added to
+an antidepressant (ADT) alone. However, this 62% reduction claimed is far greater than the
+reduction of 11.9% calculated based on the data from Study 1 for the 2 mg dose promoted in
+the TV ad and banner based on the population-level summary of the treatment effect, which
+is the difference in the changes from baseline in depression symptoms (as measured by the
+Montgomery-Asberg Depression Rational Scale [MADRS²] total score) between the two
+groups based on the prespecified primary analysis.
+
+---
+² The MADRS is a 10-item clinician-related scale used to assess the degree of depressive symptomatology, with
+0 representing no symptoms and 60 representing worst symptoms.
+
+Reference ID: 5270026

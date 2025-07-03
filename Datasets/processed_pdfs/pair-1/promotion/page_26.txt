@@ -1,0 +1,53 @@
+=== PAGE 26 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving its layout and structure:
+
+US/Canada Phase 3 Study Bleeding Analysis:
+Unscheduled Bleeding
+
+Mean Number of Bleeding/Spotted Days per Treatment Cycle (ITT Population) (N=1,756)
+
+1.5
+
+1.0
+             Mean number of unscheduled spottinga days
+             Mean number of unscheduled bleeding days
+0.5
+
+0.0
+   1        2           4        6           8         10        12
+
+
+AVERAGE
+DURATION
+<1 DAY
+
+of any unscheduled
+spotting or bleeding on
+average per cycle
+after cycle 1.
+
+mayne pharma
+aSpotting is defined as minimal bleeding that did not require use of any sanitary protection (including panty liners).
+ITT, Intention-to-treat
+Reference: Data on file. Raleigh, NC. Mayne Pharma LLC.
+
+25
+                                                                            Full Prescribing Information is available at www.Nextstellis.com
+
+
+**Description of Visual Elements:**
+
+The page contains a bar chart titled "Mean Number of Bleeding/Spotted Days per Treatment Cycle (ITT Population) (N=1,756)".
+
+*   **X-axis:** Labeled with numerical values representing "Treatment Cycle" (1, 2, 4, 6, 8, 10, 12).
+*   **Y-axis:** Labeled with numerical values (0.0, 0.5, 1.0, 1.5) representing the mean number of days.
+*   **Bars:** For each treatment cycle, there are two vertical bars:
+    *   Light blue bars represent "Mean number of unscheduled spottinga days".
+    *   Dark purple bars represent "Mean number of unscheduled bleeding days".
+*   **Trend:** The bars generally show a decrease in both spotting and bleeding days from Cycle 1 to Cycle 12. For instance, at Cycle 1, spotting days are close to 1.0 and bleeding days are above 0.5. By Cycle 12, both spotting and bleeding days are significantly lower, close to 0.5 and below 0.5 respectively.
+
+In addition to the bar chart, there is a large text box on the right side of the page, outlined by a dashed light blue line, which states:
+"AVERAGE DURATION <1 DAY of any unscheduled spotting or bleeding on average per cycle after cycle 1."

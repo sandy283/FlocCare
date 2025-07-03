@@ -1,0 +1,762 @@
+=== PAGE 1 ===
+
+ 
+ 
+ 
+Guidance for Industry 
+Fulfilling Regulatory Requirements 
+for Postmarketing Submissions of 
+Interactive Promotional Media for 
+Prescription Human and Animal 
+Drugs and Biologics  
+ 
+ 
+ 
+DRAFT GUIDANCE 
+ 
+ 
+This guidance document is being distributed for comment purposes only. 
+ 
+Comments and suggestions regarding this draft document should be submitted within 90 days of 
+publication in the Federal Register of the notice announcing the availability of the draft 
+guidance. Submit electronic comments to http://www.regulations.gov.  Submit written comments 
+to the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 
+Fishers Lane, rm. 1061, Rockville, MD 20852. All comments should be identified with the 
+docket number listed in the notice of availability that publishes in the Federal Register. 
+ 
+For questions regarding this draft document contact (CDER) Barbara Chong at (301) 796-1200; 
+(CBER) Office of Communication, Outreach and Development at 800-835-4709 or 301-827-
+1800; or (CVM) Dorothy McAdams at (240) 276-9300. 
+ 
+ 
+ 
+U.S. Department of Health and Human Services 
+Food and Drug Administration 
+Center for Drug Evaluation and Research (CDER) 
+Center for Biologics Evaluation and Research (CBER) 
+Center for Veterinary Medicine (CVM) 
+ 
+January 2014 
+Advertising 
+ 
+ 
+
+
+=== PAGE 2 ===
+
+ 
+ 
+Guidance for Industry 
+Fulfilling Regulatory Requirements for 
+Postmarketing Submissions of Interactive 
+Promotional Media for Prescription 
+Human and Animal Drugs and Biologics 
+  
+Additional copies are available from: 
+ 
+Office of Communications, Division of Drug Information 
+Center for Drug Evaluation and Research 
+Food and Drug Administration 
+10903 New Hampshire Ave., Bldg. 51, rm. 2201 
+Silver Spring, MD 20993-0002 
+Tel: 301-796-3400; Fax: 301-847-8714; E-mail: druginfo@fda.hhs.gov 
+http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/default.htm 
+ 
+Office of Communication, Outreach and Development (HFM-40) 
+Center for Biologics Evaluation and Research 
+Food and Drug Administration 
+1401 Rockville Pike, Suite 200N 
+Rockville, MD 20852-1448 
+Tel: 800-835-4709 or 301-827-1800; E-mail: ocod@fda.hhs.gov 
+http://www.fda.gov/BiologicsBloodVaccines/GuidanceComplianceRegulatoryInformation/default.htm 
+ 
+Communications Staff (CVM) 
+Center for Veterinary Medicine 
+Food and Drug Administration 
+7519 Standish Place, HFV-12 
+Rockville, MD 20855 
+Tel: 240-276-9300; E-mail: AskCVM@fda.hhs.gov 
+http://www.fda.gov/AnimalVeterinary/GuidanceComplianceEnforcement/GuidanceforIndustry/default.htm 
+ 
+U.S. Department of Health and Human Services 
+Food and Drug Administration 
+Center for Drug Evaluation and Research (CDER) 
+Center for Biologics Evaluation and Research (CBER) 
+Center for Veterinary Medicine (CVM) 
+ 
+January 2014 
+Advertising 
+
+
+=== PAGE 3 ===
+
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+I. 
+INTRODUCTION.......................................................................................................................... 1 
+II. 
+BACKGROUND ............................................................................................................................ 2 
+III.  
+LEGAL OVERVIEW OF STATUTORY AND REGULATORY REQUIREMENTS FOR 
+LABELING AND ADVERTISING .............................................................................................. 2 
+IV. 
+FACTORS CONSIDERED IN DETERMINING POSTMARKETING SUBMISSION 
+REQUIREMENTS FOR INTERACTIVE PROMOTIONAL MEDIA ................................... 3 
+V. 
+RECOMMENDATIONS FOR SUBMITTING INTERACTIVE PROMOTIONAL         
+MEDIA ............................................................................................................................................ 5 
+
+
+=== PAGE 4 ===
+
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+ 
+ 
+1 
+Fulfilling Regulatory Requirements for Postmarketing Submissions of 
+1 
+Interactive Promotional Media for Prescription Human and Animal 
+2 
+Drugs and Biologics  
+3 
+ 
+4 
+ 
+5 
+ 
+6 
+This draft guidance, when finalized, will represent the Food and Drug Administration’s (FDA’s or 
+7 
+Agency’s) current thinking on this topic.  It does not create or confer any rights for or on any person and 
+8 
+does not operate to bind FDA or the public.  You can use an alternative approach if the approach satisfies 
+9 
+the requirements of the applicable statutes and regulations.  If you want to discuss an alternative 
+10 
+approach, contact the FDA staff responsible for implementing this guidance.  If you cannot identify the 
+11 
+appropriate FDA staff, call the appropriate number listed on the title page of this guidance.  
+12 
+ 
+13 
+ 
+14 
+ 
+15 
+I. 
+INTRODUCTION  
+16 
+ 
+17 
+This draft guidance is intended to describe FDA’s current thinking about how manufacturers, packers, 
+18 
+and distributors (firms), that may either be the applicant or acting on behalf of the applicant, of 
+19 
+prescription human and animal drug and biological products (drugs) can fulfill regulatory requirements 
+20 
+for postmarketing submissions1 of interactive promotional media for their FDA-approved products.2,3  
+21 
+For the purposes of this guidance, the phrase interactive promotional media includes modern tools and 
+22 
+technologies that often allow for real-time communications and interactions (e.g., blogs, microblogs, 
+23 
+social networking sites, online communities, and live podcasts) that firms use to promote their drugs.  
+24 
+Although some interactive promotional media are substantially similar in presentation and content to 
+25 
+certain traditional promotional media, such as print media, FDA recognizes that in other cases they 
+26 
+possess certain unique technological features and offer novel presentation and content features.  This draft 
+27 
+guidance describes FDA’s current thinking on what the Agency considers to be interactive promotional 
+28 
+media and outlines the considerations taken into account in determining if product communications using 
+29 
+interactive technologies are subject to FDA’s postmarketing submission requirements.  Furthermore, this 
+30 
+draft guidance provides FDA’s recommendations for how firms can fulfill the regulatory requirement to 
+31 
+submit postmarketing promotional materials to the FDA in a practical manner to address the potential 
+32 
+                                                     
+1 21 CFR 314.81(b)(3)(i); 21 CFR 601.12(f)(4); and 21 CFR 514.80(b)(5)(ii).  See Section III for a detailed 
+description of these postmarketing submission requirements. 
+2 This draft guidance has been prepared by the Office of Prescription Drug Promotion (OPDP) in the Center for 
+Drug Evaluation and Research (CDER) in consultation with the Center for Biologics Evaluation and Research 
+(CBER) and the Center for Veterinary Medicine (CVM). 
+3 The recommendations in this draft guidance also apply to biological products that are approved for marketing 
+under section 351 of the Public Health Service Act (PHS Act).  Because each biological product also meets the 
+definition of “drug” or “device” under the Federal Food, Drug, and Cosmetic Act (FD&C Act), it is also subject to 
+provisions of the FD&C Act applicable to drugs or devices, as well as the regulations implementing these 
+provisions, except that a biological product licensed under section 351 of the PHS Act is not required to have an 
+approved new drug application under section 505 of the FD&C Act (21 U.S.C. 355).  See PHS Act section 351(j), 
+(42 U.S.C. 262(j)).  The recommendations in this draft guidance do not apply to veterinary biological products 
+regulated under the Virus-Serum-Toxin Act (21 U.S.C. 151, et seq.) by the U.S. Department of Agriculture. 
+
+
+=== PAGE 5 ===
+
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+ 
+ 
+2 
+volume of real-time information that is continuously posted and shared through various interactive 
+33 
+promotional media platforms. 
+34 
+ 
+35 
+The organization of the draft guidance is as follows: after some background information regarding 
+36 
+postmarketing submission requirements (Section II), a brief legal overview of statutory and regulatory 
+37 
+requirements for labeling and advertising is presented, including postmarketing submission requirements 
+38 
+(III).  Then, considerations related to submission of interactive promotional media are discussed with 
+39 
+some illustrative examples (IV), and, finally, FDA’s recommendations for submitting such promotional 
+40 
+materials are provided (V).   
+41 
+ 
+42 
+FDA’s guidance documents, including this draft guidance, do not establish legally enforceable rights or 
+43 
+responsibilities.  Instead, guidances describe the Agency’s current thinking on a topic and should be 
+44 
+viewed only as recommendations, unless specific regulatory or statutory requirements are cited.  The use 
+45 
+of the word should in Agency guidances means that something is suggested or recommended, but not 
+46 
+required.  
+47 
+ 
+48 
+II. 
+BACKGROUND 
+ 
+49 
+ 
+50 
+FDA’s regulation of prescription drug product promotion extends both to promotional activities that are 
+51 
+carried out by the firm itself, and to promotion conducted on the firm’s behalf.  In determining whether 
+52 
+the firm is accountable for a communication about its product(s), the Agency considers whether the firm 
+53 
+or anyone acting on its behalf is influencing or controlling the product promotional activity or 
+54 
+communication in whole or part.  Firms may have a variety of options for how much control they exert 
+55 
+over activities that utilize interactive promotional media, regardless of whether the promotional activity 
+56 
+occurs on firm-sponsored or third-party venues.  For example, a firm may promote its products through 
+57 
+product websites, discussion boards, chat rooms, or other public electronic forums that it maintains and 
+58 
+over which it has full control.  In addition, third-party sites (i.e., websites and other venues that are either 
+59 
+entirely independent of a firm’s control and influence, or not fully controlled by a firm) may promote a 
+60 
+firm’s products.   
+61 
+ 
+62 
+As part of the postmarketing reporting requirements under the Federal Food, Drug, and Cosmetic Act 
+63 
+(FD&C Act), application holders are required to submit all promotional labeling and advertising pieces at 
+64 
+the time of initial dissemination of the labeling and at the time of initial publication of the advertisement 
+65 
+for a drug.  However, for some interactive promotional media, submission “at the time of initial 
+66 
+dissemination” may pose a challenge for firms, particularly when these media communicate information 
+67 
+that is displayed in real time.  While “at the time of initial dissemination” does not refer to submissions on 
+68 
+a weekly, monthly, or other routine schedule, FDA intends to exercise its enforcement discretion under 
+69 
+certain circumstances due to the high volume of information that may be posted within short periods of 
+70 
+time using interactive promotional media that allow for real-time communications.  If a firm submits 
+71 
+interactive promotional media in the manner described in this draft guidance, FDA intends to exercise 
+72 
+enforcement discretion regarding the regulatory requirements for postmarketing submissions related to 
+73 
+promotional labeling and advertising. 
+74 
+ 
+75 
+III.  
+LEGAL OVERVIEW OF STATUTORY AND REGULATORY REQUIREMENTS FOR 
+76 
+LABELING AND ADVERTISING 
+77 
+ 
+78 
+Under the FD&C Act, the Agency has responsibility for regulating the manufacture, sale, and distribution 
+79 
+of drugs in the United States.  This authority includes oversight of the labeling and advertising of 
+80 
+prescription drugs and biologics (21 U.S.C. 352 (a) & (n)). 
+81 
+
+
+=== PAGE 6 ===
+
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+ 
+ 
+3 
+ 
+ 
+82 
+Section 201(m) of the FD&C Act defines labeling as “all labels and other written, printed, or graphic 
+83 
+matter (1) upon any article or any of its containers or wrappers, or (2) accompanying such article” (21 
+84 
+U.S.C. 321(m)).4  The U.S. Supreme Court has explained that the language “accompanying such article” 
+85 
+in the “labeling” definition is interpreted broadly, to include materials that supplement or explain an 
+86 
+article.  No physical attachment between the materials and the article is necessary; rather, it is the textual 
+87 
+relationship between the items that is significant.  Kordel v. United States, 335 U.S. 345, 350 (1948).  
+88 
+FDA generally recognizes two types of labeling for drugs: FDA-required labeling and promotional 
+89 
+labeling.  Promotional labeling is generally any labeling, other than the FDA-required labeling, that is 
+90 
+devised for promotion of the product.  Examples of promotional labeling pieces are described at 21 CFR 
+91 
+202.1(l)(2).     
+92 
+ 
+93 
+Also, under the FD&C Act and FDA's implementing regulations, the applicant shall submit specimens of 
+94 
+mailing pieces and any other labeling or advertising devised for promotion of the drug product at the time 
+95 
+of initial dissemination of the labeling and at the time of initial publication of the advertisement for a 
+96 
+prescription drug product.  Each submission is required to be accompanied by a completed Form FDA 
+97 
+2253 (Transmittal of Advertisements and Promotional Labeling for Drugs for Human Use) (21 CFR 
+98 
+314.81(b)(3)(i) and 21 CFR 601.12(f)(4)). 
+99 
+ 
+100 
+For prescription and over-the-counter new animal drugs, the applicant must submit at the time of initial 
+101 
+dissemination one set of specimens of mailing pieces and other labeling.  For prescription new animal 
+102 
+drugs, the applicant must also submit one set of specimens of any advertisement at the time of initial 
+103 
+publication or broadcast.  Each submission of promotional labeling or advertisements must be 
+104 
+accompanied by a completed Form FDA 2301 (21 CFR 514.80(b)(5)(ii)). 
+105 
+ 
+106 
+IV. 
+FACTORS CONSIDERED IN DETERMINING POSTMARKETING SUBMISSION 
+107 
+REQUIREMENTS FOR INTERACTIVE PROMOTIONAL MEDIA 
+108 
+ 
+109 
+FDA considers the following in determining a firm’s responsibility for submitting interactive promotional 
+110 
+media to FDA as required by postmarketing submission requirements: 
+111 
+ 
+112 
+1. 
+A firm is responsible for product promotional communications on sites that are owned, controlled, 
+113 
+created, influenced, or operated by, or on behalf of, the firm. 
+114 
+ 
+115 
+Such product promotional communications may include firm-sponsored microblogs (e.g., Twitter), social 
+116 
+networking sites (e.g., Facebook), firm blogs, and other sites that are under the control or influence of the 
+117 
+firm.  In determining whether a firm must submit promotional material about its product(s) to FDA, the 
+118 
+Agency considers whether the firm, or anyone acting on its behalf, is influencing or controlling the 
+119 
+promotional activity or communication in whole or part.  Thus, a firm is responsible if it exerts influence 
+120 
+over a site in any particular, even if the influence is limited in scope.  For example, if the firm 
+121 
+collaborates on or has editorial, preview, or review privilege over the content provided, then it is 
+122 
+responsible for that content. 
+123 
+ 
+124 
+Example 1:  A firm provides on its product website an online forum that gives users the opportunity to 
+125 
+post comments about the use of its product.  In this case, the firm is responsible for submitting to FDA the 
+126 
+product website to meet the postmarketing submission requirements because the firm created, owns, or 
+127 
+                                                     
+4 See also 21 CFR 1.3(a). 
+
+
+=== PAGE 7 ===
+
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+ 
+ 
+4 
+operates the website.  (See the discussion regarding user generated content (UGC) on firm-owned or firm-
+128 
+controlled venues at the end of this section.) 
+129 
+ 
+130 
+2. 
+Under certain circumstances, a firm is responsible for promotion on third-party sites.   
+131 
+ 
+132 
+A firm is responsible for promotion on a third-party site if the firm has any control or influence on the 
+133 
+third-party site, even if that influence is limited in scope.  For example, if a firm collaborates, or has 
+134 
+editorial, preview, or review privilege, then it is responsible for its promotion on the site and, as such, that 
+135 
+site is subject to submission to FDA to meet postmarketing submission requirements.  However, if a firm 
+136 
+provides only financial support (e.g., through an unrestricted educational grant) and has no other control 
+137 
+or influence on that site, then the firm is not responsible for information on a third-party site, and has no 
+138 
+obligation to submit the content to FDA.  Furthermore, if a firm is merely providing promotional 
+139 
+materials to a third-party site but does not direct the placement of the promotion within the site and has no 
+140 
+other control or influence on that site, the firm is responsible only for the content it places there and, thus, 
+141 
+is responsible only for submitting to FDA promotional content that was disseminated on that site. 
+142 
+ 
+143 
+Example 2:  A firm does not have any control of, or influence on, information on an independent third-
+144 
+party site but chooses to promote its product on this site (e.g., by providing specific promotional content 
+145 
+such as firm-initiated UGC).  In this situation, to meet postmarketing submission requirements, the firm is 
+146 
+responsible for submitting to FDA the promotional content it provided to the site.  (See Section V for 
+147 
+FDA’s recommendations for how to submit.)  
+148 
+ 
+149 
+Example 3:  A firm makes suggestions on the placement of its promotional messages on an independent 
+150 
+third-party site.  Because the firm influenced the placement of its promotion within the third-party site, 
+151 
+the firm is responsible for submitting to FDA the promotion, along with the surrounding pages, to 
+152 
+adequately provide context to facilitate the review of the third-party site, in order to fulfill the 
+153 
+postmarketing submission requirements.   
+154 
+ 
+155 
+In summary, regardless of financial support, if a firm has any control of, or influence on, the third-party 
+156 
+site, even if limited in scope, it is responsible for submission to FDA to meet the postmarketing 
+157 
+submission requirements. 
+158 
+ 
+159 
+3. 
+A firm is responsible for the content generated by an employee or agent who is acting on behalf of 
+160 
+the firm to promote the firm’s product. 
+161 
+ 
+162 
+FDA’s regulation of prescription drug product promotion extends both to promotional activities that are 
+163 
+carried out by the firm itself, and to promotion conducted on the firm’s behalf.  Therefore, a firm is 
+164 
+responsible for the content generated by its employees or any agents acting on behalf of the firm who 
+165 
+promote the firm’s product.  For example, if an employee or agent of a firm, such as a medical science 
+166 
+liaison or paid speaker (e.g., a key opinion leader) acting on the firm’s behalf, comments on a third-party 
+167 
+site about the firm’s product, the firm is responsible for the content its employee or agent provides.  A 
+168 
+firm is also responsible for the content on a blogger’s site if the blogger is acting on behalf of the firm.  
+169 
+Therefore, a firm is responsible for UGC and communications of its employees or anyone acting on 
+170 
+behalf of the firm and, as such, those materials are subject to submission to FDA to meet the 
+171 
+postmarketing submission requirements. 
+172 
+ 
+173 
+All UGC meeting these parameters for interactive promotional media should be submitted to the FDA as 
+174 
+recommended below in Section V. 
+175 
+ 
+176 
+
+
+=== PAGE 8 ===
+
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+ 
+ 
+5 
+Example 4:  A sales representative acting on behalf of a firm posts comments about the innovative release 
+177 
+mechanism of the firm’s product on an independent third-party site.  Because the sales representative is 
+178 
+acting on behalf of the firm, the firm is responsible for submitting the comments to FDA to meet the 
+179 
+postmarketing submission requirements. 
+180 
+ 
+181 
+Example 5:  A representative of a firm, such as a blogger paid by the firm, maintains a blog about the 
+182 
+firm’s product.  The firm is responsible for submitting the blog to FDA to meet the postmarketing 
+183 
+submission requirements. 
+184 
+ 
+185 
+FDA recommends that a firm be transparent in disclosing its involvement on a site by clearly identifying 
+186 
+the UGC and communications of its employees or third parties acting on behalf of the firm.  This could be 
+187 
+achieved by inclusion of the firm's identifier (e.g., name or logo) as part of the communication.  However, 
+188 
+a firm generally is not responsible for UGC that is truly independent of the firm (i.e., is not produced by, 
+189 
+or on behalf of, or prompted by the firm in any particular).5  FDA will not ordinarily view UGC on firm-
+190 
+owned or firm-controlled venues such as blogs, message boards, and chat rooms as promotional content 
+191 
+on behalf of the firm as long as the user has no affiliation with the firm and the firm had no influence on 
+192 
+the UGC. 
+193 
+ 
+194 
+FDA recommends that a firm submit to the Agency on Form FDA 2253 or Form FDA 2301 specimens of 
+195 
+the interactive promotional media being used on the firm-owned or firm-controlled venue (e.g., blog, 
+196 
+message board, or chat room), as described below in Section V.  FDA recognizes that firms may be 
+197 
+submitting both firm-generated and independent UGC on Form FDA 2253 or Form FDA 2301 as both 
+198 
+firm-generated and independent UGC may be dispersed throughout the interactive promotional venue.    
+199 
+ 
+200 
+V. 
+RECOMMENDATIONS FOR SUBMITTING INTERACTIVE PROMOTIONAL MEDIA 
+201 
+ 
+202 
+FDA recognizes the challenges of submitting promotional materials that display real-time information 
+203 
+and, in this section, recommendations for submitting interactive promotional media are provided.  If a 
+204 
+firm submits interactive promotional media in the manner described in this draft guidance, FDA intends 
+205 
+to exercise enforcement discretion regarding the regulatory requirements for postmarketing submissions 
+206 
+related to promotional labeling and advertising.  However, the Agency’s expectations for submitting static 
+207 
+promotional materials (e.g., sites that do not allow real-time communications and emails with 
+208 
+predetermined content) that are substantially similar to traditional promotional materials in presentation 
+209 
+and content remain unchanged.6 
+210 
+ 
+211 
+Unless otherwise specified in this guidance, the principles set forth below apply to the submission of 
+212 
+interactive promotional media that display real-time communications, regardless of the target audience.  
+213 
+                                                     
+5 Cf. 47 U.S.C. 230(c)(1) (“no provider or user of an interactive computer service shall be treated as the publisher or 
+speaker of any information provided by another information content provider”).  The Communications Decency Act 
+further defines “information content provider” as someone “responsible, in whole or in part, for the creation or 
+development of information provided through the Internet or any other interactive computer service.” 47 U.S.C. 
+230(f)(3). 
+6 Please note that the Agency expects that submissions of static promotional materials should remain unchanged.  
+For example, a firm should submit its entire static product website at the time of first use.  If the firm then updates 
+one page or section of this static product website, the firm can submit only the updated page or section with a cross-
+reference to the original submission of the website noted on Form FDA 2253 or Form FDA 2301, including the date 
+of the original submission.  If the website is substantially revised, the firm should submit the revised website in its 
+entirety. 
+
+
+=== PAGE 9 ===
+
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+ 
+ 
+6 
+The examples and recommendations provided are intended to provide guidance and illustrate possible 
+214 
+approaches.  Firms are free to use alternative approaches if these approaches satisfy the requirements of 
+215 
+the statute and regulations.   
+216 
+ 
+217 
+1. 
+At the time of initial display, a firm should submit in its entirety all sites for which it is responsible 
+218 
+on Form FDA 2253 or Form FDA 2301.  For example, the firm should submit the comprehensive 
+219 
+static product website with the addition of the interactive or real-time components.7   
+220 
+ 
+221 
+The firm should include annotations to describe the parts that are interactive and allow for real-time 
+222 
+communications.  Any subsequent changes should be annotated and resubmitted to the Agency on Form 
+223 
+FDA 2253 or Form FDA 2301 at the time of initial display (i.e., resubmission).  The firm should also 
+224 
+provide a cross-reference by noting the submission date of the most recent version of the site in the 
+225 
+comments section of the form.  However, after the initial submission or resubmission, if the site is 
+226 
+publically accessible without restrictions such as a password or subscription (“non-restricted”) and  
+227 
+remains unchanged other than displaying real-time information, FDA does not intend to object if the firm 
+228 
+submits to the Agency on Form FDA 2253 or Form FDA 2301 an updated listing of the site that does not 
+229 
+include screenshots or other visual representations of the actual interactive or real-time communication, as 
+230 
+described in number 3 below. If access to the site is restricted (e.g., is password protected or a 
+231 
+subscription is required), see number 4 below. 
+232 
+ 
+233 
+2. 
+For third-party sites on which a firm’s participation is limited to interactive or real-time 
+234 
+communications, a firm should submit the home page of the third-party site, along with the 
+235 
+interactive page within the third-party site and the firm’s first communication, on Form FDA 2253 or 
+236 
+Form FDA 2301 at the time of initial display.   
+237 
+ 
+238 
+The firm may include any annotations that describe its communications within the third-party site.  After 
+239 
+the initial submission, if the firm remains an active participant on the third-party site, and that site is non-
+240 
+restricted, FDA does not intend to object if the firm submits to the Agency on Form FDA 2253 or Form 
+241 
+FDA 2301 an updated listing of the site that does not include screenshots or other visual representations 
+242 
+of the actual interactive or real-time communication, as described in number 3 below.  If access to the site 
+243 
+is restricted, see number 4 below. 
+244 
+ 
+245 
+3. 
+Once every month, a firm should submit an updated listing of all non-restricted sites for which it is 
+246 
+responsible or in which it remains an active participant and that include interactive or real-time 
+247 
+communications.  Firms need not submit screenshots or other visual representations of the actual 
+248 
+interactive or real-time communications with the monthly updates. 
+249 
+ 
+250 
+Once every month, the firm should submit a Form FDA 2253 or Form FDA 2301 for the non-restricted 
+251 
+sites for which the firm is responsible or in which it remains an active participant and that include 
+252 
+interactive or real-time communications.  Multiple sites and the corresponding documents can be 
+253 
+submitted with a single Form FDA 2253 or Form FDA 2301.  Firms should include a separate document 
+254 
+for each site which includes the site name, URL, and date range, as well as a cross-reference to the date of 
+255 
+the most recent submission of the site.  Screenshots or other visual representations of the actual 
+256 
+interactive or real-time communications need not be submitted with the monthly updates if the site is non-
+257 
+                                                     
+7 It is preferable for the firm to submit the interactive or real-time communications in an archivable format that 
+allows FDA to view and interact with the submission in the same way as the end user (e.g., working links).  
+Alternatively, firms should submit screen shots or other visual representations. 
+ 
+
+
+=== PAGE 10 ===
+
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+ 
+ 
+7 
+restricted.  The appropriate FDA center (CDER, CBER, or CVM) should be informed via general 
+258 
+correspondence on the first day the firm ceases to be active on a site. 
+259 
+ 
+260 
+4. 
+However, if a site has restricted access and, as such, FDA may not have access to the site, a firm   
+261 
+should submit all content related to the discussion (e.g., all UGC about the topic), which may or may 
+262 
+not include independent UGC, to adequately provide context to facilitate the review.  Screenshots or 
+263 
+other visual representations of the actual site, including the interactive or real-time communications, 
+264 
+should be submitted monthly on Form FDA 2253 or Form FDA 2301. 
+265 
+ 
+266 
+5. 
+When submitting the site, FDA recommends that a firm take formatting factors (e.g., appearance, 
+267 
+layout, visual impression) into consideration to enable the Agency to view the communications as a 
+268 
+whole. 
+269 
+
+

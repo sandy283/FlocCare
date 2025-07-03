@@ -1,0 +1,46 @@
+=== PAGE 1 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Powered to enable a response
+
+STUDY DESIGN           EFFICACY RESULTS           SAFETY PROFILE
+
+NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines®) Recommendations for Cholangiocarcinoma
+
+             Futibatinib (LYTGOBl) is recommended as a National Comprehensive Cancer Network® (NCCN®) subsequent-line systemic therapy option for unresectable or metastatic
+             intrahepatic or extrahepatic cholangiocarcinoma with FGFR2 fusions or rearrangements if disease progression5†
+
+                                                         Sample‡ treatment algorithm for subsequent-line use for CCA with *FGFR2* fusions or rearrangements:
+
+                           Primary Therapy for Unresectable                                                Subsequent-Line Therapy
+                           and Metastatic Disease                                                        if Disease Progression
+
+                           Durvalumab +                                                                    Futibatinib (LYTGOBl)
+                           gemcitabine + cisplatin
+
+*NCCN Category 2A recommendation: based upon lower-level clinical evidence, there is uniform NCCN consensus (>95% support of the Panel) that the intervention is appropriate.
+†Treatment selection depends on clinical factors, including previous treatment regimen/agent, somatic molecular testing results, and extent of liver dysfunction.
+‡These treatment algorithms are examples only; other treatment options are recommended in the NCCN Guidelines.
+
+**Visual Description:**
+The top section features a large, light blue to green gradient background. On the left side, there's a prominent red vertical bar followed by the text "Powered to enable a response". To the right of this text, an abstract image of a white, textured rhino's head and upper body is partially visible, facing right. Below this, there are three rectangular tabs, like a navigation menu, labeled "STUDY DESIGN", "EFFICACY RESULTS", and "SAFETY PROFILE". "EFFICACY RESULTS" is highlighted, suggesting it is the active tab.
+
+Below the top banner, there's a white box containing text and a flowchart. The first part is a header in a blue bar: "NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines®) Recommendations for Cholangiocarcinoma". Below this, there's a paragraph of text explaining the recommendation for Futibatinib. Following the text, a simplified flowchart illustrates a treatment algorithm. It starts with "Primary Therapy for Unresectable and Metastatic Disease" with a sub-box for "Durvalumab + gemcitabine + cisplatin". An arrow points from this primary therapy towards "Subsequent-Line Therapy if Disease Progression", which has a sub-box for "Futibatinib (LYTGOBl)". Below the flowchart, there are three small footnotes indicated by asterisks and daggers.
+
+LYTGOBl demonstrated an overall response rate (ORR) of 42% in patients with previously treated locally advanced or metastatic iCCA¹
+
+**Visual Description:**
+This section, also within a white box, focuses on the overall response rate. It has a header in a blue bar: "LYTGOBl demonstrated an overall response rate (ORR) of 42% in patients with previously treated locally advanced or metastatic iCCA¹".
+Below the header, there's a bar chart and a summary box.
+On the left, a vertical bar chart shows a Y-axis labeled in percentages from 0% to 100%. A single bar extends up to the 42% mark. Text next to this bar states "N=103 patients", and text within the bar says "ORR: 42%". Below this chart, the text "2.5 months median time to response (range: 0.7-7.4)" is present.
+On the right, a separate blue-shaded box is displayed with a green, stylized flower or asterisk icon at the top. Inside this box, the text reads: "The ORR for LYTGOBl was", followed by "42%" in large font, and then "(95% Cl: 32%, 52%)" and "* PR: 42%".
+
+Patients experienced a median duration of response (mDoR) of nearly 10 months with LYTGOBl¹
+
+**Visual Description:**
+This final section, contained within a white box, presents data on the duration of response. It has a header in a blue bar: "Patients experienced a median duration of response (mDoR) of nearly 10 months with LYTGOBl¹".
+Below the header, there is a horizontal bar chart representing the duration of response in months. The X-axis is labeled "Months" with tick marks at 0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20.
+On the left side of the chart, "Median DoR" is stated, followed by "9.7 Months" in large font and "(95% Cl: 7.6, 17.1)" in smaller font.
+The bar chart itself shows a dark blue bar extending from 0 up to approximately 9.7 months. A dotted vertical line marks "Median DoR" at the 9.7-month point. A lighter blue bar continues beyond the dark blue section, extending to the end of the visible chart.
+Below the chart, there are two incomplete lines of text with percentages: "72% of responders (n=31) had" and "14% of responders (n=6) had". The rest of the sentences are cut off at the bottom of the page.

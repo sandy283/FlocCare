@@ -1,0 +1,49 @@
+=== PAGE 3 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is all the text content extracted from the PDF page, preserving its original layout and structure:
+
+1. Crenolanib, whether delivered by itself or as part of a drug combination, has shown benefit in FLT3 mutant AML.
+2. Patients who progress after treatment with prior TKIs may still remain sensitive to crenolanib.
+3. Crenolanib has favorable pharmacokinetics and does not accumulate with repeated dosing.
+4. Crenolanib is a selective type I TKI that does not inhibit wild-type cKIT.
+
+---
+An image is present on the left side of the page, depicting hands holding what appears to be a newspaper or document. Overlaid on this image in large white text is "crenolanib in the news", indicating the theme of the adjacent content.
+
+On the right side of this section, a list of news items/presentations is provided:
+Arog Pharmaceuticals Presents Crenolanib Clinical Data at
+the 2018 European Hematology Association Meeting
+
+Arog Pharmaceuticals Presents Crenolanib Clinical Data at
+the 2017 American Society of Clinical Oncology Annual
+Meeting
+
+Arog Pharmaceuticals Presents Crenolanib Clinical Data at
+57th American Society of Hematology Annual Meeting
+
+Arog Pharmaceuticals Receives Orphan Drug Designation
+in the European Union for Crenolanib for the Treatment of
+Acute Myeloid Leukemia and Soft Tissue Sarcoma
+
+AROG Pharmaceuticals to Present Clinical Data on
+Crenolanib at the 2016 American Society of Hematology
+Annual Meeting
+
+Arog Pharmaceuticals Receives FDA Fast Track
+Designation for Crenolanib for Advanced Gastrointestinal
+Stromal Tumors with a D842V Mutation in the PDGFRA
+Gene
+
+Arog Pharmaceuticals Presents Crenolanib Clinical Data at
+the 2016 American Society of Clinical Oncology Annual
+Meeting
+---
+
+An image spans the width of the lower part of the page, showing a blurred audience in a dimly lit conference or presentation hall. Superimposed on this image in large white text are the words "recent conference presentations," serving as a section header for related content.
+
+---
+
+1. Collins R, Kantarjian HM, Levis MJ, et al. Clinical Activity Of Crenolanib In Patients With D835 Mutant FLT3-Positive
+Relapsed/Refractory Acute Myeloid Leukemia (AML). J Clin Oncol 2014; 32:5s (suppl; abstr 7027).

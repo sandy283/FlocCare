@@ -1,0 +1,56 @@
+=== PAGE 3 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Colin Vechery, PharmD
+Novartis Pharmaceuticals Corporation
+NDA 209092/MA 1344
+
+                                                                                                       Page 3
+
+limitations to the PRO analysis described in the cited reference⁵ (the MONALEESA-2 clinical
+trial) which preclude the drawing of such conclusions regarding benefits related to QoL.⁶
+Specifically, while PROs for health-related QoL were included in the trial as secondary
+endpoints, there was no alpha-allocation, and, therefore, no specified false positive error rate, it is not known whether the QoL outcome data
+represents a false positive finding that occurred by chance alone. The PRO data in the cited
+references are, therefore, considered exploratory (i.e., hypothesis generating), and they do
+not, as you have claimed, demonstrate that Kisqali “helps preserve quality of life” or that it
+supports patients’ “living well.”
+
+The SUPER on frame nine presents 26-month check-in data from MONALEESA-2. The
+presentation of these data creates a misleading impression regarding the benefits of Kisqali
+because of the significant limitations to the PRO analysis performed in the MONALEESA-2
+trial. First, you have not demonstrated that the PRO assessments were frequent enough to
+collect data to support the claims regarding QoL at the 26-month check-in. Specifically, in
+MONALEESA-2, global QoL was assessed only every eight weeks for the first 18 months and
+then every 12 weeks thereafter. You have not accounted for concerns that QoL could
+fluctuate significantly between these assessment points and that in the context of patients
+with advanced or metastatic breast cancer, variations in QoL across the assessment period
+may be greater than in the general population. There was no assessment to demonstrate the
+appropriateness of the intervals used to assess global QoL in this study and, additionally, the
+fact that the measurement tool included only a seven-day recall period (i.e., patients were
+only asked about their QoL in the past seven days) means that patients’ perceptions of their
+QoL *outside* of that seven-day period likely were not captured. Second, these claims are
+based on the PRO endpoint of global QoL, which can be confounded by non-treatment and
+non-disease related factors such as non-cancer related health conditions (e.g., gout,
+migraines), personal difficulties (e.g., loss of loved one), and/or acute events unrelated to
+cancer or treatment (e.g., a car accident). Because the study was not designed to account
+for these potential confounding factors, the outcome may reflect elements of a patient’s QoL
+that are not directly related to the disease and treatment being studied. Third, the study
+measured global QoL based on a 10% deterioration threshold with no confirmation of or
+justification for a 10% decrease in global health score being a meaningful deterioration
+specifically for patients with metastatic breast cancer who are undergoing treatment. Lastly,
+you have not demonstrated that the time to deterioration endpoint, as assessed in this trial, is
+appropriate for evaluating PROs. For example, you have not accounted for the potential that
+patients who experience a persistent decrease in QoL may stop taking the drug, and patients
+
+⁵ MONALEESA-2 Clinical Trial. See: https://clinicaltrials.gov/study/NCT01958021 (accessed January 17, 2024)
+
+⁶ We note that FDA encourages thoughtful inclusion of patient-reported outcomes in the design and conduct of
+clinical trials, where appropriate. See, for example, FDA’s Guidance for Industry: Patient-Reported Outcome
+Measures: Use in Medical Product Development to Support Labeling Claims; FDA Patient-Focused Drug
+Development Guidance Series for Enhancing the Incorporation of the Patient’s Voice in Medical Product
+Development and Regulatory Decision Making; and the Draft Guidance for Industry: Core Patient-Reported
+Outcomes in Cancer Clinical Trials.
+
+Reference ID: 5312143

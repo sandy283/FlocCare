@@ -1,0 +1,40 @@
+=== PAGE 2 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+responses that lasted 26 months
+responses that lasted 21 year
+
+**FOENIX-CCA2: Additional endpoints**
+
+LYTGOBI received accelerated approval from the FDA based on ORR and DoR in a single-arm study¹
+* For this reason, a confirmatory study in cholangiocarcinoma is underway¹
+* Progression-free survival, overall survival, and disease control rate were prespecified secondary endpoints that were studied in FOENIX-CCA2 and that are not reflected in the full
+  Prescribing Information²
+* Due to potential variability in the natural history of the disease, a single-arm study may not adequately characterize these time-to-event endpoints and the results may not be interpretable
+* This data presentation is neither intended to draw conclusions regarding the efficacy of LYTGOBI nor to imply that there is a treatment effect of LYTGOBI on these time-to-event
+  endpoints and the results should be interpreted with caution
+
+**Visual Element 1: Kaplan-Meier curve for Progression-free survival (PFS)**
+This is a Kaplan-Meier survival curve titled "Progression-free survival (PFS)²,³".
+The main title for the graph is "Kaplan-Meier estimate of PFS (N=103)".
+The Y-axis is labeled "Progression-free Survival (%)" and ranges from 0 to 100 in increments of 20.
+The X-axis is labeled "Months" and ranges from 0 to 27 in increments of 3.
+The curve shows the progression-free survival percentage over time.
+The median progression-free survival is stated as "Median, 9.0 mo (95% CI: 6.9, 13.1)".
+
+Below the graph, there is a table showing the number of subjects "At risk" and "Censored" at different time points (months):
+|          | 0  | 3  | 6  | 9  | 12 | 15 | 18 | 21 | 24 | 27 |
+|----------|----|----|----|----|----|----|----|----|----|----|
+| At risk  | 103| 79 | 61 | 36 | 19 | 12 | 5  | 1  | 0  |    |
+| Censored | -  | 7  | 2  | 11 | 11 | 4  | 2  | 1  | 1  |    |
+A footnote below the table states: "Median follow-up at time of data cutoff was 17.1 months".
+
+**Visual Element 2: Kaplan-Meier curve for Overall survival (OS)**
+This is a Kaplan-Meier survival curve titled "Overall survival (OS)²,³".
+The main title for the graph is "Kaplan-Meier estimate of OS (N=103)".
+The Y-axis is labeled "Overall Survival (%)" and ranges from 0 to 100 in increments of 20.
+The X-axis is labeled with tick marks at 0, 3, 6, 9, 12, 15, 18, 21, 24, 27, representing "Months".
+The curve shows the overall survival percentage over time.
+The median overall survival is stated as "Median, 21.7 mo (95% CI: 14.5, Not Reached)".
+No table is provided below this graph.

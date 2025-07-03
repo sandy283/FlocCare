@@ -1,0 +1,59 @@
+=== PAGE 4 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Nicole Van de Vaarst                                                                  Page 4
+Mirati Therapeutics Inc., a Bristol Myers Squibb Co.
+NDA 216340/MA 166
+
+The “OS” and “PFS” navigation bar items on the “KRYSTAL-1 Efficacy” webpage include the
+claims “MEDIAN OS IN PATIENTS TAKING KRAZATI: 14.1 MONTHS,” and “MEDIAN PFS
+IN PATIENTS TAKING KRAZATI: 6.9 MONTHS” in conjunction with two graphs presenting
+“Survival Probability” and “PFS Probability” over time (months), respectively. According to
+the website, OS stands for overall survival and PFS stands for progression-free survival.
+Similar claims are also presented in the “ORR” navigation bar item under the “KRYSTAL-1
+Efficacy” webpage where the OS and PFS median data are reported in the same bulleted
+list as the DOR data. As a reference for these claims, you cite data on file.8,9 As previously
+noted, Krazati was approved based on an effect shown on ORR and DOR endpoints in
+KRYSTAL-1, a single-arm trial. PFS and OS are time-to-event efficacy endpoints. Time-to-
+event efficacy endpoints in single-arm trials are generally uninterpretable because it is not
+possible to determine if the observed effect (e.g., survival time) is attributable to the drug or
+the natural history of the disease. Evaluation of time-to-event endpoints requires
+randomized controlled trials because a comparator arm is necessary to assess whether the
+effect seen on the endpoint being studied is attributable to the drug or some other factor.
+Thus, these claims are misleading because they are based on the results of a trial that is not
+capable of producing interpretable OS and PFS results.
+
+We acknowledge that the text “descriptive analysis” appears under the “OS” and “PFS”
+navigation bar item headers when you click to view each of the items, as well as the
+following text that appears at the bottom of the “OS,” “PFS,” and “ORR” displays: “single-
+arm trials do not adequately characterize time-to-event endpoints such as OS/PFS. Thus,
+these data from KRYSTAL-1 cannot be interpreted as having OS/PFS benefit.” However,
+for the reasons discussed above, it is misleading to make such representations or
+suggestions about the efficacy of this drug based on KRYSTAL-1, which, as a single-arm
+trial, is not capable of supporting such representations or suggestions; and this is not
+corrected by disclosure of the study’s limitations.
+
+The “DOR” navigation bar item on the “KRYSTAL-1 Efficacy” webpage includes a graph
+titled “DESCRIPTIVE ANALYSIS MEDIAN DOR IN PATIENTS TAKING KRAZATI: 12.5
+MONTHS.” As with the “OS” and “PFS” navigation bar items, the text “descriptive analysis”
+appears below “DOR” in the navigation bar item header when you click to view the item.
+The median DOR reported from this graph, “12.5 MONTHS,” misleadingly overstates the
+efficacy of Krazati. According to Table 7 in the CLINICAL STUDIES section of the PI for
+Krazati, the median DOR for patients treated with Krazati is 8.5 months with a 95%
+confidence interval of 6.2 months to 13.8 months. You cite “data on file” for the claim and
+describe the data on file as including “pooled DOR” information in the annotated version of
+the website you submitted to FDA to comply with 21 CFR 314.550. Pooling data poses
+analytical problems as differences among studies and study populations can affect the
+validity and interpretability of pooled analyses. Particular concerns arise when there are
+differences in demographic or disease characteristics, treatment practices, methods for
+assessing efficacy, test procedures, and other study design features as these can all lead to
+significant heterogeneity in results that confound interpretation. Based on the information
+provided, FDA is not able to verify the presented results, and FDA is not aware of data that
+support your claim that the median DOR for patients treated with Krazati is 12.5 months. If
+___________
+8 Data on file. Analysis of Overall Survival, using ADS. Mirati Therapeutics, Inc. 2022.
+9 Data on file. Analysis of Progression-free Survival (Independent Central Review). Mirati Therapeutics, Inc.
+2022.
+
+Reference ID: 5423579

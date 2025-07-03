@@ -1,0 +1,58 @@
+=== PAGE 1 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+U.S. DEPARTMENT OF HEALTH & HUMAN SERVICES
+                                                Public Health Service
+                                                Food and Drug Administration
+                                                Silver Spring, MD 20993
+---
+Nicole Van de Vaarst, Senior Manager
+Mirati Therapeutics Inc., a Bristol Myers Squibb Co.
+Bristol Myers Squibb US Commercial Regulatory Affairs
+3401 Princeton Pike
+Lawrence, NJ 08648
+
+RE: NDA 216340
+    KRAZATI™ (adagrasib) tablets, for oral use
+    MA 166
+
+Dear Nicole Van de Vaarst:
+
+The Office of Prescription Drug Promotion (OPDP) of the U.S. Food and Drug Administration
+(FDA) has reviewed the promotional communication, the “KRYSTAL-1 Efficacy” webpage¹ on
+the Healthcare Provider Branded Website (US-KRA-22-00152) (website) for KRAZATI™
+(adagrasib) tablets, for oral use submitted by Mirati Therapeutics Inc., a Bristol Myers Squibb
+Co. under cover of Form FDA 2253. The FDA Bad Ad Program also received multiple
+complaints regarding the website.
+
+The website makes false or misleading claims and representations about the benefits of
+Krazati. Thus, the website misbrands Krazati within the meaning of the Federal Food, Drug,
+and Cosmetic Act (FD&C Act) and makes its distribution violative. 21 U.S.C. 352(a), (n);
+321(n); 331(a). See 21 CFR 202.1(e)(5). These violations are particularly concerning
+because the promotional communication makes misleading representations about the
+efficacy of Krazati in patients with KRAS G12C-mutated locally advanced or metastatic non-
+small cell lung cancer (NSCLC). Metastatic NSCLC is an incurable condition with a 5-year
+survival rate of less than 10%, and lung cancer is a serious public health concern and
+treatment for this condition involves serious risks. Lung cancer is by far the leading cause of
+cancer death in the United States, accounting for about 1 in 5 of all cancer deaths.²
+
+Background
+
+Below are the indication and summary of the most serious and most common risks
+associated with the use of Krazati.³ According to the INDICATIONS AND USAGE section of
+
+¹ The “KRYSTAL-1 Efficacy” webpage is accessed from the “Efficacy” menu item under the “Clinical Data” sub-
+navigation menu of the website, including the “ORR”, “DCR”, “Intracranial ORR”, “DOR”, “OS”, and “PFS”
+navigation bar items: https://www.krazatihcp.com/efficacy (last accessed July 31, 2024).
+² American Cancer Society: Key Statistics for Lung Cancer. See: https://www.cancer.org/cancer/types/lung-
+cancer/about/key-statistics.html.
+³ This information is for background purposes only and does not necessarily represent the risk information that
+should be included in the promotional communication(s) cited in this letter.
+
+Reference ID: 5423579
+
+**Visual Elements Description:**
+
+*   **Top Left Logo:** A circular logo is present on the top left of the page. It features a stylized representation of an eagle or bird, with its wings spread, forming a dynamic shape. The text "U.S. DEPARTMENT OF HEALTH & HUMAN SERVICES" is curved around the perimeter of this design. This logo represents the governmental agency.
+*   **Horizontal Line:** A thin, solid black horizontal line spans most of the width of the page, located below the header information and above the recipient's address. It serves as a visual separator between the header block (agency name, address) and the main content of the letter.

@@ -1,0 +1,60 @@
+=== PAGE 2 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Fabio Almeida, MD
+Phoenix Molecular Imaging
+(b)(4)/MA 1
+
+Page 2
+
+which it is intended. 21 CFR 201.5. Your webpage describes 11C-Acetate as a useful PET
+scan agent for detecting recurrent prostate cancer. This use is one for which a prescription
+would be needed because it requires the supervision of a physician and, thus, adequate
+directions for lay use cannot be written.
+
+Although 21 CFR 201.115(b) provides an exemption from the adequate directions for use
+requirement in section 502(f)(1) of the FD&C Act if a new drug "complies with section 505(i)
+. . and regulations thereunder," your investigational drug fails to do so.² Among the
+requirements for the exemption for investigational drugs, 21 CFR 312.7 provides that “[a]
+sponsor or investigator, or any person acting on behalf of a sponsor or investigator, shall not
+represent in a promotional context that an investigational new drug is safe or effective for the
+purposes for which it is under investigation or otherwise promote the drug. This provision is
+not intended to restrict the full exchange of scientific information concerning the drug,
+including dissemination of scientific findings in scientific or lay media. Rather, its intent is to
+restrict promotional claims of safety or effectiveness of the drug for a use for which it is under
+investigation and to preclude commercialization of the drug before it is approved for
+commercial distribution."
+
+The webpage contains claims and presentations that promote 11C-Acetate as safe and
+effective for the purpose for which it is being investigated or otherwise promote the drug,
+including the examples that follow (emphasis added). We note that 11C-choline and
+fluciclovine F 18 are approved products for PET imaging.
+
+* “11C-choline and 11C-acetate are lipid metabolism PET agents. **Both of these
+  agents are useful for detecting recurrent disease after a PSA [prostate-specific
+  antigen] relapse.”**
+
+* “Small direct comparison studies of 11C-acetate and 11C-choline have revealed no
+  clear clinical differences between these agents, although a few studies have
+  **suggested a slightly higher detection rate of local recurrences and small pelvic
+  lymph node metastases with 11C-acetate.”**
+
+* “In some patients, the muscle uptake of Axumin [(fluciclovine F 18)] may be so high as
+  to render the study non-diagnostic, despite having properly abstained from physical
+  activity prior to the scan. Additionally, in a small but significant number of patients,
+  interfering urinary excretion is seen. **These factors likely help explain the apparent
+  lower performance of this agent compared to 11C-Acetate and Choline.”**
+
+* “The lack of urinary tracer excretion of **11C-Acetate allows visualization** of small and
+  subtle lesions in this region, not typically possible with PSMA [prostate-specific
+  membrane antigen] based agents.”
+
+* “So far Axumin [(fluciclovine F 18)] (detection rate 68%, 38% false positive) . . . does
+  not appear to perform nearly as well as Acetate or Choline (88-90% detection rate and
+
+² 21 CFR 201.100 offers another exemption from the requirement for adequate directions for use for prescription
+drugs provided certain requirements are met; however, 11C-Acetate does not fall within that exemption because
+it is an investigational new drug for which there is no marketing authorization in the United States.
+
+Reference ID: 4391928

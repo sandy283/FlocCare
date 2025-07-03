@@ -1,0 +1,123 @@
+=== PAGE 4 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving its original layout and structure:
+
+**KRAZATI®**
+**(adagrasib)** 200 mg TABLETS
+
+**KRAS G12C in NSCLC**
+
+**KRAZATI MOA**
+
+**Clinical Data**
+**∨**
+
+**Dosage**
+
+**Resources & Support**
+**∨**
+
+**STAY CONNECTED**
+
+**IMPORTANT SAFETY INFORMATION**
+**PRESCRIBING INFORMATION**
+**REFERENCES**
+**VISIT PATIENT SITE**
+
+NSCLC
+**∨**
+
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="width:25%; text-align: center; padding: 5px; border: 1px solid black;">DCR</td>
+    <td style="width:25%; text-align: center; padding: 5px; border: 1px solid black;">DOR</td>
+    <td style="width:25%; text-align: center; padding: 5px; border: 1px solid black;">Intracranial ORR</td>
+    <td style="width:25%; text-align: center; padding: 5px; border: 1px solid black;">OS</td>
+    <td style="width:25%; text-align: center; padding: 5px; border: 1px solid black;">PFS</td>
+    <td style="width:25%; text-align: center; padding: 5px; border: 1px solid black;">DOR</td>
+  </tr>
+</table>
+
+**REGISTRATIONAL PHASE 2 COHORT**
+**DCR IN PATIENTS TAKING KRAZATI: 80%** (n=112; 95% CI: 70.8-86.5)^^
+
+*   Depth of response shows 80% of patients experienced tumor shrinkage of any magnitude.
+*   Median follow-up time was 12.9 months.^
+
+**Click a button to see**
+**the best tumor response**
+**∨**
+
+**Description of Visual Element: Waterfall Plot**
+This section displays a waterfall plot, which is a type of bar chart used in oncology to show the change in tumor size for individual patients after treatment.
+
+*   **Y-axis:** Labeled "PERCENT CHANGE FROM BASELINE," ranging from -100 to +40, indicating the percentage change in tumor size from baseline. Negative values signify tumor shrinkage, while positive values indicate tumor growth.
+*   **X-axis:** Represents individual patients, labeled "PATIENTS WITH MEASURABLE DISEASE AT BASELINE."
+*   **Bars:** Each vertical bar represents a single patient's best tumor response. The bars extend downwards for tumor shrinkage and upwards for tumor growth. Many bars are below the 0% line, indicating tumor shrinkage.
+*   **Highlight:** A green shaded area is visible on the left side of the plot, accompanied by the text "75% OF RESPONDERS ACHIEVED A >50% RESPONSE^3." This highlights the proportion of patients who achieved significant tumor reduction.
+*   **Legend/Response Categories (Right side):**
+    *   **Stable Disease:** 37% (indicated by a gray circle next to the label)
+    *   **Partial Response** (indicated by a blue circle next to the label)
+    *   **Complete Response** (indicated by a green circle next to the label)
+    *   **Progressive Disease** (indicated by a red circle next to the label)
+
+The plot visually supports the claim that 80% of patients experienced tumor shrinkage, with a significant portion showing greater than 50% reduction.
+
+**Second line provides the first opportunity to target KRAS G12C with KRAZATI.**
+
+^^Tumor response was assessed by BICR. Phase 2 data cutoff: October 15, 2021. Additional follow-up planned.
+BICR=blinded independent central review; CI=confidence interval; DCR=disease control rate.
+
+**SAFETY ➔**
+
+**IMPORTANT SAFETY INFORMATION**
+**WARNINGS AND PRECAUTIONS**
+
+**Gastrointestinal Adverse Reactions**
+*   KRAZATI can cause severe gastrointestinal adverse reactions.
+*   Monitor and manage patients using supportive care, including antidiarrheals, antiemetics, or fluid replacement, as indicated. Withhold, reduce the dose, or permanently discontinue KRAZATI based on severity.
+
+**QTc Interval Prolongation**
+*   KRAZATI can cause QTc interval prolongation, which can increase the risk for ventricular tachyarrhythmias (eg, torsades de pointes) or sudden death.
+*   Avoid concomitant use of KRAZATI with other products with a known potential to prolong the QTc interval. Avoid use of KRAZATI in patients with congenital long QT syndrome and in patients with concurrent QTc prolongation.
+*   Monitor ECGs and electrolytes prior to starting KRAZATI, during concomitant use, and as clinically indicated in patients with congestive heart failure, bradyarrhythmias, electrolyte abnormalities, and in patients who are taking medications that are known to prolong the QT interval. Withhold, reduce the dose, or permanently discontinue KRAZATI, depending on severity.
+
+**Hepatotoxicity**
+*   KRAZATI can cause hepatotoxicity, which may lead to drug-induced liver injury and hepatitis.
+*   Monitor liver laboratory tests (AST, ALT, alkaline phosphatase, and total bilirubin) prior to the start of KRAZATI, and monthly for 3 months or as clinically indicated, with more frequent testing in patients who develop transaminase elevations. Reduce the dose, withhold, or permanently discontinue KRAZATI based on severity.
+
+**Interstitial Lung Disease/Pneumonitis**
+*   KRAZATI can cause interstitial lung disease (ILD)/pneumonitis, which can be fatal.
+*   Monitor patients for new or worsening respiratory symptoms indicative of ILD/pneumonitis (eg, dyspnea, cough, fever) during treatment with KRAZATI.
+*   Withhold KRAZATI in patients with suspected ILD/pneumonitis and permanently discontinue KRAZATI if no other potential causes of ILD/pneumonitis are identified.
+
+**ADVERSE REACTIONS**
+*   The most common adverse reactions in NSCLC patients (≥20%) are diarrhea, nausea, vomiting, musculoskeletal pain, fatigue, cough, decreased appetite, pneumonia, dizziness, constipation, abdominal pain, and QTc interval prolongation.
+
+**USE IN SPECIFIC POPULATIONS**
+**Females and Males of Reproductive Potential**
+*   Infertility: Based on findings from animal studies, KRAZATI may impair fertility in females and males of reproductive potential.
+
+Please see **Full Prescribing Information.**
+
+**INDICATION**
+
+KRAZATI is indicated for the treatment of adult patients with KRAS G12C-mutated locally advanced or metastatic non-small cell lung cancer (NSCLC), as determined by an FDA-approved test, who have received at least one prior systemic therapy.
+
+This indication is approved under accelerated approval based on objective response rate (ORR) and duration of response (DOR). Continued approval for this indication may be contingent upon verification and description of a clinical benefit in a confirmatory trial(s).
+
+**∧**
+
+**Bristol Myers Squibb®**
+
+© 2024 Mirati Therapeutics, Inc., a Bristol Myers Squibb company.
+
+KRAZATI® and the related logo are are registered trademarks of Mirati Therapeutics, Inc.
+
+US-KRA-22-00152 v8 8/24
+
+**LEGAL NOTICE** | **PRIVACY POLICY** | **YOUR PRIVACY CHOICES**
+
+This website is intended for U.S. residents 18 years of age or older.

@@ -1,0 +1,33 @@
+=== PAGE 9 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Overview of PET/CT Imaging in Recurrent Prostate Cancer – Current and Emerging Techniques — DrFabio                                          9
+
+Better agents for detecting PSMA have been developed, such as 68gallium-
+PSMA-11. Several retrospective studies have indicated a higher diagnostic
+efficiency of 68Ga-PSMA PET/CT compared to 11C-choline PET. In one study,
+for example, with 319 patients with PSA relapse, an overall 82.8% detection rate
+was seen. As might be expected, the probability of detecting lesions was
+correlated with PSA level. A 50% detection was seen when the PSA was 0.2-0.5,
+58.3% detection with a PSA of 0.5-1.0, 71.8% detection with a PSA of 1.0-2.0,
+and 93% detection when the PSA was over 2.0.
+
+No PSMA PET agents are yet commercially available, with 68Ga-PSMA-11
+under clinical trial investigation in multiple U.S. institutions (e.g. UCSF, UCLA,
+and Stanford University). “PSMA” is not one agent however. In addition to
+68Ga-PSMA-11, there are many different PSMA-targeting agents in current
+development – somewhat of a dizzying array. Each has a different molecular
+configuration, requiring study to understand how well they work and how they are
+different from each other. Competition for the “best” PSMA agent is likely to be
+fierce. Below is a list of some of the agents currently under investigation:
+
+    68Ga-PSMA-11
+    68Ga-PSMA-617
+    68Ga-PSMA-I&T
+    68Ga-PSMA-R2
+    68Ga-PSMA-SR6
+    68Ga-NODAGA
+    68Ga-P16-093
+
+http://www.drfabio.com/imagingblog/2018/1/9/overview-of-petct-imaging-in-recurrent-prostate-cancer-current-and-emerging-techniques[11/15/2018 11:25:57 AM]

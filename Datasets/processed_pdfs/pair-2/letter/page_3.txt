@@ -1,0 +1,56 @@
+=== PAGE 3 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Chris Jewell
+Taiho Oncology, Inc.
+NDA 214801/MA 89
+
+                                                                                          Page 3
+
+**False or Misleading Benefit Presentation**
+
+Prescription drug advertisements and labeling (promotional communications) misbrand a
+drug if they are false or misleading with respect to benefits. The determination of whether a
+promotional communication is misleading includes, among other things, not only
+representations made or suggested in the promotional communication, but also the extent to
+which the promotional communication fails to reveal facts material in light of the
+representations made or with respect to consequences that may result from the use of the
+drug as recommended or suggested in the promotional communication.
+
+The “Efficacy Results” webpage, under the “Efficacy & Safety” sub-navigation menu of the
+website for Lytgobi, includes the following in conjunction with efficacy representations
+regarding PFS and OS (in pertinent part, emphasis original, footnotes omitted):
+
+   - Presentation of a Kaplan-Meier estimate graph of PFS titled, “Progression-free survival
+     (PFS),” showing “Progression-free Survival (%)” on the y-axis and “Months” on the x-
+     axis
+
+       o “Median [PFS], 9.0 mo (95% CI: 6.9, 13.1)”
+
+       o “Median follow-up at time of data cutoff was 17.1 months”
+
+   - Presentation of a Kaplan-Meier estimate graph of OS titled, “Overall survival (OS),”
+     showing “Overall Survival (%)” on the y-axis and “Months” on the x-axis
+
+       o “Median [OS], 21.7 mo (95% CI: 14.5, Not Reached)”
+
+       o “At the time of data cutoff: Median follow-up was 17.1 months; the OS data
+         were not mature; during the study, 40 patients (39%) died following treatment
+         discontinuation with the majority (90%) dying from disease progression.”
+
+Similarly, the “Efficacy Results” webpage includes the following representations under the
+“Supplementary results” bolded header (in pertinent part, emphasis original):
+
+   - “Efficacy results at extended follow-up”
+
+   - “At a nonspecified follow-up analysis conducted 8 months after the primary analysis
+     (data cutoff, May 29, 2021; median follow-up, 25.0 months), efficacy in the overall
+     study population was maintained with:
+
+     ...
+
+       o “median PFS of 8.9 months”
+       o “median OS of 20.0 months”
+
+Reference ID: 5554583

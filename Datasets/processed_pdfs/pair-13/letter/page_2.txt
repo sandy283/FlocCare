@@ -1,0 +1,57 @@
+=== PAGE 2 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+James H. Medley
+Althera Pharmaceuticals LLC
+NDA 213072 MA 4
+
+                                                                        Page 2
+
+homozygous familial hypercholesterolemia (HoFH) to reduce LDL-C.
+
+Roszet is contraindicated in patients with acute liver failure or decompensated cirrhosis and
+in patients with hypersensitivity to rosuvastatin, ezetimibe, or any excipients in Roszet. The
+PI for Roszet includes warnings and precautions regarding myopathy and rhabdomyolysis,
+immune-mediated necrotizing myopathy, hepatic dysfunction, proteinuria and hematuria,
+and increases in HbA1c and fasting serum glucose levels. The most common adverse
+reactions reported with rosuvastatin were headache, nausea, myalgia, arthralgia, dizziness,
+asthenia, constipation, and abdominal pain; and with ezetimibe were upper respiratory tract
+infection, diarrhea, arthralgia, sinusitis, pain in extremity, fatigue, and influenza. The most
+common adverse reactions reported with ezetimibe co-administered with a statin were
+nasopharyngitis, myalgia, upper respiratory tract infection, arthralgia, diarrhea, back pain,
+influenza, pain in extremity, and fatigue.
+
+**False or Misleading Claims about Efficacy**
+
+Prescription drug advertisements and labeling (promotional communications) misbrand a
+drug if they are false or misleading with respect to efficacy. The determination of whether a
+promotional communication is misleading includes, among other things, not only
+representations made or suggested in the promotional communication, but also the extent to
+which the promotional communication fails to reveal facts material in light of the
+representations made or with respect to consequences that may result from the use of the
+drug as recommended or suggested in the promotional communication.
+
+The promotional communication includes the following claims (emphasis original):
+
+*   “TOTAL* LDL-C REDUCTIONS
+    *   Roszet 10 mg/10 mg **64%**
+    *   Roszet 20 mg/10 mg **66%**
+    *   Roszet 40 mg/10 mg **72%**”
+
+*   “Roszet 5 mg/10 mg total LDL-C reduction is 59%*.”
+
+These claims about the effect of Roszet, attributing specific levels of LDL-C reductions to the
+drug product at various dosages, are misleading. Specifically, as reflected in an asterisked
+note on these claims,² the LDL-C reductions claimed in the promotional communication are
+not the findings of any study of Roszet. Rather, the analysis used to generate these
+percentages combines the results of two separate and unrelated studies from the CLINICAL
+
+---
+² The asterisk on the claims cited above refers to a note that states: “*Roszet LDL-C reductions calculated from
+baseline. E.g. 64% reduction indicates final LDL-C is at 36% of the original baseline level i.e. (1-52%)*(1-25%)
+= 36%. [LDL-C reductions: rosuvastatin 10 mg = 52%; ezetimibe 10 mg = incremental 25% reduction]. Inclusion
+of this note does not mitigate the misleading claims given that they are based on a scientifically unsound
+analysis as discussed above.
+
+Reference ID: 4993452

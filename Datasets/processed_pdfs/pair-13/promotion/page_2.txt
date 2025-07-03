@@ -1,0 +1,194 @@
+=== PAGE 2 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving its original layout and structure:
+
+**Important Safety Information (continued)**
+
+**Contraindications**: ROSZET is contraindicated in
+patients with active liver disease or decompensated
+cirrhosis, and hypersensitivity to any component of
+this product.
+**Myopathy and Rhabdomyolysis**: ROSZET may
+cause myopathy (muscle pain, tenderness, or weak-
+ness with creatine kinase [CK] above ten times the
+upper limit of normal) and rhabdomyolysis. Acute
+kidney injury secondary to myoglobinuria and rare
+fatalities have occurred as a result of rhabdomyoly-
+sis with statins, including rosuvastatin.
+  Risk factors for myopathy include age 65 years
+or greater, uncontrolled hypothyroidism, renal im-
+pairment, concomitant use with certain other drugs
+including other lipid-lowering therapies, and higher
+ROSZET dosage; Asian patients on ROSZET may
+be at higher risk for myopathy. The myopathy risk
+is greater in patients taking ROSZET 40 mg/10 mg
+daily compared with lower ROSZET dosages.
+  The concomitant use of ROSZET with cyc-
+losporine or gemfibrozil is not recommended.
+ROSZET dosage modifications are recommended
+for patients taking certain anti-viral medications,
+darolutamide, and regorafenib. Niacin, fibrates,
+and colchicine may also increase the risk of myop-
+athy and rhabdomyolysis.
+  Discontinue ROSZET if markedly elevated CK
+levels occur or myopathy is diagnosed or sus-
+pected. Muscle symptoms and CK increases may
+resolve if ROSZET is discontinued. Instruct patients
+to promptly report any unexplained muscle pain,
+tenderness or weakness, particularly if accompa-
+nied by malaise or fever.
+**Immune-Mediated Necrotizing Myopathy**: There
+have been rare reports of immune-mediated
+necrotizing myopathy (IMNM), an autoimmune
+myopathy, associated with statin use. IMNM is
+characterized by: proximal muscle weakness and
+elevated serum creatine kinase, which persist de-
+spite discontinuation of statin treatment; positive
+anti-HMG CoA reductase antibody; muscle biopsy
+
+showing necrotizing myopathy; and improvement
+with immunosuppressive agents. Treatment with
+immunosuppressive agents may be required. Con-
+sider risk of IMNM carefully prior to initiation of a
+different statin. If therapy is initiated with a different
+statin, monitor for signs and symptoms of IMNM.
+**Hepatic Dysfunction**: Increases in serum transam-
+inases have occurred with rosuvastatin. Consider
+liver enzyme testing before ROSZET initiation and
+thereafter, when clinically indicated. There have
+been rare post marketing reports of fatal and
+non-fatal hepatic failure in patients taking statins,
+including rosuvastatin. Patients who consume
+substantial quantities of alcohol and/or have a
+history of liver disease may be at increased risk for
+hepatic injury. If serious hepatic injury with clinical
+symptoms and/or hyperbilirubinemia or jaundice
+occurs, promptly discontinue ROSZET.
+**Proteinuria and Hematuria**: Dipstick-positive
+proteinuria and microscopic hematuria were ob-
+served among rosuvastatin treated patients. These
+findings were more frequent in patients taking
+rosuvastatin 40 mg, when compared to lower doses
+of rosuvastatin or comparator statins, though it
+was generally transient and was not associated
+with worsening renal function. Although the clini-
+cal significance of this finding is unknown, consider
+a dose reduction for patients on ROSZET therapy
+with unexplained persistent proteinuria and/or
+hematuria during routine urinalysis testing.
+**HbA1c and Fasting Serum Glucose**: Increases in
+HbA1c and fasting serum glucose levels have been
+reported with statins, including rosuvastatin. Based
+on clinical trial data with rosuvastatin, in some
+instances these increases may exceed the threshold
+for the diagnosis of diabetes mellitus.
+**Adverse Reactions**: Most frequent adverse reac-
+tions (incidence >2% and greater than placebo) for
+rosuvastatin in clinical trials are: headache, nausea,
+myalgia, asthenia, dizziness, asthenia, constipation,
+and abdominal pain. Other adverse reactions
+
+reported in clinical studies were hypersensitivity (in-
+cluding rash, pruritus, urticaria, and angioedema)
+and pancreatitis. For ezetimibe co-administered
+with a statin most frequent adverse reactions
+(incidence >2% and greater than statin alone) are
+nasopharyngitis, myalgia, upper respiratory tract
+infection, arthralgia, diarrhea, back pain, influenza,
+pain in extremity, and fatigue. For ezetimibe mono-
+therapy most frequent adverse reactions (incidence
+>2% and greater than placebo) are upper respiratory
+tract infection, diarrhea, arthralgia, sinusitis, pain in
+extremity, fatigue and influenza.
+  There have been rare post marketing reports of
+cognitive impairment (e.g., memory loss, forget-
+fulness, amnesia, memory impairment, confusion)
+associated with statin use, including ROSZET.
+These cognitive issues have been reported for all
+statins. The reports are generally nonserious, and
+reversible upon statin discontinuation.
+
+**Drug Interactions**:
+Gemfibrozil or Cyclosporin: Avoid concomitant use
+with ROSZET.
+Antivirals: Avoid concomitant use or adjust dose of
+ROSZET.
+Darolutamide: Do not exceed ROSZET 5 mg/10 mg
+once daily.
+Regorafenib: Do not exceed ROSZET 10 mg/10 mg
+once daily.
+Fenofibrates, Niacin, Colchicine: Consider risks and
+benefits of concomitant use with ROSZET.
+Warfarin: Obtain INR before ROSZET initiation and
+monitor INR during ROSZET initiation or dosage
+adjustment.
+
+**Use in Specific Populations**:
+Discontinue ROSZET when pregnancy is recog-
+nized as it may cause fetal harm. Breastfeeding is
+not recommended during treatment with ROSZET.
+
+**See Accompanying Full Prescribing Information**
+
+**References**
+1.  Roszet (rosuvastatin and ezetimibe) Prescribing
+    Information. Morristown, NJ:
+    Althera Pharmaceuticals. In a multicenter, double-blind, placebo-controlled,
+    dose-ranging study, in patients with hyperlipidemia, rosuvastatin given as a
+    single daily dose for 6 weeks significantly reduced Total-C, LDL-C, non HDL-C,
+    and ApoB across the dose range.
+2.  Gagne C, Bays HE, Weiss SR, et al. Efficacy and Safety of ezetimibe added
+    to ongoing statin therapy for treatment of patients with primary hypercho-
+    lesterolemia. Am J Cardiol. 2002; 90:1084-1091. In an 8-week, double-blind
+    study in patients with primary hypercholesterolemia and known coronary heart
+    disease, or multiple cardiovascular risk factors, adding ezetimibe to ongoing
+    statin therapy provided an additional 25% mean LDL-C reduction from treat-
+    ed baseline (post statin treatment) vs. 4% when adding placebo across all the
+    statins studied (p<0.001). LDL-C reductions attributable to ezetimibe were
+    generally consistent across all statins studied.
+3.  Ballantyne CM, et al. Efficacy, safety and effect on biomarkers related to
+    cholesterol and lipoprotein metabolism of rosuvastatin 10 or 20 mg plus
+    ezetimibe 10 mg in high-hyperlipidemia high-risk patients. Results of the
+    GRAVITY random random 2014; 232:86-93. In the Gravity study, comparator
+    arms were simvastatin +
+    ezetimibe 40 mg/10 mg and 80 mg/10 mg which reduced LDL-C by 55% and
+    57% respectively. Patients were treated on statin monotherapy for first 6
+    weeks before 6 weeks of combination therapy. 833 patients aged ≥ 18 years
+    with hypercholesterolemia and history of CV risk were randomized to rosu-
+
+    vastatin 10 or 20 mg with ezetimibe 10 mg vs. simvastatin 40 or 80 mg with
+    ezetimibe 10 mg for 12 weeks with patients being on mono-therapy statin
+    for the first 6-weeks. Primary end-point was % LDL-C change which was 64%
+    for rosuvastatin/ezetimibe 20 mg/10 mg dose (p<0.001 vs sim/eze 40/10 mg
+    and 60% for the 10 mg/10 mg dose (p = 0.002 vs sim/
+    eze 40/10 mg). Percent LDL-C change for simvastatin/ezetimibe 80/10 mg
+    was 57% and was 55% for the 40/10 mg dose. Secondary variables included
+    % patients achieving LDL-C <100 mg/dL or <70 mg/dL.
+4.  Ballantyne CM, et al. Efficacy and safety of rosuvastatin 40 mg alone or in
+    combination with ezetimibe in patients at high risk of cardiovascular disease
+    (results from the EXPLORER study). Am J Cardiol 2007; 99:673-80. In the
+    Explorer Study, comparator arm was rosuvastatin 40 mg which reduced
+    LDL-C by 55%. 469 patients aged ≥ 18 years with hypercholesterolemia and a
+    history of CV risk were randomized to rosuvastatin + ezetimibe 40 mg/10 mg
+    vs. rosuvastatin 40 mg for a total of 6 weeks. Primary end-point was the
+    percentage of patients achieving the LDL cholesterol goal <100 mg/dL at
+    week 6. Significantly more patients (94%, p <0.001) achieved the primary
+    endpoint with rosuvastatin/ezetimibe 40 mg/10 mg than with rosuvastatin
+    alone (79%). More patients achieved the optional goal of <70 mg/dL with
+    rosuvastatin/ezetimibe 40 mg/10 mg (80%, p<0.001) than with rosuvastatin
+    40 mg (35%). On the secondary variable of % LDL-C change, patients on ro-
+    suvastatin/ezetimibe 40 mg/10 mg achieved significantly greater reductions
+    (70%, p<0.001) than with rosuvastatin 40 mg (57%).
+
+[Image: A red and purple logo on the bottom left of the page. The logo consists of a stylized heart or double-ring shape in red, followed by the word "Roszet" in red, with a registered trademark symbol (®) in superscript. Below "Roszet" is "rosuvastatin and" in black, and below that, "ezetimibe tablets" also in black. To the right of "Roszet", the following dosages are listed in black:]
+Roszet®           5 mg/10 mg
+rosuvastatin and  10 mg/10 mg
+ezetimibe tablets 20 mg/10 mg
+                  40 mg/10 mg
+
+[Image: On the right side of the page, towards the bottom, there is a geometric design composed of two overlapping right-facing arrow shapes, outlined and filled in red and purple, respectively. To the left of these shapes, a web address is printed.]
+                                          WWW.roszet.com
+
+© 2021 Althera Pharmaceuticals LLC. All rights reserved.

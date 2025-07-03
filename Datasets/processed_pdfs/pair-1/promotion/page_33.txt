@@ -1,0 +1,52 @@
+=== PAGE 33 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving its original layout and structure:
+
+US/Canada Phase 3 Study:
+Impact on Lipid Metabolism
+
+                                        For women in the phase 3 study, NEXTSTELLIS had minimal impact on lipid
+                                        metabolism from baseline to Cycle 7 and Cycle 13 (N=1,864)
+
+           6.0
+                                                                                        ■ Baseline ■ Cycle 7 ■ Cycle 13
+           5.0
+                                                                                    Women with dyslipoproteinemia requiring
+                                                                                    active treatment with antilipidemic agents
+                                                                                           were excluded from the study.
+           4.0
+         mmol/L
+           3.0
+
+           2.0
+
+           1.0
+
+           0.0
+                       Total             LDL               HDL             Triglycerides
+                       Cholesterol
+
+
+mayne pharma     HDL, High-density lipoprotein; LDL, low-density lipoprotein.
+                 Reference: Data on file. Raleigh, NC. Mayne Pharma LLC.
+
+32                                                                                  Full Prescribing Information is available at www.Nextstellis.com
+
+---
+
+**Description of Visual Elements:**
+
+The page features a bar chart that illustrates the impact of NEXTSTELLIS on lipid metabolism over time.
+
+*   **Chart Type:** Bar Chart with error bars.
+*   **Y-axis:** Labeled "mmol/L", representing the concentration of lipid components. The scale ranges from 0.0 to 6.0.
+*   **X-axis:** Displays four categories of lipid measurements: "Total Cholesterol", "LDL" (Low-density lipoprotein), "HDL" (High-density lipoprotein), and "Triglycerides".
+*   **Data Representation:** For each lipid category, there are three distinct bars, each representing a different time point in the study, as indicated by the legend:
+    *   **Baseline:** Represented by dark purple bars.
+    *   **Cycle 7:** Represented by pink bars.
+    *   **Cycle 13:** Represented by light blue bars.
+*   **Error Bars:** Small I-shaped caps are present on top of each bar, indicating the variability or uncertainty of the measurement (e.g., standard deviation or standard error).
+*   **Context:** The chart supports the statement "For women in the phase 3 study, NEXTSTELLIS had minimal impact on lipid metabolism from baseline to Cycle 7 and Cycle 13 (N=1,864)". Visually, the heights of the three bars for each lipid type appear very similar, supporting the claim of minimal impact.
+*   **Exclusion Note:** A note next to the legend specifies that "Women with dyslipoproteinemia requiring active treatment with antilipidemic agents were excluded from the study," which provides important context for the study population reflected in the chart.

@@ -1,0 +1,57 @@
+=== PAGE 3 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Jessica Chmielewski
+Edenbridge Pharmaceuticals, LLC DBA Dexcel Pharma USA
+NDA 211379/MA 33                                                                               Page 3
+
+The exhibit panel presents a table titled “**REAL-WORLD COMPARISON OF ADHERENCE
+to Hemady® and generic dexamethasone among patients with MM**” (emphasis original)
+suggesting improved patient adherence to Hemady as compared with generic
+dexamethasone 4 mg tablets. Data on file² is cited to support the presentation. However,
+the referenced study does not support conclusions regarding comparative adherence to
+Hemady and generic dexamethasone 4 mg in the treatment of patients with MM due to
+limitations associated with the study design and methodology.
+
+For example, the patient selection methodology described in the study protocol was not
+consistent between patients treated with Hemady and generic dexamethasone 4 mg.
+Specifically, according to the protocol, patients receiving Hemady were *assumed* to have
+been diagnosed with MM. We acknowledge that Hemady is indicated for the treatment of
+adults with MM. However, in contrast with patients in the generic dexamethasone 4 mg
+group, the study did not take measures, such as the use of International Classification of
+Diseases, Tenth Revision, Clinical Modification (ICD-10 CM) codes³, to determine whether
+patients in the Hemady group were in fact diagnosed with MM. Relatedly, although patients in
+the generic dexamethasone 4 mg group were confirmed to have MM, these patients were
+identified for using ICD-10 CM codes that included both patients with newly diagnosed MM
+(NDMM) and relapsed or refractory MM (RRMM). Patients with NDMM and patients with
+RRMM represent distinct patient populations with varying disease severities and stages, and
+treatment regimens differ for each patient population. Treatment of NDMM or RRMM can
+involve a variable combination of multiple medications based on patient-specific factors such
+as tumor burden, cytogenetics, performance status, comorbidities, and eligibility for stem cell
+transplantation. The study protocol did not control for these or any other baseline
+characteristics. Further, the study protocol did not identify whether Hemady or generic
+dexamethasone 4 mg was used as monotherapy or as part of combination treatment
+regimens. These design issues can introduce bias into the adherence calculations. Moreover,
+factors such as the total number of medications a patient is prescribed, the number of
+pharmacies used, and patient age have an impact on adherence.⁴ The statistical tests in this
+study did not control for these or any covariates.⁵
+
+Another limitation is that the study included a significantly higher number of patients in the
+generic dexamethasone 4 mg group (n=3,775) compared to the Hemady group (n=43),
+leading to a notably unbalanced sample size. Such unbalanced sample sizes can lead to
+overestimation of adherence in favor of the Hemady group. Moreover, with respect to patients
+
+² Data on file (Adherence Study Results). Edenbridge Pharmaceuticals, LLC. 2023. The Data on file was
+provided by Edenbridge Pharmaceuticals in response to OPDP’s request for the information. The study is a
+retrospective, comparative cohort analysis that utilized medical and pharmacy claims data to compare
+adherence of Hemady and generic dexamethasone in patients with MM.
+³ ICD-10-CM | Classification of Diseases, Functioning, and Disability | CDC
+⁴ Rajkumar, S.V., Kumar, S. (2020). Multiple myeloma current treatment algorithms. Blood Cancer Journal, 10,
+94. https://doi.org/10.1038/s41408-020-00359-2
+⁵ Mian, H., Fiala, M., & Wildes, T. M. (2020). Adherence to Lenalidomide in Older Adults with Newly Diagnosed
+Multiple Myeloma. Clinical Lymphoma, myeloma & leukemia, 20(2), 98–104.e1.
+https://doi.org/10.1016/j.clml.2019.09.618
+
+
+Reference ID: 5523412

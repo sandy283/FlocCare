@@ -1,0 +1,48 @@
+=== PAGE 4 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+The image displays a user interface, likely for an online ad creation or management platform. It is split into two main sections: an "Edit text ad" panel on the left and an ad "preview" panel on the right.
+
+Here is the extracted text content:
+
+Edit text ad
+
+Final URL
+https://alkindisprinkle.com
+
+Headline 1
+Alkindi Sprinkle for kids                                     25 / 30
+
+Headline 2
+Hydrocortisone Therapy                                     22 / 30
+
+Headline 3
+Precise, low-dose options                                  25 / 30
+
+Display path
+www.alkindisprinkle.com / Path 1             / Path 2
+                                            0 / 15                 0 / 15
+
+Description 1
+Hydrocortisone granules in low strengths starting at 0.5 mg for Adrenal
+Insufficiency                                                      85 / 90
+
+Description 2
+2 Phase III, open-label efficacy and safety studies were performed in children
+                                                                        78 / 90
+
+---
+
+                 2 of 2 previews < >
+Desktop
+
+Ad • www.alkindisprinkle.com ▾
+**Alkindi Sprinkle for kids | Hydrocortisone Therapy**
+Hydrocortisone granules in low strengths starting at 0.5 mg for Adrenal Insufficiency. 2 Phase III,
+open-label efficacy and safety studies were performed in children
+
+Your ad might not always include all your text. Some shortening may also occur in some formats. You can make
+sure certain text appears in your ad. Learn more
+
+PM-ALK-016-rev0-12/20

@@ -1,0 +1,61 @@
+=== PAGE 5 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Nicole Van de Vaarst
+Mirati Therapeutics Inc., a Bristol Myers Squibb Co.
+NDA 216340/MA 166
+
+Page 5
+
+you have data to support this claim, please submit them to FDA for review.
+
+The “Intracranial ORR” navigation bar item on the “KRYSTAL-1 Efficacy” webpage includes
+the claims, “33% INTRACRANIAL ORR IN PATIENTS WITH STABLE, ADEQUATELY
+TREATED BRAIN METASTASES” and, “INTRACRANIAL DCR IN PATIENTS WITH BRAIN
+METASTASES: 85% (n=33; 95% CI: 68-95).” As a reference for these claims, you cite
+Janne et al. (2022)⁶ and Spira et al. (2022).¹⁰ These claims are misleading because they
+imply that Krazati is effective in treating brain metastases even though such an effect is not
+established by this post hoc analysis. In a clinical trial designed to specifically evaluate brain
+metastases using the Response Assessment in Neuro-Oncology Brain Metastases (RANO
+BM) criteria,¹¹ previously treated target lesions would have documentation of how each
+lesion was previously treated (e.g., stereotactic radiosurgery, whole brain radiotherapy,
+surgical resection); however, this information was not collected in this single-arm cohort. It is
+known only that the majority of patients (27 of the 33 evaluable patients) included in this post-
+hoc subgroup analysis were previously treated with radiation therapy for brain metastases.
+Therefore, this post-hoc analysis did not establish that improvement in intracranial ORR is
+attributable to treatment with Krazati; these results may instead represent the effects of
+radiation therapy. In addition to the confounding factors affecting the interpretability of
+intracranial ORR in the trial, intracranial DCR is not interpretable as an effect of treatment
+with Krazati due to the limitations described above regarding the single-arm design of the
+trial.
+
+We acknowledge that the text, “POST HOC ANALYSIS” appears under the “Intracranial
+ORR” navigation bar item header when you click to view the item, as well as the following
+statements that appear at the bottom of the page (underlined emphasis added):
+“INTRACRANIAL ORR AND DCR CANNOT BE ATTRIBUTED TO KRAZATI ALONE GIVEN
+BRAIN METASTASES WERE PREVIOUSLY TREATED, SOME WITH RECENT PRIOR
+RADIATION. THESE RESULTS SHOULD BE INTERPRETED WITH CAUTION.” However,
+these statements are not sufficient to mitigate the overall misleading impression created by
+the inclusion of this presentation. In fact, the statements suggest that intracranial ORR and
+DCR can be attributed, in part, to an effect of Krazati when these data cannot be interpreted
+at all as an effect of Krazati.
+
+**Conclusion and Requested Action**
+
+For the reasons discussed above, the website misbrands Krazati within the meaning of the
+FD&C Act and makes its distribution violative. 21 U.S.C. 352(a), (n); 321(n); 331(a). See 21
+CFR 202.1(e)(5).
+
+This letter notifies you of our concerns and provides you with an opportunity to address them.
+OPDP requests that Mirati Therapeutics Inc., a Bristol Myers Squibb Co. cease any violations
+of the FD&C Act. Please submit a written response to this letter within 15 working days from
+the date of receipt, addressing the concerns described in this letter, listing all promotional
+
+¹⁰ Spira AI, Riely GJ, Gadgeel SM, et al, 2022, KRYSTAL-1: Activity and Safety of Adagrasib (MRTX849) in
+Patients with Advanced/Metastatic Non-Small Cell Lung Cancer Harboring a KRASG12C Mutation [Poster
+Presentation], 2022 American Society of Clinical Oncology Annual Meeting, Chicago, IL, United States.
+¹¹ Lin NU, Lee EQ, Aoyama H, et al, 2015, Response assessment criteria for brain metastases: proposal
+from the RANO group, Lancet Oncology 2015; 16: e270-78.
+
+Reference ID: 5423579

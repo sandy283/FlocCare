@@ -1,0 +1,44 @@
+=== PAGE 10 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Overview of PET/CT Imaging in Recurrent Prostate Cancer – Current and Emerging Techniques — DrFabio                                                 10
+
+        64Cu-PSMA-617
+
+        64Cu-NODAGA
+
+        99mTc-MIP-1404
+
+        99mTc-HYNIC-PSMA
+
+        99mTc-J591
+
+        99mTc-EC0652
+
+        123I-MIP-1972
+
+        123I-MIP-1095
+
+        18F-DCFPyl
+
+        18F-DCFBC
+
+        18F-CTT1057
+
+        18F-PSMA-1007
+
+A few limitations of PSMA-targeting agents are important to understand. Not all
+prostate cancers exhibit PSMA overexpression. In one study, about 8% of patients
+with prostate cancer did not show PSMA overexpression. Another study showed
+that there can be up to a 25% heterogeneity in expression in PSMA in an
+individual, thus in one person some of the cancer will be positive while other
+cancer deposits will be missed. Additionally, PSMA ligands are not completely
+specific for prostate cancer and several benign lesions such as thyroid adenoma,
+Paget’s disease, schwannoma, adrenal adenomas, and several types of vascular
+tumors (colon, breast, renal, liver, thyroid) may also exhibit increased PSMA
+expression. False positive celiac ganglia activity frequently has been noted in the
+upper abdomen. Finally, most PSMA-targeting agents to date are significantly
+excreted in the urinary tract and urinary bladder. This is a huge issue as this which
+
+http://www.drfabio.com/imagingblog/2018/1/9/overview-of-petct-imaging-in-recurrent-prostate-cancer-current-and-emerging-techniques[11/15/2018 11:25:57 AM]

@@ -1,0 +1,936 @@
+=== PAGE 1 ===
+
+Handbook of Pharma and 
+MedTech Compliance
+Singapore
+Promoting Medical 
+Products Globally
+
+
+=== PAGE 2 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+This publication is copyright. Apart from any fair dealing for the purpose of private study or research 
+permitted under applicable copyright legislation, no part may be reproduced or transmitted by any 
+process or means without prior written permission of Baker & McKenzie. 
+IMPORTANT DISCLAIMER. The material in this publication is of the nature of general comment 
+only. It is not offered as advise on any particular matter and should not be taken as such. The firms 
+involved and the contributing authors expressly disclaim all liability to any person in respect of the 
+consequences of anything done or omitted to be done wholly or partly in reliance upon the whole or 
+any part of the contents of this publication. No reader should act or refrain from acting on the basis of 
+any matter contained in this publication without taking specific professional advice on the particular 
+facts and circumstances in issue. 
+ 
+
+
+=== PAGE 3 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+Singapore 
+Andy Leck, Ren Jun Lim 
+Introduction 
+In Singapore, various legislations, guidelines and industry codes of conduct govern the promotion of 
+medicinal products and medical devices. It is important to first identify the types of promotional 
+activities involved, for example sponsorship of meetings and symposia, hospitality and entertainment, 
+gifts and donations. Certain considerations should also be taken into account in relation to public 
+procurement and contracts with healthcare professionals and institutions. 
+These will be examined below. 
+The Regulatory Framework 
+Advertising of medicinal products is governed by the Medicines Act (the MA) and the Medicines 
+(Medical Advertisements) Regulations (the MAR), whereas advertising of medical devices is 
+governed by the Health Products Act (the HPA) and the Health Products (Medical Devices) 
+Regulations 2010 (the MDR). 
+A “medicinal product” is defined under the MA as any substance or article (not being an instrument, 
+apparatus or appliance) which is manufactured, sold, supplied, imported or exported for use wholly or 
+mainly in either or both of the following ways: 
+• 
+use by being administered to one or more human beings or animals for a medicinal purpose; 
+• 
+use as an ingredient in the preparation of a substance or article which is to be administered to 
+one or more human beings or animals for a medicinal purpose. 
+A “medicinal purpose” means any one or more of the following purposes: 
+• 
+treating or preventing disease; 
+• 
+diagnosing disease or ascertaining the existence, degree or extent of a physiological 
+condition; 
+• 
+contraception; 
+• 
+inducing anaesthesia; or 
+• 
+otherwise preventing or interfering with the normal operation of a physiological function, 
+whether permanently or temporarily, and whether by way of terminating, reducing or 
+postponing, or increasing or accelerating, the operation of that function or in any other way. 
+On the other hand, a “medical device” is defined under the HPA as any instrument, appliance, 
+implant, in vitro reagent or calibrator, software, material or other similar or related article that is 
+intended by its manufacturer to be used, whether alone or in combination, for humans for one or more 
+of the specific purposes of: 
+• 
+diagnosis, prevention, monitoring, treatment or alleviation of any disease; 
+• 
+diagnosis, monitoring, treatment, alleviation of or compensation for an injury; 
+• 
+investigation, replacement, modification or support of the anatomy or of a physiological 
+process; 
+• 
+supporting or sustaining life; 
+• 
+control of conception; 
+• 
+disinfection of medical devices; or 
+• 
+providing information for medical or diagnostic purposes by means of an in vitro examination 
+of specimens derived from the human body and which does not achieve its primary intended 
+action in or on the human body by pharmacological, immunological or metabolic means. 
+
+
+=== PAGE 4 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+The term “advertisement” is given a very broad meaning under both the MA and the HPA. 
+The MA essentially regulates “medical advertisements,” which are “advertisement[s] relating or likely 
+to cause any person to believe that it relates to any medicinal product… used or represented to be used 
+for a medicinal purpose.” An “advertisement” includes “every form of advertising, whether in a 
+publication, or by display of any notice or signboard, or by means of any catalogue, price list, letter 
+(whether circular or addressed to a particular person) or other documents, or by words inscribed on 
+any article, or by the exhibition of a photograph or cinematograph film, or by way of sound recording, 
+sound broadcasting or television, or in any other way.” An “advertisement” also includes “words 
+forming part of a sound recording or embodied in a sound-track associated with a cinematograph 
+film” and “words broadcast by way of sound broadcasting or television or transmitted to subscribers 
+to a diffusion service.” Although an “advertisement” does not include “spoken words,” the MA 
+separately regulates “representations,” which include any statements or undertakings consisting of 
+spoken words. 
+Similarly, the HPA defines “advertisement” to mean the publication, dissemination or conveyance of 
+any information for the purpose of promoting, whether directly or indirectly, the sale or use of [a 
+medical device] by any means or in any form, including the following: 
+• 
+publication in a newspaper, magazine, journal or other periodical, 
+• 
+display of posters or notices; 
+• 
+circulars, handbills, brochures, pamphlets, books or other documents; 
+• 
+letters addressed to individuals or bodies corporate or incorporate; 
+• 
+photographs or cinematograph films; 
+• 
+sound broadcasting, television, the internet or other media; 
+• 
+public demonstration of the use of the health product; and 
+• 
+offer of trials of the health product to members of the public. 
+From this broad definition, it appears that the HPA also covers oral advertisements. 
+The key difference between the MA and the HPA regimes is that permits are required for “medical 
+advertisements” (defined above under the MA) and “sales promotion” of medicinal products (but 
+none are required for medical devices). 
+Under the MAR, a “sales promotion” means “any sales campaign (including door to door sales), 
+exhibition, competition or any other activity for the purpose of introducing, publicizing or promoting 
+the sale or use of any medicinal product.” Permit fees range from SGD100 (about USD70) to SGD300 
+(about USD220). Breach of this permit requirement is an offense punishable with a fine not exceeding 
+SGD5,000 (about USD3,700) and/or imprisonment not exceeding 12 months. Furthermore, if the 
+offense is committed by a corporate body and is proved to have been committed with the consent, 
+connivance or neglect of any director, manager, secretary or any other similar officer, the officer may 
+be punished accordingly. 
+According to the MAR, the following types of medical advertisements do not require a permit: 
+• 
+Reference advertisements - product information pertaining to the sale and correct use of a 
+medicinal product, published by a person or company with no commercial interest in the 
+product, for dissemination to practitioners and pharmacists 
+• 
+Trade advertisements - documents for the purpose of a sale by way of wholesale dealing 
+which does not contain any recommendations on product use 
+Apart from the MA and HPA (which specifically apply to medicinal products and medical devices), 
+the following general consumer/trade legislations may also apply: 
+• 
+The Consumer Protection (Trade Descriptions and Safety Requirements) Act (the CPTDA) 
+
+
+=== PAGE 5 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+The Consumer Protection (Fair Trading) Act (the CPFTA) 
+The CPFTA only applies to consumer transactions, and aims to protect consumers against unfair 
+practices. The CPTDA may apply to business and consumer transactions, and generally regulates 
+descriptions of goods supplied in the course of trade. Unlike the MA and the HPA, both the CPTDA 
+and the CPFTA do not substantively define “advertisement.” Nonetheless (as shown below), their 
+regulated practices are very broadly defined to potentially capture any form of advertisement, written 
+or otherwise. 
+From a compliance angle, the principal anti-bribery legislation is the Prevention of Corruption Act 
+(the PCA). The PCA may potentially apply to the promotion of medicinal products and medical 
+devices. 
+Permitted and Prohibited Practices 
+Generally, the abovementioned legislations do not spell out what forms of advertising/marketing 
+practices are permissible. Rather, they only state what acts are prohibited. Nonetheless, as elaborated 
+below, applicable industry codes may be helpful to determine the permissible ambits of 
+advertising/marketing behavior (such as gifts, seminars, hospitality, entertainment and 
+donations/sponsorships). 
+This section will address the prohibited practices under the MA/MAR, HPA/MDR, CPTDA, the 
+CPFTA and the PCA, as well as the consequences of breach. 
+The MA/MAR 
+Any person who issues or causes another person to issue a false or misleading advertisement relating 
+to medicinal products of any description shall be guilty of an offense. Also, any person who makes a 
+false or misleading representation relating to a medicinal product in connection with the sale of that 
+product shall be guilty of an offense. 
+An advertisement/representation is taken to be false or misleading if: 
+• 
+it falsely describes the medicinal products to which it relates; or 
+• 
+it is likely to mislead as to the nature or quality of medicinal products of that description or as 
+to their uses or effects. 
+Except in an advertisement which is distributed only to/intended for circulation among practitioners, 
+pharmacists and nurses, no person shall publish or cause to be published: 
+• 
+any medical advertisement which directly or indirectly claims, indicates or suggests that the 
+article advertised will prevent, alleviate or cure any of the 19 diseases or conditions specified 
+in the First Schedule (such as cancer, diabetes, tuberculosis and infertility); or 
+• 
+any advertisement referring to any skill or service relating to the treatment of any disease 
+affecting the human body. 
+The MA also addresses the issue of “off-label” advertisements. Any person who issues or causes 
+another person to issue an advertisement relating to medicinal products of that description which 
+consists/includes “unauthorised recommendations” shall be guilty of an offense. The term 
+“unauthorised recommendations” is defined as “recommendations whereby medicinal products of a 
+description to which the licence in question is applicable are recommended to be used for purposes 
+other than those specified in the licence” (i.e., recommendations of off-label uses/purposes). 
+For each of the above MA offenses, the punishment is a fine not exceeding SGD5,000 (about 
+USD3,700) and/or imprisonment not exceeding two years. 
+
+
+=== PAGE 6 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+Under the MAR, no person shall, in conducting any sales promotion, offer any gift or prize to 
+promote the sale of any medicinal product. Furthermore, no person shall alter or amend any medical 
+advertisement for which a permit has been granted unless prior approval has been obtained from the 
+Health Sciences Authority of Singapore (the HSA). Breach of any of these requirements is an offense 
+punishable by a fine not exceeding SGD5,000 (about USD3,700) and/or imprisonment up to 12 
+months. 
+If any MA or MAR offense is committed by a corporate body and is proved to have been committed 
+with the consent, connivance or neglect of any director, manager, secretary or any other similar 
+officer, the officer may be punished accordingly. 
+The HPA/MDR 
+Under the HPA, any person who advertises any medical device or causes any medical device to be 
+advertised in a false and misleading way shall be guilty of an offense. An advertisement shall be taken 
+to be false or misleading if: 
+• 
+it falsely describes the medical device or gives any false information concerning the medical 
+device; or 
+• 
+it is likely to create an erroneous impression regarding the formulation, composition, design 
+specification, quality, safety, efficacy or uses of the medical device. 
+The HPA also addresses the issue of “off-label” advertisements. No person shall advertise any 
+registered medical device or cause any registered medical device to be advertised in such a way as to 
+represent the registered medical device as being usable for any purpose other than that for which it has 
+been registered. 
+Under the MDR, comparative advertisements (which differentiate the medical device from any other 
+competing or similar medical device) must be substantiated by facts or evidence. Otherwise, it will be 
+an offense. In this regard, it appears that comparative advertisements may only be written and not 
+oral, since the substantiation must be indicated on the face of the advertisement. 
+The MDR also sets out the following prohibitions, any breach of which will be an offense: 
+• 
+If the medical device is intended for direct delivery to the general public or for direct use by 
+the general public, the advertisement shall not contain any statement about the intended use 
+and efficacy of the medical device unless such statement has been verified by objective 
+evidence and such objective evidence has been furnished to the HSA at the time the 
+application to register the medical device was made. 
+• 
+An advertisement shall not contain any statement which expressly or implicitly suggests that 
+the use of the medical device is promoted or endorsed by the HSA. 
+• 
+No person shall advertise any registered “professional use only” medical device, unless the 
+advertisement is distributed only to, or is contained in a publication intended for circulation 
+mainly among, qualified practitioners. 
+• 
+An advertisement shall not expressly or implicitly claim, indicate or suggest that the medical 
+device will prevent, alleviate or cure any of the 19 diseases or conditions specified in the 
+Second Schedule (such as cancer, diabetes, tuberculosis and infertility). 
+For each of the above HPA and MDR offenses, the punishment is a fine not exceeding SGD20,000 
+(about USD15,000) and/or imprisonment not exceeding 12 months. The fine may be doubled to 
+SGD40,000 (about USD30,000) if the offense is committed by a corporate body. Furthermore, if the 
+offense is committed by a corporate body and is proved to have been committed with the consent, 
+connivance or neglect of any director, manager, secretary or any other similar officer, the officer may 
+be punished accordingly. 
+
+
+=== PAGE 7 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+The CPTDA 
+Any person who in the course of a trade or business applies a false trade description to any goods, or 
+supplies any goods to which a false trade description is applied, shall be guilty of an offense. 
+The definition of “goods” includes “all kinds of movable property” and will likely capture medicinal 
+products and medical devices. 
+A “trade description” is defined broadly and includes any physical characteristics (such as volume, 
+capacity, weight, method of manufacture, composition, fitness for purpose, strength, performance, 
+behavior and accuracy), results of testing, approval by any person/conformity with an approved type, 
+manufacturer/producer/processor details and any other history. It includes an oral statement. 
+A “false trade description” is a trade description which is false or likely to mislead in a material 
+respect as regards the goods which it is applied. It includes a false indication that any goods comply 
+with a standard specified by any person, recognized by any person or implied by the approval of any 
+person. 
+Breach of the CPTDA is punishable by a fine not exceeding SGD10,000 (about USD7,300) and/or 
+imprisonment of up to two years. If the offense is committed by a corporate body and is proved to 
+have been committed with the consent, connivance or neglect of any director, manager, secretary or 
+any other similar officer, the officer may be punished accordingly. 
+The CPFTA 
+The CPFTA prohibits any “unfair practice” which includes: 
+• 
+doing/omitting to do anything (which arguably includes an oral statement) which as a result a 
+consumer might reasonably be deceived or misled; 
+• 
+making false claims; 
+• 
+taking advantage of a consumer if the supplier knows or ought to reasonably know that the 
+consumer is not in a position to protect its interests or is not reasonably able to understand the 
+character, nature, language or effect of the transaction; or 
+• 
+doing anything specified as a “specific unfair practice” in the Second Schedule, which 
+includes representing that goods have approval, components, qualities, uses or benefits that 
+they do not have. 
+Any affected consumer may sue the supplier, and claim for variation of the contract, orders for repair 
+or replacement of parts for goods, restitution of money or property, damages or an order for specific 
+performance. Separately, the Consumer Association of Singapore which is the relevant regulatory 
+body in charge of consumer protection, may seek a court declaration that the supplier has or is about 
+to be engaged in an unfair practice and/or an injunction against the supplier. 
+From September 2012 onwards, the CPFTA will include provisions relating to “lemon laws” to 
+provide consumers with an alternative simplified regime for obtaining redress for goods which do not 
+conform to contract at the time of delivery. These provisions give consumers four additional 
+remedies, as follows: 
+• 
+repair; 
+• 
+replacement; 
+• 
+reduction in price; or 
+• 
+rescission. 
+
+
+=== PAGE 8 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+The PCA 
+If any “gratification” is corruptly received/given (or agreed to be received/given) for the doing or 
+preventing the doing of anything in relation to any transaction (actual or proposed), the giver and/or 
+recipient shall be guilty of an offense, even if he acted on behalf of another. The punishment is a fine 
+not exceeding SGD100,000 (about USD73,000) or imprisonment up to five years, or both. 
+Significantly, the PCA may be enforced against corporate entities. 
+The definition of “gratification” is broad. It includes: 
+• 
+money or any gift, loan, fee, reward, commission, valuable security or other property or 
+interest in property of any description, whether movable or immovable; 
+• 
+any office, employment or contract; 
+• 
+any payment, release, discharge or liquidation of any loan, obligation, or other liability 
+whatsoever, whether in whole or in part; 
+• 
+any other service, favor or advantage of any description whatsoever; and 
+• 
+any offer, undertaking or promise of any gratification within the four items above. 
+In determining whether any gratification has been given/received “corruptly” the courts adopt a two-
+stage test: 
+• 
+whether the transaction is corrupt according to the reasonable man; and 
+• 
+whether the accused had a corrupt purpose in mind. 
+In applying this test, the courts usually embark on a multi-factorial consideration of the relevant 
+circumstances of the case (collectively, the PCA Corrupt Test Factors), such as: 
+• 
+whether justice was perverted; 
+• 
+whether the transaction took place in secrecy; 
+• 
+whether there was a pre-existing relationship between the parties; 
+• 
+the relative cost of the gratification vis-à-vis the receiver; 
+• 
+the relative cost of the gratification vis-à-vis the transaction; 
+• 
+the timing of the gratification; 
+• 
+the degree of personal relationship between the giver and receiver; and 
+• 
+whether any rules or regulations were breached and the purpose of such rules. 
+Public Procurement 
+The PCA sets out various presumptions of liability as well as offenses in relation to gratification 
+provided to or received by government officials/employees/public bodies. In this regard, there is a 
+presumption that a gratification is given or received corruptly if the giver or recipient is in the 
+employment of the government, any department of the government, or a “public body” (the PCA 
+Presumption), unless the contrary is proved on a balance of probabilities. This presumption is not 
+conclusive that an offense has been committed, and may be rebutted by the accused. 
+If the gratification is offered by a person who intends to tender for a contract with the Singapore 
+government or a “public body” to any person who has made a tender for a contract with the Singapore 
+government or a “public body” as an inducement or reward to withdraw that tender, the offeror and/or 
+person who solicits or accepts the business courtesy as such inducement shall be guilty of an offense. 
+The punishment is a fine not exceeding SGD100,000 (about USD73,000) and/or imprisonment for a 
+term not exceeding seven years. 
+
+
+=== PAGE 9 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+If the gratification is offered to a member of a “public body” as an inducement or reward for the 
+member to procure or prevent the passing of a vote for the grant of a contract in favor of the person 
+offering the gratification, the offeror and/or the member of a “public body” who solicits or accepts the 
+courtesy as such inducement shall be guilty of an offense. The punishment is a fine not exceeding 
+SGD100,000 (about USD73,000) and/or imprisonment for a term not exceeding seven years. 
+“Public body” is defined to mean “any corporation, board, council, commissioners, or other body 
+which has power to act under and for the purposes of any written law relating to public health or to 
+undertakings or public utility or otherwise to administer money levied or raised by rates or charges in 
+pursuance of any written law.” 
+Apart from the PCA, the Penal Code (the principal criminal legislation in Singapore) also deals with 
+public procurement corruption, as follows: 
+• 
+If the gratification is given so that the recipient may corruptly influence a “public servant”, 
+the recipient shall be guilty of an offense. The punishment is a fine and/or imprisonment not 
+exceeding three years. 
+• 
+If the gratification is given so that the recipient may exercise personal influence with a 
+“public servant”, the recipient shall be guilty of an offense. The punishment is a fine and/or 
+imprisonment not exceeding one year. 
+• 
+If the gratification is given to a “public servant” as a motive or reward for doing or forbearing 
+to do any official act, or for showing or forbearing to show, in the exercise of his official 
+functions, favor or disfavor to any person, or for rendering or attempting to render any service 
+or disservice with any person, with the government, or with any member of Parliament or the 
+Cabinet, or with any public servant, the public servant shall commit an offense. The 
+punishment is a fine and/or imprisonment not exceeding three years. 
+“Public servant” is defined broadly, and captures any government official. 
+Public vs. Private Hospitals/Healthcare Professionals - a Misnomer in Singapore 
+In light of the above, especially the PCA Presumption, a key issue for medicinal products and medical 
+device companies is whether public/government hospitals and their healthcare professionals are 
+“public bodies”, government employees, employees of “public bodies” and/or “public servants.” 
+The terms “public/government hospitals” and “public/government healthcare professionals” appear to 
+be misnomers in Singapore. There is no distinction drawn between private hospitals and non-private 
+hospitals (which should be correctly termed as “restructured hospitals” in Singapore, ultimately 
+owned by the Ministry of Finance but which operate quite independently from the civil service) under 
+the Private Hospitals and Medical Clinics Act (the PHMCA), which regulates the licensing of private 
+and non-private hospitals alike. 
+A recent case in Singapore has clarified that restructured hospitals are “public bodies” for the 
+purposes of the PCA. Therefore, the PCA presumption will apply to dealings with restructured 
+hospitals. 
+Professional Codes of Conduct 
+In addition to the above legislative provisions, there are various industry guidelines and codes of 
+practice which deal with advertisements and marketing practices relating to medicinal products and/or 
+medical devices. These industry guidelines and codes of practice do not have the force of law. The 
+pertinent ones include the following: 
+• 
+A Guide On Advertisements And Sales Promotion Of Medicinal Products issued by the HSA 
+(the Medicinal Products Advertisement Guide) -- offers guidance on how the HSA applies the 
+MA and the MAR. 
+
+
+=== PAGE 10 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+Guidance On Medical Devices Advertisements And Sales Promotion issued by the HSA (the 
+Medical Devices Advertisements Guide) -- offers guidance on how the HSA applies the HPA 
+and the MDR. 
+• 
+The Singapore Code of Advertising Practice (the SCAP) -- a set of guidelines regulating 
+advertising activities in Singapore. It is administered by the Advertising Standards Authority 
+of Singapore (ASAS). 
+• 
+The Singapore Association of Pharmaceutical Industries Code of Marketing Practice (the 
+SAPI Code) -- an industry code which addresses marketing practices vis-à-vis 
+pharmaceutical, medicinal and biological products only, and not medical devices, between 
+SAPI members and healthcare professionals. 
+• 
+The Singapore Manufacturing Federation (the SMF) Medical Technology Industry Group’s 
+Code of Ethical Conduct for Interactions with Healthcare Professionals (the SMF Code) – an 
+industry code which seeks to facilitate ethical interactions between the medical device 
+industry and healthcare professionals in Singapore. 
+• 
+The Singapore Medical Council’s Ethical Code And Ethical Guidelines (the SMC Code) - 
+sets out what the SMC regards as minimum standards of registered medical practitioners 
+discharging their professional duties, including conduct in respect of financial interests, 
+sponsorships and gifts. The SMC usually relies on the SMC Code for guidance in disciplinary 
+proceedings against errant registered medical practitioners. 
+Medicinal Products Advertisement Guide 
+The following sales promotion activities are expressly allowed: 
+• 
+Giving discounts 
+• 
+Banding of different pack sizes of the same medicinal product or medicinal product within the 
+same range, with or without a discount; and 
+• 
+Distribution of samples of vitamin and mineral products, medicated plasters, antiseptic 
+preparations, medicated soaps (subject to approval) 
+The following sales promotion activities are expressly prohibited (apart from those prohibited under 
+the MAR): 
+• 
+Use of the word “free” or “complimentary” 
+• 
+Use of money-back guarantee 
+• 
+Offer of medicine free-of-charge with the purchase of a non-medicinal product; and 
+• 
+Distribution of samples of medicinal products to the general public. 
+The following types of advertisements relating to a medicinal product do not require a permit from the 
+HSA (apart from those spelt out in the MAR): 
+• 
+Package inserts accompanying the product 
+• 
+Announcements and warnings on imitation of medicinal products with no intent to advertise 
+the product 
+• 
+Announcements on the name and address of a new distributor 
+• 
+Display cards on product shelves printed with only the name of the medicinal product and the 
+price (not the special or discounted price) 
+• 
+Packaging with a protruding display flap, containing a single unit of medicinal product; and 
+• 
+Promotional advertisements for dissemination to healthcare professionals only; it should be 
+stated clearly on the materials that they are for healthcare professionals only and not for 
+general circulation. 
+
+
+=== PAGE 11 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+The following types of sales promotion activities do not require a permit from the HSA: 
+• 
+Distribution of samples or bonus offers to drug stores, pharmacies, wholesalers and clinics, 
+provided that there is no sales promotion to the general public; and 
+• 
+Storewide sales promotion that is not specific to any product by named basis. 
+The Medicinal Products Advertisement Guide also sets out various general principles (collectively, 
+the Medical Advertisement Guide General Principles) in relation to medical advertisements and sales 
+promotion. The pertinent ones include the following: 
+• 
+Advertisements should truthfully state the nature, quality and properties of the medicinal 
+product. They should not mislead in any way by ambiguity, exaggeration, omission or 
+otherwise. 
+• 
+All claims must be substantiated. The literature should be of established sources. 
+• 
+Recommendations relating to the use of medicinal products should be accurately stated in 
+moderate terms and should be relevant to their properties. 
+• 
+Advertisements should not contain comparisons with other medicinal products or related 
+products unless scientifically proven. 
+• 
+Advertisements should not misuse research results or make unnecessary quotations from 
+technical and scientific publications. 
+• 
+Advertisements should not suggest trial use of medicinal products. 
+• 
+Advertisements should not give the impression of advice or support from healthcare 
+professionals. 
+• 
+Testimonials from non-professionals are generally prohibited unless they can be 
+substantiated. 
+• 
+The names and logos of the HSA and any of its professional groups cannot be used. 
+• 
+There should not be any words, phrases or illustrations which claim or imply the cure of any 
+ailment, illness or disease other than the relief of its symptoms. 
+• 
+There should not be direct or indirect suggestion that a medicinal product can prevent, retard 
+or reverse the physiological changes and degenerative conditions brought about by or 
+associated with ageing. 
+• 
+Advertisements should not discourage the public from seeking professional medical advice. 
+• 
+Advertisements must comply with the SCAP. 
+The following terms and claims are not allowed in advertising: 
+• 
+Superlatives, such as, “miraculously,” “100% safe” or “no side effects” 
+• 
+Exaggerated claims, such as, “guaranteed,” “instant cure” or “complete cures”; and 
+• 
+Misleading claims, such as, “anti-ageing”. 
+The above guidelines are helpful in assessing whether advertising claims are false and misleading 
+under the MA. 
+Medical Devices Advertisement Guide 
+Like the Medicinal Products Advertisement Guide, the Medical Devices Advertisement Guide 
+contains various general principles in relation to advertisements of medical devices. These principles 
+largely mirror the Medical Advertisement Guide General Principles, and are helpful in assessing 
+whether advertising claims are false and misleading under the HPA. 
+SCAP 
+The basic premise of the SCAP is that all advertisements should be legal, decent, honest and truthful. 
+In this regard, its general and specific principles applicable to medicinal products and medical devices 
+are similar to the Medical Advertisement Guide General Principles. 
+
+
+=== PAGE 12 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+The ASAS may ask an advertiser or an advertising agency to amend or withdraw any advertisement in 
+breach of the SCAP. 
+SAPI Code 
+The SAPI Code is an industry code which addresses marketing practices vis-à-vis pharmaceutical, 
+medicinal and biological products only, and not medical devices, between SAPI members and 
+healthcare professionals. Marketing practices include: 
+• 
+sponsorship of meetings and symposia; 
+• 
+hospitality and entertainment provided at sponsored meetings and symposia; 
+• 
+gifts and promotional items; and 
+• 
+donations and grants. 
+The SAPI Code does not have the force of law. Nonetheless, as highlighted above, one of the PCA 
+Corrupt Test Factors (in ascertaining whether a gratification has been given/received “corruptly”) is 
+whether any rules or regulations were breached and the purpose of such rules. 
+Therefore, the SAPI Code may be relevant insofar as compliance with it will help show that the 
+promotional/marketing activity in question was not conducted “corruptly” under the PCA. For this 
+reason, it may be helpful to comply with the SAPI Code even for the medical device industry. 
+However, it bears noting that such compliance (whether for the medicinal product or medical device 
+industries) is not a safe harbor defense. The SAPI Code is merely a useful guideline. 
+The following sections will touch on the key ambits of various marketing activities set out in the SAPI 
+Code. 
+Sponsorship of Meetings/Symposia 
+Under the SAPI Code, when a pharmaceutical company sponsors a symposium, congress or other 
+medical/healthcare or educational program for both local and overseas meetings, the following should 
+be observed: 
+• 
+Sponsorship of healthcare professionals should be limited to travel, meals, accommodation 
+and registration fees. 
+• 
+No payment should be made to compensate healthcare professionals for time spent attending 
+the event. 
+• 
+Any sponsorship provided to individual healthcare professionals must not be conditional upon 
+an obligation to prescribe, recommend or promote any medicinal product. 
+• 
+Compensation may be provided to healthcare professionals who are providing genuine 
+services as speakers or presenters on the basis of a written contract with the company at the 
+event. 
+• 
+All companies should only provide economy class tickets for air travel of less than six hours. 
+This should apply to all faculty members, such as speakers, members of advisory boards as 
+well as attendees. 
+• 
+Companies should not pay any cost for persons accompanying invited healthcare 
+professionals. 
+• 
+When the event is to be held in an overseas location, the majority of the attendees should be 
+from the country in which the event is held. 
+• 
+A minimum of 75 percent of time should be spent on core activities of the event and a 
+maximum of 25 percent of time may be devoted to recreational activities, such as cultural 
+dance and sight-seeing tour of modest fees. 
+• 
+Any activities that have an element of chance should not be part of the event. 
+
+
+=== PAGE 13 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+Hospitality/Entertainment Provided at Sponsored Meetings/Symposia 
+The key principle is that scientific objectives should be the principal focus in arranging such events, 
+and entertainment/hospitality is inconsistent with such objectives. In this regard, the SAPI Code sets 
+out the following: 
+• 
+Meetings should be held in an appropriate venue that is conducive to the scientific or 
+educational objectives of the event. Companies should avoid using renowned or extravagant 
+venues. Venues associated with activities such as gambling, gaming and entertainment are 
+deemed inappropriate. 
+• 
+Refreshments and/or meals incidental to the main purpose of the event should not extend 
+beyond participants to the event. 
+• 
+Providing hospitality in relation to food and drinks as per social/cultural norms in a local 
+setting to members of the medical and allied professions should be limited to less than 
+SGD100 (about USD70) per person (excluding taxes). However, this should be accompanied 
+with dissemination of scientific or educational information. 
+• 
+No stand-alone entertainment or other leisure or social activities should be provided or paid 
+for by companies. However, entertainment of modest nature which is secondary to 
+refreshments and/or meals is allowed during meetings. 
+Gifts/Promotional Items 
+The general rule is that inappropriate financial or material benefits should not be offered to healthcare 
+professionals to influence them in the prescribing of pharmaceutical products. In this regard, the SAPI 
+Code states the following: 
+• 
+Payments in cash or cash equivalents (such as gift certificate) must not be offered to 
+healthcare professionals either directly or indirectly. 
+• 
+Promotional items of insignificant value of no more than SGD20 (about USD15) provided 
+free of charge are permissible as long as they are related to the healthcare professional’s work 
+and/or entail a benefit to patients. Gifts as a token of appreciation for services rendered by 
+healthcare professionals should be limited to SGD50 (about USD40) or less. 
+• 
+Inexpensive food items and drinks as per social/cultural norm may be distributed to healthcare 
+professionals during the course of day-to-day promotional activities only and should be 
+limited to less than or equal to SGD20 (about USD15) per healthcare professional. 
+• 
+Congratulatory flowers limited to promotions, conferment of awards or clinic/hospital 
+opening should be limited to SGD150 (about USD110) per occasion. 
+• 
+Congratulatory messages in any form of media on behalf of a healthcare professional or a 
+hospital/clinic are strictly prohibited. 
+• 
+Exceptional gifts such as cakes, cookies and mandarin oranges during various festive seasons 
+should be symbolic and modest, with a value of up to SGD50 (about USD40). Each 
+healthcare professional should only be offered a maximum of two such gifts per year. 
+• 
+Items of medical utility may be offered or given free of charge provided such items are of 
+modest value and are beneficial to the provision of medical services and for patient care. The 
+value of such items should be limited to les than or equal to SGD200 (about USD150). 
+Donations/Grants 
+Companies may provide donations by request, strictly for charitable purposes and charitable 
+organizations. In addition, companies can provide grants towards financial support strictly for 
+educational programs, (including but not limited to requests to fund accredited CME programs, non-
+accredited educational programs, fellowships, advocacy organizations, societies, medical conferences, 
+congresses or independent meetings) if they are: 
+• 
+unsolicited; 
+
+
+=== PAGE 14 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+from an institution or organization, not an individual healthcare practitioner; 
+• 
+unrelated to the prescribing, purchasing, registration of any products; 
+• 
+substantiated by written documentation of the program details; and 
+• 
+able to withstand public scrutiny. 
+Interaction Between SAPI Code and PCA - Tips 
+The following tips may be helpful in respect of the interaction between the SAPI Code and the PCA: 
+• 
+The PCA prohibits any gratification that is corruptly given/received “for the doing or 
+preventing the doing of anything in relation to any transaction.” It would therefore be prudent 
+to avoid providing any sponsorships, hospitality, entertainment and gifts/promotional items 
+“for the doing or preventing the doing of anything in relation to any transaction” (actual or 
+proposed). 
+• 
+In cases of promotional/marketing activities that have been addressed by the SAPI Code, 
+medicinal product companies (whether SAPI members or not) should comply with these 
+ambits. This will help militate against liability under the PCA. 
+• 
+There are naturally several types of promotional/marketing activities that are not addressed by 
+the SAPI Code. These include entertainment/hospitality per se (not provided for sponsored 
+congresses/symposia), gifts for personal occasions like birthdays, and travel arrangements 
+(not provided for sponsored congresses/symposia). In this regard, the PCA is deliberately 
+drafted broadly and does not identify any specific safe harbors in relation to various forms of 
+gratification. A common sense approach should therefore be adopted in light of all the 
+circumstances, including close adherence to the PCA Corrupt Test Factors. 
+By way of illustration: 
+• 
+If a local hospital is organizing a tender for medical products, then any approach for a friendly 
+round of golf by the company’s business development personnel to healthcare professionals 
+working at the hospital (especially those in a position to potentially influence the award of the 
+bid) around the time of evaluation of the bids would be open to question, and is not 
+recommended. Conversely, if the company’s local chief executive officer organizes and pays 
+for a party where one or more of the guests are from the hospital but happen to be mutual 
+friends of the person for whom the party is being held, this may be less of a concern. 
+• 
+If an expensive birthday gift is given to a healthcare professional (who is in a position to 
+influence the award of tenders) close to the time of evaluation of a tender bid, this may be 
+subject to closer scrutiny than an inexpensive birthday gift where there is no pending award. 
+• 
+Insofar as it makes “business sense” for travel to other countries (e.g., to visit corporate 
+headquarters in the US to talk about products and opportunities face-to-face) as opposed to it 
+being an excuse for travel to an exotic holiday destination, then payment for travel may be 
+acceptable. The costs should nonetheless be reasonable, and proper receipts should be 
+procured and kept. Where possible, payment should be made direct to the service providers 
+rather than made in cash (or by way of per diem) to the traveler. 
+SMF Code 
+The SMF Code is an industry code which addresses interactions vis-à-vis medical devices, between 
+SMF members and healthcare professionals. These interactions include: 
+• 
+sponsorship of training and education meetings; 
+• 
+hospitality and travel arrangements; 
+• 
+gifts and entertainment; and 
+• 
+donations and grants. 
+The SMF Code’s provisions are highly similar to those of the SAPI Code. 
+
+
+=== PAGE 15 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+SMC Code 
+While the SMC Code only applies to registered medical practitioners in Singapore (and therefore will 
+not subject the relevant medicinal product/medical device company to sanctions from the SMC), it 
+may be useful for medicinal product/medical device companies to comply with its guidelines 
+governing financial relationships with these companies. 
+The reasons are two-fold. Firstly, compliance may help show that such relationships are not entered 
+into corruptly for the purposes of the PCA. Secondly, the risk of doctors being censured is reduced. 
+This consequently mitigates the risk of the company being exposed to negative publicity. 
+Financial/Commercial Interests 
+Under the SMC Code, a doctor must refrain from improperly prescribing drugs or devices in which he 
+has a financial interest, and sharing fees or obtaining commissions from referrals of patients. 
+Additionally, a doctor shall not exert undue influence upon a patient in relation to transactions in 
+which he has an interest. 
+If a doctor has a financial interest in an organization or service to which he intends to refer patients for 
+admission, treatment or, investigation, or for the purchase of any drugs, medicine or service in the 
+course of treatment, he shall always disclose his interest to the patient before making a referral. 
+A doctor shall not let financial considerations imposed by his own practice, investments or financial 
+arrangements influence the objectivity of his clinical judgement in the treatment of his patients. 
+Sponsored Educational Events and Research 
+A doctor may be invited to participate in medical events, conferences, talks, publications or 
+educational websites sponsored by companies marketing pharmaceutical products/medical devices. 
+The doctor should ensure that his participation is not seen as an endorsement of such products, neither 
+is it meant to persuade patients or members of the public to use the products. 
+Apart from identification and establishment of credentials, no details of services provided by the 
+doctor or service details shall appear in any way in relation to such participation. 
+A doctor who is sponsored by a company to participate in an educational event or who reports 
+research sponsored by a company must declare all such potential conflicts of interest to the audience. 
+Gifts/Hospitality 
+A doctor shall not ask for gifts, hospitality or other inducements that may affect or be seen to affect 
+his judgement in making decisions about patients’ treatment. A doctor can receive small, insubstantial 
+gifts which cannot be regarded as inducement. 
+Contracts with Healthcare Professionals and Medical Institutions 
+Medicinal product and medical device companies will invariably enter into various contracts with 
+healthcare professionals and medical institutions. These contracts include research contracts, 
+consultancy contracts and speakership contracts. The following points may be helpful: 
+• 
+There could be corruption issues wherever such agreements are executed. The PCA Corrupt 
+Test Factors, the SAPI Code, the SMF Code and the SMC Code should be complied with. 
+• 
+The scope of performance and consideration should be defined precisely in the contracts. 
+• 
+Any consideration must be reasonable and defensible according to market rate. 
+
+
+=== PAGE 16 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+Suitable anti-corruption clauses should be included. The contracting party should warrant and 
+confirm that the execution and performance of the contract does not violate any applicable 
+anti-corruption laws, regulations or codes of conduct, as well as any internal compliance 
+policies. 
+• 
+If contracts are entered into with the healthcare professionals directly, they should warrant 
+and confirm that the execution and performance of the contract does not breach their 
+employment agreements. Furthermore, they should also warrant and confirm that written 
+consent has been sought from their employer. For prudence, request for a copy of such written 
+consent. 
+Recommendations 
+The promotion and advertisement of medicinal products and medical devices are snared with various 
+legal risks. In some cases, severe criminal punishment may be meted out. To mitigate these risks, the 
+following points are recommended: 
+• 
+Check whether permits are required for medical advertisements/sales promotion of medicinal 
+products. 
+• 
+Check whether the claims in medicinal product/medical device advertisements pass 
+regulatory muster. 
+• 
+Conduct regular training for the business/marketing team on permissible sales 
+promotion/advertisement claims. 
+• 
+Create a corporate compliance policy that is in line with the PCA Corrupt Test Factors, the 
+SAPI Code, the SMF Code and the SMC Code and ensure that all employees are bound by 
+this policy. 
+• 
+Conduct regular training for the business/marketing team on permissible marketing activities 
+from an anti-corruption viewpoint. 
+• 
+Ensure that contracts with healthcare professionals and medical institutions are appropriately 
+drafted (as highlighted in the previous section). 
+ 
+
+
+=== PAGE 17 ===
+
+www.bakermckenzie.com
+This third edition of “Promoting Medical Products Globally. Handbook of Pharma 
+and MedTech Compliance” is intended to provide an overview of the applicable 
+compliance laws governing the cooperation between the medical industry 
+and physicians in Europe, North America, Latin America and the Asia Pacific 
+region. It highlights the legal framework within which medical device and 
+pharmaceutical companies cooperate with health care professionals. It deals 
+with common sponsoring practices such as invitations, conferences and 
+financial grants for research, personnel and equipment as well as other 
+promotional activities such as the giving of gifts, samples and other items 
+and services which are of interest to health professionals. We trust that the 
+third edition is a useful resource for lawyers, compliance officers, managing 
+directors and managers in marketing and medical departments of the 
+medical industry to assess the legal impact on their promotion and marketing 
+activities involving healthcare professionals or medical institutions.
+© 2016 Baker & McKenzie. All rights reserved. Baker & McKenzie International is a Swiss Verein with member law firms around the world. In 
+accordance with the common terminology used in professional service organizations, reference to a “partner” means a person who is a partner, or 
+equivalent, in such a law firm. Similarly, reference to an “office” means an office of any such law firm.
+This may qualify as “Attorney Advertising” requiring notice in some jurisdictions. Prior results do not guarantee a similar outcome.
+
+

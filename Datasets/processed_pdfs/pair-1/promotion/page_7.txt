@@ -1,0 +1,30 @@
+=== PAGE 7 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+What Is Estetrol (E4)?
+
+Estetrol is a native human estrogen produced by the fetus during pregnancy¹
+Estetrol in NEXTSTELLIS is a synthetic estrogen manufactured from a plant source²,³
+
+This section displays a diagram illustrating the process of obtaining Estetrol (E4) from a plant source. The diagram flows from left to right:
+1.  **Image:** A light green plant with roots and multiple leaves.
+    **Text below image:** Soy
+2.  **Arrow:** A large gray arrow pointing right.
+    **Text above arrow:** extraction
+3.  **Image:** A gray mortar and pestle, with some plant leaves inside the mortar. Next to the mortar, a gray dropper is shown.
+    **Text below image:** Phytosterols
+    **Chemical Structure 1:** Above this stage, a chemical structure is shown with a four-ring steroid nucleus, an oxygen double-bonded to the A-ring (likely at C3) and a hydroxyl group (-OH) attached to the D-ring (likely at C17). This structure represents a ketonic steroid, consistent with Estrone (E1).
+4.  **Arrow:** A large gray arrow pointing right.
+5.  **Image:** A light pink, abstract, irregular shape, resembling a mountainous or crystalline formation.
+    **Text below image:** Estrone (E1)
+6.  **Arrow:** A large gray arrow pointing right.
+7.  **Image:** A white, circular pill with a faint, light gray 'A' or 'Q' shaped logo embossed on its surface.
+    **Text below image:** Estetrol (E4)
+    **Chemical Structure 2:** Above this final product, another chemical structure is depicted. It also features a four-ring steroid nucleus, with multiple hydroxyl groups (-OH) attached to various positions on the rings, characteristic of a highly hydroxylated steroid like Estetrol (E4).
+
+maynepharma
+6                                     References: 1. Coelingh Bennink HJ, et al. Climacteric. 2008;11(suppl 1):47-58. 2. NEXTSTELLIS [package insert]. Raleigh, NC: Mayne Pharma; 2021.
+                                      3. Gerard C, et al. Expert Rev. Clin. Pharmacol. 2022;15:121-137.
+
+                                                                               Full Prescribing Information is available at www.Nextstellis.com

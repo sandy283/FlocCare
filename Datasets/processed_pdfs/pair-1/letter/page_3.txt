@@ -1,0 +1,60 @@
+=== PAGE 3 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Mandy Edwards
+Mayne Pharma LLC
+NDA 214154/ MA 107
+
+                                                                                                       Page 3
+
+The speaker deck includes numerous claims and presentations comparing the
+pharmacologic properties and purported benefits of estetrol (e.g., claims of “low impact” and
+“minimal effect on the liver”) to those of other estrogens. These claims and presentations
+misleadingly suggest that Nextstellis is “unique” and intrinsically different from other
+estrogens, making Nextstellis a safer form of estrogen-containing oral contraception due to
+its “low-impact” properties. The following claims and presentations in the speaker deck
+create this misleading impression (footnotes omitted, underlined emphasis added):
+
+    *   “NEXTSTELLIS is an FDA-approved, combined oral contraceptive (COC) containing
+        drospirenone (DRSP) and estetrol (E4)—a novel, **selective action, low-impact**
+        estrogen” (slide 3)
+    *   “The **native characteristics of estetrol have not required any modification** for its use in
+        a contraceptive” (slide 8)
+    *   “Estetrol (E4) Has a **Unique Pharmacologic Profile**.” This headline claim is followed
+        by a chart comparing numerous pharmacologic parameters of estetrol (highlighted in
+        shades of pink) and ethinyl estradiol (presented in gray, black and white). The chart
+        includes “Hepatic metabolism” and “Impact on CYP450.” Beside the comparison of
+        hepatic metabolism, the slide notes in pink that Estetrol has “Minimal hepatic
+        metabolism[.]” Beside the comparison of the impact on CYP450, the slide notes in
+        pink that estetrol has “Minimal drug interaction.” (slide 8)
+    *   “The **Unique Dual Role of Estetrol (E4) Results in Tissue Selective Actions**” (slide 10)
+    *   “**Unlike other estrogens, E4 has a minimal effect on the liver.**” (slide 10; bolded
+        emphasis original)
+    *   “Estetrol, **a selective action, low-impact, native estrogen**” and “Estetrol is a **low-impact**
+        estrogen…” (slide 40)
+    *   “NEXTSTELLIS is **the ideal pairing** of estetrol and drospirenone, delivering an
+        **effective and safe** combined oral contraceptive with a **unique pharmacologic profile**”
+        (slide 41; bolded emphasis original)
+
+These claims and presentations, which appear throughout the speaker deck, suggest that
+estetrol is different from—and lower risk than—other estrogens because of purported native
+characteristics and a “unique pharmacologic profile” that “results in tissue selective actions”
+and a “low impact.” Moreover, these claims and presentations misleadingly suggest that
+estetrol has differential selectivity in tissues that distinguishes it functionally from other
+estrogens, when this has not been demonstrated. For example, according to the Nextstellis
+PI, estetrol is “a synthetic analogue of a native estrogen present during pregnancy, that is
+selective for nuclear estrogen receptor-α (ER-α) and ER-β”; however, this is true of all
+**estrogens**. Estrogens, including estetrol, act through ER-α and ER-β and have a multiplicity
+of end organ effects. The effects in any given tissue depend on a variety of factors beyond
+the action of the estrogen itself, such as the mix of co-activators and co-repressors that
+determine gene activation, and the presence or absence of alternative signaling pathways.
+We are unaware of any data to support the suggestion that estetrol has intrinsic properties
+that result in unique pharmacological impacts on tissues that subsequently confer greater
+safety for Nextstellis compared to other estrogen products. If you have information or data to
+support these suggestions, please submit to FDA for review.
+
+In addition to the overall misleading impression described above, certain individual claims
+and presentations elsewhere within the speaker deck are also misleading.
+
+Reference ID: 5580097

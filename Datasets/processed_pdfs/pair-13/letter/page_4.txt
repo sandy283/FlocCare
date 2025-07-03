@@ -1,0 +1,55 @@
+=== PAGE 4 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+James H. Medley
+Althera Pharmaceuticals LLC
+NDA 213072 MA 4
+
+                                            ○ “EXPLORER⁴ Study
+                                                ▪ Baseline LDL-C **189 mg/dl** → Final LDL-C **57 mg/dl** after **6 weeks**
+                                                  (Dose: rosuvastatin/ezetimibe 40 mg/10 mg)”
+
+These claims and presentations create a misleading impression regarding the efficacy of
+Roszet in achieving specific levels of LDL-C reduction over specific periods of time. There
+are multiple limitations to the cited studies³˒⁴ that preclude drawing conclusions regarding the
+quantitative treatment effect of Roszet on LDL-C based on these studies.
+
+For example, both the GRAVITY and EXPLORER studies conducted analyses in a modified
+intent-to-treat population (mITT) that excluded subjects with no post-baseline measurements
+from the efficacy analyses and only used the last observation carried forward (LOCF) method
+to impute missing data. Both LOCF and mITT introduce bias in the estimation of the
+treatment effect and increase the chance of committing a Type I error (i.e., falsely concluding
+a treatment effect). The use of the mITT population biases the estimate of the treatment
+effect of the drug because excluding patients after randomization could undermine the
+integrity of randomization. Similarly, the use of LOCF to account for patients with missing
+data further biases the estimate of the treatment effect of the drug because it relies on the
+unlikely assumption that outcomes after treatment discontinuation remain constant. Also, the
+use of LOCF does not account for the uncertainty of the imputed values for missing data.
+Thus, the use of the mITT population and LOCF introduce bias into the study results and limit
+the conclusions that can be drawn regarding the quantitative treatment effect based on these
+studies.
+
+Additionally, the promotional communication includes claims and presentations that
+misleadingly imply that the GRAVITY and EXPLORER studies establish that patients can get
+their LDL-C below 70 mg/dL with Roszet. The primary endpoints in GRAVITY and
+EXPLORER studies were mean percent reduction in LDL-C from baseline to week 12 and the
+proportion of patients who achieved LDL-C <100 mg/dL at week 6, respectively. However,
+the proportion of patients achieving LDL-C <70 mg/dL was only one of numerous secondary
+endpoints in these studies and, the study publications do not discuss, and the FDA is not
+aware of, any methods taken to control for multiplicity testing of secondary endpoints in these
+studies. As the number of endpoints analyzed in a single study increases, the likelihood of
+making false conclusions about a drug’s effects with respect to one or more of those
+endpoints becomes a concern if there is not appropriate adjustment for multiplicity. Basing a
+conclusion on an analysis where the risk of false conclusions has not been appropriately
+controlled can lead to false or misleading representations regarding a drug’s effects. If you
+have information on any methods taken to control for multiplicity testing of secondary
+endpoints in these studies, please submit to FDA for review.
+
+⁴ Ballantyne CM, et al. Efficacy and safety of rosuvastatin 40 mg alone or in combination with ezetimibe in
+patients at high risk of cardiovascular disease (results from the EXPLORER study). Am J Cardiol 2007; 99:673-
+80.
+
+Reference ID: 4993452
+
+Page 4

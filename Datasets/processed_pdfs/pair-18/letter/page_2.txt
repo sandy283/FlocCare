@@ -1,0 +1,55 @@
+=== PAGE 2 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+David Shechter                                                              Page 2
+Amgen Inc.
+BLA 125031 MA 1706
+
+Neulasta is not indicated for the mobilization of peripheral blood progenitor cells for
+hematopoietic stem cell transplantation.
+
+Neulasta is contraindicated in patients with a history of serious allergic reactions to human
+granulocyte colony-stimulating factors such as pegfilgrastim or filgrastim. The PI for
+Neulasta includes warnings and precautions regarding splenic rupture, acute respiratory
+distress syndrome, serious allergic reactions, allergies to acrylics, use in patients with sickle
+cell disorders, glomerulonephritis, leukocytosis, thrombocytopenia, capillary leak syndrome,
+potential for tumor growth stimulatory effects on malignant cells, myelodysplastic syndrome
+(MDS) and acute myeloid leukemia (AML) in patients with breast and lung cancer in
+conjunction with chemotherapy and/or radiotherapy, potential device failures, and aortitis.
+The most common adverse reactions reported with use of Neulasta include bone pain and
+pain in extremity.
+
+**False or Misleading Benefit Presentation**
+
+Prescription drug advertisements and labeling (promotional communications) misbrand a
+drug if they are false or misleading with respect to benefits. The determination of whether a
+promotional communication is misleading includes, among other things, not only
+representations made or suggested in the promotional communication, but also the extent to
+which the promotional communication fails to reveal facts material in light of the
+representations made or with respect to consequences that may result from the use of the
+drug as recommended or suggested in the promotional communication.
+
+The banner includes the following claims and presentations (emphasis original):
+
+*   “In a Real-World Study with nearly 11,000 patients Pegfilgrastim PFS resulted in a
+    **significantly higher risk of FN vs. Onpro**®” (frame 1)
+*   “Across all cycles of chemotherapy, the incidence of FN associated with prefilled
+    syringge (PFS) was 1.7% (n = 455) vs 1.3% (n = 126) for Neulasta® Onpro®” (frame 1)
+*   A large presentation of an upward arrow containing the claim, “31%* *p = 0.01”
+    (frames 1 and 2)
+*   “With PFS, **FN incidence increased by 31%** vs Onpro®” (frame 2)
+
+These claims and presentations create a misleading impression regarding the benefit of the
+product by stating that there is a statistically significant higher risk of febrile neutropenia
+(FN) when pegfilgrastim is administered via the prefilled syringe (PFS) compared to the
+Onpro on-body injector (OBI). However, the multiple limitations of the cited study² preclude
+the drawing of such conclusions regarding the comparative risk of febrile neutropenia (FN)
+in patients taking pegfilgrastim depending on delivery method.
+
+---
+² Data on file, Amgen; 2019 – Delivering pegfilgrastim via PFS (pre-filled syringe) resulted in a significantly
+higher risk of FN (febrile neutropenia) vs. Onpro. The data on file was provided by Amgen in response to
+OPDP’s request for the information.
+
+Reference ID: 4822416

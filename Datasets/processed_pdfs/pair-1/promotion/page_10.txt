@@ -1,0 +1,32 @@
+=== PAGE 10 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving its original layout and structure:
+
+**Ethinyl Estradiol (EE) Receptor Activity**
+
+There is a diagram illustrating the two forms of Estrogen Receptor Alpha (ERα) and their locations:
+*   On the left, an arrow points to a circular, dotted outline labeled **ERα nucleus**, representing the nuclear estrogen receptor alpha.
+*   On the right, an arrow points to a more elongated, capsule-shaped, dotted outline labeled **ERα membrane**, representing the membrane estrogen receptor alpha.
+This diagram suggests that Ethinyl Estradiol (EE) acts as an agonist for both nuclear and membrane ERα receptors.
+
+**Agonist at all sites¹**
+
+*   Activates both the nuclear and membrane estrogen receptor¹
+*   Has estrogenic activity on the vagina, endometrium, bone, vascular system, brain, liver, and breast¹⁻³
+
+Below the bullet points, there is a row of six dark teal-colored icons, visually representing the organs and systems mentioned in the second bullet point where ethinyl estradiol has estrogenic activity:
+*   A stylized icon of a uterus (representing the vagina and endometrium).
+*   A stylized icon of a bone (representing bone).
+*   A stylized icon of a branching tree-like structure (possibly representing the vascular system or general systemic effect).
+*   A stylized icon of a brain (representing the brain).
+*   A stylized icon of a liver (representing the liver).
+*   A stylized icon of a breast (representing the breast).
+
+mayne pharma
+9
+
+ERα, estrogen receptor alpha.
+References: 1. Arnulf JF, et al. Physiological Reviews. 2017;97:3,1045-1087. 2. Emmanuelle NE, et al. Int J Mol Sci. 2021;22(4):1568. 3. Paterni I, et al. Steroids. 2014;90:13-29.
+Full Prescribing Information is available at www.Nextstellis.com

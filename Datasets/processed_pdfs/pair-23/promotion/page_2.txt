@@ -1,0 +1,66 @@
+=== PAGE 2 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving its layout and structure:
+
+**Header**
+NASCENT
+BIOTECH, INC.
+Products Investors News About Contact
+
+**Main Content**
+
+**Pritumumab**
+is a proprietary monoclonal
+antibody (mAb)
+
+Delivering human antibodies for the treatment of cancer
+
+**Pritumumab**
+
+Learn more about Nascent Biotech's primary drug product,
+Pritumumab.
+
+**NBIO Stock Information**
+
+NBIO: (%)
+
+**Investor Presentation**
+
+Download Investor Presentation
+
+**Email Updates**
+[Email icon] Subscribe Now
+
+---
+
+**Visual Element Description:**
+On the right side of the page, there is a detailed 3D molecular diagram of a protein, which, given the surrounding text, represents a monoclonal antibody (mAb). The molecule is composed of multiple sub-units or domains, depicted in different colors (green, light blue, and purple), forming a Y-shaped structure. This image visually supports the primary topic of the page, Pritumumab, which is described as a proprietary monoclonal antibody.
+
+---
+
+**Latest News**
+
+JUNE 3, 2019
+Nascent CEO Sean Carrick On RedChip Money Report
+
+MARCH 10, 2019
+Human Antibodies: Antibody drug conjugates: Progress, pitfalls, and
+promises
+
+DECEMBER 11, 2018
+Nascent Biotech Receives Clearance from FDA to Begin Phase I Human
+Trials in Brain Cancer
+
+JULY 27, 2018
+Prionogenicity of vimentin surmised from the sequelog of anti-idiotypic
+antibodies toward the paratope of malignant associated autologous anti-
+vimentin antibody, CLN-IgG (Pritumumab)
+
+APRIL 4, 2018
+Nascent Biotech to Sponsor Human Antibodies & Hybridomas
+Conference
+
+**Footer**
+Copyright Nascent Biotech. All rights reserved.

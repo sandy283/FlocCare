@@ -1,0 +1,63 @@
+=== PAGE 4 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving its original layout and structure:
+
+Santosh T. Varghese
+VIVUS, Inc.
+NDA 022580/ MA 414
+
+                                                                        Page 4
+
+In addition, this presentation creates a misleading impression regarding the efficacy of
+Qsymia by selectively presenting more favorable data. Specifically, this presentation
+selectively presents the more favorable absolute amount of weight loss and reduction in waist
+circumference, which fails to account for an individual's baseline weight and waist
+circumference. According to the CLINICAL STUDIES section of the PI, these efficacy
+outcomes were measured in the context of a patient's baseline weight and waist
+circumference. By failing to account for an individual's baseline weight and waist
+circumference and omitting this context on the webpage, this presentation misleadingly
+implies that all patients, no matter their baseline weight or waist circumference, should expect
+to achieve results similar to the absolute amounts presented on the webpage under the
+claims “Your first milestone,” “Stay motivated” and “Maintain progress.”
+
+Finally, this presentation primarily reflects patient data⁵ from distinct points during the clinical
+trials of only those who remained on Qsymia. According to the CLINICAL STUDIES section
+of the PI, a substantial percentage of patients withdrew their participation from the studies
+prior to the conclusion of the trials at week 56 - 40% in Study 1 and 31% in Study 2. The
+above claims fail to account for these patients who withdrew from the studies. By selectively
+presenting results without this contextual information, the presentation overstates the efficacy
+of the product and misleadingly implies all patients who received Qsymia remained on
+treatment.
+
+**False or Misleading Risk Presentation**
+
+Promotional materials misbrand a drug if they are false or misleading with respect to risk.
+The determination of whether promotional materials are misleading includes, among other
+things, not only representations made or suggested in promotional materials, but also failure
+to reveal facts material in light of the representations made or with respect to consequences
+that may result from the use of the drug as recommended or suggested in the materials.
+
+The webpage fails to present information relating to contraindications, warnings, precautions,
+and adverse reactions for Qsymia with a prominence and readability reasonably comparable
+with the presentation of information relating to the benefits of Qsymia. Factors impacting
+prominence and readability include typography, layout, contrast, headlines, paragraphing,
+white space, and other techniques apt to achieve emphasis. Specifically, benefit claims for
+Qsymia are presented in conjunction with colorful graphics and large bolded headlines with
+significant white space. However, the risk information is relegated to the bottom of the
+webpage in paragraph format and is not easily accessible to viewers who must “scroll” down
+the webpage past the entire benefit presentation. Additionally, the webpage does not present
+any significant signal to alert the viewer that important risk information follows the
+presentation of benefit information.
+
+**Conclusion and Requested Action**
+
+For the reasons discussed above, the webpage misbrands Qsymia within the meaning of the
+FD&C Act and makes distribution of the product violative. 21 U.S.C. 352(a),(n); 331(a);
+321(n). See 21 CFR 202.1(e)(1); 202.1(e)(5); 202.1(e)(7)(viii).
+______
+⁵ The data is primarily derived from three subset populations who remained on treatment at Weeks 12, 28, and
+56, respectively.
+
+Reference ID: 4437455

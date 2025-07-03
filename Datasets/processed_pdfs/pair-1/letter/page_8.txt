@@ -1,0 +1,58 @@
+=== PAGE 8 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Mandy Edwards
+Mayne Pharma LLC
+NDA 214154/ MA 107
+
+Page 8
+
+**or not**” (underlined emphasis original, bold emphasis added). This claim creates a
+misleading impression that not all of the ARs included in the presentation were related to
+Nextstellis treatment and suggests that the true AR rates attributable to use of Nextstellis
+were lower, when this is not the case. The Nextstellis PI is cited for this claim. However,
+the adverse reactions included in Table 4 of the PI, and included on slide 27, are adverse
+reactions for which a causal relationship is plausible. Thus, the claim that the adverse
+reactions described in the PI are reported “whether drug related or not” misleadingly
+minimizes the risks associated with Nextstellis by downplaying and dissociating the adverse
+reactions reported by patients using Nextstellis in the Phase 3 studies.
+
+Furthermore, the risk presentation on slides 34-38 omits material facts regarding the risks of
+hyperkalemia, migraine, and bleeding irregularities and amenorrhea associated with
+Nextstellis. Specifically, the following material information from the PI is omitted (in pertinent
+part, bolded emphasis original, underlined emphasis added):
+
+**4 CONTRAINDICATIONS**
+
+NEXTSTELLIS is contraindicated in females who are known to have or develop the
+following conditions:
+...
+Have migraine headaches with aura
+
+**WARNINGS AND PRECAUTIONS**
+...
+**5.2 Hyperkalemia**
+NEXTSTELLIS is contraindicated in females with conditions that predispose to
+hyperkalemia (e.g., renal impairment, hepatic impairment, and adrenal insufficiency).
+...
+Monitor females taking NEXTSTELLIS who later develop medical conditions and/or
+begin medication that put them at an increased risk for hyperkalemia.
+...
+**5.4 Migraine**
+...
+Migraines with aura increase the risk for stroke. This stroke risk is further increased in
+females who have migraines with aura with use of CHCs.
+...
+**5.11 Bleeding Irregularities and Amenorrhea**
+...
+If bleeding persists or occurs after previously regular cycles, evaluate for causes such
+as pregnancy or malignancy.
+
+We acknowledge the statements on slide 34 that “[t]he following ISI is based on the highlights
+section of the US Prescribing Information for NEXTSTELLIS” and to “[p]lease consult the full
+Prescribing Information for all labelled safety information for NEXTSTELLIS”, as well as the
+hyperlink to Nextstellis’ full PI throughout the speaker deck. However, these statements do
+not mitigate the misleading minimization of risks associated with use of Nextstellis.
+
+Reference ID: 5580097

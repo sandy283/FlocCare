@@ -1,0 +1,39 @@
+=== PAGE 17 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving its original layout and structure:
+
+16
+
+[The page features a large blue-grey background section covering most of the right side, extending from top to bottom, with a prominent vertical pink bar on the far left edge of this section, matching the pink color of the page number.]
+
+## Select Phase 2 Clinical Trial Results
+
+These results do not represent hard clinical endpoints but
+are measures of markers, which are only surrogates.
+No clinical inferences should be made from the results
+shown.
+
+[Within the blue-grey section, there are two content boxes, side-by-side.]
+
+| [Box 1]                                     | [Box 2]                                    |
+| :------------------------------------------ | :----------------------------------------- |
+| **Endocrine Effects¹**                      | **Hemostatic Parameters²**                 |
+| - - - - - - - - - - - - - - - - - - - - - | - - - - - - - - - - - - - - - - - - - - |
+| 6-cycle study (1 cycle = 28 days)           | 6-cycle study (1 cycle = 28 days)          |
+| 3 arms (E4/DRSP, EE/DRSP, EE/LNG)           | 3 arms (E4/DRSP, EE/DRSP, EE/LNG)          |
+| n=101 subjects (Age 18-50)                  | n=98 subjects (Age 18-50)                  |
+| 1 cycle washout                             | 1 cycle washout                            |
+| - - - - - - - - - - - - - - - - - - - - - | - - - - - - - - - - - - - - - - - - - - |
+
+[At the bottom of the page, there is a logo and additional text.]
+
+[Image: A black circular logo with "maynepharma" in white text.]
+
+DRSP, drospirenone; E4, estetrol; EE, ethinyl estradiol; LNG, levonorgestrel
+References: 1. Klipping C, et al. Contraception. 2021;103(4):213-221. 2. Douxfils J, et al. Contraception. 2020 Dec;102(6):396-402.
+
+Full Prescribing Information is available at www.Nextstellis.com
+
+[Image: On the far right, a stylized abstract shape resembling a human figure or a fluid design, composed of three distinct colored sections: a small light blue drop-like shape at the top, a medium-sized dark purple irregular shape below it, and a large pink elongated teardrop shape forming the base.]

@@ -1,0 +1,35 @@
+=== PAGE 2 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Overview of PET/CT Imaging in Recurrent Prostate Cancer – Current and Emerging Techniques — DrFabio                                                 2
+
+   you find this information useful.
+
+CONVENTIONAL TYPES OF IMAGING
+
+   Ultrasound has a role in doing prostate biopsies and the placement of radioactive
+seeds in primary prostate cancer. It is also useful for evaluating local recurrence
+after surgery in patients with an increasing PSA. CT Scans are commonly used for
+staging men with newly-diagnosed disease, looking for enlarged lymph nodes in
+the pelvis. However, it is inaccurate for detecting cancer in the lymph nodes. If
+cancer is present in the nodes, a CT scan only finds it 35% of the time. Prostate
+MRI is used for staging, biopsy guidance, surgical planning, radiation planning,
+and restaging after PSA relapse. Multi-parametric MRI is being found to be very
+helpful for detection and local staging of untreated prostate cancer, to reveal
+features such as extra-capsular extension or seminal vesicle invasion, thus helping
+to confirm local (organ confined) disease. Additionally, multi-parametric MRI is
+emerging as a useful imaging tool for following changes in the prostate gland for
+men on active surveillance.
+
+TECHNETIUM-MDP
+
+   Prostate cancer frequently metastasizes to the bone, therefore the mainstay of
+imaging for advanced prostate cancer has been technetium-labeled (Tc99)
+bisphosphonate bone scintigraphy. Tc99 bone scans are used for initial staging of
+intermediate-to-high-risk disease and for restaging after PSA relapse.
+Unfortunately, it is not sensitive enough to detect small skeletal metastases. False
+positives are common due to interference from non-cancerous arthritic changes
+and/or prior trauma.
+
+http://www.drfabio.com/imagingblog/2018/1/9/overview-of-petct-imaging-in-recurrent-prostate-cancer-current-and-emerging-techniques[11/15/2018 11:25:57 AM]

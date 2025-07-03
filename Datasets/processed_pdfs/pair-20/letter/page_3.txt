@@ -1,0 +1,58 @@
+=== PAGE 3 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Korie Osborn
+Azurity Pharmaceuticals Inc.
+NDA 208400/MA 50
+
+Page 3
+
+device and could lead to overdose, which can result in serious adverse reactions.
+
+Furthermore, promotional materials are misleading if they fail to present information about
+risks associated with a drug with a prominence and readability reasonably comparable with
+the presentation of information relating to the effectiveness of the drug. The email
+prominently presents benefit claims for Xatmep in the body of the email in a bulleted list. In
+contrast, the limited risk information (i.e., the Boxed Warning) included in the email is
+presented after the signature block, which typically signals the close or end of a
+correspondence. As such, the email fails to also present the limited risk information
+included in the email with a prominence and readability reasonably comparable to the
+presentation of information relating to the benefits of the drug.
+
+We note that the email includes the statements, “**For Full Prescribing Information of
+Xatmep, please click here: Full Prescribing Information**” and “**For more information on
+Xatmep, please click here: Xatmep Website**” (emphasis original). However, this does not
+mitigate the email's failure to present the Boxed Warning with sufficient prominence or the
+omission of other risk information from the email. By minimizing the Boxed Warning and
+omitting the other material information related to the serious risks associated with Xatmep,
+the email misleadingly suggests that Xatmep is safer than has been demonstrated.
+
+**False or Misleading Benefit Presentation**
+
+The body of the email presents the following claim for Xatmep:
+*   I wanted to let you know that Xatmep® (methotrexate) oral solution is available for
+    your patients with Acute Lymphoblastic Leukemia.
+
+This claim is misleading because it fails to adequately communicate the full approved
+indication for Xatmep. Specifically, the INDICATIONS AND USAGE section of the PI states
+the following (underlined emphasis added):
+
+    XATMEP is indicated for the treatment of **pediatric patients** with acute lymphoblastic
+    leukemia (ALL) **as part of a multi-phase, combination chemotherapy maintenance
+    regimen.**
+
+This claim is particularly concerning because it suggests the drug is approved for use in
+patients of all ages without consideration for the necessity of other treatments as part of a
+combination therapy. We acknowledge that the full indication is presented at the bottom of
+the email, after the signature block (which, as noted above, typically signifies the end of a
+correspondence), the heading “**Important Safety Information**,” and the Boxed Warning
+(emphasis original). However, this does not mitigate the misleading impression.
+
+**Conclusion and Requested Action**
+
+For the reasons discussed above, the email misbrands Xatmep within the meaning of the
+FD&C Act, and make its distribution violative. 21 U.S.C. 352(a), (n); 321(n); 331(a). See 21
+CFR 202.1(e)(3)(i); (e)(5); (e)(7)(viii).
+
+Reference ID: 4707067

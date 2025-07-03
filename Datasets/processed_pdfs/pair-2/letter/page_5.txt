@@ -1,0 +1,62 @@
+=== PAGE 5 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Chris Jewell
+Taiho Oncology, Inc.
+NDA 214801/MA 89
+
+Page 5
+
+* “83% DCR (95% CI: 74, 89)” depicted inside of a pie chart that includes shading to
+  show the 83% DCR
+
+Similarly, the following representation regarding efficacy results at extended follow-up is
+presented on the “Efficacy Results” webpage: “At a nonprespecified follow-up analysis
+conducted 8 months after the primary analysis (data cutoff, May 29, 2021; median follow-up,
+25.0 months), efficacy in the overall study population was maintained with … DCR of 82.5%.”
+As provided on this webpage, DCR is defined as “the sum of complete response, partial
+response, and stable disease.” These presentations make these promotional
+communications misleading by suggesting that Lytgobi improves DCR in patients with locally
+advanced or metastatic iCCA based on a composite of complete response (CR), partial
+response (PR), and stable disease (SD) when the study from which the presentations were
+drawn could not demonstrate this result. Lytgobi was approved based on an effect shown on
+overall response rate (ORR) and duration of response endpoints in FOENIX-CCA2, a single-
+arm trial. In FOENIX-CCA2, the endpoint of ORR was comprised only of PR + CR, as
+defined by the Response Evaluation Criteria in Solid Tumors (RECIST) v 1.1.10 Because
+FOENIX-CCA2 was designed as a single arm trial, the study did not establish that the SD
+result was attributable to the effect of the drug; for example, the result may instead reflect the
+natural history of the disease. An assessment of delay in time to disease progression in
+patients treated with Lytgobi (i.e., an assessment of SD) would need to be based on the
+results of a randomized controlled trial.
+
+You cite the same publication and presentations from Goyal, et al. that are referenced above
+in support of these representations.7,8,9 These references include results from FOENIX-
+CCA2. However, it is misleading to include in promotional communications representations
+or suggestions that rely on a study or studies whose design is not capable of supporting such
+representations or suggestions. Here, as already noted, since FOENIX-CCA2 was a *single-
+arm trial*, it is not known whether the data on SD are attributable to treatment with Lytgobi.
+Consequently, the DCR calculations, which are based on a composite that includes SD data,
+are not supported by the data cited. In addition to the disclosures of the study’s limitations
+noted previously, we acknowledge that the following text appears in conjunction with the DCR
+presentations regarding the results from the primary analysis: “FOENIX-CCA2 was a single-
+arm study. In this setting, the DCR results may reflect the natural history of
+cholangiocarcinoma in an individual patient, rather than the direct effect of treatment.” In
+addition, we acknowledge that the following text appears with the “efficacy results at
+extended follow-up” representation: “The extended follow-up data were collected after the
+primary analysis and are descriptive in nature, and results should be interpreted with
+caution.” However, for the reasons discussed above, these promotional communications
+make misleading representations or suggestions about the efficacy of Lytgobi through the
+presentation of DCR calculations that include SD and that are based on the FOENIX-CCA2
+study, which, as a single-arm trial, is not capable of supporting such representations or
+
+10 Response was measured using the Response Evaluation Criteria in Solid Tumors (RECIST) v 1.1., which
+defines the evaluation of target lesions as the following: Complete Response (CR): Disappearance of all target
+lesions. Partial Response (PR): At least a 30% decrease in the sum of diameters of target lesions, taking as
+reference the baseline sum diameters. Progressive Disease (PD): At least a 20% increase in the sum of
+diameters of target lesions, taking as reference the smallest sum on study. In addition to the relative increase of
+20%, the sum must also demonstrate an absolute increase of at least 5 mm. Stable Disease (SD): Neither
+sufficient shrinkage to qualify for PR nor sufficient increase to qualify for PD, taking as reference the smallest
+sum diameters while on study. See: https://ctep.cancer.gov/protocoldevelopment/docs/recist_guideline.pdf.
+
+Reference ID: 5554583

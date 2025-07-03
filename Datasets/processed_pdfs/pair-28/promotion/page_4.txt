@@ -1,0 +1,35 @@
+=== PAGE 4 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Overview of PET/CT Imaging in Recurrent Prostate Cancer – Current and Emerging Techniques — DrFabio
+
+             rate was better than 90%. (Am J Nucl Med Mol Imaging 2017;7(1):1-11) The
+             reported detection rate for 11C-choline generally ranges from 42-82% with a PSA
+             threshold of 2.0 recommended for optimal imaging. At least one study in 102
+             patients has also demonstrated a significant influence of the PSA doubling time
+             on 11C-choline with a 93% detection rate noted in a PSA range of 0.67-1.1 ng/
+             mL if the PSA doubling rate was under seven months.
+
+             11C has a short half-life of 20 minutes, so 11C-Acetate and Choline are available
+             only at sites with cyclotrons capable of producing this agent alongside of the
+             imaging facility. This does does limit its availability to specialized centers.
+
+[Image 1: An axial PET/CT fusion image showing the pelvic region, specifically the prostate bed area. There is an area of increased radiotracer uptake (shown in red/orange) where the prostate would be located, indicated by a yellow arrow. This image is described as showing a small metabolic focus in the left prostate bed.]
+
+                                                    C11-Acetate PET/CT in a 66 y/o with
+                                                    Gleason 3+4=7 disease. Prostectomy
+                                                    two years previously and now with a
+                                                    rising PSA of 0.3 ng/mL.
+
+[Image 2: Another axial PET/CT fusion image of the pelvic region, lower than the first image, showing the iliac vessels. There is an area of increased radiotracer uptake (red/orange) in the left external iliac region, indicated by a yellow arrow. This image is described as showing a small positive left external iliac node.]
+
+                                                    Imaging shows a small metabolic
+                                                    focus in the left prostate bed (top
+                                                    image) and a small positive left
+                                                    external iliac node (lower image). The
+                                                    results of the scan changed treatment
+plans. Salvage radiation treatment was performed and with the treatment field
+extended to include the pelvic lymph nodes.
+
+http://www.drfabio.com/imagingblog/2018/1/9/overview-of-petct-imaging-in-recurrent-prostate-cancer-current-and-emerging-techniques[11/15/2018 11:25:57 AM]

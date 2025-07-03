@@ -1,0 +1,60 @@
+=== PAGE 3 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Ms. Ann Robards
+Eli Lilly and Company
+BLA 125469/MA 1035
+
+                                                                                                       Page 3
+
+False or Misleading Benefit Presentation
+
+Prescription drug advertisements and labeling (promotional communications) misbrand a
+drug if they are false or misleading with respect to benefits. The determination of whether a
+promotional communication is misleading includes, among other things, not only
+representations made or suggested in the promotional communication, but also the extent to
+which the promotional communication fails to reveal facts material in light of the
+representations made or with respect to consequences that may result from the use of the
+drug as recommended or suggested in the promotional communication.
+
+The post is misleading because the video portion of the post prominently communicates that
+Trulicity can help “lower A1C along with diet and exercise,” but it fails to adequately
+communicate Trulicity’s FDA-approved indication and the limitations of use. Specifically, the
+**“What is TRULICITY?”** section of the Medication Guide states the following (in pertinent part,
+underlined emphasis added):
+
+*   TRULICITY is an injectable prescription medicine that is used:
+    *   along with diet and exercise to improve blood sugar (glucose) in adults
+        <u>with type 2 diabetes mellitus</u>.
+    
+    . . .
+*   <u>It is not known if TRULICITY can be used in people who have had pancreatitis.</u>
+*   <u>TRULICITY is not a substitute for insulin and is not for use in people with type 1
+    diabetes or people with diabetic ketoacidosis.</u>
+*   <u>TRULICITY is not recommended for use in people with severe stomach or
+    intestinal problems.</u>
+
+By failing to adequately communicate the indication and limitations of use associated with
+Trulicity, the post creates a misleading impression about the scope of the FDA-approved
+indication. This is particularly concerning given the serious risks of this product and the
+suggestion that Trulicity will help “lower A1C” in all patients, when this has not been
+demonstrated. OPDP notes that the indication and the limitations of use are presented only in
+small, fast-paced scrolling font in a small window below the video, relegated to the bottom of
+the post, competing for the consumer’s attention with several distracting video elements (fast-
+paced visuals, frequent scene changes, busy scenes, large-moving superimposed text, and a
+strong fast-moving musical beat) that detract from the communication of the indication and
+limitations of use. Therefore, this presentation does not mitigate the misleading impression
+created by the post.
+
+False or Misleading Risk Presentation
+
+Prescription drug advertisements and labeling (promotional communications) misbrand a
+drug if they are false or misleading with respect to risk. The determination of whether a
+promotional communication is misleading includes, among other things, not only
+representations made or suggested in the promotional communication, but also the extent to
+which the promotional communication fails to reveal facts material in light of the
+representations made or with respect to consequences that may result from the use of the
+drug as recommended or suggested in the promotional communication.
+
+Reference ID: 4922588

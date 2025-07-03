@@ -1,0 +1,56 @@
+=== PAGE 4 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Mandy Edwards
+Mayne Pharma LLC
+NDA 214154/ MA 107
+                                                                                                        Page 4
+
+Slide 8 of the speaker deck includes a comparison of pharmacologic profile parameters for
+“Ethinyl estradiol” and “Estetrol” that misleadingly suggests that estetrol has safety
+advantages over ethinyl estradiol as a component of a CHC because of parameters like
+hepatic metabolism and drug interactions, when this has not been demonstrated. For
+example, the presentation that estetrol has “minimal” (UGT2B7 pathway) hepatic metabolism
+compared to the “slow, extensive (CYP450 pathway)” hepatic metabolism for ethinyl estradiol
+misleadingly suggests that estetrol, and therefore Nextstellis, is safer for the liver than CHCs
+that with ethinyl estradiol. The contribution of hepatic UGT2B7 metabolism to the overall
+metabolism of estetrol is unknown. Thus, the suggestion that Nextstellis is safer for the liver
+than other CHCs because a component of Nextstellis uses the UGT2B7 pathway while CHCs
+exclusively use the CYP450 pathway is misleading. Similarly, using the parameter of “Impact
+on CYP450” to claim that estetrol has “minimal drug interaction” while “Ethinyl estradiol” has
+“extensive” impact misleadingly suggests that estetrol, and therefore Nextstellis, has fewer
+drug interactions compared to CHCs that use ethinyl estradiol. In general, the drug interaction
+potential of a CHC cannot be assessed based only on the estrogenic component. Rather,
+both the combined estrogenic and progestin components must be assessed to determine
+drug interaction potential. Even though the estetrol component of Nextstellis shows no
+potential for CYP450 related drug interaction, the drospirenone component (i.e., the progestin
+component) of Nextstellis does have CYP450-related drug interaction potential. While two
+references² are cited on slide 8 for these claims, neither support conclusions about the
+differential impact of estetrol and ethinyl estradiol on drug interactions or hepatic metabolism.
+In fact, neither reference directly compared estetrol to ethinyl estradiol on any pharmacologic
+parameter in this slide. If you have information or data to support these suggestions, please
+submit to FDA for review.
+
+The misleading suggestion that Nextstellis is safer than other CHCs is further amplified by
+the presentation on slides 17 and 18, which claims to show the differential impact of the
+active ingredients in Nextstellis (“DRSP 3mg/E4 15 mg”) and two other CHCs (“LNG
+150mcg/EE 30mcg” and “DRSP 3mg/EE 20mcg”) on endocrine and hemostatic parameters.
+The presentation includes the following claims (bolded emphasis original; underlined
+emphasis added):
+
+*   • “Endocrine Effects at Cycle 6 vs Baseline”
+    “Study Reference: Es0001-C201”
+    *   o Graphical presentation of the “% Change From Baseline at Cycle 6” depicting
+        the following measures (in pertinent part): Cortisolᵃ, Aldosteroneᵇ, CBGᵃ,
+        SHBGᵇ, TBGᵃ and Angiotensinogenᵃ.
+        *   • “ᵃ**<u>p <0.05 DRSP/E4 vs LNG/EE and DRSP/EE</u>**
+        *   ᵇ**<u>p <0.05 DRSP/E4 vs LNG/EE or DRSP/EE</u>**”
+
+
+² Stanczyk FZ, Archer DF, Bhavnani BR. Ethinyl estradiol and 17β-estradiol in combined oral contraceptives:
+pharmacokinetics, pharmacodynamics and risk assessment. Contraception. 2013;87(6):706-727; Coelingh
+Bennink HJT, Verhoeven C, et al. Pharmacodynamic effects of the fetal estrogen estetrol in post menopausal
+women: results from a multiple-rising-dose study. Menopause. 2017;24(6):677-685.
+
+Reference ID: 5580097

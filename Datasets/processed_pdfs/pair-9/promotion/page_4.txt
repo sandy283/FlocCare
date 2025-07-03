@@ -1,0 +1,137 @@
+=== PAGE 4 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Desktop 300x600
+
+---
+
+**Frame 1**
+
+**Visual Description:** This banner features a dark green background. In the upper portion, bold white text is displayed. The main visual is a woman with reddish-brown hair, wearing a grey t-shirt and tan pants. She is holding a white circular sign on a stick in front of her chest, which has a drawn sad face (two vertical lines for eyes and an inverted U shape for the mouth). The bottom section contains the common safety information.
+
+**Text Content:**
+On an antidepressant but
+still putting on a brave face?
+
+*(Followed by the common safety information block listed at the end.)*
+
+---
+
+**Frame 2**
+
+**Visual Description:** This banner has a dark green top section with bold white text. The bottom section is primarily a bright yellow color, featuring the word "ANTIDEPRESSANT" in a dark green box. The bottom section contains the common safety information.
+
+**Text Content:**
+WHEN ADDED TO
+AN ANTIDEPRESSANT,
+
+ANTIDEPRESSANT
+
+*(Followed by the common safety information block listed at the end.)*
+
+---
+
+**Frame 3**
+
+**Visual Description:** This banner has a dark green top section with bold white text, including a prominent "62%" in yellow. The bottom section is primarily a bright yellow color. It shows a dark green trapezoidal shape overlapping the yellow, which contains a plus sign and the REXULTI logo and medication name. The bottom section contains the common safety information.
+
+**Text Content:**
+WHEN ADDED TO
+AN ANTIDEPRESSANT,
+REXULTI WAS PROVEN
+TO PROVIDE A
+
+62% GREATER REDUCTION
+      IN DEPRESSION SYMPTOMS
+
+ANTIDEPRESSANT +           REXULTI®
+                          brexpiprazole
+                          2mg tablets
+
+*(Followed by the common safety information block listed at the end.)*
+
+---
+
+**Frame 4**
+
+**Visual Description:** This banner has a dark green top section with bold white text, including a prominent "62%" in yellow, and an asterisk for a footnote. Below the main text, there is a small paragraph explaining the footnote. The bottom section contains the common safety information. No image of a person or product is visible above the safety information.
+
+**Text Content:**
+WHEN ADDED TO
+AN ANTIDEPRESSANT,
+REXULTI WAS PROVEN
+TO PROVIDE A
+
+62% GREATER REDUCTION
+      VS. THE ANTIDEPRESSANT ALONE.*
+
+*6 week study in adults, with ongoing
+symptoms of depression, still taking an
+antidepressant. Individual results may vary.
+
+*(Followed by the common safety information block listed at the end.)*
+
+---
+
+**Frame 5**
+
+**Visual Description:** This banner features a bright yellow background. In the upper portion, bold dark green text is displayed. The main visual is a woman with reddish-brown hair, wearing a white t-shirt. She is holding a white circular sign on a stick in front of her chest, which has a drawn happy face (two vertical lines for eyes and a curved smile). The bottom section contains the common safety information.
+
+**Text Content:**
+When depression
+sets you back,
+Keep Moving
+Forward.
+
+*(Followed by the common safety information block listed at the end.)*
+
+---
+
+**Frame 6**
+
+**Visual Description:** This banner features a bright yellow background. In the upper portion, the REXULTI logo with its medication name and dosage is displayed in dark green. Below that, there's text prompting an action. The main visual is a woman with reddish-brown hair, wearing a white t-shirt with a green element (possibly a scarf or part of her outfit). She is holding a white circular sign on a stick, which has a drawn happy face. To the right of the woman, a dark green rectangular call-to-action box is present. "ACTOR PORTRAYAL" text is very small below the image. The bottom section contains the common safety information.
+
+**Text Content:**
+        REXULTI®
+        brexpiprazole
+        2mg tablets
+
+Ask your doctor today
+about adding REXULTI
+to your antidepressant.
+
+                  Take the
+                  symptom
+                  questionnaire
+                  to get started.
+
+                  ACTOR PORTRAYAL
+
+*(Followed by the common safety information block listed at the end.)*
+
+---
+
+**Common Safety Information Block (appears identically at the bottom of all six frames):**
+
+FULL PRESCRIBING INFORMATION, including BOXED
+WARNING, and MEDICATION GUIDE.
+
+INDICATION and IMPORTANT SAFETY INFORMATION
+REXULTI is a prescription medicine used along with
+antidepressant medicines to treat major depressive disorder
+(MDD) in adults.
+It is not known if REXULTI is safe and effective in children with
+MDD.
+
+IMPORTANT SAFETY INFORMATION:
+
+- Increased risk of death in elderly people with
+  dementia-related psychosis. Medicines like REXULTI
+  can raise the risk of death in elderly people who have
+  lost touch with reality (psychosis) due to confusion and
+  memory loss (dementia). REXULTI is not approved for
+  the treatment of people with dementia-related
+  psychosis without agitation that may happen with
+  dementia due to Alzheimer's disease.
+- Increased risk of suicidal thoughts and actions.

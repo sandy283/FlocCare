@@ -1,0 +1,51 @@
+=== PAGE 1 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+The image displays a screenshot of an interface for editing an online advertisement, showing both the input fields for the ad text and a preview of how the ad would appear on a mobile device.
+
+The content is structured in two main columns:
+
+**Left Column (Edit Ad Details):**
+
+Edit text ad
+
+Final URL
+https://alkindisprinkle.com
+
+Headline 1
+Hydrocortisone Oral Granules                                 28 / 30
+
+Headline 2
+Alkindi Sprinkle Now Available                               30 / 30
+
+Headline 3
+Treat Adrenal Insufficiency                                  27 / 30
+
+Display path
+www.alkindisprinkle.com / Path 1                 / Path 2
+                                          0 / 15            0 / 15
+
+Description 1
+Accurate and individualized dosing for infants and children with adrenal insufficiency   86 / 90
+
+Description 2
+Strengths as low as 0.5 mg without splitting or manipulation.                           61 / 90
+
+**Right Column (Ad Preview):**
+
+1 of 2 previews  <  >
+
+Mobile
+
+This section contains a visual representation of a mobile phone screen displaying the advertisement.
+Inside the mobile screen:
+Ad · www.alkindisprinkle.com
+Hydrocortisone Oral Granules | Alkindi Sprinkle Now Available
+Accurate and individualized dosing for infants and children with adrenal insufficiency. Strengths as low as 0.5 mg without splitting or manipulation.
+
+Below the mobile screen, there is a disclaimer:
+Your ad might not always include all your text. Some shortening may also occur in some formats. You can make sure certain text appears in your ad. Learn more
+
+**Bottom of the Page:**
+PM-ALK-016-rev0-12/20

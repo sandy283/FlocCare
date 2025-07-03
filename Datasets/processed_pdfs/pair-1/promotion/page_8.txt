@@ -1,0 +1,53 @@
+=== PAGE 8 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+7
+
+(A blue vertical bar on the left with a thin pink vertical bar to its left edge. White text on the blue bar reads:)
+The Four
+Native
+Human
+Estrogens¹⁻⁴
+
+(Below the text, on the blue bar, is a black circle with white text:)
+mayne pharma
+
+(The main part of the page is white and features a diagram illustrating the chemical structures and interconversion pathways of four estrogens. The diagram is composed of labeled chemical structures and arrows indicating transformations.)
+
+(Top center of the diagram:)
+Estrone (E1)
+(Chemical structure of Estrone (E1) is shown, with -OH and =O groups and hydrogens marked.)
+
+(Middle left of the diagram:)
+Estradiol (E2)
+(Chemical structure of Estradiol (E2) is shown, with -OH groups and hydrogens marked.)
+
+(Middle right of the diagram:)
+Estriol (E3)
+(Chemical structure of Estriol (E3) is shown, with -OH groups and hydrogens marked.)
+
+(Arrows connect Estrone (E1), Estradiol (E2), and Estriol (E3) forming a closed loop, indicating interconversion:
+- A downward arrow from Estrone (E1) to Estradiol (E2).
+- An upward arrow from Estradiol (E2) to Estrone (E1).
+- A rightward arrow from Estradiol (E2) to Estriol (E3).
+- A leftward arrow from Estriol (E3) to Estradiol (E2).
+- A downward-right arrow from Estrone (E1) to Estriol (E3).
+- An upward-left arrow from Estriol (E3) to Estrone (E1).)
+
+(Bottom center of the diagram, enclosed in a light pink dashed oval:)
+Estetrol (E4)
+(Chemical structure of Estetrol (E4) is shown, with -OH groups and a CH3 group, and hydrogens marked.)
+
+(Two downward-pointing arrows originate from the interconversion loop of E1, E2, E3 and point towards the area of Estetrol (E4), indicating a relationship but not necessarily interconversion.)
+
+(To the left of Estetrol (E4), a pink rectangular highlight contains white text, appearing to be related to E4's unique nature:)
+E4 has no
+interconversion
+to any other
+estrogen
+
+(At the very bottom of the page, left-aligned, are the references and a website address:)
+References: 1. Chatuphonprasert W, et al. Front Pharmacol. 2018;9:1027. 2. Coelingh Bennink HJT, et al. Climacteric. 2008a;11(suppl 1):47-58. 3. Thomas MP, et
+al. J Steroid Biochem Mol Biol. 2013;137:27-49. 4. Stanczyk FZ, et al. Contraception. 2013;87(6):706-727
+Full Prescribing Information is available at www.Nextstellis.com

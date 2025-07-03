@@ -1,0 +1,37 @@
+=== PAGE 11 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Overview of PET/CT Imaging in Recurrent Prostate Cancer — Current and Emerging Techniques — DrFabio
+
+    obscures the prostate bed, making detection of locally recurrent lesions and lymph
+    nodes in the lower pelvis challenging if not impossible to find – see the example
+    below. When we consider that in up to 30% of men with recurrence their cancer is
+    located in these regions, false negative PSMAs may have significant negative
+    impact on their care. 18F-PSMA-1007 is one of the more recent additions to the
+    long list of PSMA agents and is in the early pre-clinical study phase. This agent
+    shows less prominent urinary excretion and may have a potential advantage
+    compared to other PSMA agents in addressing this issue.
+
+[Image]
+The image is a **Ga68-PSMA-11 PET image**. It displays a medical scan of a
+human torso, rendered in grayscale against a black background, with areas
+of high tracer activity appearing bright white. Yellow arrows point to
+specific bright spots in the lower abdomen/pelvic region, indicating prominent
+urinary bladder and ureteral tracer activity.
+
+The text associated with the image describes it as:
+                                                Ga68-PSMA-11 PET image in a
+                                                patient with Gleason 4+5=9 disease,
+                                                post prostatectomy and with a rising
+                                                PSA of 1.1 ng/mL.
+
+                                                The PSMA study is negative.
+                                                Prominent urinary bladder and ureteral
+                                                tracer activity is present (arrows)
+                                                which interfere with assessment of the
+                                                prostate bed and pelvic lymph nodes.
+                                                This study was performed after use of
+diuretics, which unfortunately was of little help in clearing the urinary activity.
+
+http://www.drfabio.com/imagingblog/2018/1/9/overview-of-petct-imaging-in-recurrent-prostate-cancer-current-and-emerging-techniques[11/15/2018 11:25:57 AM]

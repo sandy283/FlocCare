@@ -1,0 +1,29 @@
+=== PAGE 2 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the text content from the PDF page, preserved as closely as possible to its original layout and structure:
+
+**What does it do?**
+
+Recorlev® (levoketoconazole) is a medicine taken by mouth that can help normalize your cortisol levels.
+
+**How does Recorlev work?**
+
+Recorlev blocks the key steps in the making of cortisol and testosterone in the body. This is important because the goal of managing Cushing’s is to get your cortisol levels back to normal.
+
+**Recorlev has been studied in clinical trials for more than 3 years**
+**In the LOGICS clinical study, Recorlev was proven to lower cortisol levels***
+
+**INDICATION AND IMPORTANT SAFETY INFORMATION FOR Recorlev® (levoketoconazole) tablets**
+**What is Recorlev?**
+*   Recorlev is a prescription medicine used to treat high cortisol (endogenous hypercortisolemia) levels in adult patients with Cushing’s syndrome who cannot have surgery or who have had surgery that did not cure their Cushing’s syndrome.
+*   It is not known if Recorlev is safe and effective for the treatment of fungal infections. Recorlev is not to be used for treatment of fungal infections.
+
+***
+
+**Visual Elements Description:**
+
+On the right side of the "INDICATION AND IMPORTANT SAFETY INFORMATION" section, there is a small circular blue icon with a white plus sign (+) inside it. This icon typically indicates an expandable section or a button to reveal more information.
+
+*Note: The asterisk (*) after "cortisol levels" in the sentence "In the LOGICS clinical study, Recorlev was proven to lower cortisol levels*" suggests a corresponding footnote, but no footnote text is visible on this page.*

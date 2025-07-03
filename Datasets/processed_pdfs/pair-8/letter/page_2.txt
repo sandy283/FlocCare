@@ -1,0 +1,56 @@
+=== PAGE 2 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Colin Vechery, PharmD
+Novartis Pharmaceuticals Corporation
+NDA 209092/MA 1344
+
+Page 2
+
+*   an aromatase inhibitor as initial endocrine-based therapy; or
+*   fulvestrant as initial endocrine-based therapy or following disease progression on
+    endocrine therapy in postmenopausal women or in men.
+
+Kisqali is associated with a number of risks, and the PI includes warnings and precautions
+regarding interstitial lung disease/pneumonitis, severe cutaneous adverse reactions, QT
+interval prolongation, increased QT prolongation with concomitant use of tamoxifen,
+hepatobiliary toxicity, neutropenia, and embryo-fetal toxicity. The most commonly reported
+adverse reactions, including laboratory abnormalities, are leukocytes decreased, neutrophils
+decreased, hemoglobin decreased, lymphocytes decreased, aspartate aminotransferase
+increased, gamma glutamyl transferase increased, alanine aminotransferase increased,
+infections, nausea, creatine increased, fatigue, platelets decreased, diarrhea, vomiting,
+headache, constipation, alopecia, cough, rash, back pain, and glucose serum decreased.
+
+**False or Misleading Benefit Presentation**
+
+Prescription drug advertisements and labeling (promotional communications) misbrand a
+drug if they are false or misleading with respect to benefits. The determination of whether a
+promotional communication is misleading includes, among other things, not only
+representations made or suggested in the promotional communication, but also the extent to
+which the promotional communication fails to reveal facts material in light of the
+representations made or with respect to consequences that may result from the use of the
+drug as recommended or suggested in the promotional communication.
+
+The TV ad includes the following claims:
+
+*   Voice over (VO) frames eight and nine: “And KISQALI helps preserve quality of life so
+    you’re not just living, you’re living well.”
+*   GRAPHIC frames eight and nine: “PRESERVES QUALITY OF LIFE”
+*   Superimposed text (SUPER) frame nine: “Quality of life was a secondary outcome
+    measure of the trial. At a 26-month check-in, median time to worsening of at least
+    10% in quality of life score was 27.7 months with KISQALI + letrozole vs 27.6 months
+    with placebo + letrozole. This analysis was not pre-planned to detect a false positive.”
+
+The claims that Kisqali “preserves quality of life” and that patients taking the drug are “living
+well” create a misleading impression that Kisqali has demonstrated a benefit on the patient
+reported outcome (PRO)³ measure of global quality of life⁴ (QoL). In fact, we note significant
+
+³ A PRO is any report of the status of a patient’s health condition that comes directly from the patient, without
+interpretation of the patient’s response by a clinician or anyone else.
+
+⁴ Global QoL (i.e., global health status) is a component of the European Organization for Research and
+Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-C30). Global QoL is a summary score which
+measures a patient’s perception of their overall health and/or overall quality of life in a given timeframe.
+
+Reference ID: 5312143

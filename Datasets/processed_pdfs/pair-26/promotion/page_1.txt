@@ -1,0 +1,51 @@
+=== PAGE 1 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving its original layout and structure:
+
+ABBY – INTRO
+We often see spots all over our bodies and wonder what they are and where they're
+coming from so I'm finding out right now from dermatologist and spokesperson
+for our sponsor, Aclaris Therapeutics, Dr. Doris Day.
+
+Lower third right (after the intro)
+Sponsored by Aclaris Therapeutics, the makers of ESKATA® (hydrogen
+peroxide) topical solution, 40% (w/w)
+
+**Visual Elements Description:**
+*   A red arrow originates from the text "ESKATA®" and points to a red rectangular box. Inside the box, the text reads: "Copy updated to add the drug name and generic".
+
+1) ABBY: I think we all start to notice more and more spots on our skin as we age,
+so what's the difference in some of the spots that appear?
+
+CG: Dr. Doris Day
+**Dermatologist and Paid Spokesperson for Aclaris Therapeutics**
+
+There are many different types of skin spots but one of the most common is
+seborrheic keratoses, also known as SKs. If they are SKs, they are harmless,
+benign growths which can only be diagnosed by a health care provider. The spots
+can be flat or raised with a color that is normal skin tone or darker. SKs can have a
+velvety, shiny, or wart-like texture and grow thicker. SKs can appear anywhere on
+your body – except for the palms, soles and mucous membranes. But they are most
+common on the face, neck and hairline. They are also common on the chest and
+back.
+
+SS: Skin spots to be concerned about
+SS: SK skin lesions
+
+2) ABBY: How do you treat raised SK skin lesions?
+
+**Visual Elements Description:**
+*   A red arrow originates from the line break after "Therapeutics" (part of the speaker description for CG: Dr. Doris Day in the second question section) and points to a red rectangular box. Inside the box, the text reads: "Added "Paid"".
+
+CG: Dr. Doris Day
+**Dermatologist and Paid Spokesperson for Aclaris Therapeutics**
+
+DR. DAY:
+There's an in-office treatment, called ESKATA® that is a 40% hydrogen peroxide
+topical solution approved to treat raised SKs. SKs are actually very common – in
+fact, 83 million Americans have SKs, some of which are raised and some of which
+are flat. ESKATA is the only FDA-approved topical treatment for raised SKs. So,
+after a dermatologist makes the diagnosis, ESKATA can be applied to the raised
+growth with a soft-tip pen-like applicator and the lesion may resolve over time

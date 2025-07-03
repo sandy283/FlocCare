@@ -1,0 +1,54 @@
+=== PAGE 4 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Colin Vechery, PharmD                                                               Page 4
+Novartis Pharmaceuticals Corporation
+NDA 209092/MA 1344
+
+who have cancer progression may go on to another treatment. Such patients would not
+complete subsequent QoL assessments. This information regarding discontinuation or
+switching therapies would not be captured as meeting the definition of deterioration used in
+your study, which could have resulted in missing data that skewed the QoL results.
+
+Finally, we note that the claim that Kisqali “helps preserve quality of life so . . . [patients] are
+living well” presupposes that patients are “living well” at trial baseline (i.e., before they begin
+treatment with Kisqali), which is not necessarily the case for patients living with metastatic
+breast cancer and who have received prior lines of therapy. The exploratory PRO analyses
+in MONALEESA-2 were not designed to capture the concept of “living well.” Therefore,
+claims that patients who are taking Kisqali are “living well” are unsupported.
+
+We note the statement in the SUPER on frame nine that “[t]his analysis was not pre-planned
+to detect a false positive”; however, this is not sufficient to mitigate the overall misleading
+impression created by the presentation of the PRO claims and data.
+
+Frame seven of the TV ad includes prominent claims and presentations in the voice over and
+graphic that patients taking Kisqali will “live longer.” Similar claims and presentations on
+frames 3, 4, 5, 6, 20, and 21 also focus on benefits of “living longer,” “[l]ong live family time,”
+“[l]ong live dreams,” “long live you,” “[l]ong live hugs and kisses,” and “long live life” when
+patients are treated with Kisqali. The bottom of frames seven and eight include a SUPER
+that qualifies these claims, which states:
+
+        Overall survival (OS) is a secondary end point of the trial. Overall survival (OS) is
+        the length of time patients are alive from the start of treatment. At an 80-month check-
+        in, median OS was 63.9 months for KISQALI + an NSAI [non-steroidal aromatase
+        inhibitor] vs 51.4 months for an NSAI alone.
+
+However, the presentation of the SUPER is undermined by multiple, competing
+presentational aspects that distract the viewer from material information about the benefits of
+Kisqali and, therefore, creates a misleading impression about the drug’s efficacy.
+Specifically, the presentational aspects of the TV ad undermine the communication of
+material information regarding the overall survival data in the SUPER, which is needed to
+qualify the amount of time that patients can expect to “live longer” when treated with Kisqali
+plus an NSAI compared to an NSAI alone.
+
+The SUPER that includes the material information for the “long live” and “live longer” claims
+in the ad presents 48 words in approximately 5 seconds, which translates to a reading speed
+of 576 words per minute (wpm). A recent review and meta-analysis found that the average
+silent reading rate for adults in English is 238 wpm for uninterrupted non-fiction reading, with
+most adults falling in a range of 175 to 300 wpm.⁷ The number of words in the SUPER is
+
+⁷ Brysbaert, Marc. (2019). How many words do we read per minute? A review and meta-analysis of reading
+rate. 10.31234/osf.io/xynwg.
+
+Reference ID: 5312143

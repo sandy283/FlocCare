@@ -1,0 +1,54 @@
+=== PAGE 2 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Chris Jewell
+Taiho Oncology, Inc.
+NDA 214801/MA 89                                                                               Page 2
+
+associated with the use of Lytgobi.⁵ According to the INDICATIONS AND USAGE section
+of the FDA-approved Prescribing Information (PI) (in pertinent part):
+
+         LYTGOBI is indicated for the treatment of adult patients with previously treated,
+         unresectable, locally advanced or metastatic intrahepatic cholangiocarcinoma
+         harboring fibroblast growth factor receptor 2 (FGFR2) gene fusions or other
+         rearrangements.
+
+         This indication is approved under accelerated approval based on overall response
+         rate and duration of response. Continued approval for this indication may be
+         contingent upon verification and description of clinical benefit in a confirmatory
+         trial(s).
+
+Lytgobi was approved under the accelerated approval pathway. This pathway can allow for
+earlier approval of drugs intended to treat serious conditions and fill an unmet medical need.
+Accelerated approval is based on an effect on a surrogate or intermediate clinical endpoint
+that is thought to be reasonably likely to predict clinical benefit, rather than on a direct
+measurement of clinical benefit. FDA has required sponsors of drugs approved under the
+accelerated approval pathway, including Lytgobi, to conduct a confirmatory trial to verify and
+describe the clinical benefit of the drug.⁶
+
+The PI for Lytgobi includes warnings and precautions regarding ocular toxicity,
+hyperphosphatemia and soft tissue mineralization, and embryo-fetal toxicity. The most
+common adverse reactions reported with use of Lytgobi include nail toxicity, musculoskeletal
+pain, constipation, diarrhea, fatigue, dry mouth, alopecia, stomatitis, abdominal pain, dry
+skin, arthralgia, dysgeusia, dry eye, nausea, decreased appetite, urinary tract infection,
+palmar-plantar erythrodysesthesia syndrome, and vomiting.
+
+<u>Prior Communications</u>
+
+OPDP notes that our advisory comments dated December 7, 2022, to Taiho addressed draft
+claims and presentations for Lytgobi
+[REDACTED TEXT - (b)(4)]
+
+OPDP is concerned that
+Taiho appears to be promoting Lytgobi using similar claims and presentations in a
+misleading manner.
+[REDACTED TEXT]
+
+---
+⁵ This information is for background purposes only and does not necessarily represent the risk information that
+should be included in the promotional communication(s) cited in this letter.
+⁶ We note that the confirmatory trial, a randomized phase 2 trial, for Lytgobi, TAS-120-205, is currently ongoing;
+however, this study has not been completed. See: <u>https://clinicaltrials.gov/study/NCT05727176</u>.
+
+Reference ID: 5554583

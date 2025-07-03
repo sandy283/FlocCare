@@ -1,0 +1,45 @@
+=== PAGE 1 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving its original layout and structure:
+
+Post hoc analysis of a phase 2 clinical trial
+Demonstrated synergy: superior efficacy vs the
+aggregated results of two monotherapies³
+
+**Chart/Graph Description:**
+
+The page contains a bar chart titled "Treatment success* at 8 weeks with the effect of vehicle removed³".
+
+The Y-axis is labeled "Patients (%)" and ranges from 0% to 100% in 10% increments.
+The X-axis shows two categories: "DUOBRII Lotion" and "Monotherapies aggregated".
+
+*   **DUOBRII Lotion:** A single orange bar shows a treatment success rate of **42.8%**. The percentage "42.8%" is displayed above this bar.
+*   **Monotherapies aggregated:** This section is represented by two stacked gray bars.
+    *   The upper segment is labeled "8.9% tazarotene".
+    *   The lower segment is labeled "23.6% halobetasol".
+    *   The total aggregated success rate for monotherapies is **32.5%**, which is displayed above the stacked bars.
+
+Below the chart, there is a button with the text "Study design" and a magnifying glass icon.
+
+**Highlighted Text Box (Right of Chart):**
+
+More patients experienced treatment
+success* with DUOBRII Lotion than the
+aggregated success rates of both
+monotherapies³
+
+**Body Text (Right of Chart):**
+
+DUOBRII Lotion exceeded the clinical definition of
+synergy by 31.7% at 8 weeks⁴
+
+Synergy describes when the combined action of two
+agents is greater than the sum of the efficacy of the
+individual agents⁵
+
+**Footnote (Bottom of Page):**
+
+*Treatment success was defined as at least a 2-grade improvement from baseline in the
+IGA score, and a score of "clear" or "almost clear" (primary endpoint at week 8).⁶

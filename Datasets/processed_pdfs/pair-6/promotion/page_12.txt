@@ -1,0 +1,199 @@
+=== PAGE 12 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving the original layout and structure:
+
+IMPORTANT SAFETY INFORMATION
+PRESCRIBING INFORMATION
+REFERENCES
+VISIT PATIENT SITE
+
+KRAZATI®
+(adagrasib)
+200 mg
+TABLETS
+
+KRAS G12C in NSCLC
+
+KRAZATI MOA
+
+Clinical Data
+
+Dosage
+
+Resources & Support
+
+STAY CONNECTED
+
+CURRENT INDICATION >
+
+NSCLC
+
+SWITCH INDICATION
+
+OTHER
+
+NSCLC
+
+ORR
+
+DCR
+
+Intracranial ORR
+
+OS
+
+PFS
+
+DOR
+Descriptive analysis
+
+DESCRIPTIVE ANALYSIS
+MEDIAN DOR IN PATIENTS TAKING KRAZATI: 12.5 MONTHS³²
+
+Survival Probability
+1.0
+0.8
+0.6
+0.4
+0.2
+0
+0
+3
+6
+9
+12
+15
+18
+21
+24
+Duration of Response (months)
+
++ Censored
+
+12.5 MONTHS
+(n=55; 95% CI: 7.0-15.6)
+• Data cutoff: October 15, 2021
+
+No.
+at risk
+
+55
+
+48
+
+35
+
+24
+
+14
+
+8
+
+3
+
+0
+
+CI=confidence interval; DOR=duration of response.
+
+SAFETY
+
+IMPORTANT SAFETY INFORMATION
+WARNINGS AND PRECAUTIONS
+
+Gastrointestinal Adverse Reactions
+*   KRAZATI can cause severe gastrointestinal adverse reactions.
+*   Monitor and manage patients using supportive care, including antidiarrheals, antiemetics, or
+    fluid replacement, as indicated. Withhold, reduce the dose, or permanently discontinue
+    KRAZATI based on severity.
+
+QTc Interval Prolongation
+*   KRAZATI can cause QTc interval prolongation, which can increase the risk for ventricular
+    tachyarrhythmias (eg, torsades de pointes) or sudden death.
+*   Avoid concomitant use of KRAZATI with other products with a known potential to prolong the
+    QTc interval. Avoid use of KRAZATI in patients with congenital long QT syndrome and in
+    patients with concurrent QTc prolongation.
+*   Monitor ECGs and electrolytes prior to starting KRAZATI, during concomitant use, and as
+    clinically indicated in patients with congestive heart failure, bradyarrhythmias, electrolyte
+    abnormalities, and in patients who are taking medications that are known to prolong the QT
+    interval. Withhold, reduce the dose, or permanently discontinue KRAZATI, depending on
+    severity.
+
+Hepatotoxicity
+*   KRAZATI can cause hepatotoxicity, which may lead to drug-induced liver injury and
+    hepatitis.
+*   Monitor liver laboratory tests (AST, ALT, alkaline phosphatase, and total bilirubin) prior to
+    the start of KRAZATI, and monthly for 3 months or as clinically indicated, with more
+    frequent testing in patients who develop transaminase elevations. Reduce the dose,
+    withhold, or permanently discontinue KRAZATI based on severity.
+
+Interstitial Lung Disease/Pneumonitis
+*   KRAZATI can cause interstitial lung disease (ILD)/pneumonitis, which can be fatal.
+*   Monitor patients for new or worsening respiratory symptoms indicative of ILD/pneumonitis
+    (eg, dyspnea, cough, fever) during treatment with KRAZATI.
+*   Withhold KRAZATI in patients with suspected ILD/pneumonitis and permanently
+    discontinue KRAZATI if no other potential causes of ILD/pneumonitis are identified.
+
+ADVERSE REACTIONS
+*   The most common adverse reactions in NSCLC patients (≥20%) are diarrhea, nausea,
+    vomiting, musculoskeletal pain, fatigue, cough, decreased appetite, constipation, abdominal pain, and QTc
+    interval prolongation.
+
+USE IN SPECIFIC POPULATIONS
+Females and Males of Reproductive Potential
+*   Infertility: Based on findings from animal studies, KRAZATI may impair fertility in females
+    and males of reproductive potential.
+
+Please see Full Prescribing Information.
+
+INDICATION
+KRAZATI is indicated for the treatment of adult patients with KRAS G12C-mutated
+locally advanced or metastatic non-small cell lung cancer (NSCLC), as determined
+by an FDA-approved test, who have received at least one prior systemic therapy.
+
+This indication is approved under accelerated approval based on objective
+response rate (ORR) and duration of response (DOR). Continued approval for this
+indication may be contingent upon verification and description of a clinical
+benefit in a confirmatory trial(s).
+
+Bristol Myers Squibb®
+
+© 2024 Mirati Therapeutics, Inc., a Bristol Myers Squibb company.
+
+LEGAL NOTICE
+
+|
+
+PRIVACY POLICY
+
+|
+
+YOUR PRIVACY CHOICES
+
+KRAZATI® and the related logo are registered trademarks of Mirati Therapeutics, Inc.
+
+This website is intended for U.S. residents 18 years of age or older.
+
+US-KRA-22-00152 V8 8/24
+
+---
+**Visual Elements Description:**
+
+1.  **Header/Navigation Bar:** At the top of the page, there's a horizontal navigation bar. On the left, a logo for "KRAZATI® (adagrasib) 200 mg TABLETS" is displayed. To the right, navigation links include "KRAS G12C in NSCLC", "KRAZATI MOA", "Clinical Data", "Dosage", "Resources & Support", and a blue button labeled "STAY CONNECTED". Further right, a small box lists "IMPORTANT SAFETY INFORMATION", "PRESCRIBING INFORMATION", "REFERENCES", and "VISIT PATIENT SITE". Below the main logo, there's a green section with "CURRENT INDICATION > NSCLC" on the left, and "SWITCH INDICATION" with "OTHER" and "NSCLC" options on the right. Below this, another dark gray bar shows navigation options: "ORR", "DCR", "Intracranial ORR", "OS", "PFS", and "DOR Descriptive analysis".
+
+2.  **Kaplan-Meier Plot (Survival Curve):** This is the prominent visual element in the center of the page.
+    *   **Title:** "DESCRIPTIVE ANALYSIS MEDIAN DOR IN PATIENTS TAKING KRAZATI: 12.5 MONTHS³²"
+    *   **Type:** It is a Kaplan-Meier curve, commonly used to display survival probability over time.
+    *   **Y-axis:** Labeled "Survival Probability", ranging from 0 to 1.0 in increments of 0.2.
+    *   **X-axis:** Labeled "Duration of Response (months)", ranging from 0 to 24 in increments of 3 months.
+    *   **Curve:** A stepped line graph trending downwards, starting at a survival probability of 1.0 at 0 months and decreasing over time, indicating a reduction in the probability of response duration continuing. Small vertical tick marks on the curve indicate censored data points. The curve ends around the 21-month mark on the graph.
+    *   **Key Data Points:**
+        *   "12.5 MONTHS" is highlighted prominently in green, with accompanying text "(n=55; 95% CI: 7.0-15.6)".
+        *   "Data cutoff: October 15, 2021" is noted below the 12.5 MONTHS value.
+        *   A horizontal dashed line extends from the y-axis (around 0.5 survival probability) to intersect the curve, and a vertical dashed line drops from this intersection to the x-axis, visually representing the median duration of response (12.5 months).
+    *   **Table Below Graph:** A table shows the "No. at risk" below the x-axis for various time points: 55 at 0 months, 48 at 3 months, 35 at 6 months, 24 at 9 months, 14 at 12 months, 8 at 15 months, 3 at 18 months, and 0 at 21 and 24 months.
+    *   **Legend/Footnote:** "CI=confidence interval; DOR=duration of response." is located below the table.
+    *   A "SAFETY →" button is visible to the right of the graph, below the 12.5 MONTHS text.
+
+3.  **Footer:** At the bottom, the "Bristol Myers Squibb®" logo is displayed. Below it, the text reads "© 2024 Mirati Therapeutics, Inc., a Bristol Myers Squibb company." and "KRAZATI® and the related logo are registered trademarks of Mirati Therapeutics, Inc.". To the right, there are links for "LEGAL NOTICE", "PRIVACY POLICY", and "YOUR PRIVACY CHOICES" with a checkbox icon. The last line states "This website is intended for U.S. residents 18 years of age or older." and "US-KRA-22-00152 V8 8/24".

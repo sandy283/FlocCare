@@ -1,0 +1,129 @@
+=== PAGE 5 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving its original layout and structure:
+
+KRAZATI®
+(adagrasib)
+200 mg
+TABLETS
+
+KRAS G12C in NSCLC                KRAZATI MOA           Clinical Data           Dosage           Resources & Support         STAY CONNECTED
+
+                                                                                                       IMPORTANT SAFETY INFORMATION
+                                                                                                       PRESCRIBING INFORMATION
+                                                                                                       REFERENCES
+                                                                                                       VISIT PATIENT SITE
+
+NSCLC
+          SWITCH INDICATIONS             OTHER     NSCLC
+
+        ORR             DCR          Intracranial ORR            OS             PFS             DOR
+
+REGISTRATIONAL PHASE 2 COHORT
+DCR IN PATIENTS TAKING KRAZATI: 80% (n=112; 95% CI: 70.8-86.5)³*
+  • Depth of response of any magnitude: 80% of patients experienced tumor shrinkage of any magnitude.
+  • Median follow-up time was 12.9 months*
+
+                                                                                                Click a button to see
+                                                                                                the best tumor response
+
+                                                                                                Stable Disease
+                                                                                                Partial Response       42%
+                                                                                                Complete Response
+
+PERCENT CHANGE FROM BASELINE
+       40
+       20
+        0
+      -20
+      -40
+      -60
+      -80
+     -100
+
+                                                                                                Progressive Disease
+
+                                                          75% OF RESPONDERS ACHIEVED A >50% RESPONSE³³
+                                                                PATIENTS WITH MEASURABLE DISEASE AT BASELINE
+
+Second line provides the first opportunity to target KRAS G12C with KRAZATI.
+
+*Tumor response was assessed by BICR. Phase 2 data cutoff: October 15, 2021. Additional follow-up planned.
+BICR=blinded independent central review; CI=confidence interval; DCR=disease control rate.
+
+                                                                                                                SAFETY →
+
+IMPORTANT SAFETY INFORMATION
+WARNINGS AND PRECAUTIONS
+Gastrointestinal Adverse Reactions
+  • KRAZATI can cause severe gastrointestinal adverse reactions.
+  • Monitor and manage patients using supportive care, including antidiarrheals, antiemetics, or
+    fluid replacement, as indicated. Withhold, reduce the dose, or permanently discontinue
+    KRAZATI based on severity.
+QTc Interval Prolongation
+  • KRAZATI can cause QTc interval prolongation, which can increase the risk for ventricular
+    tachyarrhythmias (eg, torsades de pointes) or sudden death.
+  • Avoid concomitant use of KRAZATI with other products with a known potential to prolong the
+    QTc interval. Avoid use of KRAZATI in patients with congenital long QT syndrome and in
+    patients with concurrent QTc prolongation.
+  • Monitor ECGs and electrolytes prior to starting KRAZATI, during concomitant use, and as
+    clinically indicated in patients with congestive heart failure, bradyarrhythmias, electrolyte
+    abnormalities, and in patients who are taking medications that are known to prolong the QT
+    interval. Withhold, reduce the dose, or permanently discontinue KRAZATI, depending on
+    severity.
+Hepatotoxicity
+  • KRAZATI can cause hepatotoxicity, which may lead to drug-induced liver injury and
+    hepatitis.
+  • Monitor liver laboratory tests (AST, ALT, alkaline phosphatase, and total bilirubin) prior to
+    the start of KRAZATI, and monthly for 3 months or as clinically indicated, with more
+    frequent testing in patients who develop transaminase elevations. Reduce the dose,
+    whithhold, or permanently discontinue KRAZATI based on severity.
+Interstitial Lung Disease/Pneumonitis
+  • KRAZATI can cause interstitial lung disease (ILD)/pneumonitis, which can be fatal.
+  • Monitor patients for new or worsening respiratory symptoms indicative of ILD/pneumonitis
+    (eg, dyspnea, cough, fever) during treatment with KRAZATI.
+  • Withhold KRAZATI in patients with suspected ILD/pneumonitis and permanently
+    discontinue KRAZATI if no other potential causes of ILD/pneumonitis are identified.
+ADVERSE REACTIONS
+  • The most common adverse reactions in NSCLC patients (≥20%) are diarrhea, nausea,
+    fatigue, vomiting, musculoskeletal pain, hepatotoxicity, decreased appetite, cough, pneumonia,
+    dizziness, constipation, abdominal pain, and QTc interval prolongation.
+USE IN SPECIFIC POPULATIONS
+Females and Males of Reproductive Potential
+  • Infertility: Based on findings from animal studies, KRAZATI may impair fertility in females
+    and males of reproductive potential.
+Please see Full Prescribing Information.
+
+INDICATION
+KRAZATI is indicated for the treatment of adult patients with KRAS G12C-mutated
+locally advanced or metastatic non-small cell lung cancer (NSCLC), as determined
+by an FDA-approved test, who have received at least one prior systemic therapy.
+
+This indication is approved under accelerated approval based on objective
+response rate (ORR) and duration of response (DOR). Continued approval for this
+indication may be contingent upon verification and description of a clinical
+benefit in a confirmatory trial(s).
+
+Bristol Myers Squibb®
+
+© 2024 Mirati Therapeutics, Inc., a Bristol Myers Squibb company.
+KRAZATI® and the related logo are registered trademarks of Mirati Therapeutics, Inc., or Bristol Myers Squibb Company.
+US-KRA-22-00152 v8 8/24
+
+                                                      LEGAL NOTICE        |        PRIVACY POLICY        |        YOUR PRIVACY CHOICES
+                                                                                                                   This website is intended for U.S. residents 18 years of age or older.
+
+**Visual Element Description:**
+
+**Bar Chart (Waterfall Plot):**
+This page features a prominent bar chart, commonly known as a waterfall plot, titled "PATIENTS WITH MEASURABLE DISEASE AT BASELINE".
+
+*   **Purpose:** The chart visually represents the individual tumor responses (shrinkage or growth) experienced by patients in the registrational Phase 2 cohort who were taking KRAZATI for non-small cell lung cancer (NSCLC).
+*   **Axes:**
+    *   The vertical (Y) axis is labeled "PERCENT CHANGE FROM BASELINE" and ranges from -100 to 40, with 0 representing no change in tumor size. Negative values indicate tumor shrinkage, and positive values indicate tumor growth.
+    *   The horizontal (X) axis represents individual patients, with each vertical bar corresponding to one patient's best tumor response.
+*   **Content:** The chart displays a series of narrow, vertical bars. The vast majority of these bars are green and extend downwards from the 0% baseline, illustrating tumor shrinkage. The length of each bar below the baseline corresponds to the magnitude of shrinkage. A smaller number of bars are shorter, indicating less shrinkage or even slight growth (extending slightly above the 0% line).
+*   **Key Highlight:** An overlayed green box with white text is positioned over the chart, stating: "75% OF RESPONDERS ACHIEVED A >50% RESPONSE³³". This highlights a significant finding: a large proportion of patients who responded to treatment achieved a substantial reduction in tumor size (more than 50% shrinkage).
+*   **Context:** The chart supports the claim "DCR IN PATIENTS TAKING KRAZATI: 80% (n=112; 95% CI: 70.8-86.5)³*", visually demonstrating the depth and breadth of tumor control achieved by KRAZATI. The accompanying text notes that 80% of patients experienced tumor shrinkage of any magnitude, and the median follow-up time was 12.9 months.

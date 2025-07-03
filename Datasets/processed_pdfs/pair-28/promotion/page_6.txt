@@ -1,0 +1,33 @@
+=== PAGE 6 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Overview of PET/CT Imaging in Recurrent Prostate Cancer – Current and Emerging Techniques — DrFabio                                          6
+
+1.78 ng/mL.
+
+In another clinical trial of 96 patients, a comparison was made between Axumin
+and 11C-choline PET. The scans showed equivalent findings 61-77% of the time.
+However, this study did not include biopsy confirmation. In a third study
+performed in Italy, 89 patients with a rising PSA were studied. The overall cancer
+detection rate was 37%. In those patients with a PSA of less than 1.0 ng/mL, the
+detection rate was 21%, with a PSA of 1.0-2.0 ng/mL detection was 29%, and
+when the PSA was higher than 3.0 the detection rate was 59%. In a more recent
+multi-center study of Axumin in 596 patients, the overall detection rate was 68%
+with a true positive rate of 62% and false positive rate of 38%
+(http://www.jurology.com/article/S0022-5347(16)31518-X/pdf).
+
+We and others have observed that with Axumin, there is typically much higher
+muscle and bone marrow background activity than that seen with 11C-Acetate or
+Choline. This makes small lesions in the prostate bed and bone difficult to detect
+(see examples below). In some patients, the muscle uptake of Axumin may be so
+high as to render the study non-diagnostic, despite having properly abstained from
+physical activity prior to the scan. Additionally, in a small but significant number
+of patients, interfering urinary excretion is seen. These factors likely help explain
+the apparent lower performance of this agent compared to 11C-Acetate and
+Choline.
+
+Axumin study showing high
+physiologic muscle background
+
+http://www.drfabio.com/imagingblog/2018/1/9/overview-of-petct-imaging-in-recurrent-prostate-cancer-current-and-emerging-techniques[11/15/2018 11:25:57 AM]

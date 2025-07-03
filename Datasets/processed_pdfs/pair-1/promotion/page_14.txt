@@ -1,0 +1,51 @@
+=== PAGE 14 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Estetrol (E4) and NEXTSTELLIS: Extensive Clinical Development Program¹⁻⁶
+
+```
+                                          Phase 1                                         Four Phase 2 Trials (N=681)                             Two Phase 3 Trials (N=3,632)
+                                   -------------------                              -------------------------------                       ----------------------------
+                                      2005 - 2007                                         2008 - 2014                                           2015 - 2020
+                                   -------------------                              -------------------------------                       ----------------------------
+                                                                                        2 dose-finding studies
+                                                                                        evaluating E4+DRSP or LNG
+
+                                                                                        2 head-to-head studies against
+                                                                                        Yaz® and Nordette®
+
+    E4 Only                        • Single oral dose                                     Endpoints included:                                     2 pivotal contraceptive trials
+                                   • Multiple oral dose                                   • Dose-finding                                          in US/Canada and EU/Russia
+                                   • Proof-of-concept
+                                                                E4 + progestins (LNG or DRSP)                                    E4 14.2 mg/DRSP 3 mg
+                                                                                        • Bleeding profile                                      Endpoints included:
+                                                                                                                                                • On-treatment pregnancy rate
+                                                                                        • Hemostasis, endocrine, and                              (Pearl Index) in at-risk cyclesᵃ
+                                                                                          metabolic parameters
+                                                                                                                                                • Cycle control (bleeding
+                                                                                        • Ovulation inhibition                                    pattern)ᵇ
+                                                                                                                                                • Safety – AEsᵇ
+                                                                                                                                                • Subject’s well-beingᵇ
+```
+
+All registered trademarks are the property of their respective owners
+
+13
+mayne pharma              AEs, adverse events; DRSP, drospirenone; LNG, levonorgestrel. ᵃPrimary endpoint, ages 16-35 years. ᵇSecondary endpoints, ages 16-50 years.
+                          References: 1. Apter D, et al. Contraception. 2016;94(4):366-373. 2. Duijkers I, et al. Eur J Contracept Reprod Health Care. 2015;20(6):476-489. 3. Duijkers I, et al. Contraception.
+                          2021;S0010-7824(21) . 4. Douxfils, J. et al. Contraception. 2020;102(6):396-402. 5. Klipping C, et al. Contraception. 2021;103:213-221. 6. Data on file. Raleigh, NC. Mayne Pharma LLC.
+
+                                                                                                       Full Prescribing Information is available at www.Nextstellis.com
+
+**Visual Elements Description:**
+The page presents a structured overview of a clinical development program.
+At the top, a large banner with a light blue background features the main title: "Estetrol (E4) and NEXTSTELLIS: Extensive Clinical Development Program¹⁻⁶".
+Below this, the core information is presented in three distinct, horizontally arranged rectangular boxes, each representing a phase of development. Each box has a dashed border at the top and solid borders for the other sides.
+-   **Phase 1 (leftmost box):** Titled "Phase 1" with a timeframe of "2005 - 2007". A vertical light blue bar on its left side is labeled "E4 Only". The box lists bullet points: "Single oral dose", "Multiple oral dose", and "Proof-of-concept".
+-   **Four Phase 2 Trials (middle box):** Titled "Four Phase 2 Trials (N=681)" with a timeframe of "2008 - 2014". A vertical pink bar on its left side is labeled "E4 + progestins (LNG or DRSP)". The box describes "2 dose-finding studies evaluating E4+DRSP or LNG" and "2 head-to-head studies against Yaz® and Nordette®". It then lists "Endpoints included:" with bullet points: "Dose-finding", "Bleeding profile", "Hemostasis, endocrine, and metabolic parameters", and "Ovulation inhibition".
+-   **Two Phase 3 Trials (rightmost box):** Titled "Two Phase 3 Trials (N=3,632)" with a timeframe of "2015 - 2020". A vertical purple bar on its left side is labeled "E4 14.2 mg/DRSP 3 mg". The box describes "2 pivotal contraceptive trials in US/Canada and EU/Russia". It then lists "Endpoints included:" with bullet points: "On-treatment pregnancy rate (Pearl Index) in at-risk cyclesᵃ", "Cycle control (bleeding pattern)ᵇ", "Safety – AEsᵇ", and "Subject’s well-beingᵇ".
+
+Blue arrow shapes visually connect the phases, indicating progression from Phase 1 to Phase 2, and from Phase 2 to Phase 3. These arrows extend from the bottom-right of one phase box to the left side of the next.
+
+At the bottom of the page, there is a page number "13" on the left. Next to it, a black circular logo with "mayne pharma" in white text is displayed. To the right of the logo, there is a block of smaller text containing abbreviations definitions ("AEs, adverse events; DRSP, drospirenone; LNG, levonorgestrel."), footnotes ("ᵃPrimary endpoint, ages 16-35 years. ᵇSecondary endpoints, ages 16-50 years."), and a list of six references. Below the references, a statement reads: "Full Prescribing Information is available at www.Nextstellis.com". In the bottom right corner, aligned to the right, a small text reads: "All registered trademarks are the property of their respective owners".

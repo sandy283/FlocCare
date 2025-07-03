@@ -1,0 +1,32 @@
+=== PAGE 45 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Supporting Equitable Access to Contraceptives
+
+*   In January 2023, the US Departments of Labor, Health and Human Services, and Treasury began enforcement of the
+    2022 guidance to remove barriers to preventative care and contraception for women
+*   New guidance reinforces the requirement that **plans must cover any contraceptive services and FDA-approved, cleared,
+    or granted contraceptive products that a patient and their provider have determined to be medically appropriate
+    without cost-sharing**
+*   Plans may not use “Unreasonable Medical Management Techniques” in their determination, which include:
+    *   Denying coverage for newer or brand name contraceptives
+    *   Applying age-related restrictions for a contraceptive service or product
+    *   Requiring patients to satisfy a step-therapy or “fail first” approach
+
+**Table: Reporting of Violations**
+
+This table provides information on where consumers can report violations related to contraceptive coverage based on their insurance type.
+
+| Covered By:                                                     | Contact Information:                                                                                                                                                                                            |
+| :-------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Consumers covered by a private sector, employer-sponsored group health plan | Contact the Department of Labor (DOL) at www.dol.gov/agencies/ebsa/about-ebsa/ask-a-question/ask-ebsa or call toll free at 1-866-444-327                                                                                |
+| Consumers covered by fully-insured coverage                       | Go to https://content.naic.org/state-insurance-departments to find contact information for the appropriate State Department of Insurance                                                                            |
+
+44
+
+**Image description:** A black circle containing the white text "mayne pharma" representing the company logo.
+
+Reference: https://www.cms.gov/files/document/faqs-part-64.pdf; Accessed on April 17, 2024.
+
+Full Prescribing Information is available at www.Nextstellis.com

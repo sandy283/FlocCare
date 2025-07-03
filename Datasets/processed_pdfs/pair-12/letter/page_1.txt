@@ -1,0 +1,57 @@
+=== PAGE 1 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving its original layout, spacing, and structure:
+
+(Image: A circular seal/logo is present on the top left of the page. It contains a stylized eagle-like figure with text curving around it saying "U.S. HUMAN SERVICES - USA" and straight text below it saying "DEPARTMENT OF HEALTH & HUMAN SERVICES". This is the official seal of the U.S. Department of Health and Human Services.)
+
+                                                              Public Health Service
+DEPARTMENT OF HEALTH & HUMAN SERVICES
+
+                                                              Food and Drug Administration
+                                                              Silver Spring, MD 20993
+
+Xeris Pharmaceuticals, Inc.
+Attention: Michele Yelmene
+Vice President, Global Regulatory Affairs & Operations
+900 Northbrook Drive, Suite 200
+Trevose, PA 19053
+
+RE: NDA 214133
+     RECORLEV (levoketoconazole) tablets, oral
+     MA 14
+
+Dear Michele Yelmene:
+
+The Office of Prescription Drug Promotion (OPDP) of the U.S. Food and Drug Administration
+(FDA) has reviewed the promotional communications, the “What is Recorlev®?” and “Taking
+Recorlev®” webpages¹ of the consumer website (US-REC-21-00033 [v1.0]) (webpages) for
+RECORLEV (levoketoconazole) tablets, oral (Recorlev) submitted by Xeris Pharmaceuticals,
+Inc. (Xeris) under cover of form FDA 2253. The webpages make false or misleading claims
+and representations about the safety and efficacy of Recorlev. Thus, the webpages
+misbrand Recorlev within the meaning of the Federal Food, Drug and Cosmetic Act (FD&C
+Act), making its distribution violative. 21 U.S.C. 352(a), (n); 321(n), 331(a). See 21 CFR
+202.1(e)(3)(i); (e)(5). These violations are especially concerning from a public health
+perspective because the promotional communications create a misleading impression
+regarding the safety and effectiveness of Recorlev, a drug with a number of serious and
+potentially life-threatening risks, including boxed warnings regarding the risks of
+hepatotoxicity and QT prolongation.
+
+Background
+
+Below are the indication and summary of the most serious and most common risks
+associated with the use of Recorlev.² According to the INDICATIONS AND USAGE section
+of the FDA-approved prescribing information (PI):
+
+            RECORLEV is indicated for the treatment of endogenous hypercortisolemia in adult
+            patients with Cushing’s syndrome for whom surgery is not an option or has not been
+            curative.
+
+---
+¹ “What is Recorlev®?” webpage located at https://www.recorlev.com/what-is-recorlev/ and “Taking Recorlev®”
+webpage located at https://www.recorlev.com/taking-recorlev/ (last accessed 06.05.2023).
+² This information is for background purposes only and does not necessarily represent the risk information that
+should be included in the promotional communication(s) cited in this letter.
+
+Reference ID: 5186528

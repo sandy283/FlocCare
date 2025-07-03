@@ -1,0 +1,29 @@
+# Exclude floccare folder
+floccare/
+
+# Exclude checkpoint folders (large files)
+Qwen_Lora_Finetune/qwen_simple_output/checkpoint-*/
+Qwen_Lora_Finetune/qwen_simple_output/checkpoint*/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log 

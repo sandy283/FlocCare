@@ -1,0 +1,55 @@
+=== PAGE 3 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Santosh T. Varghese                                                              Page 3
+VIVUS, Inc.
+NDA 022580/ MA 414
+
+and we are not aware of data to support these claims. First, the Data on File⁴, which is cited
+on the webpage as support, reports calculated ratios of the average absolute amount of
+weight loss for Qsymia compared to placebo at week 12, 28, and 56. However, the cited
+calculations do not support the rate of weight loss since they describe the amount of weight
+loss at specific points in time. Additionally, although the calculations were derived from the
+clinical studies included in the PI, they cannot support a claim of “faster” weight loss because
+the studies were not designed to evaluate the rate of weight loss over time. According to the
+CLINCIAL STUDIES section of the PI, the co-primary efficacy outcomes measured the
+amount of weight loss after 1 year of treatment (a fixed point in time) as the percent of weight
+loss from baseline weight and treatment response (defined as achieving at least 5% weight
+loss from baseline). These studies were designed to evaluate the amount of weight loss and
+cannot be used to support claims regarding rate of weight loss. Therefore, the cited
+references do not support the misleading suggestion that Qsymia can help patients lose
+weight 3 times faster than diet and exercise alone. If you have data to support these claims,
+please submit such data to FDA for review.
+
+The webpage also presents the following claims (emphasis original):
+
+*   “For patients with a body mass index (BMI)* of 30+† or 27 kg/mg² or greater
+    (overweight) in the presence of of at least one weight-related medical condition.
+
+**Lose weight and keep it off with Qsymia**[3,4]
+....
+**12 Weeks**
+**Your first milestone**
+15-19 Pounds of weight loss                     2-3 Inches off your waist
+
+**28 Weeks**
+**Stay motivated**
+22-29 Pounds of weight loss                     3-4 Inches off your waist
+
+**56 Weeks**
+**Maintain progress**
+24-32 Pounds of weight loss                     4-5 Inches off your waist”
+
+This presentation omits material information from the full indication about the relative effect of
+diet and exercise. According to the INDICATIONS AND USAGE section of the PI, Qsymia is
+indicated as an adjunct to a reduced-calorie diet and increased physical activity. This
+presentation is misleading because it does not include this important information. We note
+that the webpage contains illustrations showing an exercise bike, a bag of groceries, and a
+capsule. However, these are not adequate to convey to the viewer that both exercise and
+diet are necessary in achieving the benefits (weight management) of Qsymia as stated in the
+PI. Additionally, the omission of contextual information about the results observed in the
+placebo group creates a misleading presentation because it suggests that these results are
+or can be attributable to Qsymia alone.
+
+Reference ID: 4437455

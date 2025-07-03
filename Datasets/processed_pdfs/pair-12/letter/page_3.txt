@@ -1,0 +1,55 @@
+=== PAGE 3 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Michele Yelmene
+Xeris Pharmaceuticals, Inc.
+NDA 214133 MA 14
+                                                                                                    Page 3
+
+       o  “67% of patients who moved on to the second part of the study had normal
+          cortisol levels by the end of the study”
+
+The claim, “67% of patients who moved on to the second part of the study had normal cortisol
+levels by the end of the study” (emphasis original), misleadingly overstates the efficacy of
+Recorlev. According to the CLINICAL STUDIES section of the PI, the SONICS study (Study
+2) consisted of three phases (dose titration, maintenance, and extended evaluation). Out of
+the 94 patients who enrolled in the study and entered the dose titration phase, 77 patients
+“moved on to the second part of the study” (i.e., maintenance phase). At the end of the
+maintenance phase, only 29 of those 77 (38%) patients had normal cortisol levels. By the end
+of the extended evaluation phase, the number of patients with normal cortisol levels
+decreased to 16 of those 77 (21%) patients. We acknowledge that according to the PI, 67%
+of patients in the SONICS study had normal cortisol levels at the end of the titration phase;
+however, the titration phase was not the “end of the study.” In addition, regardless of whether
+the end of the maintenance phase or extended evaluation phase is considered the “end of
+the study,” both phases failed to attain the results claimed on the webpage, with 38% and
+21% of patients reaching normal cortisol levels, respectively, rather than 67%. Therefore,
+suggesting that 67% of patients who “moved on to the second part of the study” had normal
+cortisol levels by the end of the study significantly overstates the efficacy of the product.
+
+Furthermore, the presentation omits material information necessary to interpret any study
+results from the SONICS study (Study 2). Specifically, the CLINICAL STUDIES section of
+the PI states, “[b]ecause 51% of patients discontinued treatment prematurely due to adverse
+reaction, lack of efficacy, or other reasons, these results should be interpreted with caution.”
+The omission of this material information from the webpage undermines the ability of the
+reader to understand and evaluate the study results presented and thereby creates a
+misleading impression about the drug’s efficacy.
+
+The “What is Recorlev®?” webpage also includes the following claim regarding the LOGICS
+study (emphasis original):
+
+*   “Recorlev - More patients (52%) who were on a stable and steady dose of Recorlev
+    had normal cortisol levels”
+
+This claim creates a misleading impression regarding the efficacy of Recorlev because it
+implies that the results represent the general experience of patients with the drug. On the
+contrary, the results presented are based on a small, select subset of patients enrolled in the
+study who had already demonstrated that they were able to tolerate and respond to the drug.
+
+According to the CLINICAL STUDIES section of the PI, the LOGICS study (Study 1)
+consisted of two phases, a dose titration and maintenance phase followed by a randomized
+withdrawal phase. Seventy-nine patients entered the dose titration and maintenance phase.
+Patients who achieved a stable therapeutic dose for at least 4 weeks and achieved a normal
+mean urinary free cortisol (i.e., “normal cortisol levels”) at the end of the dose titration and
+
+Reference ID: 5186528

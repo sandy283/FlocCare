@@ -1,0 +1,59 @@
+=== PAGE 2 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Bruce Merchant, MD, PhD                                                               Page 2
+Nascent Biotech, Inc.
+(b) (4) MA 1
+
+**Misbranding of an Investigational Drug**
+
+Under section 502(f)(1) of the FD&C Act, a drug shall be deemed to be misbranded unless
+its labeling bears adequate directions for use. Under FDA regulations, adequate directions
+for use means directions under which the layman can use a drug safely and for the
+purposes for which it is intended. 21 CFR 201.5. Your website describes the use of
+Pritumumab for treating brain cancer. This use is one for which a prescription would be
+needed because it requires the supervision of a physician and, therefore, for which
+adequate directions for lay use cannot be written.
+
+Although 21 CFR 201.115(b) provides an exemption from the adequate directions for use
+requirement in section 502(f)(1) of the FD&C Act if a new drug "complies with section
+505(i)...and regulations thereunder," your investigational drug fails to do so.³ Among the
+requirements for this exemption for investigational drugs, 21 CFR 312.7(a) provides that, "[a]
+sponsor or investigator, or any person acting on behalf of a sponsor or investigator, shall not
+represent in a promotional context that an investigational new drug is safe or effective for
+the purposes for which it is under investigation or otherwise promote the drug. This
+provision is not intended to restrict the full exchange of scientific information concerning the
+drug, including dissemination of scientific findings in scientific or lay media. Rather, its intent
+is to restrict promotional claims of safety or effectiveness of the drug for a use for which it is
+under investigation and to preclude commercialization of the drug before it is approved for
+commercial distribution."
+
+The website includes claims and presentations that promote Pritumumab as safe and
+effective for the purposes for which it is being investigated or otherwise promote the drug,
+including the following examples (emphasis added):
+
+*   “Pritumumab has **cured a rare form of brain cancer**”
+
+*   “Delivering human antibodies for the **treatment of cancer**”
+
+*   “After 5 years, patients treated with pritumumab have an overall survival rate of 25-
+    30%, compared to 3% standard therapy, **demonstrating antibodies are safe and
+    effective**”
+
+The above claims and presentations make numerous conclusory statements which suggest
+that Pritumumab has been established as being safe and effective in treating brain cancer.
+Because, however, Pritumumab is an investigational new drug, the product’s indication(s),
+warnings, precautions, adverse reactions, and dosage and administration have not been
+established and are unknown at this time. These claims and presentations are extremely
+concerning given the lack of adequate safety and efficacy data for Pritumumab. Similarly,
+the suggestion that Pritumumab has established efficacy and has “cured a rare form of brain
+cancer” is especially troubling given that brain cancer in general is a disease associated with
+
+---
+³ 21 CFR 201.100 offers another exemption from the requirement for adequate directions for use for
+prescription drugs provided certain requirements are met; however, Pritumumab does not fall within that
+exemption because it is an investigational new drug for which there is no marketing authorization in the United
+States.
+
+Reference ID: 4514664

@@ -1,0 +1,56 @@
+=== PAGE 3 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+James H. Medley
+Althera Pharmaceuticals LLC
+NDA 213072 MA 4
+
+                                                                                                       Page 3
+
+STUDIES section of the Roszet PI: 1) a monotherapy study that evaluated rosuvastatin in
+patients with hyperlipidemia and 2) a combination study that evaluated ezetimibe added to
+ongoing statin therapy in patients with primary hyperlipidemia, known coronary heart disease
+or multiple cardiovascular risk factors who were already receiving statin monotherapy, but
+who had not met their target LDL-C goal. The LDL-C reductions represented in the claims
+above that are attributed to Roszet actually depict numbers that were retrospectively
+calculated by combining the results of these two unrelated studies, neither of which evaluated
+the specific combination of rosuvastatin and ezetimibe (i.e., Roszet). In fact, rosuvastatin
+was not actually one of the statins used in the study of ezetimibe added to ongoing statin
+therapy. The LDL-C reductions claimed in the promotional communication for each dose of
+Roszet were calculated by taking the percent change from baseline LDL-C reduction
+observed in the rosuvastatin monotherapy study and then applying an additional 25% LDL-C
+reduction which was observed in the separate ezetimibe added to ongoing statin therapy
+study. FDA is not aware of a scientific basis for combining study results in this manner.
+
+Furthermore, these studies differed in patient population and type and dose of statin(s), as
+well as duration (i.e., 6 weeks for the rosuvastatin monotherapy study and 8 weeks for the
+ezetimibe added to ongoing statin therapy study). Such differences between studies limit the
+interpretability of any cross-study comparisons and any analysis combining the results of
+these studies. Thus, such an analysis does not support these claims that attribute specific
+levels of LDL-C reductions to each dose of Roszet. The clinical studies described in the
+Roszet PI and cited in the promotional communication support FDA’s finding of safety and
+efficacy of the drug with respect to its labeled indication, involving the reduction of LDL-C in
+certain patients, but not in achieving the specific levels of LDL-C reductions claimed. Thus,
+the promotional communication creates a misleading impression regarding the effect of
+Roszet.
+
+The promotional communication also includes the following claims and presentations
+(emphasis original):
+
+*   “Patients Can Get Below 70 mg/dL with **One Pill Daily**”
+
+*   “Mean LDL-C Reductions Achieved in Clinical Trials”
+
+    *   “**GRAVITY³ Study**
+        *   Baseline LDL-C **163** mg/dl → Final LDL-C **65** mg/dl after 12 weeks
+            (Dose: rosuvastatin/ezetimibe 10 mg/10 mg)
+        *   Baseline LDL-C **165** mg/dl → Final LDL-C **59** mg/dl after 12 weeks
+            (Dose: rosuvastatin/ezetimibe 20 mg/10 mg)”
+
+³ Ballantyne CM, et al. Efficacy, safety and effect on biomarkers related to cholesterol and lipoprotein
+metabolism of rosuvastatin 10 or 20 mg plus ezetimibe 10 mg vs. simvastatin 40 or 80 mg plus ezetimibe 10 mg
+in high risk patients: Results of the GRAVITY randomized study. *Atherosclerosis* 2014; 232:86-93.
+
+
+Reference ID: 4993452

@@ -1,0 +1,50 @@
+=== PAGE 5 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving its layout and structure:
+
+Edit text ad
+                                                                  2 of 2 previews   <   >
+Final URL
+https://alkindisprinkle.com/patient/
+
+Headline 1
+Alkindi Sprinkle                                              16 / 30
+
+Headline 2
+FDA Approved Hydrocortisone                                   27 / 30
+
+Headline 3
+Strengths as low as 0.5 mg                                    26 / 30
+
+Display path ⓘ
+www.alkindisprinkle.com / patient             / Path 2
+                                          7 / 15               0 / 15
+
+Description 1
+ALKINDI SPRINKLE for adrenal insufficiency. Lower strengths. Higher confidence. ⓘ
+                                                              79 / 90
+
+Description 2
+Individualized hydrocortisone dosing with no bitter taste, pill cutting or dissolving. ⓘ
+                                                              86 / 90
+
+Desktop
+
+Ad · www.alkindisprinkle.com/patient ▾
+**Alkindi Sprinkle | FDA Approved Hydrocortisone**
+ALKINDI SPRINKLE for adrenal insufficiency. Lower strengths. Higher confidence. Individualized
+hydrocortisone dosing with no bitter taste, pill cutting or dissolving.
+
+Your ad might not always include all your text. Some shortening may also occur in some formats. You can make
+sure certain text appears in your ad. Learn more
+
+PM-ALK-016-rev0-12/20
+
+**Description of Visual Elements:**
+
+*   **Plus Icon (+):** Located next to "Edit text ad", this icon typically indicates functionality to add new elements or expand options within the ad editing interface.
+*   **Information/Help Icons (ⓘ):** These circular icons with a lowercase 'i' or question marks are present next to "Display path", "Description 1", and "Description 2" (and implied next to "Headline 1", "Headline 2", "Headline 3" based on common UI patterns, though slightly out of clear view in the full image). They suggest that clicking them would provide more information or help related to those specific fields.
+*   **Navigation Arrows (< >):** Positioned next to "2 of 2 previews", these left and right arrows are used to navigate between different ad previews or formats.
+*   **Dropdown Arrow (▾):** Located next to "www.alkindisprinkle.com/patient" within the ad preview box, this indicates a clickable menu or dropdown option, likely to reveal more details or options related to the ad's display URL.

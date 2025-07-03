@@ -1,0 +1,33 @@
+=== PAGE 6 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving its original layout and structure:
+
+```
+Edit text ad                                                  2 of 2 previews   <   >
+
+Final URL
+https://alkindisprinkle.com/patient/                          Desktop
+
+Headline 1
+Hydrocortisone oral granules                     (i) 28 / 30    Ad • www.alkindisprinkle.com/patient ▼
+                                                              Hydrocortisone oral granules | Treat Adrenal Insufficiency
+Headline 2
+Treat Adrenal Insufficiency                      (i) 27 / 30    ALKIND! SPRINKLE. Microgranular oral hydrocortisone for babies and kids. Flexible,
+                                                              individualized dosing with four low-strength options as low as 0.5 mg.
+Headline 3
+Low-Strength Hydrocortisone                      (i) 27 / 30
+                                                              Your ad might not always include all your text. Some shortening may also occur in some formats. You can make
+Display path (i)                                              sure certain text appears in your ad. Learn more
+www.alkindisprinkle.com / patient      / Path 2
+                                               7 / 15   0 / 15
+Description 1
+ALKIND! SPRINKLE. Microgranular oral hydrocortisone for babies and kids.       (i) 72 / 90
+
+Description 2
+Flexible, individualized dosing with four low-strength options as low as 0.5 mg. (i) 80 / 90
+
+
+PM-ALK-016-rev0-12/20
+```

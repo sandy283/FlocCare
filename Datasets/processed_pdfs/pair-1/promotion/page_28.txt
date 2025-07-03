@@ -1,0 +1,43 @@
+=== PAGE 28 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving its original layout and structure:
+
+Adverse Reactions (ARs):
+US/Canada and EU/Russia Phase 3 Studies
+
+                                                              Participants With Adverse Reactions      Participants With Adverse Reactions             Adverse Reactions (ARs)
+                                                                US/Canada Phase 3 Trialᵇ             Two Global Phase 3 Trialsᵇ                   Include **all** Adverse Events
+ Preferred Term (PT)ᵃ                                             (n [%]) (N=2,073)                    (n [%]) (N=3,632)                      (AEs) reported in ≥2% of
+ Any adverse reaction                                            1,205 (58.1)                         2,126 (58.5)                                   participants.
+ Mood disturbance                                                  226 (10.9)                           329 (9.1)                           All AEs were included
+ Bleeding irregularities                                           201 (9.7)                            393 (10.8)                          whether drug related or not.
+ Breast symptoms                                                   110 (5.3)                            197 (5.4)
+ Headache                                                          100 (4.8)                            227 (6.3)
+ Dysmenorrhea                                                       84 (4.1)                            133 (3.7)
+ Weight increased                                                   68 (3.3)                            108 (3.0)
+ Acne                                                               66 (3.2)                            136 (3.7)
+ Libido decreased/lost                                              27 (1.3)                             72 (2.0)
+
+27 mayne pharma         ᵃPreferred terms are per MEDRA definitions. ᵇMean duration of NEXTSTELLIS exposure was 257 days (North America) and 317 days (EU/Russia). Average age of study population was 27 years,
+                        with a mean BMI of 25 kg/m² for both studies. The racial distribution was 83% White; 11% Black; 3% Asian; and 3% Other.
+                        Reference: NEXTSTELLIS [package insert]. Raleigh, NC: Mayne Pharma; 2022.
+
+                                                                                                       Full Prescribing Information is available at **www.Nextstellis.com**
+
+**Visual Elements Description:**
+
+*   **Table/Chart:** The central part of the page displays a table comparing adverse reactions in two sets of Phase 3 clinical trials.
+    *   The first column lists "Preferred Term (PT)ᵃ" adverse reactions, such as "Any adverse reaction", "Mood disturbance", "Bleeding irregularities", "Breast symptoms", "Headache", "Dysmenorrhea", "Weight increased", "Acne", and "Libido decreased/lost".
+    *   The second column, titled "Participants With Adverse Reactions US/Canada Phase 3 Trialᵇ (n [%]) (N=2,073)", shows the number and percentage of participants experiencing each reaction in that trial.
+    *   The third column, titled "Participants With Adverse Reactions Two Global Phase 3 Trialsᵇ (n [%]) (N=3,632)", shows the corresponding data for the global trials.
+*   **Scale Icon with Text:** To the right of the main data table, there is a visual element depicting a dark purple icon of a weighing scale. Below and around this icon, enclosed in a dashed-line box, is the text:
+    *   **WEIGHT GAIN**
+    *   **<1.1 lb**
+    *   **(N=1,864)**
+    *   mean weight change
+    *   through Cycle 6
+    *   (visit 5) in the
+    *   North American Study.
+    This visual element highlights specific data regarding weight gain observed in the North American study.

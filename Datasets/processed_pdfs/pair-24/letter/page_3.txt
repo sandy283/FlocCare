@@ -1,0 +1,59 @@
+=== PAGE 3 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving its original layout, spacing, and structure:
+
+Kimberly Skopitz
+Kowa Pharmaceuticals America, Inc.
+NDA 022363 MA 609
+
+                       **Donnie W.**
+
+VO (:07 - :10): “My doctor recommended I start with a statin. We started with one, we
+had a lot of side effects.”
+SUPER: **my switch to LIVALO®**
+          Donnie W. Switched statins 4 times due to side effects
+
+VO (:31 - :35): “LIVALO definitely made a positive impact in reducing my cholesterol
+and reduced side effects.”
+SUPER: **my switch to LIVALO®**
+          Donnie W. Taking LIVALO for 8 years
+
+                       **Robert M.**
+
+VO (:11 - :19): “The first medication I went on came with a lot of side effects, so I tried
+other ones after that and it was even worse.”
+SUPER: **my switch to LIVALO®**
+          Robert M. Switched statins 3 times due to side effects
+
+VO (:36 - :44): “I wish I was put on LIVALO years ago, because I’m not having the side
+effects that I was having with the other statins.”
+SUPER: **my switch to LIVALO®**
+          Robert M. Taking LIVALO for 4 years
+
+This presentation misleadingly suggests that Livalo is safer than its competitors by implying
+that patients switching to Livalo from other statins will experience a reduction in side effects
+compared to other statins, or no side effects at all. While the patient testimonials in this
+presentation may be an accurate reflection of these patients' own personal experiences with
+Livalo, the testimonials do not adequately support the suggestion in the presentation that
+other patients switching to Livalo from other statins will experience a similar reduction in side
+effects compared to other statins, or no side effects at all. We note that the video includes a
+SUPER during the patient testimonials stating, "Individual results may vary." However, this
+does not mitigate the misleading impression from the presentation. FDA is not aware of any
+data to support the suggestion that patients switching to Livalo from other statins will
+experience a reduction in side effects compared to other statins, or no side effects at all. If
+you have data to support this suggestion, please submit them to FDA for review.
+
+The misleading suggestion about Livalo’s side effects is especially concerning given that
+Livalo is associated with serious risks, several of which are the **same** as those associated
+with other statins. For example, **all statins**, including Livalo, are associated with the serious
+risk of skeletal muscle effects. Specifically, the WARNINGS AND PRECAUTIONS section of
+the PI for Livalo states the following regarding this risk, “**Cases of myopathy and
+rhabdomyolysis with acute renal failure secondary to myoglobinuria have been
+reported with HMG-CoA reductase inhibitors, including LIVALO®**” (bolded emphasis
+original, underlined emphasis added).
+
+Reference ID: 4496702
+
+Page 3

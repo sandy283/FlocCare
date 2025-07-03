@@ -1,0 +1,57 @@
+=== PAGE 2 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Mamta Puri-Lechner, PhD                                                               Page 2
+Arog Pharmaceuticals, Inc.
+(b) (4) MA 2
+cells, and platelets. This decrease in normal blood cells results in the symptoms of AML,
+which is universally fatal without treatment.
+
+**Misbranding of an Investigational Drug**
+
+Under section 502(f)(1) of the FD&C Act, a drug shall be deemed to be misbranded unless
+its labeling bears adequate directions for use. Under FDA regulations, adequate directions
+for use means directions under which the layman can use a drug safely and for the
+purposes for which it is intended. 21 CFR 201.5. Your booth display and webpage describe
+the use of Crenolanib in treating AML in general and FMS-like tyrosine kinase-3 (FLT3)
+positive AML specifically. These uses are ones for which a prescription would be needed
+because they require the supervision of a physician and, therefore, for which adequate
+directions for lay use cannot be written.
+
+Although 21 CFR 201.115(b) provides an exemption from the adequate directions for use
+requirement in section 502(f)(1) of the FD&C Act if a new drug “complies with section 505(i)
+. . . and regulations thereunder,” your investigational drug fails to do so.³ Among the
+requirements for the exemption for investigational drugs, 21 CFR 312.7 provides that, “[a]
+sponsor or investigator, or any person acting on behalf of a sponsor or investigator, shall not
+represent in a promotional context that an investigational new drug is safe or effective for
+the purposes for which it is under investigation or otherwise promote the drug. This
+provision is not intended to restrict the full exchange of scientific information concerning the
+drug, including dissemination of scientific findings in scientific or lay media. Rather, its intent
+is to restrict promotional claims of safety or effectiveness of the drug for a use for which it is
+under investigation and to preclude commercialization of the drug before it is approved for
+commercial distribution.”
+
+The booth display and webpage include claims and presentations that promote Crenolanib
+as safe and effective for the purposes for which it is being investigated or otherwise promote
+the drug, including the following:
+
+**Booth Display**
+
+*   Combination Therapy—Future of AML Treatment
+    *   CRENOLANIB
+        *   Combinable with chemotherapy at full doses
+
+*   Eradicating Activating Mutations
+    *   CRENOLANIB
+        *   Potent inhibitor of
+            ✓ FLT3
+            ✓ PDGFRα
+            ✓ PDGFRβ
+
+---
+³ 21 CFR 201.100 offers another exemption from the requirement for adequate directions for use for prescription
+drugs provided certain requirements are met; however, Crenolanib does not fall within that exemption because it
+is an investigational new drug for which there is not marketing authorization in the United States.
+
+Reference ID: 4284634

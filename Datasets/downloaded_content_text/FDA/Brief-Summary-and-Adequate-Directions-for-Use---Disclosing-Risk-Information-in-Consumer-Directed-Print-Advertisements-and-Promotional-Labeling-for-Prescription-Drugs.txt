@@ -1,0 +1,1549 @@
+=== PAGE 1 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Brief Summary and Adequate Directions  
+for Use: Disclosing Risk Information in  
+Consumer-Directed Print Advertisements  
+and Promotional Labeling for  
+Prescription Drugs  
+Guidance for Industry  
+REVISED DRAFT GUIDANCE  
+This guidance document is being distributed for comment purposes only. 
+Comments and suggestions regarding this draft document should be submitted within 60 days of 
+publication in the Federal Register of the notice announcing the availability of the draft 
+guidance. Submit electronic comments to http://www.regulations.gov. Submit written 
+comments to the Division of Dockets Management (HFA-305), Food and Drug Administration, 
+5630 Fishers Lane, rm. 1061, Rockville, MD  20852. All comments should be identified with 
+the docket number listed in the notice of availability that publishes in the Federal Register. 
+For questions regarding this draft document contact (CDER) Julie Chronis at 301-796-1200; 
+(CBER) Office of Communications, Outreach and Development, at 800-835-4709 or 240-402­
+7800; or (CVM) Thomas Moskal at 240-402-6251.   
+U.S. Department of Health and Human Services  
+Food and Drug Administration  
+Center for Drug Evaluation and Research (CDER)  
+Center for Biologics Evaluation and Research (CBER)  
+Center for Veterinary Medicine (CVM)  
+August 2015 
+Advertising 
+Revision 2 
+
+
+=== PAGE 2 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Brief Summary and Adequate Directions for  
+Use: Disclosing Risk Information in Consumer- 
+Directed Print Advertisements and Promotional  
+Labeling for Prescription Drugs  
+Guidance for Industry  
+Additional copies are available from:  
+Office of Communications, Division of Drug Information  
+Center for Drug Evaluation and Research  
+Food and Drug Administration  
+10001 New Hampshire Ave., Hillandale Bldg., 4th Floor  
+Silver Spring, MD 20993-0002  
+Phone: 855-543-3784 or 301-796-3400; Fax: 301-431-6353  
+ druginfo@fda.hhs.gov  
+http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/default.htm 
+and/or 
+ Office of Communication, Outreach and Development  
+Center for Biologics Evaluation and Research  
+Food and Drug Administration  
+10903 New Hampshire Ave., Bldg. 71, rm. 3128,  
+Silver Spring, MD 20993-0002  
+Phone: 800-835-4709 or 240-402-7800  
+ocod@fda.hhs.gov  
+http://www.fda.gov/BiologicsBloodVaccines/GuidanceComplianceRegulatoryInformation/Guidances/default.htm 
+and/or  
+Policy and Regulations Staff 
+ Center for Veterinary Medicine  
+Food and Drug Administration  
+7519 Standish Pl., Rockville, MD 20855  
+Phone: (240) 402-7075  
+Http://www.fda.gov/AnimalVeterinary/GuidanceComplianceEnforcement/GuidanceforIndustry/default.htm  
+U.S. Department of Health and Human Services  
+Food and Drug Administration  
+Center for Drug Evaluation and Research (CDER)  
+Center for Biologics Evaluation and Research (CBER)  
+Center for Veterinary Medicine (CVM)  
+August 2015  
+Advertising  
+Revision 2  
+
+
+=== PAGE 3 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+TABLE OF CONTENTS 
+I. 
+INTRODUCTION............................................................................................................. 1  
+II. 
+BACKGROUND ............................................................................................................... 2  
+A. 
+Legal Overview .............................................................................................................................. 2  
+B. 
+Policy Overview.............................................................................................................................. 4  
+III.  
+OPTIONS FOR DISCLOSING RISK INFORMATION IN CONSUMER­
+DIRECTED PRESCRIPTION DRUG PRINT ADVERTISEMENTS AND  
+PROMOTIONAL LABELING ....................................................................................... 5  
+A. 
+Language and Readability ............................................................................................................ 6  
+B. 
+Content............................................................................................................................................ 6  
+C. 
+Format........................................................................................................................................... 10  
+1. Prescription Drug Facts Box ......................................................................................................... 10  
+2. Question and Answer ..................................................................................................................... 10  
+REFERENCES............................................................................................................................ 12  
+
+
+=== PAGE 4 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+1 
+Brief Summary and Adequate Directions for Use:  Disclosing Risk 
+2 
+Information in Consumer-Directed Print Advertisements and 
+3 
+Promotional Labeling for Prescription Drugs 
+4 
+5 
+Guidance for Industry1 
+6 
+7 
+8 
+This revised draft guidance, when finalized, will represent the current thinking of the Food and Drug 
+9 
+Administration (FDA or Agency) on this topic.  It does not create any rights for any person and is not 
+10 
+binding on FDA or the public.  You can use an alternative approach if it satisfies the requirements of the 
+11 
+applicable statutes and regulations. To discuss an alternative approach, contact the FDA staff responsible 
+12 
+for this guidance as listed on the title page.  
+13 
+14 
+15 
+16 
+I. 
+INTRODUCTION 
+17 
+18 
+This revised draft guidance provides recommendations on the disclosure of risk information in 
+19 
+prescription drug product advertisements and promotional labeling in print media directed 
+20 
+toward consumers with respect to the brief summary requirement and the requirement that 
+21 
+adequate directions for use be included with promotional labeling.2  The recommendations 
+22 
+describe an alternative disclosure approach that FDA refers to as a consumer brief summary. 
+23 
+This revised draft guidance does not focus on the presentation of risk information in the main 
+24 
+body of promotional labeling or advertisements and does not apply to promotional materials 
+25 
+directed toward health care professionals.  
+26 
+27 
+This revised draft guidance responds to stakeholder requests for specific guidance on the 
+28 
+disclosure of risk information to consumers and incorporates recent social science research 
+29 
+results (Aikin, O’Donoghue, et al. 2011). This revised draft guidance revises the draft guidance 
+30 
+entitled Brief Summary:  Disclosing Risk Information in Consumer-Directed Print 
+31 
+Advertisements (issued January 2004).  Additionally, this revised draft guidance (Revision 2) has 
+32 
+been reissued to incorporate animal prescription drugs; there are no other revisions to the revised 
+33 
+draft guidance for industry issued February 9, 2015 (80 FR 6998).   
+1 This guidance has been prepared by the Office of Prescription Drug Promotion (OPDP) in the Center for Drug 
+Evaluation and Research (CDER) in consultation with the Center for Biologics Evaluation and Research (CBER) 
+and the Center for Veterinary Medicine (CVM) at the Food and Drug Administration.
+2 The recommendations of this revised draft guidance also apply to biological products that are approved for 
+marketing under section 351 of the Public Health Service Act (PHS Act).  Because each biological product also 
+meets the definition of “drug” under the Federal Food, Drug, and Cosmetic Act (FD&C Act), it is also subject to 
+regulation under provisions of the FD&C Act applicable to drugs, as well as the regulations implementing these 
+provisions, except that a biological product licensed under section 351 of the PHS Act is not required to have an 
+approved new drug application under section 505 of the FD&C Act (21 U.S.C. 355).  See PHS Act section 351(j) 
+(42 U.S.C. 262(j)).  References to “drugs” in this guidance therefore also include biological products for use in 
+humans that fall within the definition, as well as both human and animal prescription drugs. 
+1  
+
+
+=== PAGE 5 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+34 
+In general, FDA’s guidance documents do not establish legally enforceable responsibilities.  
+35 
+Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only 
+36 
+as recommendations, unless specific regulatory or statutory requirements are cited.  The use of 
+37 
+the word should in Agency guidances means that something is suggested or recommended, but 
+38 
+not required. 
+39 
+40 
+II. 
+BACKGROUND 
+41 
+42 
+A. 
+Legal Overview 
+43 
+44 
+Under the Federal Food, Drug, and Cosmetic Act (FD&C Act), the Agency has responsibility for 
+45 
+regulating the manufacture, sale, and distribution of drugs in the United States.  This authority 
+46 
+includes oversight of the labeling of drugs (21 U.S.C. 352(a)) and the advertising of prescription 
+47 
+drugs (21 U.S.C. 352(n)). 
+48 
+49 
+A print advertisement3 for a prescription drug must contain a true statement of the product’s 
+50 
+established name; quantitative composition; information in brief summary relating to side 
+51 
+effects, contraindications, and effectiveness; and, for published direct-to-consumer 
+52 
+advertisements, a statement encouraging consumers to report negative side effects to FDA (21 
+53 
+U.S.C. 352(n)).  FDA implementing regulations provide further clarification on the information 
+54 
+to include in brief summary:  “a true statement of information in brief summary relating to side 
+55 
+effects, contraindications ([to] . . . include side effects, warnings, precautions, and 
+56 
+contraindications and include any such information under such headings as cautions, special 
+57 
+considerations, important notes, etc.) and effectiveness” (21 CFR 202.1(e)(1)).  This information 
+58 
+“shall disclose each specific side effect and contraindication . . . contained in required, approved, 
+59 
+or permitted labeling for the advertised drug dosage form(s) . . .” (21 CFR 202.1(e)(3)(iii)).  For 
+60 
+purposes of this guidance, the requirement under these provisions that an advertisement for a 
+61 
+prescription drug disclose each side effect, warning, precaution, and contraindication from the 
+62 
+labeling will be referred to as the brief summary requirement. 
+63 
+64 
+FDA also has responsibility for regulating labeling for prescription drugs, including promotional 
+65 
+labeling. Section 201(m) of the FD&C Act defines labeling as “all labels and other written, 
+66 
+printed, or graphic matter (1) upon any article or any of its containers or wrappers, or (2) 
+67 
+accompanying such article” (21 U.S.C. 321(m)).4  The U.S. Supreme Court has explained that 
+68 
+the language “accompanying such article” in the “labeling” definition is interpreted broadly, to 
+69 
+include materials that supplement or explain an article.  No physical attachment between the 
+70 
+materials and the article is necessary; rather, it is the textual relationship between the items that 
+71 
+is significant (Kordel v. United States, 335 U.S. 345, 350 (1948)). FDA generally recognizes 
+2  
+3 The FD&C Act does not define what constitutes an “advertisement,” but FDA regulations provide several 
+examples, including “advertisements in published journals, magazines, other periodicals, and newspapers, and 
+advertisements broadcast through media such as radio, television, and telephone communication systems” (21 CFR 
+202.1(l)(1)).  Broadcast advertisements, such as radio and television advertisements, are not the subject of this 
+guidance.
+4 See also 21 CFR 1.3(a). 
+
+
+=== PAGE 6 ===
+
+ 
+ 
+ 
+ 
+  
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+72 
+two types of labeling for drugs:  (1) FDA-required labeling5 and (2) promotional labeling.  
+73 
+Promotional labeling is generally any labeling, other than the FDA-required labeling, that is 
+74 
+devised for promotion of the product.  Examples of materials that may be considered 
+75 
+promotional labeling pieces for prescription drugs are described in 21 CFR 202.1(l)(2).   
+76 
+77 
+While drug labeling generally must bear “adequate directions for use” (21 U.S.C. 352(f)(1), 
+78 
+prescription drugs are exempt from this requirement if certain conditions are met.  These 
+79 
+conditions include, among others, that “any labeling” (as defined in section 201(m) of the FD&C 
+80 
+Act) that is “distributed by or on behalf of the manufacturer, packer, or distributor of the drug, 
+81 
+that furnishes or purports to furnish information for use or which prescribes, recommends, or 
+82 
+suggests a dosage for the use of the drug” contains “adequate information for such use” (21 CFR 
+83 
+201.100(d) and 21 CFR 201.105(d)). “Adequate information for such use” includes, among 
+84 
+other things, “relevant warnings, hazards, contraindications, side effects, and precautions, under 
+85 
+which practitioners licensed by law to administer the drug can use the drug safely and for the 
+86 
+87 
+purposes for which it is intended, including all conditions for which it is advertised or 
+represented . . .” (21 CFR 201.100(d)(1); see also 21 CFR 201.105(d)(1)).6  The regulations also 
+88 
+require that if the article is subject to section 505, 512, or 572 of the FD&C Act, the parts of the 
+89 
+labeling providing such information for use are the same “in language and emphasis” as labeling 
+90 
+approved or permitted under the provisions of sections 505, 512, or 572.  (Id.) 
+91 
+92 
+In addition, in order to be exempt from the “adequate directions for use” requirement in 21 
+93 
+U.S.C. 352(f), any labeling for human prescription drugs described in 21 CFR 201.100(d) must 
+94 
+contain the “information required, and in the same format specified by” 21 CFR 201.56, 201.57, 
+95 
+and 201.80 (21 CFR 201.100(d)(3)). Generally, the requirements in 21 CFR 201.100(d) have 
+96 
+been fulfilled by including the full FDA-approved package insert (PI) with promotional labeling 
+97 
+materials.  For purposes of this guidance, the requirement under these provisions that a 
+98 
+prescription drug promotional labeling piece include the information set forth in 21 CFR 
+99 
+201.100(d) for prescription human drugs and 21 CFR 201.105(d) for prescription animal drugs, 
+100 
+which is generally fulfilled by inclusion of the full PI, will be referred to as the adequate 
+101 
+directions for use requirement. 
+102 
+103 
+To fulfill the brief summary requirement, consumer-directed print advertisements for 
+104 
+prescription drugs frequently include the complete risk-related sections of the PI (also known as 
+105 
+the “traditional approach” or “traditional format”).  To fulfill the adequate directions for use 
+106 
+requirement for promotional labeling pieces, the full PI has generally been used.  As discussed 
+107 
+more fully in section II.B, FDA believes these approaches are not optimal for consumer-directed 
+108 
+prescription drug print advertisements and promotional labeling pieces because many consumers 
+5 Much FDA-required labeling is subject to FDA review and approval.  For example, after drafting by the 
+manufacturer, labeling is reviewed and approved by FDA as part of the new drug application (NDA), new animal 
+drug application (NADA),biologics license application (BLA), or premarket approval application (PMA) review 
+(see 21 CFR 314.50(c)(2), 514.1(b)(3), and 601.2(a)). For a prescription drug to be exempted from the FD&C Act’s 
+requirement of adequate directions for use (21 U.S.C. 352(f)(1)), its FDA-required labeling must contain, among 
+other information, information addressing product hazards and other risk information, as specified in FDA 
+regulations (21 CFR 201.100(d)(1), (3), and 201.105(c)(1)). 
+6 “Adequate information for use” under 21 CFR 201.100(d)(1) and 201.105(d)(1) also includes indications, effects, 
+dosages, routes, methods, and frequency and duration of administration. 
+3  
+
+
+=== PAGE 7 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+109 
+lack the technical background to understand some of the information as described in the PI.  
+110 
+Additionally, information that may be of limited use to consumers (e.g., clinical pharmacology) 
+111 
+is included. For these reasons, if manufacturers, packers, and distributors, or anyone acting on 
+112 
+their behalf (firms) include the appropriate information discussed in this guidance, FDA does not 
+113 
+intend to object for failure to include each side effect from the PI in the brief summary in 
+114 
+consumer-directed print advertisements.  Furthermore, if firms include the appropriate 
+115 
+information discussed in this guidance, FDA does not intend to object for failure to include the 
+116 
+entire PI to fulfill the requirements of 201.100(d) or 201.105(d) for consumer-directed 
+117 
+promotional labeling pieces.  
+118 
+119 
+In other words, this revised draft guidance recommends alternative approaches firms may use to 
+120 
+develop content that can be used to fulfill both the brief summary requirement for consumer­
+121 
+directed prescription drug print advertisements and the requirements in 201.100(d) or 201.105(d) 
+122 
+for consumer-directed prescription drug print promotional labeling pieces.  Suggested research­
+123 
+tested formats for this information are also provided in this revised draft guidance.  The 
+124 
+examples included throughout are intended to provide guidance and illustrate possible 
+125 
+approaches; firms may use alternative approaches if these approaches satisfy the requirements of 
+126 
+the statute and regulations. 
+127 
+128 
+B. 
+Policy Overview 
+129 
+130 
+To provide better and more actionable information for consumers, FDA believes that the brief 
+131 
+summary should focus on the most important risk information rather than an exhaustive list of 
+132 
+risks and that the information should be presented in a way most likely to be understood by 
+133 
+consumers.  Thus, FDA strongly recommends against the use of the traditional approach to fulfill 
+134 
+the brief summary requirement in consumer-directed advertisements, an approach in which risk­
+135 
+related sections of the PI are presented verbatim, often in small font.  Because the target audience 
+136 
+of the PI is health care providers, it is written in highly technical medical terminology, which is 
+137 
+potentially of limited value to consumers who may not have the medical or scientific background 
+138 
+to understand this information.  In an FDA survey, few respondents reported reading half or 
+139 
+more of the brief summary presented in the traditional format.  Of those who read at least some 
+140 
+of the brief summary, 55 percent described it as hard to read.  Over 40 percent of respondents in 
+141 
+the survey reported they do not usually read any of the brief summary in direct-to-consumer 
+142 
+prescription drug print advertisements (Aikin, Swasy, et al. 2004).   
+143 
+144 
+Furthermore, the risk information in the PI sometimes includes lengthy lists of all possible 
+145 
+adverse events. In general, FDA believes that exhaustive lists that include even minor risks 
+146 
+detract from, and make it difficult for, consumers to comprehend and retain information about 
+147 
+the more important risks.  While remaining an important source of information for consumers, 
+148 
+even the volume of material in excerpted sections of the PI, along with the format (i.e., a smaller 
+149 
+font with limited white space) and the technical language, may serve to detract from consumers’ 
+150 
+comprehension of the information or from the likelihood of consumers reading the material in its 
+151 
+entirety. Research has demonstrated that people process only a limited amount of information at 
+152 
+one time both in general communications (Lavie 2001; Miller 1994; Shapiro 2001) and in direct­
+153 
+to-consumer prescription drug advertising specifically (Stotka, Rotelli, et al. 2007).  Past 
+154 
+research has shown that alternative formats for the brief summary outperform the traditional, 
+4  
+
+
+=== PAGE 8 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+155 
+non-consumer-friendly brief summary on measures of consumer risk comprehension (Riggs, 
+156 
+Holdsworth, et al. 2004; Schwartz, Woloshin, et al. 2009; Stotka, Rotelli, et al. 2007; Thumma 
+157 
+1997). 
+158 
+159 
+Occasionally, sections taken from the PI to fulfill the brief summary requirement are rewritten in 
+160 
+a manner that is meant to be more understandable to consumers.  However, this approach does 
+161 
+not necessarily solve the problems with the traditional approach.  In research conducted by FDA, 
+162 
+participants who viewed the brief summary information in a format similar to the over-the­
+163 
+counter (OTC) “Drug Facts” box had better risk recall than those who viewed a traditional, but 
+164 
+consumer-friendly, version of the brief summary.  Two additional alternative formats (a Question 
+165 
+and Answer (Q&A) format and a Highlights version from the content and format rule of 20067) 
+166 
+167 
+did not differ from the consumer-friendly traditional format on risk recall or confidence (Aikin, 
+O’Donoghue, et al. 2011).8 
+168 
+169 
+For similar reasons that are further exacerbated by the length and complexity of the full approved 
+170 
+professional labeling, FDA also strongly recommends against providing the full PI to satisfy the 
+171 
+adequate directions for use requirement for consumer-directed print promotional labeling pieces 
+172 
+for prescription drugs. While the Agency recognizes that 21 CFR 201.100(d) and 21 CFR 
+173 
+201.105(d) identify the PI as a source for furnishing adequate directions for use, FDA believes 
+174 
+that following the content and format recommendations in this guidance will better communicate 
+175 
+information and help consumers make informed decisions about the medication being promoted.  
+176 
+By adopting the content and format recommendations in this guidance, firms can also provide 
+177 
+consumers with the same information in both advertising and promotional labeling pieces.   
+178 
+179 
+III. 
+OPTIONS FOR DISCLOSING RISK INFORMATION IN CONSUMER­
+180 
+DIRECTED PRESCRIPTION DRUG PRINT ADVERTISEMENTS AND 
+181 
+PROMOTIONAL LABELING 
+182 
+183 
+FDA does not intend to object if a firm does not include “each specific side effect and 
+184 
+contraindication” from the PI in the brief summary in consumer-directed print advertisements 
+185 
+(21 CFR 202.1(e)(3)(iii)), or does not supply the entire PI to fulfill the requirements in 21 CFR 
+186 
+201.100(d) or 21 CFR 201.105(d) for consumer-directed print promotional labeling pieces, so 
+187 
+long as the firm follows the recommendations and examples in this guidance.  These alternate 
+188 
+approaches will not become a part of FDA-approved labeling.   
+189 
+190 
+For purposes of this guidance, in the text and examples below, the consumer-directed 
+191 
+document recommended by FDA as an alternative to the full PI or the risk portions of the 
+192 
+PI in consumer-directed prescription drug print promotional labeling pieces and the brief 
+7 See 21 CFR 201.56, 201.57, 201.58, and 201.80.  
+8 Participants who viewed the brief summary information in a format similar to the OTC Drug Facts box had better 
+risk recall, greater confidence in their ability to perform tasks related to the brief summary, more positive attitudes 
+toward the ad, and greater preference for the format than did those who viewed a traditional, but consumer-friendly, 
+version of the brief summary.  Participants had more positive attitudes toward the Q&A format and the Highlights 
+format than toward the traditional format, and participants who viewed the Q&A format had more positive attitudes 
+toward the ad than those who viewed the traditional format. 
+5  
+
+
+=== PAGE 9 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+193 
+summary requirement in consumer-directed prescription drug advertisements will be 
+194 
+referred to as the “consumer brief summary.” 
+195 
+196 
+A. 
+Language and Readability 
+197 
+198 
+FDA strongly encourages the use of consumer-friendly language in all consumer-directed 
+199 
+materials.  The consumer brief summary should be written in language designed for 
+200 
+understanding by a broad target audience with various levels of literacy skills.  Technical 
+201 
+language, scientific terms, and medical jargon should be avoided.  A conversational tone or 
+202 
+language designed to engage the reader may be useful, such as in the following examples. 
+203 
+204 
+ “do not use if you have . . .” or “who should not use . . .” rather than 
+205 
+“contraindications” 
+206 
+ “what is [drug name]” rather than “indication”  
+207 
+ “drowsiness” not “somnolence”  
+208 
+ “fainting” not “syncope” 
+209 
+210 
+The information in the consumer brief summary must be presented in a readable format (21 
+211 
+U.S.C. 352(c); 21 CFR 202.1(e)(7)(viii)).  Different techniques can be used to assist consumers 
+212 
+with comprehension of information.  For example, signals,9 such as headlines and subheadings, 
+213 
+help communicate important information (Loman and Mayer 1983; Meyer 2003; Spyridakis and 
+214 
+Standal 1987). Consumers are influenced by the layout of print information in their ability to 
+215 
+pay attention to and process specific features of a document (Adams and Edworthy 1995; 
+216 
+Brundage, Feldman-Stewart, et al. 2005; Frantz 1993; Morrow, Leirer, et al. 1995; Niemela and 
+217 
+Saariluoma 2003; Wogalter and Vigilante 2003).  Font size and type style can affect the 
+218 
+readability of information (Adams and Edworthy 1995; Arditi and Cho 2005; Baker 2006; 
+219 
+Sheedy, Subbaram, et al. 2005; Tantillo and Mathisen 1995; Wogalter and Vigilante 2003). 
+220 
+221 
+Therefore, the consumer brief summary should be presented visually in a manner designed for 
+222 
+ease of use by consumers.  Carrying over elements of the main body of the ad (such as logos and 
+223 
+branded colors) may help the reader understand the connection between the consumer brief 
+224 
+summary and the promotional piece.  Font size and style should be selected or designed for 
+225 
+readability. Using double spacing between paragraphs and indentations, as opposed to plain 
+226 
+block paragraphs, helps maximize background space (also called white space) and improves 
+227 
+readability. Arranging information in text boxes (i.e., paragraphs of information on a similar 
+228 
+topic surrounded by borders) with headings (Hyona and Lorch 2004) and other attention-drawing 
+229 
+symbols (e.g., bullets, capitalization of select words or phrases) may also be useful to consumers. 
+230 
+231 
+B. 
+Content 
+232 
+233 
+FDA’s current thinking is that the consumer brief summary should provide clinically significant 
+234 
+information on the most serious and the most common risks associated with the product and omit 
+9 “Signaling” has been defined as the use of “writing devices designed to emphasize aspects of a text’s structure or 
+content without altering the information in the text” (Lorch, Lorch, et al. 1993). 
+6  
+
+
+=== PAGE 10 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+235 
+less pertinent information.  FDA recommends that firms look to available standards to determine 
+236 
+which risks should be included. For example, FDA-approved patient labeling and Medication 
+237 
+Guides, or, for animal drugs, a client information sheet, if available for the drug at issue, may be 
+238 
+an appropriate starting point to determine which risks should be included in the consumer brief 
+239 
+summary and, in fact, may contain the same risk information that should appear in the consumer 
+240 
+brief summary.  However, some information in patient labeling—such as information found in 
+241 
+the Directions for Use section (for human prescription drugs) or the client information sheet (for 
+242 
+animal drugs)—is not necessary to include in the consumer brief summary.  Additionally, 
+243 
+information not contained in patient labeling, such as information about certain relevant drug 
+244 
+risks, might need to be added to the consumer brief summary. 
+245 
+246 
+Under the final rule for Requirements on the Content and Format of Labeling for Human 
+247 
+Prescription Drug and Biological Products (the “Physician Labeling Rule” or PLR),10 the 
+248 
+labeling of new and recently approved products11 must include Highlights of Prescribing 
+249 
+Information (Highlights).  FDA believes the criteria used for selecting risk information for the 
+250 
+Highlights section are an appropriate reference for firms to use when determining which risk 
+251 
+information topics to address in the consumer brief summary.  See 21 CFR 201.57(a). In 
+252 
+addition, information in the consumer brief summary should be placed in an order similar to 
+253 
+information in the Highlights section (Boxed Warning followed by Contraindications, Warnings 
+254 
+and Precautions, etc.).  However, since information in the Highlights section is intended for use 
+255 
+in conjunction with information in the full PI and the full PI is not being provided, generally the 
+256 
+information in the consumer brief summary should be more detailed and provide more material 
+257 
+information than what is contained in the Highlights.  For drugs for which the PLR is not 
+258 
+applicable (i.e., new animal drugs and some human drugs), similar information can be taken 
+259 
+from the analogous sections of each drug’s PI. 
+260 
+261 
+For each of the formats discussed below, or for alternative formats, information addressing the 
+262 
+following should be included: 
+263 
+264 
+ Boxed Warning12 
+265 
+ All Contraindications 
+266 
+ Certain information regarding Warnings and Precautions:  
+267 
+o the most clinically significant information from the Warnings and Precautions 
+268 
+section(s) of the PI; 
+269 
+o information that would affect a decision to prescribe or take a drug;  
+270 
+o monitoring or laboratory tests that may be needed;  
+271 
+o special precautions not set forth in other parts of the PI; and 
+272 
+o measures that can be taken to prevent or mitigate harm.   
+273 
+10 Requirements on the Content and Format of Labeling for Human Prescription Drug and Biological Products (71  
+FR 3922, Jan 24, 2006).  
+11 The PLR applies to human prescription drugs that were approved after, on, or 5 years prior to the effective date of  
+the rule, and to older drugs for which certain supplements are submitted (21 CFR 201.56(b)).  
+12 Certain recommendations will not apply to all drugs.  For example, not all drugs have a Boxed Warning.  If a  
+recommendation is not applicable, the information should be omitted.  
+7  
+
+
+=== PAGE 11 ===
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+274 
+275 
+FDA also recommends that the most frequently13 occurring Adverse Reactions be included in the 
+consumer brief summary.14  If a product has more than one indication, the most common 
+276 
+Adverse Reactions for each indication being promoted should be included, if included in the PI, 
+277 
+rather than pooled results for all indications (which could include indications that are not being 
+278 
+promoted).  Adverse Reactions should be listed in the same order as in the PI. 
+279 
+280 
+Other important Adverse Reactions, such as those that are serious15 or those that lead to 
+281 
+discontinuation of the drug or dosage adjustment, should be included unless they are repeated 
+282 
+elsewhere in the PI (e.g., risks included in Warnings and Precautions).   
+283 
+284 
+Material information regarding any of these risks may also include the severity of the risks, such 
+285 
+as whether they are debilitating, life-threatening, irreversible, or whether stopping the medication 
+286 
+will alleviate or mitigate the risks.  If early warning signs of risks are known, consumers should 
+287 
+be given information about these signs and the importance of informing their health care 
+288 
+provider about the signs. Firms may also include information regarding the need for monitoring 
+289 
+or testing during treatment.  Other material information may be relevant depending on the drug 
+290 
+and its risk profile. 
+291 
+292 
+293 
+FDA also believes that the consumer brief summary should include the indication for the use 
+being promoted, any clinically significant drug interactions,16 and information regarding topics 
+294 
+or issues consumers should discuss with their health care providers (e.g., other drugs they are 
+295 
+taking or pre-existing conditions).  Other types of information may be included if relevant to the 
+296 
+drug or specific indication referred to in the promotion (e.g., that a drug is not indicated for use 
+297 
+for more than 4 weeks for the indication being advertised even if a different indication allows for 
+298 
+a longer use). Information relating to special populations (e.g., children or young animals, the 
+299 
+elderly or geriatric animals, pregnant or nursing women or animals, people or animals with liver 
+300 
+or renal impairment, food-producing animals) should be included if they are of particular 
+13 The list of Adverse Reactions identified as most frequently occurring or most common is usually generated from a 
+table of Adverse Reactions from clinical trials in the approved labeling. Rates of most common Adverse Reactions 
+vary, but should be appropriate to the nature of a drug’s Adverse Reactions profile and the size and composition of 
+the safety database.  See the guidance for industry entitled Labeling for Human Prescription Drug and Biological 
+Products—Implementing the PLR Content and Format Requirements (Feb 2013), available on the Internet at 
+http://www.fda.gov/Drugs/default.htm under Guidances (Drugs). 
+14 This recommendation comports with the information required in the Highlights section (21 CFR 201.57(a)(11)), 
+and is also applicable to drugs to which the PLR does not apply. 
+15 Serious Adverse Reaction refers to any reaction occurring at any dose that results in any of the following 
+outcomes:  death, a life-threatening adverse experience, inpatient hospitalization or prolongation of existing 
+hospitalization, a persistent or significant disability or incapacity, or a congenital anomaly or birth defect.  Important 
+medical events that may not result in death, be life-threatening, or require hospitalization may be considered serious 
+Adverse Reactions when, based upon appropriate medical judgment, they may jeopardize the patient or subject, and 
+may require medical or surgical intervention to prevent one of the outcomes listed in this definition.  See the 
+guidance for industry entitled Adverse Reactions Section of Labeling for Human Prescription Drug and Biological 
+Products—Content and Format (Jan 2006).  For animal drugs, the term “serious adverse drug experience” is defined 
+as “an adverse event that is fatal, or life-threatening, or requires professional intervention, or causes an abortion, or 
+stillbirth, or infertility, or congenital anomaly, or prolonged or permanent disability, or disfigurement” (21 CFR 
+514.3).
+16 For example, for a drug with PLR labeling, typically the most clinically significant drug interactions appear in the 
+Contraindications or Warnings and Precautions sections. 
+8  
+
+
+=== PAGE 12 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+301 
+concern based on the drug’s known or potential safety profile (e.g., not recommended for use in 
+302 
+children based on adverse events; not for use in nursing women due to the potential for harm to 
+303 
+the infant; drug withdrawal periods in different animal populations). 
+304 
+305 
+In general, certain information found in the PI or in FDA-approved patient labeling can be 
+306 
+excluded from the consumer brief summary.  This information might include dosage and 
+307 
+administration, how the drug is supplied, clinical pharmacology, specific directions regarding use 
+308 
+of the drug (such as how to perform an injection or how to use a patch), or how long the drug 
+309 
+takes to work. However, excluding certain information from the consumer brief summary does 
+310 
+not mean that the same information can be omitted from other parts of the promotional piece 
+311 
+(e.g., information that a drug is administered via an injection versus orally might be material 
+312 
+information that is required in the main body of the promotional piece, while detailed 
+313 
+instructions for use may be omitted from the consumer brief summary).   
+314 
+315 
+FDA also recommends that, because the risk information in the consumer brief summary is not 
+316 
+comprehensive, the consumer brief summary should include a statement (1) reminding 
+317 
+consumers that the information presented is not comprehensive; (2) suggesting that consumers 
+318 
+speak to their health care provider, veterinarian, or pharmacist; and (3) containing a toll-free 
+319 
+telephone number or website address (uniform resource locator or URL) where consumers can 
+320 
+obtain the FDA-approved product labeling.17  For example: 
+321 
+322 
+ The risk information provided here is not comprehensive. To learn more, talk 
+323 
+about [drug name] with your health care provider or pharmacist [veterinarian].  
+324 
+The FDA-approved product labeling can be found at www.drugnamePI.com or 1­
+325 
+800-555-DRUG. 
+326 
+327 
+ This information is not comprehensive. 
+328 
+ How to get more information:   
+329 
+• 
+Talk to your health care provider or pharmacist [veterinarian] 
+330 
+• 
+Visit www.drugnamePI.com to obtain the FDA-approved product labeling 
+331 
+• 
+Call 1-800-555-DRUG 
+332 
+333 
+The consumer brief summary may also contain a title such as “Important Facts” or “Summary of 
+334 
+Information about . . .” along with the drug’s name.18 
+335 
+336 
+When the PI is revised, the consumer brief summary for the drug must be reviewed and revised 
+337 
+promptly if pertinent information has been changed (21 CFR 314.70(a)(4), 514.8(c)(2), and 
+338 
+601.12(a)(4)). 
+339 
+17 This recommendation is distinct and separate from the “adequate provision” requirement for broadcast 
+advertisements found at 21 CFR 202.1(e)(1).  This guidance only covers print advertisements and print promotional 
+labeling and does not apply to broadcast advertisements. 
+18 See the revised draft guidance for industry entitled Product Name Placement, Size, and Prominence in Advertising 
+and Promotional Labeling (Nov 2013).  When final, this guidance will represent the FDA’s current thinking on this 
+topic. 
+9  
+
+
+=== PAGE 13 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+340 
+C. 
+Format 
+341 
+342 
+Various formats may be used when conveying information in the consumer brief summary.  
+343 
+Although other formats may be acceptable, the following two sections describe recommended 
+344 
+formats that have been tested in research.  
+345 
+346 
+1. 
+Prescription Drug Facts Box 
+347 
+348 
+Ever since the labeling rule for OTC human drugs was finalized more than a decade ago,19 OTC 
+349 
+products have contained a Drug Facts box on each product.  For the consumer brief summary, a 
+350 
+layout similar to the OTC Drug Facts box may be familiar to consumers and may offer 
+351 
+advantages over other formats.  In a study testing various brief summary formats, the Drug Facts 
+352 
+box format resulted in better recall of the risk information when compared to the traditional 
+353 
+format (which was written in consumer-friendly language).  Consumers in the same study who 
+354 
+saw the Drug Facts box also reported that they felt more confident in their ability to use the 
+355 
+information when compared to consumers who saw the traditional format.  In addition, 
+356 
+consumers had more positive attitudes toward the Drug Facts box format than toward two other 
+357 
+formats:  the traditional format and a format that is structured like the Highlights section of the 
+358 
+PI (Aikin, O’Donoghue, et al. 2011). 
+359 
+360 
+Under a prescription Drug Facts box format, information could appear within a box similar to the 
+361 
+OTC Drug Facts box. Standardized headings may assist consumers in locating and 
+362 
+comprehending important drug information.  For example:  
+363 
+364 
+ Uses 
+365 
+ Do not use if you 
+366 
+ Warnings 
+367 
+ Ask a health care provider before use if 
+368 
+ When using this product you may have 
+369 
+370 
+The recommended content for this format is set forth in section III.B above, and the 
+371 
+recommendation to use consumer-friendly language also applies. 
+372 
+373 
+2. 
+Question and Answer 
+374 
+375 
+A Question and Answer (Q&A) format simulates a dialogue using personal pronouns, thus 
+376 
+increasing consumer interest in, and comprehension of, the information.  The study testing brief 
+377 
+summary formats found that consumers had more positive attitudes toward a Q&A format than 
+378 
+the traditional brief summary (which was written in consumer-friendly language).  However, this 
+379 
+study did not find a difference in risk recall or confidence between the Q&A format and the 
+380 
+traditional format.  Because consumers preferred the Q&A format and the format did not 
+19 See Food and Drug Administration, “Final Rule; Over-The-Counter Human Drugs, Labeling Requirements” (64 
+FR 13254, Mar 17, 1999). 
+10  
+
+
+=== PAGE 14 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+381 
+decrease risk recall (Aikin, O’Donoghue, et al. 2011), this format is recommended over the  
+382 
+traditional brief summary.  
+383  
+384 
+Under the Q&A format, information in the consumer brief summary could appear in columns or  
+385 
+a similar layout.  Headings would be framed in the form of questions, for example:  
+386  
+387 
+ What is [drug] used for?  
+388 
+ When should I not take [drug]?  
+389 
+ What Warnings should I know about [drug]?  
+390 
+ What should I tell my health care provider?  
+391 
+ What are the side effects of [drug]?  
+392 
+ What other medications might interact with [drug]?   
+393  
+394 
+The recommended content for this format is set forth in section III.B above, and the  
+395 
+recommendation to use consumer-friendly language also applies.  
+396  
+11  
+
+
+=== PAGE 15 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+397 
+REFERENCES 
+398 
+399 
+Adams, AS and J Edworthy, 1995, Quantifying and Predicting the Effects of Basic Text Display 
+400 
+Variables on the Perceived Urgency of Warning Labels:  Tradeoffs Involving Font Size, Border 
+401 
+Weight, and Color, Ergonomics, 38:2221-2237. 
+402 
+403 
+Aikin, KJ, AC O’Donoghue, J Swasy, and HW Sullivan, 2011, A Randomized Trial of Risk 
+404 
+Information Formats in Direct-to-Consumer Prescription Drug Advertisements, Medical 
+405 
+Decision Making, 31:23-33. 
+406 
+407 
+Aikin, K, J Swasy, and A Braman, 2004, Patient and Physician Attitudes and Behaviors 
+408 
+Associated with DTC Promotion of Prescription Drugs—Summary of FDA Survey Research 
+409 
+Results, Final Report, FDA (accessible at 
+410 
+http://www.fda.gov/downloads/Drugs/ScienceResearch/ResearchAreas/DrugMarketingAdvertisi 
+411 
+ngandCommunicationsResearch/UCM152860.pdf). 
+412 
+413 
+Arditi, A, and J Cho, 2005, Serifs and Font Legibility, Vision Research, 45:2926-2933.  
+414 
+415 
+Baker, S, 2006, Provision of Effective Information, British Dental Journal, 201:100.  
+416 
+417 
+Brundage, M, D Feldman-Stewart, A Leis, A Bezjak, L Degner, K Velji, et al., 2005, 
+418 
+Communicating Quality of Life Information to Cancer Patients:  A Study of Six Presentation 
+419 
+Formats, Journal of Clinical Oncology, 23:6949-6956.  
+420 
+421 
+FDA guidance for industry, 2013, Product Name Placement, Size, and Prominence in 
+422 
+Advertising and Promotional Labeling (accessible at 
+423 
+http://www.fda.gov/downloads/Drugs/.../Guidances/ucm070076.pdf). 
+424 
+425 
+Frantz, JP, 1993, Effect of Location and Presentation Format on Attention to and Compliance 
+426 
+with Product Warnings and Instructions, Journal of Safety Research, 24:131-154. 
+427 
+428 
+Hyona, J, and RF Lorch, 2004, Effects of Topic Headings on Text Processing:  Evidence from 
+429 
+Adult Readers’ Eye Fixation Patters, Learning and Instruction, 14:131-152. 
+430 
+431 
+Lavie, N, 2001, Capacity Limits in Selective Attention:  Behavioral Evidence and Implications 
+432 
+for Neural Activity, J Braun, C Koch, and J Davis, eds. Visual Attention and Cortical Circuits, 
+433 
+Cambridge, MA: The MIT Press, 49-68.  
+434 
+435 
+Loman, NL, and RE Mayer, 1983, Signaling Techniques that Increase the Understandability of 
+436 
+Expository Prose, Journal of Educational Psychology, 75:402-412. 
+437 
+438 
+Lorch, RF, EP Lorch, and WE Inman, 1993, Effects of Signaling Structure on Text Recall, 
+439 
+Journal of Educational Psychology, 85:281-290. 
+440 
+441 
+Meyer, BJF, 2003, Text Coherence and Readability, Topics in Language Disorders, 23:204-224. 
+442 
+12  
+
+
+=== PAGE 16 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+443 
+Miller, GA, 1994, The Magical Number Seven, Plus or Minus Two: Some Limits on Our 
+444 
+Capacity for Processing Information, H Gutfreund and G Toulouse, eds. Reprinted in Biology 
+445 
+and Computation:  A Physicist’s Choice, River Edge, NJ: World Scientific Publishing Co., 207­
+446 
+233. 
+447 
+448 
+Morrow, D, V Leirer, and P Altieri, 1995, List Formats Improve Medication Instructions for 
+449 
+Older Adults, Educational Gerontology, 21:151-166. 
+450 
+451 
+Niemela, M, and P Saariluoma, 2003, Layout Attributes and Recall, Behaviour and Information 
+452 
+Technology, 22:353-363. 
+453 
+454 
+Riggs, DL, SM Holdsworth, and DR McAvoy, 2004, Direct-to-Consumer Advertising: 
+455 
+Developing Evidence-Based Policy to Improve Retention and Comprehension [Supplementary 
+456 
+Web Exclusive], Health Affairs, 23:249-252. 
+457 
+458 
+Schwartz, LM, S Woloshin, and HG Welch, 2009, Communicating Drug Benefits and Harms 
+459 
+with a Drug Facts Box: Two Randomized Trials, Annals of Internal Medicine, 150:516-527. 
+460 
+461 
+Shapiro, K, ed., 2001, The Limits of Attention:  Temporal Constraints in Human Information 
+462 
+Processing, London: Oxford University Press. 
+463 
+464 
+Sheedy, JE, MV Subbaram, AB Zimmerman, and JR Hayes, 2005, Text Legibility and the Letter 
+465 
+Superiority Effect, Human Factors, 47:797-815. 
+466 
+467 
+Spyridakis, JH, and TC Standal, 1987, Signals in Expository Prose:  Effects on Reading 
+468 
+Comprehension, Reading Research Quarterly, 22:285-298. 
+469 
+470 
+Stotka, JL, MD Rotelli, SA Dowsett, MW Elsner, SM Holdsworth, PJ Pitts, and DR McAvoy, 
+471 
+2007, A New Model for Communicating Risk Information in Direct-to-Consumer Print 
+472 
+Advertisements, Drug Information Journal, 41:111-127. 
+473 
+474 
+Tantillo, J, J Di Lorenzo-Aiss, and RE Mathisen, 1995, Quantifying Perceived Differences in 
+475 
+Type Styles: An Exploratory Study, Psychology and Marketing, 12:447-457.  
+476 
+477 
+Thumma, C, May 1997, Consumer Engagement with Health Information, Paper Presented at the 
+478 
+Meeting of the Marketing and Public Policy Conference, Washington, DC. 
+479 
+480 
+Wogalter, MS, and WJ Vigilante, 2003, Effects of Label Format on Knowledge Acquisition and 
+481 
+Perceived Readability by Younger and Older Adults, Ergonomics, 46:327-344. 
+13  
+
+

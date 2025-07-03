@@ -1,0 +1,83 @@
+=== PAGE 6 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+KRAZATI® (adagrasib) 200 mg TABLETS
+
+KRAS G12C in NSCLC             KRAZATI MOA             Clinical Data ✓             Dosage             Resources & Support ✓             STAY CONNECTED
+
+IMPORTANT SAFETY INFORMATION
+PRESCRIBING INFORMATION
+REFERENCES
+VISIT PATIENT SITE
+
+NSCLC
+             SWITCH INDICATIONS           OTHER         NSCLC
+             PRODUCT INDICATIONS
+             ORR                  DCR                  Intracranial ORR                  OS                  PFS                  DOR
+
+REGISTRATIONAL PHASE 2 COHORT
+DCR IN PATIENTS TAKING KRAZATI: 80% (n=112; 95% CI: 70.8-86.5)*
+*   Depth of response was assessed by BICR. 80% of patients experienced tumor shrinkage of any magnitude.
+*   Median follow-up time was 12.9 months*
+
+Click a button to see
+the best tumor response
+
+Stable Disease
+Partial Response
+Complete Response 1%
+Progressive Disease
+
+**Description of Waterfall Plot:**
+The center of the page features a waterfall plot illustrating the "PERCENT CHANGE FROM BASELINE" for individual patients (represented by vertical bars) in response to KRAZATI treatment. The Y-axis ranges from -100 to 40, indicating the percentage change in tumor size. Bars extending downwards from 0 represent tumor shrinkage, while bars extending upwards represent tumor growth.
+A prominent green box highlights a section of the plot, stating "75% OF RESPONDERS ACHIEVED A >50% RESPONSE³³". The majority of the bars are blue and extend significantly below the 0 line, indicating tumor shrinkage in most patients. A smaller number of bars are above the 0 line, indicating tumor growth.
+Below the plot, the text "PATIENTS WITH MEASURABLE DISEASE AT BASELINE" clarifies the patient population.
+To the right of the plot, there are interactive buttons (represented as circles on this static image) labeled "Stable Disease," "Partial Response," "Complete Response," and "Progressive Disease," indicating different categories of patient response. The "Complete Response" button shows "1%".
+
+Second line provides the first opportunity to target KRAS G12C with KRAZATI.
+
+*Tumor response was assessed by BICR. Phase 2 data cutoff: October 15, 2021. Additional follow-up planned.
+BICR=blinded independent central review; CI=confidence interval; DCR=disease control rate.
+
+SAFETY →
+
+IMPORTANT SAFETY INFORMATION
+WARNINGS AND PRECAUTIONS
+Gastrointestinal Adverse Reactions
+*   KRAZATI can cause severe gastrointestinal adverse reactions.
+*   Monitor and manage patients using supportive care, including antidiarrheals, antiemetics, or fluid replacement, as indicated. Withhold, reduce the dose, or permanently discontinue KRAZATI based on severity.
+QTc Interval Prolongation
+*   KRAZATI can cause QTc interval prolongation, which can increase the risk for ventricular tachyarrhythmias (eg, torsades de pointes) or sudden death.
+*   Avoid concomitant use of KRAZATI with other products with a known potential to prolong the QTc interval. Avoid use of KRAZATI in patients with congenital long QT syndrome and in patients with concurrent QTc prolongation.
+*   Monitor ECGs and electrolytes prior to starting KRAZATI, during concomitant use, and as clinically indicated in patients with congestive heart failure, bradyarrhythmias, electrolyte abnormalities, and in patients who are taking medications that are known to prolong the QT interval. Withhold, reduce the dose, or permanently discontinue KRAZATI, depending on severity.
+Hepatotoxicity
+*   KRAZATI can cause hepatotoxicity, which may lead to drug-induced liver injury and hepatitis.
+*   Monitor liver laboratory tests (AST, ALT, alkaline phosphatase, and total bilirubin) prior to the start of KRAZATI, and monthly for 3 months or as clinically indicated, with more frequent testing in patients who develop transaminase elevations. Reduce the dose, withhold, or permanently discontinue KRAZATI based on severity.
+Interstitial Lung Disease/Pneumonitis
+*   KRAZATI can cause interstitial lung disease (ILD)/pneumonitis, which can be fatal.
+*   Monitor patients for new or worsening respiratory symptoms indicative of ILD/pneumonitis (eg, dyspnea, cough, fever) during treatment with KRAZATI.
+*   Withhold KRAZATI in patients with suspected ILD/pneumonitis and permanently discontinue KRAZATI if no other potential causes of ILD/pneumonitis are identified.
+ADVERSE REACTIONS
+*   The most common adverse reactions in NSCLC patients (≥20%) are diarrhea, nausea, vomiting, musculoskeletal pain, fatigue, decreased appetite, cough, pneumonia, dizziness, constipation, abdominal pain, and QTc interval prolongation.
+USE IN SPECIFIC POPULATIONS
+Females and Males of Reproductive Potential
+*   Infertility: Based on findings from animal studies, KRAZATI may impair fertility in females and males of reproductive potential.
+Please see Full Prescribing Information.
+
+INDICATION
+KRAZATI is indicated for the treatment of adult patients with KRAS G12C-mutated locally advanced or metastatic non-small cell lung cancer (NSCLC), as determined by an FDA-approved test, who have received at least one prior systemic therapy.
+
+This indication is approved under accelerated approval based on objective response rate (ORR) and duration of response (DOR). Continued approval for this indication may be contingent upon verification and description of a clinical benefit in a confirmatory trial(s).
+
+Bristol Myers Squibb®
+
+© 2024 Mirati Therapeutics, Inc., a Bristol Myers Squibb company.
+
+KRAZATI® and the related logo are registered trademarks of Mirati Therapeutics, Inc.
+
+US-KRA-22-00152 V8 8/24
+
+LEGAL NOTICE             |             PRIVACY POLICY             |             YOUR PRIVACY CHOICES (checkmark icon)
+
+This website is intended for U.S. residents 18 years of age or older.

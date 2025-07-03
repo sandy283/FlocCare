@@ -1,0 +1,21 @@
+=== PAGE 12 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Overview of PET/CT Imaging in Recurrent Prostate Cancer – Current and Emerging Techniques – DrFabio
+                                                                                                        12
+
+The image below shows a 11C-Acetate PET/CT imaging in the same patient as
+the above PSMA example showing axial, sagital and coronal views from left to
+right. A metabolic focus can be seen in the prostate bed at the anastomosis site
+(arrows). The lack of urinary tracer excretion of 11C-Acetate allows visualization
+of small and subtle lesions in this region, not typically possible with PSMA based
+agents.
+
+[Image: Three medical imaging scans are displayed side-by-side, likely PET/CT images, showing different anatomical views.
+The image on the left is an axial view of the pelvic region, showing the cross-section of a patient's lower abdomen/pelvis. A bright, circular area, indicative of metabolic activity, is visible near the center, specifically in the prostate bed, and is highlighted by a yellow arrow pointing towards it.
+The middle image is a sagittal view, showing a side profile of the pelvic region. A similar bright area, representing a metabolic focus in the prostate bed at the anastomosis site, is visible and is also indicated by a yellow arrow pointing to it.
+The image on the right is a coronal view, presenting a front-to-back perspective of the pelvic region. Again, a bright metabolic focus is clearly visible in the prostate bed area and is marked by a yellow arrow.
+All three images display anatomical structures with varying degrees of brightness/color intensity, suggesting different levels of tracer uptake, with the highlighted areas being particularly active. The overall color scheme is predominantly orange/red and black, typical of fused PET/CT scans.]
+
+http://www.drfabio.com/imagingblog/2018/1/9/overview-of-petct-imaging-in-recurrent-prostate-cancer-current-and-emerging-techniques[11/15/2018 11:25:57 AM]

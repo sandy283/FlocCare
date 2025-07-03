@@ -1,0 +1,1048 @@
+
+
+EXTRACTED ITEM 1 OF 2
+TYPE: DIRECT_PDF
+URL: https://www.fdli.org/wp-content/uploads/2021/02/Friedman-Suzanne.pdf
+CONTENT LENGTH: 22244 characters
+========================================================================================================================
+FDLI/CDRH Training –March 4, 2021
+Suzanne Levy FriedmanFDA Regulation of Medical Device
+Advertising & Promotion
+A. Scope of FDA Authority
+B. Fundamental FDA Rules and Policies for Marketing
+C. Marketing and Promotion of Unapproved (Investigational) Devices
+D. Claims Substantiation
+E. Off-Label Issues
+F. Direct -to-Consumer (DTC) Advertising
+G. Monitoring Compliance; FDA and non -FDA Enforcement
+i. Internet and Social mediaAgenda
+Scope of FDA Authority
+|  4 Hogan Lovells•Under the Federal Food, Drug, and Cosmetic Act (FDCA), FDA has 
+jurisdiction over medical device labeling [21 U.S.C. §352(a)] 
+•FDA jurisdiction over advertising is limited to prescription drugs and 
+restricted devices (designated as such by FDA, by PMA or regulation)
+–FTC has primary jurisdiction over advertising of all other (non -restricted) 
+medical devices
+–FDA has consistently sought to expand its jurisdiction over advertising (of non -
+restricted devices) by calling it labelingScope of FDA and FTC Authority
+|  5 Hogan Lovells•Label : any display of written, printed, or graphic matter on the immediate 
+container of any article, or any such matter affixed to any consumer commodity or 
+affixed to or appearing upon a package containing any consumer commodity.
+•Labeling: all written, printed, or graphic matter accompanying an article at any 
+time while such article is in interstate commerce or held for sale after shipment or 
+delivery in interstate commerce.
+–No physical connection required –must just supplement or explain the article.
+–Examples?
+•Advertising is not specifically defined in the FDC Act
+–Can include information in published journals, magazines, other periodicals, 
+newspaper, and advertisements broadcast through media such as radio, television, 
+and telephone communications systemsWhat AreLabeling and Advertising?
+•SEC: Must give sufficient information to (prospective) shareholders, including 
+about products in development 
+–SEC requires a disclaimer of future looking statements, butthese often are seen by 
+FDA as pre -approval promotion
+•FDA shows some flexibility for corporate information presented to that audience
+–Should be temporary –not enduring (usually 4 -6 months is long enough)
+–Prospectus for an IPO should not use overly promotional language and should 
+address things such as risk that FDA will not clear or approve a device, etc.
+•Takeaways:
+–Apply the truthful, non -misleading standard to avoid liability from either agency
+–Separate section of the website
+–Avoid promotional statements and remove investor materials (8Ks, etc.) from 
+website after short periodFDA versus SEC Expectations
+|  6 Hogan Lovells
+Fundamental FDA Rules and Policies for Marketing
+|  8 Hogan Lovells•Golden Rule: A medical device may be labeled and promoted only for 
+its cleared or approved intended use(s)
+–If 510(k) -exempt, labeling may not exceed the scope of the exemption as outlined by 
+the classification regulation and the legally marketed exempt devices of that type
+•Which of the following constitute “promotion”?
+A.Posting your device’s labeling on a public website
+B.Discussing your device’s capabilities on Facebook
+C.Objectively answering a doctor’s question about your product’s intended use
+D.Displaying a prototype of your product at a trade showGeneral Rules of Marketing and Promotion
+|  9 Hogan Lovells•Devices are adulterated or misbranded when advertising/labeling creates a 
+new intended use that requires premarket notification or approval [ FDCA §§
+501(1); 502(o)]
+•Adulteration means:
+–Lack of premarket approval under FDCA §515(a) 
+–Lack of Investigational Device Exemption (IDE) approval under FDCA §520(g)
+•Misbranding means false or misleading in any particular [21 USC §352(a)], such as:
+–Misstatement or omission of material facts
+–Lack of fair balance (risk and benefit information)
+–Lack of adequate directions for use
+–Misleading representation with respect to another device [21 CFR §801.6]Adulteration and Misbranding
+•Determination of intended use [21 C.F.R. §801.4]:
+–Objective intent –expressions and circumstances
+–All statements by company, written or oral, labeling, advertising, or on website
+–FDA looks at all the surrounding circumstances in determining intended use
+•If promoting for a new intended use, FDA may find that the new use 
+requires a new 510(k) notice or a new PMA or PMA SupplementDetermination of Intended Use
+|  10 Hogan Lovells
+Marketing and Promotion of Unapproved Devices
+Investigational Devices
+•CANNOT represent the device as safe or effective, or imply that such 
+characteristics have been established; 
+•CANNOT promote or test market the device
+•CAN disseminate limited information tailored to recruitment of clinical 
+investigators and study subjects
+–Must state the purpose is to recruit investigators or patients, not to make the device 
+generally available
+–Must prominently state: “Caution –INVESTIGATIONAL DEVICE. LIMITED BY 
+FEDERAL (OR U.S.) LAW TO INVESTIGATIONAL USE”
+•CAN disseminate technical information ( e.g., specifications) in an objective, 
+non-promotional context
+12
+•Display/promotion at a trade show is permitted under FDA Compliance Policy 
+Guide (CPG) 300.600
+–Only for the intended use that is the subject of the pending 510(k) notice
+–Must include: “Pending 510(k), not available for sale within the United States.”
+•Solicitation of purchase orders (commercialization) is prohibited
+–Price information may not be disseminated
+–Customer lists should not be generated
+•This policy explicitly calls out devices after a 510(k) notice is submitted
+•If FDA requires clinical data to support the 510(k) submission, follow the rules for 
+displaying investigational devices insteadDevices with a 510(k) Submission Pending
+|  13 Hogan Lovells
+Claim Substantiation
+|  15 Hogan Lovells•Claim = any statement tied to a device’s intended use and company’s purpose for 
+selling it
+•FDA may consider a claim false/misleading if not appropriately substantiated
+–Data supporting a claim must be scientifically adequate ( i.e., statistically valid sample 
+size, peer -reviewed, etc.), and typically submitted to FDA for formal review
+–“Data on file” may support certain claims for cleared devices, but increasingly disfavored
+–Disclose relevant facts relating to studies to give reasonable basis for assessment
+•“Establishment” claims = express or implied statements describing the amount of 
+support for a particular product claim
+–Key rule enforced by multiple agencies: Company must have the form of substantiation 
+alluded to by the claimClaim Substantiation
+|  16 Hogan Lovells•FDA considers comparative claims inherently misleading, unless based on 
+appropriate head -to-head testing.
+–Includes superiority claims (assertions of better safety, performance, etc.)
+–A device is misbranded if its labeling contains a false or misleading statement about 
+another device
+•Clinical comparative claims require head -to-head clinical data support evaluating 
+the devices being compared in a scientifically valid study, where both devices are 
+used for their on -label indications  
+–Even where a company is comparing to a prior version of its own deviceComparative Claims
+|  17 Hogan Lovells•Language noting 510(k) -cleared status of a device is allowable, unless 
+presented in a way that would be considered misleading by implying: 
+–(1) approval; 
+–(2) FDA endorsement; or 
+–(3) that clearance means anything beyond the fact that the device is legally marketed
+•Promotional materials for a PMA -approved device may state “FDA -approved”
+•Promotional materials cannot refer to a product’s registration and listing 
+statusClaims about FDA Review Status
+Your Turn!
+|  18 Hogan Lovells
+
+Off-Label Issues
+|  20 Hogan Lovells•FDA has authority over medical device labeling and restricted device 
+advertising; but FDA does not regulate the use of devices by physicians
+•Under the FDC Act, physicians may use or prescribe a lawfully marketed
+product for unlabeled uses as part of caring for an individual patient
+–FDA avoids dictating to health care professionals how to practice their craft
+–Where an HCP inappropriately commercializes/promotes , FDA can and has taken 
+enforcement action
+•Manufacturers cannot promote uncleared/unapproved uses of a device
+–Sales representatives should be trained as to what is and is not within the scope foa
+device’s clearance/approvalOff-Label Use and Practice of Medicine Exemption
+Determining a Product’s Intended Use
+•FDA looks at all the surrounding circumstances in determining intended use, 
+including:
+–Objective intent of manufacturer based on totality of expressions and circumstances
+–All statements by company, written or oral, labeling, advertising, or on website
+•If promoting for a new intended use, FDA may find that the new use requires a 
+new 510(k) or new PMA or PMA Supplement
+•2018 guidance on “consistency with labeling” somewhat broadens acceptable 
+claims and evidentiary support for promotion of approved uses that are 
+“consistent” with FDA -required labeling
+–More relevant to PMA -approved devices
+21
+General versus Specific Uses
+•Clearance/approval of a general indication does NOT allow for promotion of more 
+specific indications ( e.g., regarding function, target population, etc.)
+•Per General/Specific Intended Use guidance, to determine whether a specific use is 
+covered by a general indication, interpret intended scope of the clearance/approval 
+and whether the specific indication raises different/more severe risks
+–For cleared devices, FDA generally sees the Indications for Use statement as the definitive 
+scope of the clearance; for PMA -approved devices, scope is defined by the FDA -approved 
+labeling
+–Data used to support the clearance/approval may be key; language in the submission, 
+approved labeling, and related correspondence may also be important
+–If FDA has communicated to a company that it does not agree with using certain terms or 
+claims, promoting the device along those lines increases risk of enforcement action
+22
+Your Turn –What is “Within the Scope” of Clearance?
+•Hot Dog Patient Warming System is 510(k) -cleared “to prevent or 
+treat hypothermia and to provide warmth to patients”
+•Can the company include the following on its website?
+❑“Unlike forced -air, air -free HotDog warming doesn't generate waste heat that 
+can contaminate the sterile field. Hospitals that have switched to HotDog
+report significant reduction in deep joint infections. For example, a #1 rated 
+hospital in Minnesota experienced an 81% reduction after switching to air -free 
+warming."
+❑Use has been shown to reduce incidence of hypothermia in several clinical 
+trials
+❑Summary of an article published in a scientific journal, stating that it finds 
+“74% reduction in implant infections” and “Researchers concluded air -free 
+warming is recommended over forced -air warming for orthopedic procedures” 
+23
+What is “Within the Scope” of Clearance? 
+•Can the company include the following on its website?
+“Unlike forced -air, air -free HotDog warming doesn't generate waste heat that can 
+contaminate the sterile field. Hospitals that have switched to HotDog report significant
+reduction in deep joint infections. For example, a #1 rated hospital in Minnesota
+experienced an 81% reduction after switching to air -free warming.”
+×Infection reduction is a different intended use from preventing hypothermia, 
+and would require supporting clinical data 
+Use has been shown to reduce incidence of hypothermia in several clinical trials
+Consistent with cleared indications for use; should provide adequate context
+Summary of an article published in a scientific journal, stating it finds “74% reduction in 
+implant infections” and “Researchers concluded air -free warming is recommended over 
+forced -air warming for orthopedic procedures” 
+×Infection reduction claim (albeit from third -party); exceeds scope of clearance
+24
+
+•A few “safe harbors” allow for manufacturers to lawfully disseminate ( not 
+promote ) truthful, non -misleading information about off -label uses of their 
+medical devices:
+–Proactive dissemination to healthcare providers via FDA’s “ Good Reprints” practices 
+guidance
+–Reactive dissemination in response to an unsolicited request from a healthcare provider
+–Sponsorship of independent Continuing Medical Education (CME) events
+–“Scientific exchange”
+•Off-label information disseminated via these pathways must be non -promotional, 
+scientifically valid, objective, and fairly balanced
+–FDA does not intend to consider such dissemination as evidence of the manufacturer’s 
+intent to promote a device for off -label useDissemination of Off -Label Information
+|  25 Hogan Lovells
+•Recent 1stAmendment cases show a trend of supporting manufacturers’ truthful 
+and non -misleading commercial speech, including discussion of off -label uses 
+–United States v. Caronia (2d Cir. 2012)
+–Amarin Pharma, Inc. v. FDA (SDNY Aug. 2015)
+–Pacira Pharmaceuticals Inc. et al. v. FDA (SDNY Dec. 2015)
+–Argued that broad indication for which a device was approved reasonably encompassed 
+the specific uses for which itwas promoted
+–U.S. v. Vascular Solutions, Inc. and Howard C. Root (WD Tex. Feb. 2016) 
+–U.S.A. v. Facteau , et al. (D. Mass. July 2016)
+•Important: Reliance on these cases is still very jurisdiction -and fact -specific.
+•Case law also exists that conflict, with, or limits the application of, the above casesRecent First Amendment Case Law
+|  26 Hogan Lovells
+•There is a proposed rule to modify the definition of “intended use”
+•If finalized, it would delete the last sentence in the current regulation which 
+requires manufacturers to supply adequate labeling covering a new “effective” 
+intended use (an off -label use) when they are aware of it
+•Would also clarify that manufacturer knowledge (of off -label use) is only one 
+source of evidence of what the manufacturer’s intent is, while maintaining FDA 
+ability to rely on that as part of the totality of evidence of the intended useRecent Developments: FDA “Intended Use” Rule
+|  27 Hogan Lovells
+Payor Guidance
+•June 2018 final guidance on manufacturer communications of health care 
+economic information (HCEI) with payors, formulary committees, and similar 
+–FDA defines an audience with appropriate knowledge and expertise to whom firms may 
+provide HCEI, as long as it is “related to” a device’s cleared or approved indication
+–Meaning related to the disease or condition, its manifestation, or symptoms associated 
+with it in the patient population for which it is indicated in the FDA -approved labeling
+–Greater leniency in what is disseminated to this tailored audience ( e.g., can discuss 
+expected date of clearance to allow for budgeting)
+•FDA stops short of permitting claims regarding unapproved uses, patient 
+populations, doses, and situations that might shift the risk/benefit balance
+28
+Direct -to-Consumer (DTC) Advertising
+•FDA is particularly concerned with promotional materials directed to lay 
+consumers, because they may not have the specialized knowledge or training 
+needed to appropriately utilize the information provided in these materials
+•Primary rules generally align with those for promotion of any device:
+–Content must be consistent with the cleared/approved indications for use
+–All content must be truthful, accurate and current (i.e., not false or misleading]
+–Specific claims and overall impression
+–Material facts must be revealed
+–Fair balance/presentation of risks and benefits
+–All language used should be understandable to the target audience
+•Beyond the general DTC promotional requirements, the FDCA sets forth specific 
+requirements for DTC ads for restricted devicesDTC Promotion: General Requirements
+|  30 Hogan Lovells
+|  31•Testimonials utilized by a company are subject to the same requirements as if 
+the company made the statements itself
+•Testimonials must be consistent with the device clearance or approval
+•Testimonials must represent results that a typical user might expect -can’t 
+cherry pick the very best results 
+–or must clearly and conspicuously disclose the generally expected performance in the 
+depicted circumstances with adequate substantiation for that representation
+–Not sufficient to use a disclaimer such as “results not typical” 
+–The promotional material must convey fair balance of benefits and risks
+•Numerous other requirements imposed by the FTCDTC Advertising:  Testimonials
+|  32•The FTC Act prohibits “unfair or deceptive acts or practices” in advertising, 
+including false advertisements (defined as “misleading in a material respect”) 
+likely to induce the purchase of foods, drugs, cosmetics, or devices
+–FTC looks at “representations made or suggested“, and at the extent to which an ad fails 
+to reveal facts material in light of such representations with respect to consequences 
+which may result from use of a product under the conditions prescribed in the ad, or
+under such conditions as are customary or usual
+•To substantiate health, safety, or efficacy claims, the FTC generally requires 
+advertisers to possess “competent and reliable scientific evidence” 
+•If disclosure of information is necessary to prevent an ad from being deceptive, it 
+must be clear and conspicuous, and in appropriate proximity to the claim it 
+modifiesFTC’s Purview: Deceptive or False Advertising
+Monitoring Compliance; FDA and non -FDA Enforcement
+What’s the Risk? FDA Enforcement Remedies
+Informal outreach (e.g., e -mail, teleconference), questioning promotional practices 
+is fairly common in CDRH’s new Total Product Life Cycle model
+34Inspectional observations (FDA -483s)
+Warning Letters and Untitled Letters
+Product seizures
+Administrative detention
+Recalls (voluntary and mandatory)
+Application Integrity Program
+Refusing requests for 510(k) clearance or 
+PMA approval of new products and PMA 
+Supplements
+InjunctionsCivil monetary penalties
+Criminal fines/penalties
+Equitable remedies (restitution, 
+disgorgement)
+Criminal prosecution of company/individual
+Corporate integrity agreements
+Import alerts
+Exclusion from federal health care programs 
+and debarment from government 
+contracts/grants
+What’s the Risk? Non -FDA Enforcement
+•False Claims Act
+–U.S. Department of Justice (DOJ) has authority to prosecute device manufacturers for 
+off-label promotion
+–Focus on promotional activities that result in submission of improper claims for 
+Medicare/Medicaid reimbursement by healthcare professionals (i.e., for 
+uncleared/unapproved uses of a device)
+•FTC enforcement for false or misleading statements and unsubstantiated 
+claims in advertising
+•Lanham Act –unfair or deceptive trade practices
+•State laws
+35
+•FDA considers website materials and social media to be labeling 
+–Holds companies responsible for their sites just as for other promotional material
+–A company is responsible for information it links to its website
+•U.S. vs. OUS marketed products
+–Portal page should direct to U.S. versus OUS sections                                                                        
+of website if clearance/approval is not universal
+–Disclaimers regarding U.S. regulatory status are not enoughInternet / Social Media Issues
+|  36 Hogan Lovells
+
+•Presenting risk information with space limitations and web page layouts
+•Monitoring and responding to adverse events, complaints, customer service 
+concerns generated by users
+–e.g., "@COMPANY Can we talk about # sideeffects from your products? Please? 
+#stillvomiting #nothappy #DRUGxx #FAIL" 
+•Controlling employees’ and representatives’ comments and responses
+•Need for and extent of monitoring user -generated content on corporate webpages 
+or sites influenced by companies for potential off -label information
+•User -generated content can be false, misleading or biased; blogs/comments allow 
+others to influence the message
+–Whether/how to correct third -party “misinformation” 
+–Company is not responsible for truly independent content generated by usersUnique Challenges of Social Media Promotion
+|  37 Hogan Lovells
+•Fundamental violations cited are the same as in more traditional platforms
+–Promotion outside scope of clearance 
+–Promoting products for unapproved intended uses via links on a company site, search 
+engines, meta -tagging, etc. 
+–Promotion without any clearance/approval
+–Misleading presentations, e.g., unbalanced presentation of risks and benefits
+•FDA social media enforcement examples 
+–“Liking” a Facebook comment about an uncleared/unapproved use (treating cancer)
+–Company website designed such that product lists were brought up if a consumer typed 
+diseases ( e.g., “diabetes”) into the product search field (and the product did not have 
+corresponding approval)
+–Sharing and retweeting third -party comments may also be considered endorsement by the 
+companySocial Media Enforcement
+|  38 Hogan Lovells
+•Trade shows, scientific forums, detailers
+–FDA monitors these activities and often attends events “in cognito ”
+•Press Releases
+–FDA permits more information than otherwise typically allowed in labeling, but 
+restrictions still apply
+–Must not state or imply that the device is approved or cleared for intended uses 
+outside of the already cleared or approved indicationsOther Promotional Issues
+|  39 Hogan Lovells
+"Hogan Lovells" or the "firm" is an international legal practice that includes Hogan Lovells International LLP, Hogan Lovells
+US LLP and their affiliated businesses.
+The word “partner” is used to describe a partner or member of Hogan Lovells International LLP, Hogan Lovells US LLP or 
+any of their affiliated entities or any employee or consultant with equivalent standing..  Certain individuals, who are 
+designated as partners, but who are not members of Hogan Lovells International LLP, do not hold qualifications equivalent 
+to members.  
+For more information about Hogan Lovells, the partners and their qualifications, see www.hoganlovells.com.
+Where case studies are included, results achieved do not guarantee similar outcomes for other clients. Attorney 
+advertising. Images of people may feature current or former lawyers and employees at Hogan Lovells or models not 
+connected with the firm.
+© Hogan Lovells 2017. All rights reservedwww.hoganlovells.comHow will you use the 
+information you received?
+
+
+EXTRACTED ITEM 2 OF 2
+TYPE: LOCAL_FILE
+URL: file:///Users/sandeepsharma/Downloads/Loeb%20Social%20Media_Life%20Sciences%20Presentation%20(1).pdf
+CONTENT LENGTH: 23696 characters
+========================================================================================================================
+Safe and Effective! Developing FDA-
+Compliant Advertising and Promotions
+for Drugs and Medical Devices
+February 22, 2017
+1
+
+Today’s Presenters
+Scott S. Liebman
+Partner, Co-chair Life Sciences, Head of FDA
+Regulatory & Compliance Practice
+212.407.4838
+sliebman@loeb.com
+Jessica B. Lee
+Senior Associate
+212.407.4073
+jblee@loeb.com
+2
+
+Today’s Topics
+Advertising and promotion of drugs and medical devices – the
+legal framework
+FDA vs. FTC
+Drug promotion
+Medical device promotion
+Social media and digital advertising
+Optimizing data and consumer privacy concerns
+3
+Key Players:
+FDA vs. FTC
+The FDA
+The federal Food, Drug, and Cosmetic Act (FDCA) and its
+implementing regulations grant the Food and Drug
+Administration (FDA) broad authority over drugs and devices
+and their manufacturers’ activities, including labeling and
+advertising
+The FTC
+The Federal Trade Commission (FTC)
+Bureau of Consumer Protection, Division of Advertising Practices
+The Federal Trade Commission Act (FTCA)
+Prevents “ unfair or deceptive acts or practices”
+Section 12 of the FTCA – “False advertisements for foods, drugs,
+devices and services are prohibited.”
+FDA vs. FTC: Who Has Jurisdiction?
+Depends on
+Type of product – drug or device
+Nature of how it is sold
+Prescription drugs and restricted devices
+OTC drugs and “unrestricted” devices
+Medium through which the information is disseminated
+Advertising
+Labeling
+Overview
+Rx Drugs OTC DrugsRestricted
+DevicesUnrestricted
+Devices
+Advertising FDA FTC FDA FTC
+Labeling FDA FDA FDA FDA
+*
+Advertisement vs. Labeling
+Advertisements
+(subject to 21 CFR 202)Promotional Labeling
+(subject to 21 CFR 201)
+Print advertisements in published
+journals, magazines, other
+periodicals and newspapers
+Broadcast advertisements using
+media such as radio, television and
+telephone communication systemsBrochures, booklets, mailing pieces, detailing
+pieces, file cards, bulletins, calendars, price lists,
+catalogs, house organs, letters, motion picture
+films, filmstrips, lantern slides, sound recordings,
+exhibits, literature and reprints and similar pieces
+of printed, audio or visual matter descriptive of a
+drug and references published (for example, the
+Physicians’ Desk Reference ) for use by medical
+practitioners, pharmacists or nurses containing
+drug information supplied by the manufacturer,
+packer or distributor of the drug and that are
+disseminated by or on behalf of its manufacturer,
+packer or distributor
+Drug Promotion
+What Is Promotion?
+Broadly interpreted
+Includes materials and/or communications issued by or on behalf
+of a company that inform, solicit or make representations to the
+general public or the medical community
+In some instances, even without mention of drug name,
+statements may be viewed as promotion
+Many Forms of Promotion
+Print advertisements
+TV advertisements
+Company website
+Certain interactions at
+medical conventions or
+product meetings
+Physician detailing
+session/sales calls
+BoothsDirect-to-physician or
+consumer mailings
+Brochures/pamphlets
+Internet advertisements
+Certain oral or written
+statements by company
+employees or agents
+The Basics
+Labeling and Advertising
+Product claims must be supported by substantial evidence
+Product claims must be true and not misleading
+Advertising and promotional materials must have fair balance
+Advertising and promotional materials must contain a brief
+summary of the approved PI
+All promotion must be consistent with FDA-approved
+labeling (no off-label promotion)
+No pre-approval promotion
+*
+Proper Support
+Claims must be supported by " substantial evidence " or
+"substantial clinical experience "
+"Substantial evidence" means "adequate and well controlled
+investigations, including clinical investigations ... by experts qualified by
+training and experience to evaluate the safety and effectiveness of the
+drug involved, on the basis of which it can fairly and responsibly be
+concluded by such experts that the drug is safe and effective for such
+uses." 21 C.F.R. § 202.1(e)(4)(ii)(b)
+The explanation of "substantial clinical experience" is more limited. It
+means "substantial clinical experience adequately documented in
+medical literature or by other data (to be supplied to [FDA], if
+requested), on the basis of which it can fairly and responsibly be
+concluded by qualified experts that the drug is safe and effective for
+such uses.” 21 C.F.R. § 202.1(e)(4)(ii)(c)
+*
+Truthful and Not Misleading
+Product claims in promotion must be true and not presented in a
+misleading way
+Omitting material facts, i.e., "facts material in the light of ...
+representations or material with respect to consequences which
+may result from the use of the article to which the labeling or
+advertising relates under the conditions of use prescribed in the
+labeling or advertising thereof or under such conditions of use as
+are customary or usual.” 21 U.S.C. § 321(n)
+21 C.F.R. § 202 contains lists of ways in which a prescription
+drug advertisement will or may be deemed to be false or
+misleading
+Fair Balance
+FDA interprets fair balance to mean that the net impression of a
+piece provides a balance of benefit and risk information
+The quantity, location and order of risk information, including the use of
+“signals”
+Risk information exists in a hierarchical order as in the PI
+A drug’s most serious risks and most common risks are material
+Risk information can be considered to be minimized if formatting
+makes the risk information harder to read than benefit information
+Risk information needs to be written at an appropriate level for the
+target audience (i.e., physicians versus patients)
+Prescribing Information (PI) and Brief
+Summary
+Labeling must be accompanied by Full PI
+Print advertising must include a true statement in Consumer
+Brief Summary to include:
+Information about side effects, contraindications, warnings and
+precautions
+Information that is in PI under headings such as cautions,
+special considerations, important notes, etc.
+Direct to consumer (DTC) advertising require PI information in
+patient-friendly language and FDA Med Watch information
+TV ads require major statement and adequate provision of PI
+On-Label
+Promotion must be consistent with the drug's labeling
+Promotion of an off-label use is illegal
+Prescription drug advertising "shall not recommend or suggest any use
+that is not in the labeling” 21 C.F.R. § 202.1(e)(4)(ii)
+Claim or statement about an FDA-regulated product that represents or
+implies that the product is safe and effective in ways/for a population/for
+a use/for a dosage that is not approved or cleared by the FDA
+Statements, written or oral, or broadcast (express or implied) by the
+manufacturer or its representatives suggesting a different than approved
+use by FDA is unlawful and misbrands the product
+Jan. 9, 2017 – FDA changes “intended use” definition in 21 C.F.R. §§
+201.128 for the purposes of labeling from objective standard to totality of
+the circumstance standard
+An investigational drug may not be promoted for uses for which it is
+under investigation 21 C.F.R. § 312.7
+No Pre-Approval Promotion
+Before FDA approval/clearance:
+Cannot say a product is approved until the FDA sends the
+approval letter to the company
+Cannot say Product X is safe
+Cannot say Product X is effective
+Cannot imply either
+Cannot make a claim that Product X is superior to another
+product
+A company cannot represent in ANY promotional
+context that Product X is safe or effective
+Promoting Product X prior to its approval violates
+the law
+Medical Device Promotion
+Oversight of Medical Device Promotion
+Jurisdictional Split
+Labeling
+FDA (through Center for Devices and Radiological Health)
+Concept of “promotional labeling” not formally adopted by
+CDRH
+Has applied similar principles from drug world to medical
+device promotional labeling materials
+Advertising
+FDA for advertising of restricted devices (Class III or others
+restricted)
+FTC for advertising of “nonrestricted devices” (Class I & II)
+Medical Device Advertising
+Unlike prescription drugs, not specifically defined in the FDCA or
+regulations
+The FDCA includes just two specific provisions regarding restricted
+device advertising:
+21 U.S.C. § 352(q) provides that a restricted device is misbranded if its
+advertising is false and misleading in any particular, and
+21 U.S.C. 352(r) provides that a restricted device is misbranded if its
+advertising does not contain a brief statement of the device's intended
+use and relevant warnings, precautions, side effects and
+contraindications
+Borrow from 21 CFR § 202.1 (1) Lists Examples of Drug
+Advertisements
+Advertisements in journals, magazines, periodicals, newspapers
+Advertisement broadcasts such as on radio, TV, and phone
+Unrestricted Device Advertising Specifically
+FTC normally focuses on whether claims made for a product
+aretruthful, non-misleading and substantiated by
+“competent and reliable scientific evidence”
+FTC
+“Competent and reliable scientific evidence”
+Tests, analyses, research, studies or other evidence based on
+the expertise of professionals in the relevant area, which have
+been conducted and evaluated in an objective manner by
+persons qualified to do so, using procedures generally accepted
+in the profession to yield accurate and reliable results
+Substantiation
+FTC Policy on Advertising Substantiation
+The issue is notthe truth or falsity of the claim – it is the
+failure to have and rely upon a reasonable basis that is
+actionable
+The advertiser must have at least the degree of
+substantiation that it claims
+Key is matching claims to evidence
+Social Media
+Getting Social: Education
+26
+
+Getting Social: Marketing
+27
+
+Getting Social: Making Connections
+28
+
+Source: http://forums.webmd.com/3/sex-and-relationships-exchange/forum/6034
+Getting Social: Communities & Support Groups
+Getting Social: Connecting With Physicians
+What Can Go Wrong? Post Leads to FDA Warning
+31
+
+What Can Go Wrong: FDA Warns Drug
+Maker Over Kim’s Posts
+
+What Can Go Wrong? Government Inquiries
+33
+
+What Are the Rules?
+•Internet/Social Media Platforms with Character Space Limitations – Presenting
+Risk and Benefit Information for Prescription Drugs and Medical Devices – June
+2014
+•Internet/Social Media Platforms: Correcting Independent Third-Party
+Misinformation About Prescription Drugs and Medical Devices – aJune 2014
+•Fulfilling Regulatory Requirements for Postmarketing Submissions of Interactive
+Promotional Media for Prescription Human and Animal Drugs and Biologics –
+January 2014
+•Responding to Unsolicited Requests for Off-Label Information About Prescription
+Drugs and Medical Devices – December 2011
+34
+Old Rules Apply on New Platforms: Fair Balance in
+140 Characters or Less
+Balance the risk
+Benefits should be factual – Avoid misleading or inaccurate
+statements.
+Communicate the risk – Include information about the most
+serious risk of the product, along with a descriptive hyperlink to a
+more complete list of risk information. (www.productname.com/risk)
+**Symbols (such as &), punctuation marks and scientific abbreviations
+can be used to help reduce space constraints
+Include material facts – reveal material facts about the use of the
+product.
+Use the full FDA-approved product name.
+Correcting Misinformation: How/When to Respond
+to Third-Party Misinformation
+**There is n o obligation to correct truly independent third-party UGC, but if you do…
+Options for correcting
+Provide appropriate truthful and non-misleading corrective information, OR
+Provide a reputable source from which to obtain the correct information, such as
+the firm's contact information
+“Appropriate corrective information” should be:
+Relevant and responsive
+Limited and tailored
+Non-promotional
+Accurate (supported by sufficient evidence)
+Consistent with the FDA-required labeling for the product
+Disclose that the person providing the corrective information is affiliated with
+the firm that manufactures, packs or distributes the product
+Likes, Retweets and Comments
+Fulfilling Regulatory Requirements for Post-Marketing Submissions of
+Interactive Promotional Media for Prescription Human and Animal Drugs and
+Biologics (Draft, Jan. 2014)
+What should you submit?
+Influence/control standard
+Form 2253 (human) and Form 2301 (animal)
+How should you submit it?
+Initial submission
+ Firm-controlled site vs. third-party site
+Updated submissions :
+ Monthly list
+ Restricted sites
+Ceasing activity
+ Notify on first day
+
+Off-Label On-Line
+Responding to Unsolicited Requests for Off-Label Information About
+Prescription Drugs and Medical Devices (Draft, Dec. 2011)
+Public unsolicited requests for off-label information
+Respond only when the request pertains specifically to your named product
+Limit the response to providing contact information for medical affairs
+Convey that the question pertains to an unapproved use of the product
+Do not include any off-label information
+Clearly disclose your involvement with a particular firm
+Do not respond in a promotional nature or tone
+Do not include links except to the current FDA-required labeling
+What Are the Rules? FTC Truth in
+Advertising Rules Also Apply
+General principles:
+All of the “old” rules still apply
+“Clear and conspicuous” requirement applies
+equally to all marketing channels
+Clear, straightforward, accurate main messages
+require fewer disclosures
+Don’t bury important things in Terms of Use or
+rely on disclosures
+Regulator POV: If you can’t make a required disclosure in a
+particular channel (such as Twitter), don’t use that channel for
+that message!
+Effectiveness of Disclosures – General Principles
+The Four P’s: factors that affect whether disclosures are effective
+Prominence – prominent enough to be seen and/or heard by consumers
+Presentation – worded in a way that consumers can easily understand
+Placement – where a consumer is likely to look
+Avoid distracting factors!
+For TV and video, disclosures should not be set against moving
+backgrounds
+Account for viewing on different devices and on different platforms
+Optimize sites for smartphone/tablet use; if consumers have to zoom or
+scroll, they may miss important disclosures
+Proximity – “as close as possible” to the main claim it modifies (not just “near”
+the claim)
+Disclosures can be incorporated organically, which is equally effective!
+Disclosures in Limited Spaces
+If a disclosure is necessary
+in a space-constrained ad
+(for example, tweets), be
+sure the disclosure appears
+in each message
+•You shouldn’t assume that a
+consumer will see and
+associate multiple messages
+Make sure disclosures will
+be maintained if republished
+(for example, retweeted)
+•If disclosure appears at end
+of message, leave enough
+free space so the disclosure
+is not lost in republication
+due to 140-character limit
+Endorsements should be
+clearly disclosed“When it’s not obvious that it is an ad,
+people should disclose that they are being
+paid… It only takes up two extra
+characters.”
+- Mary Engle, FTC
+
+Don’t Forget the Platform Policies
+You grant Pinterest and its
+users a non-exclusive, royalty-
+free, transferable,
+sublicensable, worldwide
+license to use, store, display,
+reproduce, re-pin, modify,
+create derivative works,
+perform, and distribute your
+User Content on Pinterest
+solely for the purposes of
+operating, developing,
+providing, and using the
+Products. Nothing in these
+Terms shall restrict other legal
+rights Pinterest may have to
+User Content, for example
+under other licenses. We
+reserve the right to remove or
+modify User Content for any
+reason, including User Content
+that we believe violates these
+Terms or our policies.
+42
+Policies for Conversion Tracking and Tailored
+Audiences
+Advertisers using these products in their mobile
+applications must provide their application users
+with legally sufficient notice that they are
+working with third parties to collect user data
+through their application for purposes of
+conversion tracking and serving ads targeted to
+users’ interests, and legally sufficient instructions
+for such users on how they can opt out of
+interest-based advertising.
+Twitter prohibits the creation of tailored
+audiences or conversion events based on any
+sensitive information, which includes:
+Alleged or actual commission of a crime
+Health
+Negative financial status or condition
+Political affiliation or beliefs
+Racial or ethnic origin
+Religious or philosophical affiliation or beliefs
+Sex life
+Trade union membership
+Advertisers may not use these products in any
+website, application, or service directed to
+children under 13, or in any website, application,
+or service that collects or stores age information
+from individuals under the age of 13.Offers
+If you create an offer using Facebook’s offer
+creation tool, the following policies apply:
+ Facebook offers must be available for
+a limited time.
+ You may only run an offer if you are
+the merchant for or the manufacturer
+of the product or service you are
+promoting.
+ You must clearly and prominently
+disclose any restrictions on your offer
+(such as expiration date or limitations
+on redemption).
+ You are solely responsible for
+improper redemption, fraud, disputes
+or other issues that arise from the
+distribution and/or redemption of
+your offer.
+ You must use the offer creation tool
+only for its intended functionality and
+not to promote your website or other
+contact information, or to offer the
+equivalent of a gift card, gift
+certificate or stored value card.
+
+Terms Common to Many Social Media
+Platforms
+You accept liability for all content
+You rep and warrant that content does not violate third-
+party rights (including ©, TM, right of publicity, privacy,
+defamation, etc.)
+You indemnify the platform against all claims relating to
+content
+You grant the platform a license to use content (including ©,
+TMs)
+Scope of license varies widely – can include right to edit
+content, right to create derivative works, right to permit
+other platform users to use/distribute content, right to use
+content for marketing/promotional activity of platform, even
+the right to sell content
+43
+Facebook on the Forefront: Using Technology
+for Compliance
+•Added an automated scroll that
+allows the small print warning of a
+drug’s possible side effects to be
+displayed
+•Allows pharma companies to turn off
+comments on pages promoting
+specific products (allowing
+companies to avoid reports of
+unverified “adverse events”)
+•Working to build up “community
+pages” that bring together users who
+share a particular medical condition,
+which can be sponsored by drug
+makers
+44
+Key Takeaways from Regulatory Guidance
+Hyperlinks should be clearly labeled (e.g., productname.com/risks)
+Benefits and risks must be accurately described – even when
+symbols and shorthand are used
+Each post stands alone (multiple tweets won’t do it)
+Don’t force consumers to scroll: a disclosure should be as close to
+the relevant claim as possible
+Consider technological limitations – don’t rely on disclosures that
+may not be accessible to consumers depending upon the device
+they are using
+Consider the risks of responding to third-party misinformation
+Data Optimization and Consumer
+Privacy Concerns
+Using Data to Drive Marketing Campaigns
+Measure the
+Effectiveness of a
+Campaign
+Measure the
+Effectiveness of a
+Campaign
+Identify
+the Most
+Profitable
+Platforms
+Identify
+the Most
+Profitable
+Platforms
+Understand
+Your
+Audience
+Understand
+Your
+Audience
+
+Evolution of Targeted Advertising
+Targeting 1.0
+Keyword targeting
+Contextual targeting
+First-party targeting
+Behavioral targeting
+48Targeting 2.0
+Programmatic buying
+Mobile targeted advertising
+Targeting 3.0
+Real-time bidding
+Cross-device
+Linking Consumer Activity to Health Care Events
+Consumer
+Households
+Individuals
+Analysis
+Patient-Driven DataDataMatchIP Addresses
+Cookies
+Email Addresses
+Other Personally
+Identifiable Information:
+Name
+Address
+Age/Birth DateDevice ID
+Trackable Health Care
+Data (Prescription,
+Medical Claims)De-identified Trackable
+IDData BrokerLife Sciences
+Company
+What Are the Rules?
+U.S. Data Collection and Privacy Regime
+Laws and regulations
+Federal – FTC Act, HIPAA, GLB, FCRA, COPPA, VPPA, FCC
+Broadband Privacy Rules
+State
+International
+Self-regulation
+DAA/BBB
+DMA (Direct Marketing Association) / Data Driven Marketing Institute
+IAB (Interactive Advertising Bureau)
+NAI (Network Advertising Industry)
+MMA (Mobile Marketing Association)
+FTC
+Platform policies
+Third-party platforms such as DoubleClick, Facebook and Twitter
+App store guidelines
+Your own privacy policy
+50
+Select Federal Laws Regulating Collection
+and Use of Consumer Data
+FTC Act – requires companies to comply with their own
+privacy policies
+Health Insurance Portability and Accountability Act (HIPAA) –
+limits how covered entities may use health information
+New U.S.– EU Privacy Shield Program (replaces the U.S.-
+E.U. Safe Harbor Framework) – places limits on data
+transferred between the U.S. and EU
+51
+Health Data: When Does HIPAA Apply?
+“Protected Health Information”
+Protected by HIPAA
+•Any information, oral or recorded,
+transmitted in any medium, that…
+•Iscreated or received by a covered entity
+•Relates to the past, present or future
+•Physical or mental health or condition
+•Provision of health care to an individual
+•Payment for the provision of health care
+to an individual
+•Identifies the individual or there is a
+reasonable basis to believe the
+information can be used to identify the
+individualSensitive Data
+Opt-In Consent Required for
+Marketing/Targeting
+•Some medical conditions are likely to be
+particularly sensitive or private in nature.
+•Consider:
+•The seriousness of the condition
+•Its prevalence, whether it is something
+that an average person would consider to
+be particularly private in nature
+•Whether it is treated by over-the-counter
+or prescription medications, and whether
+it can be treated by modifications in
+lifestyle as opposed to medical
+intervention
+•Conditions such as acne, high blood
+pressure, heartburn, cold and flu, and
+cholesterol management may not be
+considered to be sensitive
+52
+Platform Policies Apply: Google Ad Words Example
+Pharmaceutical Companies - Certification Required
+Prescription drugs
+Over-the-counter medicines
+Bulk drug manufacturers, medical professional suppliers, and antibody/peptide/compound
+suppliers for commercial labs
+Online pharmacies
+Certain businesses such as online pharmacies and pharmaceutical manufacturers may
+use prescription drug terms in ad text and landing pages.
+Prohibited substances
+xProducts that contain ephedra
+xProducts containing human chorionic gonadotropin (hCG) in relation to weight loss or weight
+control, or when promoted in conjunction with anabolic steroids
+xHerbal and dietary supplements with active pharmaceutical or dangerous ingredients
+xFalse or misleading health claims, including claims implying that a product is as effective as
+prescription drugs or controlled substances
+xNon-government approved products that are marketed in a way that implies that they're safe or
+effective for use in preventing, curing, or treating a particular disease or ailment
+xProducts that have been subject to any government or regulatory action or warning
+xProducts with names that are confusingly similar to an unapproved pharmaceutical or supplement
+or controlled substance
+53
+
+Other Privacy Guidance
+FTC
+Online Behavioral Advertising
+Mobile Apps
+Internet of Things
+California AG
+Mobile Apps
+Privacy Policies and Do Not Track Disclosures
+Digital Advertising Alliance (DAA)
+Online and Mobile Interest-Based Advertising
+Cross Device Tracking
+Mobile Marketing Association
+Text Message Marketing
+54
+Thank you!
+Scott S. Liebman
+212.407.4838
+sliebman@loeb.com
+Jessica B. Lee
+212.407.4073
+jblee@loeb.com
+55

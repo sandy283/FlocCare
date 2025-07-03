@@ -1,0 +1,95 @@
+=== PAGE 4 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+The PSMA-PET imaging test works by marking an antigen receptor that sits on
+the surface of every prostate-cancer cell, called PSMA, with a radioactive peptide,
+Gallium-68. This process allows the cancer cells to be detected wherever they are
+located, including outside of the pelvic region.
+
+The procedure is similar to other PET/CT scans. The patient is given an intravenous
+injection of the radioisotope (68Ga), followed an hour later by an intravenous
+injection of contrast dye for the CT portion of the PET/CT scan. The actual scan time
+is about 20 minutes. There are no common side effects or significant risks, and the
+procedure takes a maximum of two hours from start to finish. There are no dietary
+restrictions prior to the test.
+
+**How PSMA-PET compares to current tests**
+
+Once rising serum PSA levels are noted on a blood test, doctors often conduct a
+multiparametric MRI, which can locate cancer cells in the prostate gland. Some also
+use ultrasound and CT scans to pinpoint where the cancer is located, although both
+sometimes lack sufficient sensitivity to determine the true extent of the disease.
+
+To detect metastatic disease in bone, lymph nodes or soft tissue, doctors might order
+various types of bone scans, or acetate or choline PET/CT scans. However, these tests
+can sometimes miss disease or return false-positive findings. The sodium fluoride
+PET/CT scan looks for variations in bone structure, which could indicate cancer.
+But because of its low specificity, it can flag areas where there’s arthritis or injury.
+
+The acetate/choline PET/CT scan, on the other hand, uses as its radioactive tracer
+a precursor of lipids used to build tumor cell membranes that prostate-cancer cells
+should absorb. But this test lacks sensitivity, and doesn't work well in cases of prostate-
+cancer recurrence where prostate-specific antigen levels are low.
+
+**Guiding treatment decisions**
+
+In contrast to the traditional studies, PSMA-PET imaging offers high sensitivity and
+specificity. Because the test looks specifically for the antigen that sits on prostate-cancer
+cells, it finds these cancer cells wherever they are, while avoiding false-positive results.
+
+Whereas the unreliable results of traditional tests can lead to unnecessary or
+insufficient disease treatment and management decisions, PSMA-PET allows doctors
+to make more informed treatment decisions. While radiation and surgery are typical
+in localized cases, chemotherapy or hormone therapy might be appropriate in cases
+where PSMA-PET imaging detects prostate-cancer cells in the bone or lymph nodes.
+
+PSMA-PET imaging allows for more informed care, with likely better outcomes as
+a result. The UCLA team uses PSMA-PET imaging to identify the site of disease
+recurrence in patients whose blood PSA levels start rising after initial prostate-cancer
+therapy. The test is also used to determine the extent of the disease prior to surgery.
+
+**Participating
+Team Members**
+
+**Johannes Czernin, MD**
+Professor of Molecular and Medical
+Pharmacology
+Chief, UCLA Ahmanson Translational
+Imaging Division
+
+**Robert E. Reiter, MD**
+Bing Professor of Urologic Oncology
+Director, UCLA Prostate Cancer Program
+
+**Martin Allen-Auerbach, MD**
+Director of Nuclear Medicine
+Professor of Molecular and Medical
+Pharmacology
+
+**Andrew Quon, MD**
+Professor of Molecular and Medical
+Pharmacology
+
+**Matthew Rettig, MD**
+Professor of Medicine, Hematology Oncology
+
+**Contact Information**
+
+**UCLA Ahmanson Translational
+Imaging Division**
+Nuclear Medicine, PET and PET/CT
+200 UCLA Medical Plaza, Ste. B114
+Los Angeles, CA 90095
+(310) 794-1005
+nuc.uclahealth.org
+
+**UCLA Department of Urology**
+200 UCLA Medical Plaza, Ste. 140
+Los Angeles, CA 90095
+(310) 794-7700
+urology.ucla.edu
+
+[Image: UCLA Health logo]
+
+UCLAHEALTH.ORG          1-800-UCLA-MD1          (1-800-825-2631)                                                                17v2-01:01-17

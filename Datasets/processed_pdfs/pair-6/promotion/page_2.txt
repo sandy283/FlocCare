@@ -1,0 +1,117 @@
+=== PAGE 2 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+**KRAZATI®**
+**(adagrasib) 200 mg**
+               **TABLETS**
+
+                                               KRAS G12C in NSCLC     KRAZATI MOA     Clinical Data      Dosage     Resources & Support      STAY CONNECTED
+                                                                  ⌄                    ⌄
+
+**NSCLC**
+                                                                     SWITCH INDICATIONS:  OTHER   |   NSCLC
+            PRIMARY ENDPOINTS
+                                   ORR                DCR           Intracranial ORR     OS         PFS         DOR
+                                   Primary endpoint
+
+
+**REGISTRATIONAL PHASE 2 COHORT**
+**43% ORR: A ROBUST RESPONSE TO A RELENTLESS DISEASE³⁰**
+
+                                                **58% HAD A RESPONSE DURATION OF ≥6 MONTHS³⁰**
+         **43% ORR***                 • Median time to response was 1.4 months                     **CATEGORY 2A**
+         **(n=112; 95% CI: 34-53)**      (range: 0.9-7.2)³⁰                                              **NCCN**
+                                                • At data cutoff, treatment was ongoing in 50%              **RECOMMENDED**
+                                                  (24/48) of patients who experienced a response³⁰
+                                                • Median DOR: 8.5 months (95% CI: 6.2-13.8)³⁰           NCCN Guidelines
+                                                • Median OS: 12.6 months (95% CI: 9.2-19.2)³¹           recommend adagrasib
+                                                • Median PFS: 6.5 months (95% CI: 4.7-8.4)³¹            (KRAZATI) as a subsequent
+                                                                                                      therapy option for
+                                                                                                      patients with KRAS G12C-
+                                                                                                      mutated advanced or
+                                                                                                      metastatic NSCLC
+Single-arm trials do not adequately characterize time-to-event endpoints such as OS and                 after progression
+PFS. Thus, these data from KRYSTAL-1 cannot be interpreted as having OS and PFS benefit.              (Category 2A).³³
+                                                                                                                    •
+                                                                                                                    •
+
+*Tumor response was assessed by BICR. Phase 2 data cutoff: October 15, 2021 (median follow-up: 12.9 months). Data cutoff for OS: January 15, 2022 (median follow-up: 15.8 months). Additional follow-up planned.
+Patients included in this analysis were patients lost to follow-up (15%) who were not evaluated.³⁰
+BICR=blinded independent central review; CI=confidence interval; DCR=disease control rate; DOR=duration of response; NCCN=National Comprehensive Cancer Network; NSCLC=non-small cell lung cancer;
+ORR=objective response rate; OS=overall survival; PFS=progression-free survival.
+                                                                                                          SAFETY ➞
+
+ⓘ **IMPORTANT SAFETY INFORMATION**                                                                **INDICATION**
+
+**WARNINGS AND PRECAUTIONS**                                                                      KRAZATI is indicated for the treatment of adult patients with KRAS G12C-mutated
+**Gastrointestinal Adverse Reactions**                                                            non-small cell lung cancer (NSCLC), as determined by an FDA-approved test, who have
+• KRAZATI can cause severe gastrointestinal adverse reactions.                                    received at least one prior systemic therapy.
+• Monitor and manage patients using supportive care, including antidiarrheals, antiemetics, or    This indication is approved under accelerated approval based on objective
+  fluid replacement, as indicated. Withhold, reduce the dose, or permanently discontinue          response rate (ORR) and duration of response (DOR). Continued approval for this
+  KRAZATI based on severity.                                                                      indication may be contingent upon verification and description of a clinical
+                                                                                                  benefit in a confirmatory trial(s).
+**QTc Interval Prolongation**
+• KRAZATI can cause QTc interval prolongation, which can increase the risk for ventricular
+  tachyarrhythmias (eg, torsades de pointes) or sudden death.
+• Avoid concomitant use of KRAZATI with other products with a known potential to prolong the
+  QTc interval. Avoid use of KRAZATI in patients with congenital long QT syndrome and in
+  patients with concurrent QTc prolongation.
+• Monitor ECGs and electrolytes prior to starting KRAZATI, during concomitant use, and as
+  clinically indicated in patients with congestive heart failure, bradyarrhythmias, electrolyte
+  abnormalities, and in patients who are taking medications that are known to prolong the QT
+  interval. Withhold, reduce the dose, or permanently discontinue KRAZATI, depending on
+  severity.
+
+**Hepatotoxicity**
+• KRAZATI can cause hepatotoxicity, which may lead to drug-induced liver injury and
+  hepatitis.
+• Monitor liver laboratory tests (AST, ALT, alkaline phosphatase, and total bilirubin) prior to
+  the start of KRAZATI, and monthly for 3 months or as clinically indicated, with more
+  frequent testing in patients who develop transaminase elevations. Reduce the dose,
+  withhold, or permanently discontinue KRAZATI based on severity.
+
+**Interstitial Lung Disease/Pneumonitis**
+• KRAZATI can cause interstitial lung disease (ILD)/pneumonitis, which can be fatal.
+• Monitor patients for new or worsening respiratory symptoms indicative of ILD/pneumonitis
+  (eg, dyspnea, cough, fever) during treatment with KRAZATI.
+• Withhold KRAZATI in patients with suspected ILD/pneumonitis and permanently
+  discontinue KRAZATI if no other potential causes of ILD/pneumonitis are identified.
+
+**ADVERSE REACTIONS**
+• The most common adverse reactions in NSCLC patients (≥20%) are diarrhea, nausea,
+  fatigue, vomiting, musculoskeletal pain, hepatotoxicity, renal impairment, dyspnea, edema,
+  decreased appetite, cough, pneumonia, dizziness, constipation, abdominal pain, and QTc
+  interval prolongation.
+
+**USE IN SPECIFIC POPULATIONS**
+**Females and Males of Reproductive Potential**
+• Infertility: Based on findings from animal studies, KRAZATI may impair fertility in females
+  and males of reproductive potential.
+
+Please see **Full Prescribing Information.**
+
+
+**Bristol Myers Squibb®**
+
+© 2024 Mirati Therapeutics, Inc., a Bristol Myers Squibb company.
+
+KRAZATI® and the related logo are registered trademarks of Mirati Therapeutics, Inc.
+                                                                           LEGAL NOTICE    |    PRIVACY POLICY    |    YOUR PRIVACY CHOICES ⓘ
+US-KRA-22-00152 v8 8/24                                                                        This website is intended for U.S. residents 18 years of age or older.
+
+---
+**Description of Visual Elements:**
+
+1.  **Company Logo (Top Left):** The logo for "KRAZATI (adagrasib) 200 mg TABLETS" is prominently displayed at the top left, identifying the drug product with its generic name and dosage.
+2.  **Navigation Bar (Top):** A horizontal bar at the top provides navigation options such as "KRAS G12C in NSCLC", "KRAZATI MOA", "Clinical Data", "Dosage", "Resources & Support", and "STAY CONNECTED". These elements are likely links to different sections of a website.
+3.  **Information Box (Top Right):** A rectangular box in the top right corner lists essential information links: "IMPORTANT SAFETY INFORMATION", "PRESCRIBING INFORMATION", "REFERENCES", and "VISIT PATIENT SITE".
+4.  **NSCLC Selector (Left Panel):** A vertical green box labeled "NSCLC" with a downward arrow indicates the current context (Non-Small Cell Lung Cancer). Below it, "ORR Primary endpoint" specifies the primary outcome measure being highlighted for this indication.
+5.  **Indication Switch/Tabs (Middle Top):** A horizontal green bar with "SWITCH INDICATIONS" and options "OTHER" and "NSCLC" (with NSCLC selected). Below this, a series of tabs—"DCR", "Intracranial ORR", "OS", "PFS", "DOR"—represent different data categories or study endpoints.
+6.  **"43% ORR*" Data Box (Main Content):** A large, visually prominent box displays "43% ORR*" and "(n=112; 95% CI: 34-53)". This central graphic highlights the drug's Overall Response Rate, along with the patient count and confidence interval, presenting a key clinical efficacy result.
+7.  **"CATEGORY 2A NCCN RECOMMENDED" Box (Right Side):** A dark blue rectangular box on the right side of the main data section. It states "CATEGORY 2A NCCN RECOMMENDED" and explains that NCCN Guidelines recommend adagrasib (KRAZATI) as a subsequent therapy option for specific advanced NSCLC patients. Two small, uncolored circles below the box may indicate bullet points or navigational elements.
+8.  **"SAFETY ->" Button (Middle):** A button with the text "SAFETY ->" and an arrow pointing right, likely serving as a call-to-action to access detailed safety information.
+9.  **Circular 'i' Icon (Bottom Left):** An encircled lowercase 'i' precedes "IMPORTANT SAFETY INFORMATION", functioning as a standard symbol to denote important information.
+10. **Upward Arrow Icon (Bottom Right):** An upward arrow icon precedes "INDICATION", possibly indicating that the section provides more detail or is an expandable content area.
+11. **Bristol Myers Squibb® Logo (Bottom Left):** The logo for Bristol Myers Squibb® is displayed, identifying the company.
+12. **Privacy Choices Icon (Bottom Right):** An icon (resembling a checkmark inside a circle) next to "YOUR PRIVACY CHOICES" typically indicates a link to privacy settings or preferences.

@@ -1,0 +1,120 @@
+=== PAGE 9 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving the original layout, spacing, and structure:
+
+**[Logo: KRAZATI® (adagrasib) 200 mg TABLETS]**
+
+KRAS G12C in NSCLC      KRAZATI MOA      Clinical Data      Dosage      Resources & Support      STAY CONNECTED
+
+                                                                                                       IMPORTANT SAFETY INFORMATION
+                                                                                                       PRESCRIBING INFORMATION
+                                                                                                       REFERENCES
+                                                                                                       VISIT PATIENT SITE
+
+**[Visual element: A segmented bar indicating progress or selection. "NSCLC" is highlighted on the left side, as if a primary filter. To its right, there's a horizontal navigation bar with several options, resembling tabs. "Intracranial ORR" is highlighted, indicating it's the currently selected tab, with "Post hoc analysis" written below it. The other tabs are "ORR", "DCR", "OS", "PFS", "DOR".]**
+
+POST HOC ANALYSIS
+**33% INTRACRANIAL ORR IN PATIENTS WITH STABLE, ADEQUATELY TREATED BRAIN METASTASES³¹**
+
+**[Visual element: A large green box containing the text "33% ORR*†" with "(n=33; 95% CI: 18.0-51.8)" below it. This box is central to the page's data presentation.]**
+
+**[Visual element: A text box to the right of the green ORR box. It provides contextual details for the data.]**
+Post hoc subgroup analysis of KRAS G12C-mutated NSCLC patients
+with stable, adequately treated brain metastases (n=42).*
+  * Median follow-up time was 15.4 months.
+  * Data cutoff: December 31, 2021
+
+INTRACRANIAL DCR IN PATIENTS WITH
+BRAIN METASTASES: **85%** (n=33; 95% CI: 68-95)¹
+
+**[Visual element: A vertical blue box labeled "CATEGORY 2A NCCN RECOMMENDED" with two bullet points next to it. Below this, there's additional descriptive text.]**
+NCCN Guidelines for CNS
+cancers recommend
+adagrasib (KRAZATI) as a
+systemic therapy option
+for patients with KRAS
+G12C-mutated advanced
+NSCLC with brain
+metastases (Category
+2A).³²
+
+Patients identified by BICR as having brain metastases at baseline were evaluated by mRANO-BM;
+33 were considered radiographically evaluable (ie, with ≥1 on-study scan).†
+INTRACRANIAL ORR AND DCR CANNOT BE ATTRIBUTED TO KRAZATI ALONE, GIVEN BRAIN METASTASES WERE PREVIOUSLY
+TREATED, SOME WITH RECENT PRIOR RADIATION. THESE RESULTS SHOULD BE INTERPRETED WITH CAUTION.
+
+*Patients were eligible if brain metastases were adequately treated (eg, with radiation, surgery) ≥4 weeks prior to enrollment without the use of corticosteroids or were on a stable or decreasing dose of
+≤10 mg daily prednisone (or equivalent).
+†Modifications to RANO-BM included ≥5 mm lesions, corticosteroid use, and neurologically stable patients. BICR=blinded independent central review; CI=confidence interval; CNS=central nervous system; DCR=disease control rate; ECOG PS=Eastern Cooperative Oncology Group Performance Status; mRANO-BM=modified
+Response Assessment in Neuro-Oncology Brain Metastases; NCCN=National Comprehensive Cancer Network; NSCLC=non-small cell lung cancer; ORR=objective response rate.
+
+**[Visual element: A horizontal line with a vertical indicator pointing up, suggesting an expandable/collapsible section. "IMPORTANT SAFETY INFORMATION" is written on the left side of this line, and a green button labeled "SAFETY →" is on the right.]**
+
+**WARNINGS AND PRECAUTIONS**
+
+**Gastrointestinal Adverse Reactions**
+*   KRAZATI can cause severe gastrointestinal adverse reactions.
+*   Monitor and manage patients using supportive care, including antidiarrheals, antiemetics, or
+    fluid replacement, as indicated. Withhold, reduce the dose, or permanently discontinue
+    KRAZATI based on severity.
+
+**QTc Interval Prolongation**
+*   KRAZATI can cause QTc interval prolongation, which can increase the risk for ventricular
+    tachyarrhythmias (eg, torsades de pointes) or sudden death.
+*   Avoid concomitant use of KRAZATI with other products with a known potential to prolong the
+    QTc interval. Avoid use of KRAZATI in patients with congenital long QT syndrome and in
+    patients who are taking medications that are known to prolong the QT interval.
+*   Monitor ECGs and electrolytes prior to starting KRAZATI, during concomitant use, and as
+    clinically indicated. Correct hypokalemia, hypomagnesemia, and hypercalcemia prior to and
+    during KRAZATI treatment. Withhold, reduce the dose, or permanently discontinue KRAZATI,
+    depending on severity.
+
+**Hepatotoxicity**
+*   KRAZATI can cause hepatotoxicity, which may lead to drug-induced liver injury and
+    hepatitis.
+*   Monitor liver laboratory tests (AST, ALT, alkaline phosphatase, and total bilirubin) prior to
+    the start of KRAZATI, and monthly for 3 months or as clinically indicated, with more
+    frequent testing in patients who develop transaminase elevations. Reduce the dose,
+    withhold, or permanently discontinue KRAZATI based on severity.
+
+**Interstitial Lung Disease/Pneumonitis**
+*   KRAZATI can cause interstitial lung disease (ILD)/pneumonitis, which can be fatal.
+*   Monitor patients for new or worsening respiratory symptoms indicative of ILD/pneumonitis
+    (eg, dyspnea, cough, fever) during treatment with KRAZATI.
+*   Withhold KRAZATI in patients with suspected ILD/pneumonitis and permanently
+    discontinue KRAZATI if no other potential causes of ILD/pneumonitis are identified.
+
+**ADVERSE REACTIONS**
+*   The most common adverse reactions in NSCLC patients (≥20%) are diarrhea, nausea,
+    vomiting, musculoskeletal pain, hepatotoxicity, renal impairment, dyspnea, edema,
+    decreased appetite, cough, pneumonia, dizziness, constipation, abdominal pain, and QTc
+    interval prolongation.
+
+**USE IN SPECIFIC POPULATIONS**
+**Females and Males of Reproductive Potential**
+*   Infertility: Based on findings from animal studies, KRAZATI may impair fertility in females
+    and males of reproductive potential.
+
+Please see Full Prescribing Information.
+
+**INDICATION**
+
+KRAZATI is indicated for the treatment of adult patients with KRAS G12C-mutated
+non-small cell lung cancer (NSCLC), as determined by an FDA-approved test, who have
+received at least one prior systemic therapy.
+
+This indication is approved under accelerated approval based on objective
+response rate (ORR) and duration of response (DOR). Continued approval for this
+indication may be contingent upon verification and description of a clinical
+benefit in a confirmatory trial(s).
+
+**[Logo: Bristol Myers Squibb®]**
+
+© 2024 Mirati Therapeutics, Inc., a Bristol Myers Squibb company.
+KRAZATI® and the related logo are registered trademarks of Mirati Therapeutics, Inc.
+US-KRA-22-00152 v8 8/24
+
+LEGAL NOTICE | PRIVACY POLICY | YOUR PRIVACY CHOICES [Visual element: A blue icon depicting a circle with a checkmark and two arrows, commonly used for privacy choices/opt-out options.]
+This website is intended for U.S. residents 18 years of age or older.

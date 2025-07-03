@@ -1,0 +1,59 @@
+=== PAGE 23 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+The following is the extracted text content from the PDF page, preserving its original layout and structure:
+
+[A horizontal blue bar spans the top of the page, with a vertical pink bar extending down the left side. The title text is centered within the blue bar.]
+
+Phase 3: Pearl Index and Contraceptive Efficacy
+
+[The main content is presented in two columns of information, structured using boxes and text labels.]
+
+[Left Column]
+
+                                                 US/CA
+                                                 (N = 1,524)
+                                                 16-35 years
+
+    At Risk Cycles                           12,763 cycles
+
+    PRIMARY ENDPOINT¹
+
+    Pregnancies, n                           26
+
+    Pearl Index                              2.65
+
+    PEARL INDEX BY BMI COHORT¹
+
+    BMI <30.0 kg/m²                          2.57
+
+    BMI 30.0 to 35.0 kg/m²                   2.94
+
+[Right Column]
+
+                                                 CONTRACEPTIVE EFFICACY
+                                                 98%²
+
+                                                 NEXTSTELLIS was effective in preventing pregnancy
+                                                 (Life Table Calculation)
+
+                                                 EFFECTIVE
+                                                 ACROSS A RANGE OF
+                                                 BODY WEIGHTS¹
+                                                 NEXTSTELLIS may be less effective in females with a BMI ≥30 kg/m²,
+                                                 decreasing effectiveness may be
+                                                 associated with increasing BMI.
+
+[At the bottom of the page, aligned with the bottom of the pink bar on the left:]
+
+22
+
+[To the right of the pink bar, a company logo is present.]
+
+[Image: A circular black logo with the word "maynepharma" in white text. This is the Mayne Pharma company logo.]
+
+BMI, body mass index.
+References: 1. NEXTSTELLIS [package insert]. Raleigh, NC: Mayne Pharma; 2022. 2. Data on file. Raleigh, NC: Mayne Pharma LLC.
+
+                                                                      Full Prescribing Information is available at www.Nextstellis.com

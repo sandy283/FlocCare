@@ -1,0 +1,61 @@
+=== PAGE 7 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Mandy Edwards
+Mayne Pharma LLC
+NDA 214154/ MA 107
+                                                                                                  Page 7
+
+Second, the speaker deck claims that estetrol has “minimal to no impact on...Cholesterol...
+Triglycerides...Glucose.” This claim misleadingly minimizes the risks associated with
+Nextstellis regarding reduced glucose tolerance and hypertriglyceridemia (high triglycerides),
+including patients with prediabetes, diabetes, hypertriglyceridemia or family history of
+hypertriglyceridemia. This is especially concerning because, according to the WARNINGS
+AND PRECAUTIONS section of the PI, Section 5.8, patients using Nextstellis should be
+carefully monitored for prediabetes and diabetes as Nextstellis may decrease glucose
+tolerance. This can lead to an increase of glucose (sugar) in the body and may result in
+additional comorbidities if not appropriately treated. Furthermore, Section 5.8 also states that
+patients with, or who have a family history of, hypertriglyceridemia are at an increase in
+serum triglyceride concentrations when using Nextstellis, which may increase the risk of
+pancreatitis. In addition, the PI states that females with hypertriglyceridemia are advised to
+consider alternative contraception.
+
+Third, the speaker deck claims that estetrol has “minimal to no impact on . . . clotting factors.”
+This misleadingly minimizes the risk of thromboembolic disorders and other vascular
+problems. According to the CONTRAINDICATIONS section of the PI, Nextstellis is
+contraindicated in patients with a history of, increased risk for, or current arterial or venous
+thrombotic/thromboembolic diseases. In addition, according to the WARNINGS AND
+PRECAUTIONS section of the PI, Section 5.1, Nextstellis is associated with an increased
+risk for cardiovascular, cerebrovascular, and venous thromboembolic events and should be
+discontinued if such arterial or venous thrombotic/thromboembolic events occur.⁵ Moreover,
+certain precautions must be taken when using Nextstellis to help prevent these disorders,
+such as discontinuing use during prolonged immobilization.
+
+While references⁶ are cited for these claims on slides 10, 11 and 41, none of these
+references support clinical conclusions about the effect of Nextstellis on the liver. These
+references include preclinical studies that are based on *in vitro* and *in vivo* animal data, a
+review of *in vitro* studies for ERα, an educational review of estetrol and a review of the
+mechanisms regulating ER-mediated responses, none of which support clinical conclusions
+in humans regarding Nextstellis’ safety profile associated with the liver. Furthermore, the
+phase 3 studies conducted in support of the approval of Nextstellis (C301 and C302) were
+not designed to support conclusions regarding Nextstellis’ impact on specific tissues/organs.
+Therefore, these references do not support the claims that Nextstellis has a “minimal effect
+on the liver” or a “minimal downstream impact on liver parameters.”
+
+Slide 27 of the slide deck includes a presentation of adverse reactions, along with the claim,
+“Adverse Reactions (ARs) include all Adverse Events (AEs) reported…whether drug related
+_______________________________________
+⁵ Changes in hemostatic parameters are consistent with the known prothrombotic effects of estrogens, and
+clinically significant venous thromboemboli were observed in the clinical development program for Nextstellis.
+⁶ Abot A, Fontaine C, Buscato M, et al. The uterine and vascular actions of estetrol delineate a distinctive profile
+of estrogen receptor α modulation, uncoupling nuclear and membrane activation. EMBO Mol Med. 2014 Oct;
+6(10):1328-46; Arnal JF, Lenfant F, Metivier R, et al. Membrane and Nuclear Estrogen Receptor Alpha Actions:
+From Tissue Specificity to Medical Implications. Physiol Rev. 2017 Jul 1;97(3):1045-1087; Foidart JM, Gaspard
+U, Pequeux C, et al. Sex Steroids' Effects on Brain, Heart and Vessels: Volume 6: Frontiers in Gynecological
+Endocrinology: Unique Vascular Benefits of Estetrol, A Native Fetal Estrogen with Specific Actions in Tissues
+(NEST). International Society of Gynecological Endocrinology 2019: 169-195; Moggs JG, Orphanides G.
+Estrogen receptors: orchestrators of pleiotropic cellular responses. EMBO Rep. 2001 Sep;2(9):775-81; Clinical
+study report MITEs0001-C302.
+
+Reference ID: 5580097

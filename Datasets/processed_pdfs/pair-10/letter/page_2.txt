@@ -1,0 +1,62 @@
+=== PAGE 2 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Catherine Maher
+Evofem Biosciences
+NDA 208352/ MA 176
+
+                                                                                                       Page 2
+
+vulvovaginal discomfort, bacterial vaginosis, vaginal discharge, genital discomfort, dysuria,
+and vulvovaginal pain.
+
+False or Misleading Benefit Presentation
+
+Prescription drug advertisements and labeling (promotional communications) misbrand a
+drug if they are false or misleading with respect to benefits. The determination of whether a
+promotional communication is misleading includes, among other things, not only
+representations made or suggested in the promotional communication, but also the extent to
+which the promotional communication fails to reveal facts material in light of the
+representations made or with respect to consequences that may result from the use of the
+drug as recommended or suggested in the promotional communication.
+
+Page three of the brochure includes the following claims regarding the efficacy of Phexxi
+(bolded emphasis original; underlined emphasis added):
+
+        And in a separate analysis 99% of pregnancies were prevented per act of sex
+        (101 pregnancies over 24,289 acts of sex).
+
+        Since Phexxi is an on-demand birth control, during the clinical trial, the
+        effectiveness of Phexxi was also looked at each time Phexxi was used (per act of
+        sex). This means Phexxi prevented pregnancy 99% of the time.”
+
+These claims create a misleading impression by overstating the efficacy of Phexxi. The 99%
+pregnancy prevention rate claimed in the brochure is based on efficacy “per act of sex” which
+is not a validated measure to demonstrate the efficacy of contraceptive products. Specifically,
+this methodology incorrectly assumes that the likelihood of becoming pregnant is the same
+with each act of sex throughout the menstrual cycle. However, conception depends on the
+timing of intercourse in relation to ovulation, which is referred to as the fertile window.²
+Calculating the overall likelihood of pregnancy per act of intercourse does not take into
+account the fact that the likelihood of pregnancy is not the same throughout the menstrual
+cycle and is significantly lower during time points outside the fertile window. Therefore,
+calculating the pregnancy prevention rate based on “per act of sex” misleadingly
+overestimates the effect of Phexxi on pregnancy prevention.
+
+In contrast the endpoints used to evaluate the efficacy of Phexxi in preventing pregnancy, as
+described in the PI (a Kaplan-Meier life-table analysis and the Pearl Index), analyze
+cumulative failure rates over specific lengths of exposure, rather than a failure rate based on
+individual acts of intercourse. The 7-cycle typical use cumulative pregnancy rate as derived
+by Kaplan-Meier life-table analysis was 13.7% (95% CI: 10.0%, 17.5%), excluding cycles with
+back-up contraception, cycles <21 days or >35 days in length and cycles in which no
+intercourse was reported. This corresponds with an 86% cumulative pregnancy prevention
+rate. The PI also reports the estimated Pearl Index³, calculated based on data from the 7-
+
+² Wilcox et al (1995) demonstrated that conception only occurred when intercourse took place during a six-day
+period that ended on the estimated day of ovulation. See Wilcox AJ, Weinberg CR, Baird DD. Timing of sexual
+intercourse in relation to ovulation. Effects on the probability of conception, survival of the pregnancy, and sex of
+the baby. N Engl J Med. 1995;333(23):1517-1521.
+³ The Pearl Index is defined as the number pregnancies per 100 women-with their first year of typical method
+use. A low Pearl Index is associated with fewer pregnancies. See https://www.fda.gov/media/150299/download.
+
+Reference ID: 5270201

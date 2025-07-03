@@ -1,0 +1,1482 @@
+=== PAGE 1 ===
+
+ 
+Guidance for Industry 
+Internet/Social Media Platforms with 
+Character Space Limitations— 
+Presenting Risk and Benefit Information 
+for Prescription Drugs and Medical 
+Devices 
+ 
+ 
+DRAFT GUIDANCE 
+ 
+This guidance document is being distributed for comment purposes only. 
+ 
+Comments and suggestions regarding this draft document should be submitted within 90 days of 
+publication in the Federal Register of the notice announcing the availability of the draft guidance.  
+Submit electronic comments to http://www.regulations.gov.  Submit written comments to the Division 
+of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, 
+Rockville, MD, 20852.  All comments should be identified with the docket number listed in the notice 
+of availability that publishes in the Federal Register. 
+ 
+For questions regarding this draft document, contact (CDER) Jean-Ah Kang at 301-796-1200; (CBER) 
+Office of Communication, Outreach and Development at 800-835-4709 or 240-402-7800; (CVM) 
+Dorothy McAdams at 240-453-6802; or (CDRH) Deborah Wolf at 301-796-5732. 
+ 
+ 
+ 
+U.S. Department of Health and Human Services 
+Food and Drug Administration 
+Center for Drug Evaluation and Research (CDER) 
+Center for Biologics Evaluation and Research (CBER) 
+Center for Veterinary Medicine (CVM) 
+Center for Devices and Radiological Health (CDRH) 
+ 
+June 2014 
+Advertising
+
+
+=== PAGE 2 ===
+
+ 
+ 
+Guidance for Industry 
+Internet/Social Media Platforms with 
+Character Space Limitations—
+Presenting Risk and Benefit Information 
+for Prescription Drugs and Medical 
+Devices 
+ 
+Additional copies are available from: 
+ 
+Office of Communications, Division of Drug Information 
+Center for Drug Evaluation and Research 
+Food and Drug Administration 
+10903 New Hampshire Ave., Bldg. 51, rm. 2201 
+Silver Spring, MD 20993-0002 
+Tel: 301-796-3400; Fax: 301-847-8714; 
+E-mail: druginfo@fda.hhs.gov 
+http://www.fda.gov/Drugs/GuidanceComplianceRegulator
+yInformation/Guidances/default.htm 
+Communications Staff (CVM) 
+Center for Veterinary Medicine 
+Food and Drug Administration 
+7519 Standish Place, HFV-12 
+Rockville, MD 20855 
+Tel: 240-276-9300; 
+E-mail: AskCVM@fda.hhs.gov 
+http://www.fda.gov/AnimalVeterinary/GuidanceComplianceE
+nforcement/GuidanceforIndustry/default.htm 
+ 
+Office of Communication, Outreach and Development  
+Center for Biologics Evaluation and Research 
+Food and Drug Administration 
+10903 New Hampshire Ave., WO71, Room 3128 
+Silver Spring, MD 20993 
+Tel: 800-835-4709 or 240-402-7800;  
+E-mail: ocod@fda.hhs.gov 
+http://www.fda.gov/BiologicsBloodVaccines/GuidanceCo
+mplianceRegulatoryInformation/default.htm 
+Office of the Center Director 
+Guidance and Policy Development 
+Center for Devices and Radiological Health 
+Food and Drug Administration 
+10903 New Hampshire Ave., Bldg. 66, rm. 5431 
+Silver Spring, MD 20993-0002 
+Tel: 301-796-5900; 
+E-mail: CDRH-Guidance@fda.hhs.gov 
+http://www.fda.gov/MedicalDevices/DeviceRegulationandGu
+idance/GuidanceDocuments/default.htm 
+ 
+ 
+U.S. Department of Health and Human Services 
+Food and Drug Administration 
+Center for Drug Evaluation and Research (CDER) 
+Center for Biologics Evaluation and Research (CBER) 
+Center for Veterinary Medicine (CVM) 
+Center for Devices and Radiological Health (CDRH) 
+ 
+June 2014 
+Advertising
+
+
+=== PAGE 3 ===
+
+Contains Nonbinding Recommendations 
+Draft – Not for Implementation 
+ 
+TABLE OF CONTENTS 
+ 
+I. 
+INTRODUCTION……………………………………………………………………………..1 
+ 
+II. 
+BACKGROUND……………………………………………………………………………….2 
+ 
+III. 
+OVERVIEW OF FDA’S POLICY ON PRESENTING RISK AND BENEFIT 
+INFORMATION ON INTERNET/SOCIAL MEDIA PLATFORMS WITH 
+CHARACTER SPACE LIMITATIONS……………………………………………………..5 
+ 
+IV. 
+GENERAL FACTORS CONSIDERED IN THE COMMUNICATION OF BENEFIT 
+INFORMATION ON INTERNET/SOCIAL MEDIA PLATFORMS WITH 
+CHARACTER SPACE LIMITATIONS……………………………………………………..6 
+ 
+V. 
+FACTORS CONSIDERED IN THE DISCLOSURE OF RISK INFORMATION ON 
+INTERNET/SOCIAL MEDIA PLATFORMS WITH CHARACTER SPACE 
+LIMITATIONS………………………………………………………………………………...8 
+ 
+VI. 
+RECOMMENDATIONS FOR THE INCLUSION OF OTHER PRODUCT 
+INFORMATION ON INTERNET/SOCIAL MEDIA PLATFORMS WITH 
+CHARACTER SPACE LIMITATIONS……………………………………………………13 
+
+
+=== PAGE 4 ===
+
+Contains Nonbinding Recommendations 
+Draft – Not for Implementation 
+1 
+Guidance for Industry1 
+1 
+ 
+2 
+Internet/Social Media Platforms with Character Space Limitations— 
+3 
+Presenting Risk and Benefit Information for Prescription Drugs and Medical 
+4 
+Devices 
+5 
+  
+6 
+ 
+7 
+This draft guidance, when finalized, will represent the Food and Drug Administration’s (FDA’s or 
+8 
+Agency’s) current thinking on this topic.  It does not create or confer any rights for or on any 
+9 
+person and does not operate to bind FDA or the public.  You may use an alternative approach if the 
+10 
+approach satisfies the requirements of the applicable statutes and regulations.  If you want to 
+11 
+discuss an alternative approach, contact the FDA staff responsible for implementing this guidance.  
+12 
+If you cannot identify the appropriate FDA staff, call the appropriate number listed on the title 
+13 
+pages of this guidance. 
+14 
+ 
+15 
+ 
+16 
+I. 
+INTRODUCTION 
+17 
+ 
+18 
+This draft guidance is intended to describe FDA’s current thinking about how manufacturers, 
+19 
+packers, and distributors (firms) of prescription human and animal drugs (drugs) and medical 
+20 
+devices for human use (devices)2 that choose to present benefit information should present both 
+21 
+benefit and risk information within advertising and promotional labeling (sometimes collectively 
+22 
+referred to in this guidance document as “promotion”) of their FDA-regulated medical products on 
+23 
+electronic/digital platforms that are associated with character space limitations—specifically on the 
+24 
+Internet and through social media or other technological venues (Internet/social media).   Examples 
+25 
+of Internet/social media platforms with character space limitations include online microblog 
+26 
+messaging (e.g., messages on Twitter or “tweets,” which are currently limited to 140 character 
+27 
+spaces per tweet) and online paid search (e.g., “sponsored links” on search engines such as Google 
+28 
+and Yahoo, which have limited character spaces as well as other platform-imposed 
+29 
+                                                 
+1 This draft guidance has been prepared by the Office of Prescription Drug Promotion (OPDP) in the Center for Drug 
+Evaluation and Research (CDER) in consultation with the Center for Biologics Evaluation and Research (CBER), the 
+Center for Veterinary Medicine (CVM), and the Center for Devices and Radiological Health (CDRH). 
+2 The recommendations in this draft guidance also apply to biological products that are approved for marketing under 
+section 351 of the Public Health Service Act (PHS Act).  Because each biological product also meets the definition of 
+“drug” or “device” under the Federal Food, Drug, and Cosmetic Act (FD&C Act), it is also subject to regulation under 
+provisions of the FD&C Act applicable to drugs or devices, as well as the regulations implementing these provisions, 
+except that a biological product licensed under section 351 of the PHS Act is not required to have an approved new 
+drug application under section 505 of the FD&C Act (21 U.S.C. 355).  See PHS Act section 351(j) (42 U.S.C. 262(j)).  
+References to “drugs” and “devices” in this guidance therefore also include biological products that fall within each of 
+those definitions.  The recommendations in this draft guidance do not apply to veterinary biological products regulated 
+under the Virus-Serum-Toxin Act (21 U.S.C. 151, et seq.) by the U.S. Department of Agriculture.  This draft guidance 
+does not address devices solely intended for use in animals. 
+
+
+=== PAGE 5 ===
+
+Contains Nonbinding Recommendations 
+Draft – Not for Implementation  
+ 
+ 
+2 
+considerations).3  This draft guidance presents considerations to illustrate FDA’s thinking on 
+30 
+factors that are relevant to the communication of benefit and risk information on Internet/social 
+31 
+media platforms with character space limitations.4 
+32 
+ 
+33 
+Please note that this draft guidance does not address promotion via product websites, webpages on 
+34 
+social media networking platforms (e.g., individual product pages on websites such as Facebook, 
+35 
+Twitter, YouTube), and online web banners, as the Agency believes that these specific types of 
+36 
+Internet/social media platforms do not impose the same character space constraints as online 
+37 
+microblog messaging and online paid search.  This draft guidance also does not address responsive 
+38 
+web design or other technology-specific layout features that may result in product promotion 
+39 
+presentations that differ depending on the technology used to view them (e.g., desktop computer 
+40 
+monitors, mobile devices, tablets). 
+41 
+ 
+42 
+FDA’s guidance documents, including this draft guidance, do not establish legally enforceable 
+43 
+rights or responsibilities.  Instead, guidances describe the Agency’s current thinking on a topic and 
+44 
+should be viewed only as recommendations, unless specific regulatory or statutory requirements 
+45 
+are cited.  The use of the word should in Agency guidances means that something is suggested or 
+46 
+recommended, but not required. 
+47 
+ 
+48 
+II. 
+BACKGROUND 
+49 
+ 
+50 
+Under the Federal Food, Drug, and Cosmetic Act (FD&C Act), the Agency has responsibility for 
+51 
+regulating the manufacture, sale, and distribution of drugs and medical devices in the United 
+52 
+States.  This authority includes oversight of the labeling of drugs and medical devices (21 U.S.C. 
+53 
+352(a)) and the advertising of prescription drugs and restricted medical devices (21 U.S.C. 352(n), 
+54 
+(q), and (r)).5 
+55 
+ 
+56 
+Section 201(m) of the FD&C Act defines labeling as “all labels and other written, printed, or 
+57 
+graphic matter (1) upon any article or any of its containers or wrappers, or (2) accompanying such 
+58 
+article” (21 U.S.C. 321(m)).6  The U.S. Supreme Court has explained that the language 
+59 
+“accompanying such article” in the “labeling” definition is interpreted broadly, to include materials 
+60 
+that supplement or explain an article.  No physical attachment between the materials and the article 
+61 
+is necessary; rather, it is the textual relationship between the items that is significant (Kordel v. 
+62 
+                                                 
+3 While online microblog messaging and online paid search examples are specifically illustrated within this draft 
+guidance, FDA’s recommendations may also apply to advertising and promotional labeling on other types of 
+Internet/social media platforms with character space limitations. 
+4 This guidance document focuses on use of character-space-limited platforms by firms to make claims about their 
+legally marketed drugs and devices that are consistent with their approved or required labeling.  Representations by a 
+firm in character-space-limited platforms may also provide evidence of the intended use of the product, but that issue 
+is not the focus of this draft guidance. 
+5 Devices may become restricted by regulation issued under section 520(e) of the FD&C Act (21 U.S.C. 360j(e)), by 
+performance standard issued pursuant to section 514(a)(2)(B)(v) (21 U.S.C. 360d(a)(2)(B)(v)), or by order approving 
+an application for premarket approval (i.e., a PMA) pursuant to section 515(d)(1)(B)(ii) (21 U.S.C. 360e(d)(1)(B)(ii)). 
+6 See also 21 CFR 1.3(a). 
+
+
+=== PAGE 6 ===
+
+Contains Nonbinding Recommendations 
+Draft – Not for Implementation  
+ 
+ 
+3 
+United States, 335 U.S. 345, 350 (1948)).  FDA generally recognizes two types of labeling:  (1) 
+63 
+FDA-required labeling7 and (2) promotional labeling.  Promotional labeling is generally any 
+64 
+labeling, other than the FDA-required labeling, that is devised for promotion of the product.  
+65 
+Examples of materials that may be considered promotional labeling pieces for prescription drugs 
+66 
+are described in 21 CFR 202.1(l)(2).  The scope of labeling for prescription medical devices is 
+67 
+described in 21 CFR 801.109. 
+68 
+ 
+69 
+The FD&C Act does not define what constitutes an “advertisement,” but FDA regulations provide 
+70 
+several examples, including “advertisements in published journals, magazines, other periodicals, 
+71 
+and newspapers, and advertisements broadcast through media such as radio, television, and 
+72 
+telephone communication systems” (21 CFR 202.1(l)(1)). 
+73 
+ 
+74 
+Under the FD&C Act and FDA's implementing regulations, promotional labeling for drugs and 
+75 
+devices and advertisements for prescription drugs and restricted devices misbrand the product if 
+76 
+they make representations about the use of a firm’s product without disclosing certain information 
+77 
+about the product’s risk (FD&C Act sections 502(a)(n)(q)(r), 201(n); 21 CFR 1.21(a); 21 CFR 
+78 
+201.1).  When using Internet/social media platforms with character space limitations for product 
+79 
+promotion, firms should consider the following provisions8: 
+80 
+ 
+81 
+• Any promotional labeling for a drug or device must be truthful and non-misleading (FD&C 
+82 
+Act sections 502(a), 201(n)). 
+83 
+ 
+84 
+• Any promotional labeling that makes claims about a firm’s prescription drug or prescription 
+85 
+device must include certain information, such as the indicated use of the product and the risks 
+86 
+associated with use of the product (21 CFR 201.100(d), 201.105(d) and 801.109(d)). 
+87 
+ 
+88 
+• Pursuant to section 502(c) for drugs and devices, information required to appear on the label or 
+89 
+labeling must be placed prominently thereon with such conspicuousness and in such terms as 
+90 
+to render it likely to be read and understood by the ordinary individual under customary 
+91 
+conditions of purchase and use. 
+92 
+ 
+93 
+                                                 
+7 Much FDA-required labeling is subject to FDA review and approval.  For example, after drafting by the 
+manufacturer, labeling is reviewed and approved by FDA as part of the new drug application (NDA), new animal drug 
+application (NADA), biologics license application (BLA) or premarket approval application (PMA) review (see 21 
+CFR 314.50(c)(2), 514.1(b)(3), 601.2(a), 814.20(b)(10) and 814.44(d)).  For devices that are subject to premarket 
+notification (510(k)) requirements, the 510(k) must contain the proposed labeling sufficient to describe the device, its 
+intended use, and the directions for its use (21 CFR 807.87(e)).  All devices, including those exempt from premarket 
+review, are subject to the requirements of applicable labeling regulations, including requirements for adequate 
+directions for use (see 21 CFR Part 801).  For a prescription drug or prescription device to be exempted from the 
+FD&C Act’s requirement of adequate directions for use (21 U.S.C. 352(f)(1)), its FDA-required labeling must contain, 
+among other information, information addressing product hazards and other risk information, as specified in FDA 
+regulations (21 CFR 201.100(d)(1), (3), 201.105(c)(1), and 801.109). 
+8 This is not an exhaustive list. 
+
+
+=== PAGE 7 ===
+
+Contains Nonbinding Recommendations 
+Draft – Not for Implementation  
+ 
+ 
+4 
+• Any advertising that makes representations about the use of a firm’s prescription drug must 
+94 
+include certain risk information (FD&C Act section 502(n); 21 CFR 202.1).9  Similarly, 
+95 
+section 502(r) of the FD&C Act requires a “brief statement of intended uses” and relevant risk 
+96 
+information in restricted-device advertising.  Section 502(q) of the FD&C Act provides that 
+97 
+restricted-device advertising that “is false or misleading in any particular” misbrands the 
+98 
+device.  Note that “reminder” promotion, which calls attention to the name of a product but 
+99 
+does not make any representations or suggestions about the product, is exempt from many of 
+100 
+these labeling and advertising disclosure requirements (21 CFR 200.200, 201.100(f), 
+101 
+201.105(d)(2), 202.1(e)(2)(i), 801.109(d)).10 
+102 
+ 
+103 
+• Prescription drug advertisements must present a fair balance between information relating to 
+104 
+risk and information relating to benefit (21 CFR 202.1(e)(5)(ii)).  In addition, risk information 
+105 
+must be presented with a prominence and readability reasonably comparable to claims about 
+106 
+drug benefits (21 CFR 202.1(e)(7)(viii)). 
+107 
+ 
+108 
+• Furthermore, for prescription drug advertisements to be truthful and non-misleading, they must 
+109 
+contain risk information in each part, as necessary, to qualify any representations and/or 
+110 
+suggestions made in that part about the drug.  The risk information may be concise if 
+111 
+supplemented by a prominent reference to the presence and location elsewhere in the 
+112 
+advertisement of a more complete discussion (21 CFR 202.1(e)(3)(i)). 
+113 
+ 
+114 
+• In addition, section 201(n) of the FD&C Act provides that in determining whether a drug or 
+115 
+device is misbranded because its labeling or advertising is misleading, it must be considered 
+116 
+whether the labeling or advertising fails to reveal facts that are material with respect to possible 
+117 
+consequences of the use of the product as represented in the labeling or advertising or under 
+118 
+conditions of use that are customary or usual. 
+119 
+ 
+120 
+Risk information should be comparable in content and prominence to benefit claims within the 
+121 
+product promotion (i.e., a balanced presentation).  Achieving a balanced presentation requires 
+122 
+firms to carefully consider the desired benefit claims and risk profiles for their products when 
+123 
+choosing a promotional platform.  FDA acknowledges that Internet/social media platforms 
+124 
+associated with character space limitations may pose challenges for firms in providing a balanced 
+125 
+presentation of both risks and benefits of medical products, as discussed above. 
+126 
+ 
+127 
+                                                 
+9 As set forth above, with regard to devices, the Agency’s authority over promotional labeling extends to all devices, 
+whereas its authority over advertising extends to restricted devices.  Regardless of the type of device, FDA encourages 
+firms to use the practices outlined in this guidance to benefit the public health. 
+10 This draft guidance does not apply to those reminder promotions (labeling or advertising that calls attention to the 
+name of a drug or device but does not include indications, dosage recommendations, or other information) that are 
+exempted by regulation from the requirements under the FD&C Act for the disclosure of risk information.  See 21 
+CFR 200.200, 201.100(f), 201.105(d)(2), 202.1(e)(2)(i), 801.109(d).  But see 21 U.S.C. 352(r) (requiring certain risk 
+information in all restricted-device advertisements). 
+
+
+=== PAGE 8 ===
+
+Contains Nonbinding Recommendations 
+Draft – Not for Implementation  
+ 
+ 
+5 
+FDA is issuing this draft guidance to aid firms in effectively communicating benefit and risk 
+128 
+information in product promotion using character-space-limited platforms such as online 
+129 
+microblog messaging and online paid search.11  However, regardless of the platform, truthful, 
+130 
+accurate, non-misleading, and balanced product promotion best serves the public health.  For some 
+131 
+products, particularly those with complex indications or extensive serious risks, character space 
+132 
+limitations imposed by platform providers may not enable meaningful presentations of both benefit 
+133 
+and risk (although they may be sufficient for “reminder” promotions—see footnote 10).  If an 
+134 
+accurate and balanced presentation of both risks and benefits of a specific product is not possible 
+135 
+within the constraints of the platform, then the firm should reconsider using that platform for the 
+136 
+intended promotional message (other than for permitted reminder promotion). 
+137 
+ 
+138 
+III. 
+OVERVIEW OF FDA’S POLICY ON PRESENTING RISK AND BENEFIT 
+139 
+INFORMATION ON INTERNET/SOCIAL MEDIA PLATFORMS WITH 
+140 
+CHARACTER SPACE LIMITATIONS 
+141 
+ 
+142 
+Regardless of character space constraints that may be present on certain Internet/social media 
+143 
+platforms, if a firm chooses to make a product benefit claim, the firm should also incorporate risk 
+144 
+information within the same character-space-limited communication.  The firm should also 
+145 
+provide a mechanism to allow direct access to a more complete discussion of the risks associated 
+146 
+with its product. 
+147 
+ 
+148 
+Section IV discusses general factors that firms should consider in the communication of benefit 
+149 
+information on Internet/social media platforms with character space limitations, which directly 
+150 
+impacts the communication of risk information.  Section V explains in detail the factors that FDA 
+151 
+considers in the disclosure of risk information on Internet/social media platforms with character 
+152 
+space limitations.  Section VI provides firms with additional recommendations for the inclusion of 
+153 
+other product information (including certain required product information other than risk/benefit 
+154 
+information, as applicable) on Internet/social media platforms with character space limitations. 
+155 
+ 
+156 
+Please note that sections IV, V, and VI provide hypothetical examples12 that, when taken in 
+157 
+totality, illustrate FDA’s recommendations for how firms may disseminate product promotion on 
+158 
+Internet/social media platforms with character space limitations.  The examples build on the 
+159 
+considerations set forth from the previous section and are numbered accordingly to identify related 
+160 
+examples (e.g., examples 1A, 1B, and 1C are related to the same hypothetical product—example 
+161 
+1A incorporates benefit information, example 1B adds risk information to example 1A, and 
+162 
+example 1C provides additional recommendations for examples 1A and 1B to illustrate, in totality, 
+163 
+                                                 
+11 CDER’s OPDP, formerly known as the Division of Drug Marketing, Advertising, and Communications (DDMAC), 
+issued 14 enforcement letters involving sponsored link promotion on Apr 2, 2009 (see FDA’s enforcement website 
+available at 
+http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/EnforcementActivitiesbyFDA/WarningLetters
+andNoticeofViolationLetterstoPharmaceuticalCompanies/ucm055773.htm). 
+12 The hypothetical examples involve fictitious products and are not an endorsement of the fictitious product names.  
+
+
+=== PAGE 9 ===
+
+Contains Nonbinding Recommendations 
+Draft – Not for Implementation  
+ 
+ 
+6 
+a final example of promotion on an Internet/social media platform with character space limitations 
+164 
+to which the Agency would not intend to object). 
+165 
+ 
+166 
+FDA recommends that firms first carefully consider the complexity of the indication and risk 
+167 
+profiles for each of their products to determine whether a character-space-limited platform is a 
+168 
+viable promotional tool for a particular product, and then take the factors, recommendations, and 
+169 
+hypothetical examples outlined in this guidance document into account when developing benefit 
+170 
+and risk presentations.  The public health is best served when risk and effectiveness information 
+171 
+about drug and device products is clearly and accurately communicated. 
+172 
+ 
+173 
+IV. 
+GENERAL FACTORS CONSIDERED IN THE COMMUNICATION OF BENEFIT 
+174 
+INFORMATION ON INTERNET/SOCIAL MEDIA PLATFORMS WITH 
+175 
+CHARACTER SPACE LIMITATIONS 
+176 
+ 
+177 
+When the Agency evaluates advertising and promotional labeling for compliance with the FD&C 
+178 
+Act and FDA’s implementing regulations, it determines whether claims about both the benefits and 
+179 
+risks of the product are accurate and non-misleading.  The Agency also looks at whether benefits 
+180 
+and risks are presented in a comparably prominent manner (as outlined above in section II).  Thus, 
+181 
+considerations involving the content and format of benefit information are an inherent part of 
+182 
+FDA’s evaluation of risk presentations on Internet/social media platforms. 
+183 
+ 
+184 
+In communicating benefit information on Internet/social media platforms with character space 
+185 
+limitations, firms should consider the following points: 
+186 
+ 
+187 
+1. Benefit information should be accurate and non-misleading and reveal material facts within 
+188 
+each individual character-space-limited communication (e.g., each individual message or 
+189 
+tweet). 
+190 
+ 
+191 
+When communicating benefit information about its product, a firm should ensure that benefit 
+192 
+information is accurate and non-misleading.  In doing so, the firm should also reveal material facts 
+193 
+about the use of its product, such as limitations to an indication or the relevant patient population. 
+194 
+For example, a firm should refer to the “Indications and Usage” portion of the Highlights of 
+195 
+Prescribing Information that is available for many human prescription drugs to help determine 
+196 
+what information to convey, although the firm is generally not required to use the precise wording 
+197 
+found there.  Labeling for an approved premarket approval application (PMA) for class III medical 
+198 
+devices or use information consistent with a cleared intended use for 510(k) medical devices 
+199 
+provides the basis for the benefit information related to devices.  Such information would include 
+200 
+material facts that the firm should present within the individual character-space-limited 
+201 
+communication because, without doing so, the benefit information in totality may be misleading. 
+202 
+ 
+203 
+2. Benefit information should be accompanied by risk information within each individual 
+204 
+character-space-limited communication. 
+205 
+ 
+206 
+
+
+=== PAGE 10 ===
+
+Contains Nonbinding Recommendations 
+Draft – Not for Implementation  
+ 
+ 
+7 
+A firm should also consider whether, once benefit information is conveyed in an accurate and non-
+207 
+misleading manner, enough capacity will remain in the character-space-limited communication to 
+208 
+adequately convey required risk information.  Please refer to section V for factors firms should 
+209 
+consider in the disclosure of risk information.  In addition, a firm should consider whether enough 
+210 
+capacity will remain in the character-space-limited communication to adequately convey certain 
+211 
+other required information, as applicable.  Please refer to section VI for additional 
+212 
+recommendations firms should consider for the inclusion of other product information. 
+213 
+ 
+214 
+3. If a firm concludes that adequate benefit and risk information, as well as other required 
+215 
+information, cannot all be communicated within the same character-space-limited 
+216 
+communication, then the firm should reconsider using that platform for the intended 
+217 
+promotional message. 
+218 
+ 
+219 
+Example 1A:  A firm is considering promotion of its prescription drug NoFocus on Twitter, which 
+220 
+is limited to 140 character spaces per message or tweet.  NoFocus is indicated for mild to moderate 
+221 
+memory loss.  Any benefit information that the firm communicates about NoFocus should be 
+222 
+accurate and non-misleading and include material facts about the use of NoFocus, i.e., that it is 
+223 
+indicated for mild to moderate memory loss. 
+224 
+ 
+225 
+The firm considers including the following benefit information within the tweet [the information in 
+226 
+brackets denotes character spaces used/140 available character spaces in a tweet]: 
+227 
+ 
+228 
+NoFocus for mild to moderate memory loss [40/140] 
+229 
+ 
+230 
+The benefit information for NoFocus that is communicated within the first 40 character spaces of 
+231 
+this tweet is accurate and non-misleading and includes material facts about the indication and 
+232 
+limitations to the use of NoFocus.  The firm should consider whether the remaining 100 character 
+233 
+spaces are enough to include risk information and certain other required information, as applicable, 
+234 
+about NoFocus.  See examples 1B and 1C in sections V and VI in this draft guidance, respectively, 
+235 
+for further considerations on the disclosure of risk and other information for NoFocus within this 
+236 
+tweet.  If the firm concludes that adequate benefit and risk information, as well as other required 
+237 
+information, cannot all be communicated within the same tweet, then the firm should reconsider 
+238 
+using Twitter for the intended promotional message for NoFocus. 
+239 
+ 
+240 
+Example 2A:  A firm is considering promotion of its prescription drug Headhurtz using Google’s 
+241 
+Sitelink extensions (sponsored link promotion that contains character space limitations and specific 
+242 
+formatting requirements, sometimes referred to in this guidance document as “Sitelinks”).13  
+243 
+Headhurtz is indicated for severe headache associated with traumatic brain injury.  Any benefit 
+244 
+information that the firm communicates about Headhurtz should be accurate and non-misleading 
+245 
+                                                 
+13 The example featured in this guidance relies on one specific Google formatting option (current as of Jan 22, 2014); 
+however, it may be possible to follow the concepts outlined in this draft guidance for other types of sponsored link 
+promotion or Internet/social media platforms with character space limitations. 
+
+
+=== PAGE 11 ===
+
+Contains Nonbinding Recommendations 
+Draft – Not for Implementation  
+ 
+ 
+8 
+and include material facts about the use of Headhurtz, i.e., that it is indicated for severe headache 
+246 
+associated with traumatic brain injury. 
+247 
+ 
+248 
+The firm considers including the following benefit information within the sponsored link 
+249 
+promotion [the information in brackets denotes character spaces used/available character spaces 
+250 
+per line of the sponsored link promotion]:   
+251 
+ 
+252 
+Headhurtz [9/25] 
+253 
+ 
+www.headhurtz.com [17/35] 
+254 
+For severe headache from traumatic brain injury [47/70] 
+255 
+ 
+256 
+The benefit information for Headhurtz that is communicated within the character spaces for this 
+257 
+specific sponsored link format is accurate and non-misleading and includes material facts about the 
+258 
+indication and limitations to the use of, and the specific patient population for, Headhurtz.  The 
+259 
+firm should consider whether risk information and certain other required information, as 
+260 
+applicable, about Headhurtz can also be included within the remaining character spaces for this 
+261 
+specific sponsored link format.  See examples 2B and 2C in sections V and VI in this draft 
+262 
+guidance, respectively, for further considerations on the disclosure of risk and other information 
+263 
+for Headhurtz within this sponsored link format.  If the firm concludes that adequate benefit and 
+264 
+risk information, as well as other required information, cannot all be communicated within this 
+265 
+same sponsored link format, then the firm should reconsider using Google’s Sitelinks for the 
+266 
+intended promotional message for Headhurtz. 
+267 
+ 
+268 
+V. 
+FACTORS CONSIDERED IN THE DISCLOSURE OF RISK INFORMATION ON 
+269 
+INTERNET/SOCIAL MEDIA PLATFORMS WITH CHARACTER SPACE 
+270 
+LIMITATIONS 
+271 
+ 
+272 
+This section of the draft guidance outlines factors considered in the disclosure of risk information 
+273 
+on Internet/social media platforms with character space limitations.  As previously stated, 
+274 
+regardless of character space constraints that may be present on certain Internet/social media 
+275 
+platforms, if a firm chooses to make a product benefit claim, the firm should also incorporate risk 
+276 
+information within the same character-space-limited communication.  The firm should also 
+277 
+provide a mechanism to allow direct access to a more complete discussion of the risks associated 
+278 
+with its product. 
+279 
+ 
+280 
+In general, the Agency considers two primary factors to determine whether risk information is 
+281 
+comparable in scope to benefit information within promotional materials: (1) whether the risk 
+282 
+information qualifies any representations made about the product (i.e., content of the risk 
+283 
+information compared to content of the benefit information) and (2) whether the risk information is 
+284 
+presented with a prominence and readability comparable to the benefit claims about the product.14 
+285 
+                                                 
+14 FDA has developed separate draft guidance that, when final, will represent the Agency’s current thinking on how 
+firms should, in general, present risk information in other types of promotional materials. See the draft guidance for 
+
+
+=== PAGE 12 ===
+
+Contains Nonbinding Recommendations 
+Draft – Not for Implementation  
+ 
+ 
+9 
+ 
+286 
+However, the Agency is aware of the challenges in balancing benefit and risk information within 
+287 
+the character space constraints of certain Internet/social media platforms—particularly in terms of 
+288 
+content—because of the sheer volume of information.  The Agency believes that a concise 
+289 
+disclosure of specific risk information may be presented together with benefit information within 
+290 
+the confines of character-space-limited Internet/social media platforms if supplemented by a 
+291 
+prominent reference to the presence and location elsewhere of a more complete discussion of the 
+292 
+risks associated with the product (or for restricted-device advertising, a “brief statement” of 
+293 
+intended use and relevant risk information) and that this is consistent with requirements of the 
+294 
+FD&C Act and FDA’s implementing regulations (see section II).  These concepts are further 
+295 
+elucidated below in this section of the guidance document. 
+296 
+ 
+297 
+In communicating risk information on Internet/social media platforms with character space 
+298 
+limitations, firms should consider the following points: 
+299 
+ 
+300 
+1. Risk information should be presented together with benefit information within each individual 
+301 
+character-space-limited communication (e.g., each individual message or tweet). 
+302 
+ 
+303 
+2. The content of risk information presented within each individual character-space-limited 
+304 
+communication should, at a minimum, include the most serious risks associated with the 
+305 
+product. 
+306 
+ 
+307 
+At a minimum, a firm should communicate the most serious risks associated with the product 
+308 
+together with the benefit information within the individual character-space-limited communication.  
+309 
+For a prescription human drug, the most serious risks would generally include all risk concepts 
+310 
+from a boxed warning, all risks that are known to be fatal or life-threatening, and all 
+311 
+contraindications15 from the approved product labeling (the PI).  If a prescription human drug does 
+312 
+not have a boxed warning, fatal or life-threatening risks, or any contraindications, the most 
+313 
+significant warnings or precautions about the product should be communicated.  For animal drugs, 
+314 
+the most serious risks would include potential injury to human handlers/animal patients and risk of 
+315 
+drug residues entering the human food chain.  For devices, if a particular risk is associated with a 
+316 
+particular identifiable use or population, then each of those should be included.  The Agency 
+317 
+believes that communication of the most serious risks as outlined above would provide a concise 
+318 
+statement of risk information about the product for promotion on Internet/social media platforms 
+319 
+with character space limitations. 
+320 
+ 
+321 
+                                                                                                                                                                
+industry entitled Presenting Risk Information in Prescription Drug and Medical Device Promotion available at 
+http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM155480.pdf. 
+15 For prescription human drugs, if the only contraindication listed in the PI is hypersensitivity, the Agency would not 
+expect that contraindication to be included as part of the risk disclosure within the character-space-limited 
+communication unless there were documented cases of hypersensitivity occurring in patients who took the product. 
+
+
+=== PAGE 13 ===
+
+Contains Nonbinding Recommendations 
+Draft – Not for Implementation  
+ 
+ 
+10 
+3. A mechanism, such as a hyperlink, should also be provided within each individual character-
+322 
+space-limited communication to allow direct access to a more complete discussion of risk 
+323 
+information about the product. 
+324 
+ 
+325 
+In addition to presenting the most serious risks within the individual character-space limited 
+326 
+communication, FDA recommends that a firm also include in that communication a direct 
+327 
+hyperlink to a destination (e.g., landing page) that is devoted exclusively to the communication of 
+328 
+risk information about the product.  Examples of such landing pages providing direct and exclusive 
+329 
+access to risk information could include a website devoted to providing comprehensive risk 
+330 
+information about the product, a particular webpage within a website that is devoted to providing 
+331 
+comprehensive risk information about the product, or a portable document format (PDF) file that is 
+332 
+devoted to providing comprehensive risk information about the product.  An example that the 
+333 
+Agency would not consider to provide direct and exclusive access to risk information would 
+334 
+include a hyperlink only to a product’s home page that also includes benefit information and other 
+335 
+claims or graphics.  Firms may include supplemental hyperlinks (e.g., to a product home page, to a 
+336 
+PI, or to a brief summary) either within the character-space-limited communication itself or on the 
+337 
+landing page of risk information, but the Agency recommends that a direct hyperlink to a landing 
+338 
+page that is devoted exclusively to comprehensive risk information about the product be initially 
+339 
+included within the original character-space-limited communication.16 
+340 
+ 
+341 
+Many Internet/social media platforms allow the use of uniform resource locator (URL) shortening 
+342 
+services, which are likely to result in a URL or web address with fewer character spaces.  The 
+343 
+Agency does not intend to object to the use of such URL shortening services; however, when 
+344 
+possible, the Agency recommends that the URL or web address itself denote to the user that the 
+345 
+landing page consists of risk information (e.g., www.product.com/risk).  Please note that if the 
+346 
+URL or web address itself is promotional in content or tone, FDA may take into consideration 
+347 
+whether any resulting claims are false or misleading or provide evidence in support of other 
+348 
+violations under the FD&C Act and FDA’s implementing regulations (e.g., a URL such as 
+349 
+www.bestcancercuredrug.com may be misleading). 
+350 
+ 
+351 
+4. The prominence of risk information should be comparable to the benefit information within 
+352 
+each individual character-space-limited communication, taking into consideration any 
+353 
+formatting capabilities available on the specific Internet/social media platform.  
+354 
+ 
+355 
+If a firm uses techniques to emphasize benefit information within the character-space-limited 
+356 
+communication, the firm should consider similar techniques to achieve comparable emphasis of 
+357 
+                                                 
+16 A firm should consider how to fulfill other regulatory requirements for advertising or promotional labeling as 
+applicable, such as providing an accompanying brief summary or PI with promotion for a drug (see 202.1(e)(1) and 
+201.100(d)).  Where such requirements apply, the Agency expects that a firm would provide access to a brief summary 
+or PI to accompany the communication in the character-space-limited Internet/social media platform, for example, by 
+providing a direct hyperlink to those materials either within the character-space-limited communication itself or on the 
+landing page of risk information.  However, note that a link to a brief summary or PI should not be used in place of 
+disclosing risk information within the original character-space-limited communication. 
+
+
+=== PAGE 14 ===
+
+Contains Nonbinding Recommendations 
+Draft – Not for Implementation  
+ 
+ 
+11 
+risk information for its product.17  Additionally, FDA recommends that, where the platform 
+358 
+enables the use of different formatting, a firm utilize those formatting capabilities to highlight 
+359 
+significant risk information, such as a boxed warning (e.g., a firm should present the boxed 
+360 
+warning in bolded text to convey the seriousness of that particular risk for its product).   
+361 
+ 
+362 
+Example 1B (continued from example 1A):  A firm is considering promotion of its prescription 
+363 
+drug NoFocus on Twitter, which is limited to 140 character spaces per message or tweet.  NoFocus 
+364 
+is indicated for mild to moderate memory loss.  There are no boxed or other warnings and no 
+365 
+known fatal or life-threatening risks included in the PI for NoFocus.  The most serious precaution 
+366 
+associated with NoFocus is that it may cause seizures in patients with a seizure disorder.  Since 
+367 
+benefit information was provided within the tweet (example 1A), the firm should communicate, at 
+368 
+a minimum, the most serious risks associated with NoFocus within the same tweet.  The firm 
+369 
+should also include within the same tweet a direct hyperlink to a more complete discussion of risk 
+370 
+information about NoFocus.  Additionally, the prominence of risk information should be 
+371 
+comparable to the benefit information contained within the tweet, taking into consideration any 
+372 
+formatting capabilities that may be available. 
+373 
+ 
+374 
+The firm considers including the following benefit and risk information within the tweet: 
+375 
+ 
+376 
+NoFocus for mild to moderate memory loss; may cause seizures in patients with a seizure 
+377 
+disorder www.nofocus.com/risk [117/140] 
+378 
+ 
+379 
+In the above example, benefit information for NoFocus is accurate and non-misleading, and the 
+380 
+most serious risks associated with NoFocus are communicated together with the benefit 
+381 
+information within the tweet.  The firm includes a direct hyperlink to the “Important Safety 
+382 
+Information” webpage (within the product website) that is devoted to providing comprehensive 
+383 
+risk information about NoFocus.  In addition, the URL www.nofocus.com/risk (emphasis added) 
+384 
+denotes that the landing page is comprised of risk information, and the URL is not promotional in 
+385 
+tone.  The firm conveys risk information within the tweet in a comparable manner to the benefit 
+386 
+information.  See example 1C in section VI in this draft guidance for further considerations on the 
+387 
+inclusion of other product information for NoFocus within this tweet. 
+388 
+ 
+389 
+Example 2B (continued from example 2A):  A firm is considering promotion of its prescription 
+390 
+drug Headhurtz using Google’s Sitelinks.18  Headhurtz is indicated for severe headache associated 
+391 
+                                                 
+17 FDA acknowledges that providers of character-space-limited platforms frequently dictate aspects controlling the 
+presentation of text that affect prominence and readability (e.g., font size and style).  Where the platform provider only 
+permits one type of text, issues affecting comparability are less likely to arise. 
+18 Google’s “Sitelink extensions” format allows up to six additional links (Sitelinks) to be shown in addition to the 
+display URL (www.headhurtz.com in this example).  Under parameters set by Google, the link text for each of the 
+Sitelinks must be 25 characters or fewer.  The link text must directly relate to the content on the landing page for that 
+link and point to different content, i.e., no Sitelinks may lead to the same landing page or to the same content.  In 
+addition, Sitelinks may not direct to the same landing page as the destination URL (the landing page for 
+www.headhurtz.com in this example).  Furthermore, up to two optional description lines (35 characters or fewer per 
+line) may be created for display underneath each of the Sitelinks.  This information is current as of Jan 22, 2014; 
+
+
+=== PAGE 15 ===
+
+Contains Nonbinding Recommendations 
+Draft – Not for Implementation  
+ 
+ 
+12 
+with traumatic brain injury.  The PI for Headhurtz includes a boxed warning about the potential for 
+392 
+brain swelling and warnings about a potentially fatal drug reaction and a drop in heart rate that 
+393 
+may be life-threatening.  Since benefit information was provided within the sponsored link format 
+394 
+(example 2A), the firm should communicate, at a minimum, the most serious risks associated with 
+395 
+Headhurtz within the same sponsored link format.  The firm should also include within the same 
+396 
+sponsored link format a direct hyperlink to a more complete discussion of risk information about 
+397 
+Headhurtz.  Additionally, the prominence of the risk information should be comparable to the 
+398 
+benefit information contained within the sponsored link format, taking into consideration any 
+399 
+formatting capabilities that may be available. 
+400 
+ 
+401 
+The firm considers including the following benefit and risk information within the sponsored link 
+402 
+promotion: 
+403 
+ 
+404 
+Headhurtz [9/25] 
+405 
+ 
+www.headhurtz.com [17/ 35] 
+406 
+For severe headache from traumatic brain injury [47/ 70] 
+407 
+Boxed warning [13/25]  
+ 
+ 
+Warning [7/25] 
+408 
+Potential for brain swelling [28/35] 
+ 
+Potentially fatal drug reaction [31/35] 
+409 
+Warning [7/25]  
+ 
+ 
+ 
+Risk information [16/25] 
+410 
+Life-threatening drop in heart rate [35/35] 
+Important safety information [28/35] 
+411 
+ 
+412 
+In the above example, benefit information for Headhurtz is accurate and non-misleading.  
+413 
+Consistent with the Google-imposed formatting requirements outlined in footnote 18, the firm 
+414 
+chooses to utilize three of the six Sitelinks to convey the most serious risks associated with 
+415 
+Headhurtz, including the boxed warning and additional warnings about fatal and life-threatening 
+416 
+risks.  Therefore, the most serious risks associated with Headhurtz are communicated together with 
+417 
+the benefit information within the sponsored link format.  The firm also includes a fourth Sitelink 
+418 
+that provides direct access to a more complete discussion of risk information about Headhurtz.  
+419 
+Furthermore, consistent with the Google-imposed link requirements outlined in footnote 18, the 
+420 
+firm creates four different landing pages, each with different content.  The first Sitelink is a direct 
+421 
+hyperlink to a webpage that is devoted to providing detailed information about the boxed warning 
+422 
+on the potential for brain swelling.  The second and third Sitelinks are direct hyperlinks to 
+423 
+webpages that are each devoted to a discussion of the specific warning conveyed within the 
+424 
+descriptions under these Sitelinks (i.e., a potentially fatal drug reaction and a life-threatening drop 
+425 
+in heart rate).  The fourth Sitelink is a direct hyperlink to the “Important Safety Information” 
+426 
+webpage (within the product website) that is devoted to providing comprehensive risk information 
+427 
+about Headhurtz.  The firm conveys risk information within the sponsored link format in a 
+428 
+comparable manner to the benefit information.  See example 2C in section VI in this draft 
+429 
+guidance for further considerations on the inclusion of other product information for Headhurtz 
+430 
+within this sponsored link format. 
+431 
+                                                                                                                                                                
+please refer to Google’s website for more specific information on its advertising policies.  See Sitelink extensions 
+available at https://support.google.com/adwordspolicy/answer/1054210 and Show additional links below your ad text 
+available at https://support.google.com/adwords/answer/2375416. 
+
+
+=== PAGE 16 ===
+
+Contains Nonbinding Recommendations 
+Draft – Not for Implementation  
+ 
+ 
+13 
+ 
+432 
+VI. 
+RECOMMENDATIONS FOR THE INCLUSION OF OTHER PRODUCT 
+433 
+INFORMATION ON INTERNET/SOCIAL MEDIA PLATFORMS WITH 
+434 
+CHARACTER SPACE LIMITATIONS 
+435 
+ 
+436 
+This section of the draft guidance provides additional recommendations regarding the inclusion of 
+437 
+other product information (including certain required product information other than risk/benefit 
+438 
+information, as applicable) on Internet/social media platforms with character space limitations.  In 
+439 
+addition to including both benefit and risk information within a character-space-limited 
+440 
+communication, there may be other applicable legal requirements to consider. 
+441 
+ 
+442 
+In communicating product information on Internet/social media platforms associated with 
+443 
+character space limitations, firms should consider the following: 
+444 
+ 
+445 
+• Sections 502(e), (n), and (r) of the FD&C Act (21 USC 352(e), (n), and (r)) require that the 
+446 
+established name accompany the trade or brand name in labeling and in prescription drug and 
+447 
+restricted-device advertising.  Drug regulations specifically require that the established name 
+448 
+be in direct conjunction with the proprietary name or designation (21 CFR 201.10(g)(1) and 
+449 
+202.1(b)(1)).19 
+450 
+ 
+451 
+• The drug regulations also stipulate that advertisements shall prominently display the name of at 
+452 
+least one specific dosage form and have the quantitative ingredient information required by 
+453 
+section 502(n) of the FD&C Act in direct conjunction with such display.  If other dosage forms 
+454 
+are listed in the advertisement, the quantitative ingredient information for such dosage forms 
+455 
+shall appear in direct conjunction and in equal prominence with the most prominent listing of 
+456 
+the names of such dosage forms (21 CFR 202.1(d)(2)). 
+457 
+ 
+458 
+With regard to the above regulatory provisions when using Internet/social media platforms with 
+459 
+character space limitations, the Agency does not intend to object where the following approaches 
+460 
+are used: 
+461 
+ 
+462 
+• Firms should communicate both the proprietary (trade or brand) name and established name 
+463 
+(for drugs, often referred to as the generic name) within the character-space-limited 
+464 
+communication.  The generic name of the product should be listed directly to the right of, or 
+465 
+directly below, the brand name. 
+466 
+ 
+467 
+• On the landing page associated with each hyperlink provided in the character-space-limited 
+468 
+communication, firms should again communicate both the brand and established names as 
+469 
+recommended in the preceding bullet.  In addition, for prescription drugs, firms should 
+470 
+                                                 
+19 FDA has developed separate guidance that addresses product name placement and size in promotion.  See the draft 
+guidance Product Name Placement, Size, and Prominence in Advertising and Promotional Labeling available at 
+http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/ucm070076.pdf. 
+
+
+=== PAGE 17 ===
+
+Contains Nonbinding Recommendations 
+Draft – Not for Implementation  
+ 
+ 
+14 
+prominently display at least one dosage form and quantitative ingredient information in direct 
+471 
+conjunction with the brand and established names. 
+472 
+ 
+473 
+In addition, the Agency believes that common abbreviations (including scientific and medical 
+474 
+abbreviations), punctuations marks, and other symbols may, in many cases, reasonably be used to 
+475 
+help address character space constraints.  The following examples illustrate instances where the 
+476 
+Agency does not intend to object to such usage: 
+477 
+ 
+478 
+• Commonly recognized linguistic symbols may be substituted for words.  For example, the 
+479 
+ampersand symbol (&) may be used in place of the word and. 
+480 
+ 
+481 
+• Punctuation marks may be used to help with the presentation of information.  For example, 
+482 
+dashes may be used to help separate benefit and risk information. 
+483 
+ 
+484 
+• A scientific abbreviation may be used to denote a chemical ingredient name (e.g., “HCl” for 
+485 
+hydrochloride; “HBr” for hydrobromide). 
+486 
+ 
+487 
+Example 1C (continued from example 1B):  A firm is considering promotion of its prescription 
+488 
+drug NoFocus on Twitter, which is limited to 140 character spaces per message or tweet.  NoFocus 
+489 
+is indicated for mild to moderate memory loss.  There are no boxed or other warnings and no 
+490 
+known fatal or life-threatening risks included in the PI for NoFocus.  The most serious precaution 
+491 
+associated with NoFocus is that it may cause seizures in patients with a seizure disorder.  The 
+492 
+FDA-approved name is NoFocus (rememberine hydrochloride) Capsules, and NoFocus is 
+493 
+available as 200mg capsules.  In addition to taking into consideration factors for communicating 
+494 
+benefit and risk information within the character-space-limited communication as described in 
+495 
+sections IV and V, the firm should also communicate the brand and established names within the 
+496 
+tweet. 
+497 
+ 
+498 
+The firm considers including the following product information, together with benefit and risk 
+499 
+information about NoFocus, within the tweet: 
+500 
+ 
+501 
+NoFocus (rememberine HCl) for mild to moderate memory loss-May cause seizures in 
+502 
+patients with a seizure disorder www.nofocus.com/risk [134/140] 
+503 
+ 
+504 
+In the above example, the brand and established names are communicated together within the 
+505 
+tweet.  Note that the firm uses the abbreviation HCl in place of hydrochloride within the 
+506 
+established name presentation.  The firm uses a dash with no additional spaces to separate the 
+507 
+benefit and risk information.  As specified in example 1B, the firm includes a direct hyperlink to 
+508 
+the “Important Safety Information” webpage (within the product website) that is devoted to 
+509 
+providing comprehensive risk information about NoFocus.  At the top of the landing page, the firm 
+510 
+again communicates the brand and established names together with the dosage form and 
+511 
+quantitative information in direct conjunction as follows: NoFocus (rememberine hydrochloride) 
+512 
+
+
+=== PAGE 18 ===
+
+Contains Nonbinding Recommendations 
+Draft – Not for Implementation  
+ 
+ 
+15 
+200mg Capsules.  FDA would not intend to object to this tweet for NoFocus, as described in 
+513 
+totality in examples 1A, 1B, and 1C. 
+514 
+ 
+515 
+Example 2C (continued from example 2B):  A firm is considering promotion of its prescription 
+516 
+drug Headhurtz using Google’s Sitelinks.  Headhurtz is indicated for severe headache associated 
+517 
+with traumatic brain injury.  The PI for Headhurtz includes a boxed warning about the potential for 
+518 
+brain swelling and warnings about a potentially fatal drug reaction and a drop in heart rate that 
+519 
+may be life-threatening.  The FDA-approved name is Headhurtz (ouchafol) Tablets, and 
+520 
+Headhurtz is available as 200mg tablets.  In addition to taking into consideration factors for 
+521 
+communicating benefit and risk information within the character-space-limited communication as 
+522 
+described in sections IV and V, the firm should also communicate the brand and established names 
+523 
+within the sponsored link format. 
+524 
+ 
+525 
+The firm considers including the following product information, together with benefit and risk 
+526 
+information about Headhurtz, within the sponsored link format: 
+527 
+ 
+528 
+Headhurtz (ouchafol) [20/25] 
+529 
+ 
+www.headhurtz.com [17/ 35] 
+530 
+For severe headache from traumatic brain injury [47/ 70] 
+531 
+Boxed warning [13/25]  
+ 
+ 
+Warning [7/25] 
+532 
+Potential for brain swelling [28/35] 
+ 
+Potentially fatal drug reaction [31/35] 
+533 
+Warning [7/25]  
+ 
+ 
+ 
+Risk information [16/25] 
+534 
+Life-threatening drop in heart rate [35/35] 
+Important safety information [28/35] 
+535 
+ 
+536 
+In the above example, the brand and established names are communicated together within the 
+537 
+sponsored link format.  As specified in example 2B, consistent with the Google-imposed link 
+538 
+requirements outlined in footnote 18, the firm creates four different landing pages, each with 
+539 
+different content, to convey risk information for Headhurtz.  At the top of each of these landing 
+540 
+pages, the firm again communicates the brand and established names together with the dosage 
+541 
+form and quantitative information in direct conjunction as follows: Headhurtz (ouchafol) 200mg 
+542 
+Tablets.  FDA would not intend to object to this sponsored link format for Headhurtz, as described 
+543 
+in totality in examples 2A, 2B, and 2C. 
+544 
+
+

@@ -1,0 +1,63 @@
+=== PAGE 1 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is all the text content extracted from the PDF page, preserving its original layout and structure:
+
+**Header/Navigation Bar:**
+
+KRAZATI®
+(adagrasib) | 200 mg
+                TABLETS
+
+NSCLC (Green diamond logo with text NSCLC and a downward pointing arrow)
+
+                       KRAS G12C in NSCLC             KRAZATI MOA             Clinical Data          Dosage         Resources & Support        STAY CONNECTED
+                                                                                                (Downward arrow)                                  (Downward arrow)
+SWITCH INDICATIONS  OTHER NSCLC                                                      Study Design
+                                                                                           • Efficacy
+                                                                                           • Safety
+
+**Main Content Area:**
+
+(Background image: A textured, dark grey surface resembling cracked rock or burnt wood, with some white, foamy elements on the left side, possibly depicting water breaking against a surface.)
+
+                                                      KRYSTAL-1 EFFICACY
+                                                      Scroll to see the efficacy of KRAZATI.
+
+                                                               (Scroll icon - a circle with a downward arrow inside)
+(Three small, white circular navigation dots are visible on the right side of this section, one filled in and two outlined.)
+
+**Bottom Section:**
+
+(Circled 'i' icon) IMPORTANT SAFETY INFORMATION
+WARNINGS AND PRECAUTIONS
+
+Gastrointestinal Adverse Reactions
+
+ •  KRAZATI can cause severe gastrointestinal adverse reactions
+ •  Monitor and manage patients using supportive care, including antidiarrheals, antiemetics, or
+    fluid replacement, as indicated. Withhold, reduce the dose, or permanently discontinue
+
+                                                                                                       (Upward arrow icon)
+                                                                             INDICATION
+                                                                             KRAZATI is indicated for the treatment of adult patients with KRAS G12C-mutated
+                                                                             locally advanced or metastatic non-small cell lung cancer (NSCLC), as determined
+                                                                             by an FDA-approved test, who have received at least one prior systemic therapy.
+
+                                                                             This indication is approved under accelerated approval based on objective
+                                                                             response rate (ORR) and duration of response (DOR). Continued approval for this
+
+**Visual Elements Description:**
+
+*   **Product Logo:** A prominent logo for "KRAZATI® (adagrasib) 200 mg TABLETS" is displayed in the upper left corner.
+*   **NSCLC Logo/Button:** A green diamond shape containing the text "NSCLC" with a downward-pointing arrow is present below the product logo, likely indicating a current selection or filter.
+*   **Navigation Bar Elements:** Several downward arrows are present next to "KRAS G12C in NSCLC", "Clinical Data", and "Resources & Support" in the navigation bar, indicating dropdown menus.
+*   **Dropdown Menu for "Clinical Data":** A menu is shown open, listing "Study Design", "Efficacy" (highlighted with a blue dot), and "Safety".
+*   **Dropdown Menu for "Resources & Support":** Although not open, its potential content is visible on the far right: "IMPORTANT SAFETY INFORMATION", "PRESCRIBING INFORMATION", "REFERENCES", "VISIT PATIENT SITE".
+*   **Main Content Background Image:** The central part of the page features a large, dark, textured background image that appears to be a close-up of a rough, possibly charred or weathered, surface. White, wave-like or foam-like elements are visible on the left side, suggesting a coastline or barrier being hit by water.
+*   **Scroll Icon:** At the bottom center of the main content area, a white circular icon with a downward-pointing arrow is shown, typically indicating that more content can be viewed by scrolling.
+*   **Navigation Dots:** On the right edge of the main content area, three small white circles are vertically aligned, with the top one filled in, suggesting a pagination or slide indicator for the content.
+*   **Information Icons:**
+    *   Next to "IMPORTANT SAFETY INFORMATION" in the bottom left section, there is a small circular icon with the letter 'i' inside.
+    *   Above "INDICATION" in the bottom right section, there is a small upward-pointing arrow icon, possibly indicating the ability to collapse or expand the section.

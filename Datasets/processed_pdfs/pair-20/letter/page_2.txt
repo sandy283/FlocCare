@@ -1,0 +1,58 @@
+=== PAGE 2 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Korie Osborn
+Azurity Pharmaceuticals Inc.
+NDA 208400/MA 50
+
+Page 2
+
+have severe hypersensitivity to methotrexate. The PI also contains warnings and
+precautions regarding bone marrow suppression, serious infections, renal toxicity and
+increased toxicity with renal impairment, gastrointestinal toxicity, hepatic toxicity, pulmonary
+toxicity, hypersensitivity and dermatologic reactions, secondary malignancies, ineffective
+immunization and risks associated with live vaccines, effects on reproduction, increased
+toxicity due to third-space accumulation, soft tissue and bone toxicity with radiation therapy,
+laboratory tests, and risk of improper dosing. The most common adverse reactions include
+ulcerative stomatitis, leukopenia, nausea, abdominal distress, and elevated liver function
+tests.
+
+Prior Communications
+
+OPDP notes that our advisory comments dated June 19, 2017, to Silvergate
+Pharmaceuticals, Inc.
+[A large gray rectangular redaction box is present here, covering a significant portion of the page. Inside the box, on the left, there is a small white 'J'-shaped character. On the right, above the main redaction box, there is a smaller gray rectangular box containing the text "(b) (4)", indicating a redaction under exemption (b)(4) of the Freedom of Information Act, typically for trade secrets or confidential commercial information. This redacted area likely contains specific details or context related to the advisory comments.]
+
+Azurity appears to be promoting Xatmep without presenting the
+serious risks of the drug in a truthful and non-misleading manner, despite concerns
+previously expressed by OPDP.
+
+False or Misleading Risk Presentation
+
+Promotional materials misbrand a drug if they are false or misleading with respect to risk or
+benefits. The determination of whether promotional materials are misleading includes,
+among other things, not only representations made or suggested in promotional materials,
+but also failure to reveal facts material in light of the representations made or with respect to
+consequences that may result from the use of the drug as recommended or suggested in
+the materials.
+
+The email presents numerous benefit claims regarding Xatmep for the treatment of ALL.
+Although the presentation includes the Boxed Warning for Xatmep, the email completely
+omits other important warnings and precautions associated with the drug. For example, the
+email includes the following claim, “2.5mg/mL provides easy dose titration as body surface
+area-based dosing is recommended.” However, the email omits the warning and precaution
+regarding the risk of improper dosing. According to the Risk of Improper Dosing subsection
+of the WARNINGS AND PRECAUTIONS section of the Xatmep PI:
+
+    Both the physician and pharmacist should emphasize to the patient that the
+    recommended dose is taken one time weekly, as directed, and that mistaken daily
+    use of the recommended dose has led to fatal toxicity.
+
+In addition, that section warns that a household teaspoon is not an accurate measuring
+
+____________________________________________________________________________________
+² On May 20, 2020, FDA acknowledged receipt of Azurity Pharmaceuticals, Inc.’s correspondence notifying the FDA that
+the corporate name had been changed from Silvergate Pharmaceuticals Inc. to Azurity Pharmaceuticals Inc.
+
+Reference ID: 4707067

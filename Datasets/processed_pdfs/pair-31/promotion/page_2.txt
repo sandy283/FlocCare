@@ -1,0 +1,66 @@
+=== PAGE 2 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+```
+                                                                                                  AROG HOME   PIPELINE   CONTACT US
+             arog
+    PHARMACEUTICALS, INC
+
+
+
+                                                  Crenolanib
+
+                                        A next-gen tyrosine kinase inhibitor for use in FLT3-mutated AML
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE ROLE OF FLT3 MUTATIONS IN AML
+
+Roughly one-third of AML patients harbor an internal tandem duplication (ITD) in FLT3, a receptor tyrosine kinase.
+Mutations of FLT3 at D835, a point mutation in the tyrosine kinase domain (TKD), have also been observed in AML
+patients. Both ITD and TKD mutations lead to constitutive activation of the tyrosine kinase function, making FLT3 an
+attractive drug target in AML patients. Both ITD and TKD mutations render FLT3 resistant to currently approved inhibitors.
+Moreover, novel activating FLT3 mutations are being identified in patients with AML. As the clinical development of FLT3
+inhibitors proceeds into advanced phase trials, FLT3 mutations will represent a new obstacle in the care of FLT3-mutated
+AML patients.
+
+
+
+CRENOLANIB IS A SELECTIVE TYPE I PAN-FLT3 INHIBITOR
+
+Crenolanib, a type I TKI, is a potent inhibitor of FLT3-ITD and secondary KD mutants. Crenolanib represents the first TKI to
+exhibit both kinase selectivity and invulnerability to resistance-conferring KD mutations. Crenolanib, which spares cKIT,
+represents a promising therapy for achieving deep and durable responses in FLT3-mutant AML.
+
+
+
+
+
+
+
+                                          N=                            N                           CRENOLANIB APART FROM OTHER
+                                                                                                      THERAPEUTIC OPTIONS
+
+
+                                                                          NH₂
+```
+
+**Description of Visual Elements:**
+
+1.  **Header Background Image:** The upper portion of the page features a large, dark blue background image that serves as a visual backdrop for the main title and subtitle. It depicts abstract molecular or cellular structures. On the left and bottom, there's a textured surface composed of numerous spherical shapes with vertical protrusions, resembling a biological membrane or a dense collection of cells. On the right side, a more irregular, tangled, and somewhat lumpy structure in a muted green-yellow color is visible, suggestive of a complex protein or DNA strand, adding to the pharmaceutical and biological context of the page.
+
+2.  **Company Logo:** Located in the top-left corner, the company logo consists of the word "arog" in white. The letter 'o' is stylized as a complex, multi-layered, swirling or gear-like design, possibly representing molecular complexity or a scientific process. Below "arog" is the text "PHARMACEUTICALS, INC" in a smaller font, identifying the company.
+
+3.  **Chemical Structure Diagram:** At the bottom of the page, there is a two-dimensional chemical structure diagram. This diagram visually represents the molecular structure of Crenolanib. It features a central six-membered ring containing two nitrogen atoms (a piperazine ring) with an amine group (NH2) attached to one of its carbons. To the left of this central ring, a nitrogen atom is shown as part of another ring system, connected by a double bond, indicating a more complex fused aromatic or heterocyclic structure. The text "CRENOLANIB APART FROM OTHER THERAPEUTIC OPTIONS" is positioned to the right of this structure, implying that this is the chemical representation of Crenolanib and highlighting its unique position among therapeutic options.

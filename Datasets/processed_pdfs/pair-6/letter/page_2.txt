@@ -1,0 +1,59 @@
+=== PAGE 2 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Nicole Van de Vaarst
+Mirati Therapeutics Inc., a Bristol Myers Squibb Co.                                     Page 2
+NDA 216340/MA 166
+
+the FDA-approved Prescribing Information (PI) (in pertinent part):
+
+       KRAZATI is indicated for the treatment of adult patients with *KRAS G12C*-mutated
+       locally advanced or metastatic NSCLC, as determined by an FDA approved test, who
+       have received at least one prior systemic therapy.
+
+       This indication is approved under accelerated approval based on objective response
+       rate (ORR) and duration of response (DOR). Continued approval for this indication
+       may be contingent upon verification and description of a clinical benefit in a
+       confirmatory trial(s).
+
+       Krazati was approved under the accelerated approval pathway. This pathway can allow for
+       earlier approval of drugs intended to treat serious conditions and fill an unmet medical need.
+       Accelerated approval is based on an effect on a surrogate or intermediate clinical endpoint
+       that is thought to be reasonably likely to predict clinical benefit, rather than on a direct
+       measurement of clinical benefit. FDA has required sponsors of drugs approved under the
+       accelerated approval pathway, including Krazati, to conduct a confirmatory trial to verify and
+       describe the clinical benefit of the drug.⁴
+
+       The PI for Krazati includes warnings and precautions regarding gastrointestinal adverse
+       reactions, QTc interval prolongation, hepatotoxicity, and interstitial lung disease/pneumonitis.
+       The most common adverse reactions reported with use of Krazati include nausea, diarrhea,
+       vomiting, fatigue, musculoskeletal pain, hepatotoxicity, renal impairment, edema, dyspnea,
+       and decreased appetite.
+
+**False or Misleading Benefit Presentation**
+
+       Prescription drug advertisements and labeling (promotional communications) misbrand a
+       drug if they are false or misleading with respect to efficacy. The determination of whether a
+       promotional communication is misleading includes, among other things, not only
+       representations made or suggested in the promotional communication, but also the extent to
+       which the promotional communication fails to reveal facts material in light of the
+       representations made or with respect to consequences that may result from the use of the
+       drug as recommended or suggested in the promotional communication.
+
+       All of the presentations described below are found in the “Efficacy” menu item, under the
+       “Clinical Data” sub-navigation menu of the website for Krazati. The main “Efficacy” menu
+       landing page includes the following banner as a preface to the presentations (underlined
+       emphasis added):
+
+              “KRYSTAL-1 EFFICACY
+
+              Scroll to see the efficacy of Krazati.”
+
+       When users scroll “to see the efficacy of Krazati,” they are able to access the presentations
+       described in this letter on a horizontal navigation bar with the following navigation bar item
+__________________________________________________________________________________________
+⁴ We note that the confirmatory trial, a randomized phase 3 trial, for Krazati, KRYSTAL-12, is currently ongoing;
+however, this study has not been completed. clinicaltrials.gov/study/NCT04685135.
+
+Reference ID: 5423579

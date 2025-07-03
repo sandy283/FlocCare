@@ -1,0 +1,114 @@
+URL: https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/yongdae-hwangtae-union-corp-daeryung-696743-01162025
+Scraped on: 2025-06-24 22:58:50
+================================================================================
+
+Yongdae Hwangtae Union Corp Daeryung - 696743 - 01/16/2025 | FDA
+Skip to main content
+Skip to FDA Search
+Skip to in this section menu
+Skip to footer links
+An official website of the United States government
+Here’s how you know
+The .gov means it’s official.Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.
+The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+Search
+Menu
+Search FDA
+Submit search
+Featured
+Report a Product Problem
+Contact FDA
+FDA Guidance Documents
+Recalls, Market Withdrawals and Safety Alerts
+Press Announcements
+Warning Letters
+Advisory Committees
+En Español
+Products
+Food
+Drugs
+Medical Devices
+Radiation-Emitting Products
+Vaccines, Blood, and Biologics
+Animal and Veterinary
+Cosmetics
+Tobacco Products
+Topics
+About FDA
+Combination Products
+Regulatory Information
+Safety
+Emergency Preparedness
+International Programs
+News and Events
+Training and Continuing Education
+Inspections and Compliance
+Science and Research
+Information For
+Consumers
+Patients
+Industry
+Health Professionals
+Federal, State and Local Officials
+In this section:
+Warning Letters
+Warning Letters
+About Warning and Close-Out Letters
+Home
+Inspections, Compliance, Enforcement, and Criminal Investigations
+Compliance Actions and Activities
+Warning Letters
+Yongdae Hwangtae Union Corp Daeryung - 696743 - 01/16/2025
+Warning Letters
+WARNING LETTER
+Yongdae Hwangtae Union Corp Daeryung
+MARCS-CMS 696743 —
+January 16, 2025
+More Warning Letters
+Warning Letters
+About Warning and Close-Out Letters
+Delivery Method:
+Via Express Delivery and Electronic Mail
+Product:
+Food & Beverages
+Recipient:
+Recipient Name
+Mr. Jong Kook Choi
+Recipient Title
+President
+Yongdae Hwangtae Union Corp Daeryung
+10-30 Wontongro74beon-Gil
+Bung-Myeon
+Inje-gun
+Gangwon-do
+24621
+South Korea
+Yongdae5978@gmail.com
+Issuing Office:
+Human Foods Program
+United States
+WARNING LETTERJanuary 16, 2025Re: #696743Dear Mr. Jong Kook Choi:The United States Food and Drug Administration (FDA) conducted an inspection of your seafood processing facility, Yongdae Hwangtae Union Corp Daeryung 10-30 Wontongro74beon-Gil, Bung-Myeon, Inje, Gangwon Korea (the Republic of) 24621 on June 27-28, 2024. During the inspection, we found that you had serious violations of the Seafood HACCP regulation (21 CFR 123). At the conclusion of the inspection, the FDA investigator issued an FDA-483, Inspectional Observations that lists the observations made at your firm. We acknowledge receipt of your response on July 30, 2024. Your response included promises to make corrections related to environmental monitoring, calibrations of equipment used during manufacturing, and employee training. Our evaluation of your responses revealed they were not adequate, as further described in this letter.In accordance with 21 CFR 123.6(g), failure of a processor of fish or fishery products to have and implement a HACCP plan that complies with this section or otherwise operate in accordance with the requirements of Part 123, renders the fish or fishery products adulterated within the meaning of section 402(a)(4) of the Federal Food, Drug, and Cosmetic Act (the Act), 21 U.S.C. § 342(a)(4). Accordingly, your refrigerated and frozen desalted pollack in modified atmosphere packaging products are adulterated, in that they have been prepared, packed, or held under conditions whereby they may have been rendered injurious to health. You may find the Act, the seafood HACCP regulation, and the June 2022 4th Edition of the Fish and Fisheries Products Hazards & Controls Guidance (the Hazards Guide) through links in FDA's home page at www.fda.gov.Your significant deviations are as follows:1. Your finished product of dried pollack is considered a ready-to-eat (RTE) food by FDA because it may appear as a dried RTE food and be eaten without cooking by the consumer. This dried pollack is also considered raw by FDA because it does not receive a verified listericidal thermal treatment to eliminate pathogens (i.e., it is not cooked or dried at cooking temperatures). As a processor of a raw RTE product you must have appropriate sanitation and process controls for pathogen growth and toxin formation throughout processing. These controls should begin after the receipt of frozen pollack from your supplier, and include the (b)(4) performed at your outdoor (b)(4) location at the base of a mountain, the refrigerated storage of the dried pollack with unknown water activity in your warehouse, rehydration of the air-dried pollack, pressing and tearing the pollack into strips by hand, (b)(4) pollack in an oven at (b)(4)°C ((b)(4)°F) and reduced oxygen packaging.Your food safety controls for processing in your plant are not adequate as all operations in the manufacturing, processing, packing and hold of food must be conducted in accordance with adequate sanitation principles. Raw materials must be clean and suitable for processing and stored under conditions that will protect from contamination as required by 21 CFR 117.80 (a) and (b). Your firm operates an outdoor (b)(4) location where pollack is (b)(4) exposed to the natural environment on (b)(4) stakes for (b)(4) months in the winter at ambient temperatures of (b)(4)°C ((b)(4)°F). This (b)(4) process does not protect the pollack that is considered a raw RTE food from contamination with filth including pathogens (e.g., animal poop including birds and insects). The (b)(4) pollack with unknown water activity is then stored refrigerated in a warehouse until further processing within your processing plant. Your hazard analysis and HACCP must control food safety hazards that can be introduced both within and outside the processing plant environment to comply with 21 CFR 123.6 (a) and (b). Thus, your processing of outdoor air-drying in addition to the processing in your plant must protect the pollack from contamination with biological, chemical, and physical food safety hazards.Additionally, your food safety controls for processing in your plant are not adequate due to the following.2. You must have a HACCP plan that at a minimum, lists the critical limits that must be met, to comply with 21 CFR 123.6 (c)(3). A critical limit is defined in 21 CFR 123.3 (c) as “the maximum or minimum value to which a physical, biological, or chemical parameter must be controlled at a critical control point to prevent, eliminate, or reduce to an acceptable level the occurrence of the identified food safety hazard. However, your firm’s HACCP plan for “Dried Sliced Pollack” dated 2022-08-01 at the (b)(4) critical control point (CCP) lists a critical limit of “(b)(4)” that is not adequate to control pathogen growth and toxin formation including Clostridium botulinum. Because your RTE dried pollack is intended to be shelf-stable and is in reduced oxygen packaging your critical limit should ensure the finished product achieves a water activity of (b)(4) or less to control pathogens including C. botulinum. Additionally, because your (b)(4) temperature is (b)(4)°C ((b)(4)°F) which is in the temperature range for unrefrigerated processing (b)(4)°C ((b)(4)°F) and not a thermal process that will eliminate pathogens, the cumulative time exposure to temperatures in unrefrigerated processing should not exceed two hours to control pathogen growth and toxin formation other than C. botulinum. The cumulative time exposure for unrefrigerated processing would end once the product achieves (b)(4) or less water activity. The cumulative time for unrefrigerated processing should include additional processing steps that are performed at ambient air temperatures such as the rehydration, pressing, and tearing of pollack. Your critical limits should list the critical factors as established by a scientific study to achieve a water activity of (b)(4) or less in the finished product and for the water activity to be achieved within (b)(4) cumulative hours of unrefrigerated processing. Alternatively, if your (b)(4) temperature was increased to above (b)(4)°C ((b)(4)°F), then the (b)(4) process would not be considered unrefrigerated processing, and the cumulative time would not be restricted to (b)(4) hours.3. Because you chose to include a corrective action plan in your HACCP plan, your described corrective actions must be appropriate, to comply with 21 CFR 123.7 (b). Corrective actions are to prevent the distribution of adulterated food into commerce and correct the cause of the deviation. However, your (b)(4) CCP lists corrective actions of redrying or discarding product without actions to correct the cause of the deviation such as adjustments or repairs to oven or modifications to (b)(4) procedure. Also redrying should only occur if it does not jeopardize the safety of the product.4. You must conduct or have conducted for you a hazard analysis for each kind of fish and fishery product that you produce to determine whether there are food hazards that are reasonably likely to occur and have a HACCP plan that, at a minimum, lists the food safety hazards that are reasonably likely to occur, to comply with 21 CFR 123.6 (a) and (c) (1). A food safety hazard is defined in 21 CFR Part 123.3 (f) as "any biological, chemical, or physical property that may cause a food to be unsafe for human consumption." However, your firm’s HACCP plan for dried pollack does not list the food safety hazard of undeclared allergens such as finfish (i.e., pollack).Your next response should include your corrective actions, revised HACCP plan with the supporting documentation and at least five days’ worth of CCP and sanitation monitoring in English to demonstrate implementation. For assistance with revising your HACCP plan see FDA’s Fish and Fishery Products Hazards and Controls guidance and for sanitation monitoring see the Sanitation Control Procedures for Processing Fish and Fishery Products document. Also FDA’s Draft Guidance for Industry: Control of Listeria monocytogenes in Ready-to-Eat Foods provides recommendations for RTE food processors.You should respond in writing within fifteen (15) working days from your receipt of this letter. Your response should outline the specific corrections you are performing related to these deviations. If you cannot complete the corrections within 15 days, you should explain the reason for your delay and state when you will correct any remaining violations. If you believe that your product is not in violation of the Act, include your reasoning and any supporting information for our consideration.If you do not respond or if we find your response inadequate, we may take further action. For instance, we may take further action to refuse admission of your imported fish or fishery products under section 801(a) of the Act (21 U.S.C. § 381(a)), including placing them on detention without physical examination (DWPE). FDA’s DWPE is an administrative procedure whereby products offered for import into the United States may be detained without physical examination upon entry. DWPE information may be conveyed in FDA’s Import Alerts. For your information, an example of an Import Alert that conveys information specific to foreign firms that are not in compliance with the seafood HACCP regulation is Import Alert 16-120. This alert can be found on FDA’s web site at: http://www.accessdata.fda.gov/cms_ia/importalert_25.html.This letter may not list all the deviations at your facility. You are responsible for ensuring that your processing plant operates in compliance with the Act and all applicable regulations, including the seafood HACCP regulation (21 CFR Part 123) and the current Good Manufacturing Practice Hazard Analysis, and Risk-Based Preventive Controls for Human Food regulation (CGMP & PC rule), Title 21, Code of Federal Regulations, Part 117 (21 CFR Part 117 Subpart B). You also have a responsibility to use procedures to prevent further violations of the Act and all applicable regulations.Please send your reply to the Food and Drug Administration, Attention: Victoria Palmer, Compliance Officer, Human Foods Program – Office of Compliance and Enforcement, Office of Enforcement – Division of Conventional Foods Enforcement (HFS-607), 5001 Campus Drive, College Park, MD 20740 U.S.A. If you have any questions regarding any issues in this letter, please contact Victoria Palmer via email at: Victoria.palmer@fda.hhs.gov. Please include reference #696743 on any submissions and within the subject line of any email correspondence to the agency.Sincerely,/S/Maria S. Knirk, JD, MBAActing Director, Office of EnforcementOffice of Compliance and EnforcementHuman Foods Program
+Content current as of:
+06/24/2025
+Regulated Product(s)
+Food & Beverages
+FDA Archive
+About FDA
+Accessibility
+Visitor Information
+Website Policies / Privacy
+No FEAR Act
+Vulnerability Disclosure Policy
+FOIA
+HHS.gov
+USA.gov
+Contact FDA
+Follow FDA on Facebook
+Follow FDA on X
+Follow FDA on Instagram
+Follow FDA on LinkedIn
+View FDA videos on YouTube
+Subscribe to FDA RSS feeds
+Contact Number
+1-888-INFO-FDA (1-888-463-6332)
+Back to Top

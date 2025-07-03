@@ -1,0 +1,69 @@
+=== PAGE 19 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving its original layout and structure:
+
+**Impact on Hemostatic Parameters at Cycle 6¹´²**
+**Study Reference: MIT-Es0001-C201**
+
+                                                                                                       • Minimal impact on
+                                                                                                         anticoagulant proteins
+                                                                                                         for DRSP/E4
+                                                                                                       • Significant differences
+                                                                                                         observed at Cycle 6
+270
+240
+210               3 mg DRSP/E4 15 mg (n=39)
+                  150 mcg LNG/30 mcg EE (n=30)
+180               3 mg DRSP/20 mcg EE (n=32)
+% Change From Baseline at Cycle 6
+150
+120
+90
+60
+30
+0
+-30
+-60
+  Prothrombin      Factor VIII      Fibrinogen      Factor VII      vWF        Antithrombin      Protein C      Protein S      Protein S free      TFPI        aPTT-APC      APCr-(aPTT)      APCr-(ETP)        Plasminogen      t-PA      PAI-1        D-Dimer      Prothrombin Frag      1+2        Soluble E-selectin      SHBG
+                                                                 activity
+
+                                 Coagulation                         Anticoagulant                   Functional                       Fibrinolysis                 Degradation
+                                 factors                             proteins                        clotting tests                   proteins                     markers
+
+mayne pharma
+18              APCr, activated protein C resistance; aPTT, activated partial thromboplastin time; DRSP, drospirenone; E4, estetrol; EE, ethinyl estradiol; ETP, endogenous thrombin potential; LNG,
+                levonorgestrel; PAI, plasminogen activator inhibitor; SHBG, sex hormone-binding globulin; TFPI, tissue factor pathway inhibitor; t-PA, tissue plasminogen activator; vWF, von Willebrand factor.
+                                                                                                                                                                                ᵃ p < 0.05 DRSP/E4 vs LNG/EE and DRSP/EE
+                References: 1. Data on file. Mayne Pharma US. Raleigh, NC. 2. Douxfils J, et al. Contraception. 2020 Dec;102(6):396-402.
+                                                                                                                                                                                ᵇ p < 0.05 DRSP/E4 vs DRSP/EE
+                                                                                                                                            Full Prescribing Information is available at www.Nextstellis.com
+
+**Description of Visual Elements:**
+
+The page displays a bar chart illustrating the percentage change from baseline at Cycle 6 for various hemostatic parameters.
+
+*   **Chart Structure:** The chart is divided into five main categories along the x-axis: "Coagulation factors", "Anticoagulant proteins", "Functional clotting tests", "Fibrinolysis proteins", and "Degradation markers". Each category contains specific parameters listed vertically below the bars.
+*   **X-axis Parameters:**
+    *   Coagulation factors: Prothrombin, Factor VIII, Fibrinogen, Factor VII, vWF
+    *   Anticoagulant proteins: Antithrombin, Protein C, Protein S activity, Protein S free, TFPI
+    *   Functional clotting tests: aPTT-APC, APCr-(aPTT), APCr-(ETP)
+    *   Fibrinolysis proteins: Plasminogen, t-PA, PAI-1
+    *   Degradation markers: D-Dimer, Prothrombin Frag 1+2, Soluble E-selectin, SHBG
+*   **Y-axis:** The y-axis is labeled "% Change From Baseline at Cycle 6" and ranges from -60 to 270.
+*   **Legend:** A legend in the top left of the chart indicates the three treatment groups represented by different colored bars for each parameter:
+    *   Dark red/Maroon: 3 mg DRSP/E4 15 mg (n=39)
+    *   Light blue: 150 mcg LNG/30 mcg EE (n=30)
+    *   Pink/Magenta: 3 mg DRSP/20 mcg EE (n=32)
+*   **Data Representation:** For each parameter, there are three vertical bars corresponding to the three treatment groups, showing the percentage change. Some bars have superscripts 'a', 'b', or '*' indicating statistical significance, which are explained in the footnotes.
+*   **Annotations/Notes:**
+    *   In the top right, there's a text box stating:
+        *   Minimal impact on anticoagulant proteins for DRSP/E4
+        *   Significant differences observed at Cycle 6
+    *   Below the chart, there are abbreviations and their definitions: APCr, aPTT, DRSP, E4, EE, ETP, LNG, PAI, SHBG, TFPI, t-PA, vWF.
+    *   Footnotes 'a' and 'b' explain the statistical significance:
+        *   ᵃ p < 0.05 DRSP/E4 vs LNG/EE and DRSP/EE
+        *   ᵇ p < 0.05 DRSP/E4 vs DRSP/EE
+    *   The Mayne Pharma logo is present in the bottom left corner.
+    *   A page number '18' is present in the bottom left.

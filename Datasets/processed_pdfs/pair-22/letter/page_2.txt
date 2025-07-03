@@ -1,0 +1,62 @@
+=== PAGE 2 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving its original layout and structure:
+
+Luis Caveda
+Rockwell Medical, Inc
+NDA 206317 MA 26; NDA 208551 MA 22
+
+Triferic is not intended for use in patients receiving peritoneal dialysis.
+
+Triferic has not been studied in patients receiving home hemodialysis.
+
+The PI contains warnings and precautions regarding hypersensitivity reactions and iron
+laboratory testing. In addition, the PI indicates that the most common adverse reactions
+associated with Triferic are headache, peripheral edema, asthenia, AV fistula thrombosis,
+urinary tract infection, AV fistula site hemorrhage, pyrexia, fatigue, procedural hypotension,
+muscle spasms, pain in extremity, back pain, and dyspnea.
+
+Page 2
+
+**False or Misleading Risk and Benefit Presentations**
+
+Promotional materials misbrand a drug if they are false or misleading with respect to risk or
+benefits. The determination of whether promotional materials are misleading includes,
+among other things, not only representations made or suggested in promotional materials,
+but also failure to reveal facts that are material in light of the representations made by the
+materials or with respect to consequences that may result from the use of the drug as
+recommended or suggested in the materials.
+
+The webpage contains claims and/or representations about the benefits of Triferic but fails to
+communicate **any** risk information about the product. By omitting the risks associated with
+Triferic, the webpage fails to provide material information about the consequences that may
+result from the use of the drug and creates a misleading impression about the safety of
+Triferic.
+
+The webpage makes claims such as the following:
+
+*   Unlike current nurse IV iron administration, Triferic is seamlessly administered via
+    dialysate directly to the bone marrow, delivering iron in a physiologic manner avoiding
+    iron storage in the liver or reticuloendothelial system.
+*   Triferic improves the effectiveness of iron delivery for the majority of dialysis patients
+    and prevents iron induced liver damage, especially for those patients with known
+    concomitant liver disease.
+*   Released clinical trial data along with real world usage have shown that small,
+    frequent doses of Triferic, as compared to the current administration of large,
+    infrequent doses of IV iron, is safer and more effective in delivering and maintaining
+    optimal iron balance.
+
+These claims are misleading because they suggest Triferic is safer and more effective than
+other IV iron replacement products, when this has not been demonstrated. No references
+were cited to support these claims, and FDA is not aware of data to support claims that
+Triferic is safer or more effective compared to other IV iron replacement products. While we
+acknowledge that Triferic is the only FDA-approved iron replacement product administered
+via hemodialysate, once inside the blood stream, iron delivered by Triferic is used by the
+body in the same manner as other currently approved iron replacement products.
+Furthermore, with respect to claims comparing Triferic to other IV iron products regarding iron
+storage in the liver, we note that liver iron testing was not performed as part of routine clinical
+status testing in the studies supporting the approval of Triferic. These studies were also
+
+Reference ID: 4521580

@@ -1,0 +1,101 @@
+=== PAGE 11 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving the original layout and structure:
+
+IMPORTANT SAFETY INFORMATION
+PRESCRIBING INFORMATION
+REFERENCES
+VISIT PATIENT SITE
+
+KRAZATI®
+(adagrasib) 200 mg
+TABLETS
+
+KRAS G12C in NSCLC
+KRAZATI MOA
+Clinical Data
+Dosage
+Resources & Support
+STAY CONNECTED
+
+SWITCH INDICATIONS
+NSCLC
+OTHER NSCLC
+
+ORR
+DCR
+Intracranial ORR
+OS
+PFS
+Descriptive analysis
+DOR
+
+**MEDIAN PFS IN PATIENTS TAKING KRAZATI: 6.9 MONTHS**³²
+
+The page displays a Kaplan-Meier survival curve chart titled "MEDIAN PFS IN PATIENTS TAKING KRAZATI: 6.9 MONTHS³²".
+The Y-axis is labeled "PFS Probability" and ranges from 0 to 1.0 in increments of 0.2.
+The X-axis is labeled "Time (months)" and ranges from 0 to 27 in increments of 3.
+A curved line representing the PFS probability over time is plotted, showing a decrease in probability as time progresses. Plus signs (+) indicate censored data points.
+Below the X-axis, a table shows the "No. at risk" corresponding to different time points:
+Time (months): 0 | 3 | 6 | 9 | 12 | 15 | 18 | 21 | 24 | 27
+No. at risk: 128 | 83 | 54 | 38 | 21 | 13 | 5 | 3 | 2 | 0
+
+To the right of the chart, large text reads:
+**6.9 months**
+(N=128; 95% CI: 5.4-8.7)
+*   Data cutoff: October 15, 2021
+
+At the bottom of the chart area, there is a disclaimer:
+Single-arm trials do not adequately characterize time-to-event endpoints such as PFS. Thus, these data from KRYSTAL-1 cannot be interpreted as having PFS benefit.
+CI=confidence interval; PFS=progression-free survival.
+
+SAFETY ➙
+
+**IMPORTANT SAFETY INFORMATION**
+**WARNINGS AND PRECAUTIONS**
+**Gastrointestinal Adverse Reactions**
+*   KRAZATI can cause severe gastrointestinal adverse reactions.
+*   Monitor and manage patients using supportive care, including antidiarrheals, antiemetics, or fluid replacement, as indicated. Withhold, reduce the dose, or permanently discontinue KRAZATI based on severity.
+
+**QTc Interval Prolongation**
+*   KRAZATI can cause QTc interval prolongation, which can increase the risk for ventricular tachyarrhythmias (eg, torsades de pointes) or sudden death.
+*   Avoid concomitant use of KRAZATI with other products with a known potential to prolong the QTc interval. Avoid use of KRAZATI in patients with congenital long QT syndrome and in patients with concurrent QTc prolongation.
+*   Monitor ECGs and electrolytes prior to starting KRAZATI, during concomitant use, and as clinically indicated in patients with congestive heart failure, bradyarrhythmias, electrolyte abnormalities, and in patients who are taking medications that are known to prolong the QT interval. Withhold, reduce the dose, or permanently discontinue KRAZATI, depending on severity.
+
+**Hepatotoxicity**
+*   KRAZATI can cause hepatotoxicity, which may lead to drug-induced liver injury and hepatitis.
+*   Monitor liver laboratory tests (AST, ALT, alkaline phosphatase, and total bilirubin) prior to the start of KRAZATI, and monthly for 3 months or as clinically indicated, with more frequent testing in patients who develop transaminase elevations. Reduce the dose, withhold, or permanently discontinue KRAZATI based on severity.
+
+**Interstitial Lung Disease/Pneumonitis**
+*   KRAZATI can cause interstitial lung disease (ILD)/pneumonitis, which can be fatal.
+*   Monitor patients for new or worsening respiratory symptoms indicative of ILD/pneumonitis (eg, dyspnea, cough, fever) during treatment with KRAZATI.
+*   Withhold KRAZATI in patients with suspected ILD/pneumonitis and permanently discontinue KRAZATI if no other potential causes of ILD/pneumonitis are identified.
+
+**ADVERSE REACTIONS**
+*   The most common adverse reactions in NSCLC patients (≥20%) are diarrhea, nausea, vomiting, musculoskeletal pain, hepatotoxicity, fatigue, cough, pneumonia, dizziness, constipation, abdominal pain, and QTc interval prolongation.
+
+**USE IN SPECIFIC POPULATIONS**
+**Females and Males of Reproductive Potential**
+*   Infertility: Based on findings from animal studies, KRAZATI may impair fertility in females and males of reproductive potential.
+
+Please see Full Prescribing Information.
+
+**INDICATION**
+KRAZATI is indicated for the treatment of adult patients with KRAS G12C-mutated locally advanced or metastatic non-small cell lung cancer (NSCLC), as determined by an FDA-approved test, who have received at least one prior systemic therapy.
+
+This indication is approved under accelerated approval based on objective response rate (ORR) and duration of response (DOR). Continued approval for this indication may be contingent upon verification and description of a clinical benefit in a confirmatory trial(s).
+
+Bristol Myers Squibb®
+
+© 2024 Mirati Therapeutics, Inc., a Bristol Myers Squibb company.
+KRAZATI® and the related logo are registered trademarks of Mirati Therapeutics, Inc.
+US-KRA-22-00152 v8 8/24
+
+LEGAL NOTICE
+|
+PRIVACY POLICY
+|
+YOUR PRIVACY CHOICES
+This website is intended for U.S. residents 18 years of age or older.

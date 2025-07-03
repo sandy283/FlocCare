@@ -1,0 +1,61 @@
+=== PAGE 4 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Chris Jewell
+Taiho Oncology, Inc.
+NDA 214801/MA 89
+
+                                                                                                       Page 4
+
+As a reference for these representations, you cite a publication and two abstract
+presentations from Goyal, et al, which include results from the FOENIX-CCA2 trial. 7,8,9
+These parts of the webpage misbrand Lytgobi by misleadingly suggesting that FOENIX-
+CCA2 provided interpretable results regarding the effects of Lytgobi on PFS and OS
+endpoints, even though the design of the FOENIX-CCA2 study was not capable of
+establishing improvement on time-to-event efficacy endpoints such as OS or PFS.
+Specifically, because FOENIX-CCA2 was designed as a single-arm trial (i.e., with no
+comparator arm), and PFS and OS are time-to-event efficacy endpoints, the reported PFS
+and OS results are uninterpretable; absent an appropriate comparator, it is not possible to
+determine if the observed effect is attributable to Lytgobi or to other factor(s), such as the
+natural history of the disease.
+
+We acknowledge that the following text appears above the PFS and OS presentations, under
+the bolded heading “FOENIX-CAA2: Additional endpoints” (in pertinent part, emphasis
+original, footnotes omitted):
+
+    •   Due to potential variability in the natural history of the disease, a single-arm study
+        may not adequately characterize these time-to-event endpoints and the results
+        may not be interpretable
+
+    •   **This data presentation is neither intended to draw conclusions regarding the
+        efficacy of LYTGOBI nor to imply that there is a treatment effect of LYTGOBI
+        on these time-to-event endpoints and the results should be interpreted with
+        caution**
+
+In addition, after the representations regarding efficacy results at extended follow-up, the
+following text appears in conjunction with the PFS and OS presentations: “The extended
+follow-up data were collected after the primary analysis and are descriptive in nature, and
+results should be interpreted with caution.” However, including these statements in Lytgobi
+promotional communications, along with misleading representations about Lytgobi’s efficacy
+(i.e., PFS and OS results from FOENIX-CCA2), does not render the promotional
+communication nonmisleading in light of the issues with FOENIX-CCA2 (explained above)
+that make the study incapable of supporting representations or suggestions that these results
+are attributable to the effect of Lytgobi.
+
+The “Efficacy Results” webpage also includes the following efficacy presentations regarding
+DCR (in pertinent part, emphasis original, footnotes omitted):
+
+    •   **“Disease control rate (DCR) (n=103)”**
+
+7 Goyal L, Meric-Bernstam F, Hollebecque A, et al. Futibatinib for FGFR2-Rearranged Intrahepatic
+Cholangiocarcinoma. N Engl J Med. 2023;388(3):228-239.
+8 Goyal L, Meric-Bernstam F, Hollebecque A, et al. Primary results of phase 2 FOENIX-CCA2: the irreversible
+FGFR1–4 inhibitor futibatinib in intrahepatic cholangiocarcinoma with FGFR2 fusions/rearrangements. Abstract
+presented at American Association for Cancer Research Annual Meeting; April 10-15, 2021, and May 17-21,
+2021. Abstract CT010.
+9 Goyal L, Meric-Bernstam F, Hollebecque A, et al. Updated results of the FOENIX-CCA2 trial: Efficacy and
+safety of futibatinib in intrahepatic cholangiocarcinoma (iCCA) harboring FGFR2 fusions/rearrangements.
+Abstract presented at ASCO Annual Meeting 2022. Abstract 4009. J Clin Oncol. 2022;40(16 suppl).
+
+Reference ID: 5554583

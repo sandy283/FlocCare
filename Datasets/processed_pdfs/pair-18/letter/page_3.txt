@@ -1,0 +1,62 @@
+=== PAGE 3 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+David Shechter
+Amgen Inc.
+BLA 125031 MA 1706
+
+Page 3
+
+For example, the study was not designed to ensure that patients with FN were appropriately
+identified for inclusion in the analysis. Specifically, the study uses an unvalidated algorithm³
+to identify study participants. This algorithm retrospectively identified patients who had FN by
+selecting inpatient and outpatient encounters with diagnosis codes for neutropenia **and** fever
+or infection. The data on file that Amgen provided to OPDP included no information about
+the performance characteristics (e.g., sensitivity, positive predictive value) of the algorithm or
+the diagnostic codes that were used. The use of an unvalidated algorithm with unknown
+performance characteristics is a significant limitation because of the potential for
+misclassification of patients at the onset of the study.⁴ We also note that the data on file does
+not describe any measures taken to ensure the quality and accuracy of the results generated
+by the algorithm. As a result, the extent of FN in this study population may be overestimated
+or underestimated.
+
+In addition to the above concern, the study was not designed to ensure that the PFS and
+OBI patient populations were adequately balanced or controlled for potential bias.
+Specifically, the study did not control for factors other than the delivery device that may
+influence the incidence of FN in the compared groups. Eligible patients for the study had
+highly diverse clinical characteristics, and the study report did not include any information on
+the baseline comorbidity or risk factors for FN of the two exposure groups or on design or
+analytic strategies to minimize the risk of selection bias. Selection bias⁵ is a key concern for
+this study because even slight differences in populations (e.g., risk factors for FN, age,
+chemotherapy regimen and dosing, etc.) could substantially impact the incidence of FN and
+the conclusions stemming from the analysis. We note that while the size of the relative
+effect in this study is large (31% increased incidence of FN with PFS vs. OBI), the absolute
+difference is much smaller in magnitude (0.4%; 1.7% PFS vs 1.3% OBI). It cannot be ruled
+out that selection bias is entirely responsible for the observed risk difference. Accordingly,
+reporting a p-value for the claims and presentations in frames one and two of the banner is
+misleading.
+
+Therefore, due to multiple limitations of design and analytic strategy, the study does not
+support the claims and presentations regarding the comparative FN risk when pegfilgrastim
+is administered via PFS compared to the OBI. We note that two limitations to the study are
+presented in frames seven and eight under the header “Real-World Study Limitations.” The
+presentation of two major deficiencies of the study design does not mitigate the misleading
+claims and presentations in the banner.
+
+The above misleading claims and presentations are particularly concerning from a public
+health perspective because they could undermine confidence not just in Neulasta delivered
+via PFS but also in FDA-licensed biosimilar pegfilgrastim products, which are only delivered
+via PFS. The above claims prominently present “<u>Pegfilgrastim PFS</u>” (emphasis added) as
+
+³ The algorithm used to identify FN in claims data for this study included several related diagnostic codes (i.e.,
+inpatient diagnosis of neutropenia in any position AND (diagnosis of fever OR diagnosis of infection in any
+position); or, outpatient diagnosis of neutropenia AND (diagnosis of fever OR (diagnosis of infection AND
+prescription for antimicrobials))).
+⁴ As noted in the cited reference, “The potential for misclassification of key variables exist, as patients are
+identified through diagnosis or procedure codes as opposed to medical records, and therefore are subject to
+data coding limitations and data entry error.”
+⁵ Necessary data on potential confounding variables were unlikely to be sufficiently captured in the
+MarketScan® database to allow a robust analysis, increasing the likelihood of selection bias.
+
+Reference ID: 482246

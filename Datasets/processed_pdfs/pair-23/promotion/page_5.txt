@@ -1,0 +1,67 @@
+=== PAGE 5 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving its original layout and structure:
+
+(Top header navigation links)
+Products Investors News About Contact
+
+(Company logo and name)
+& NASCENT
+BIOTECH, INC.
+
+(Main content heading)
+Pritumumab
+has begun clinical toxicology
+trials
+
+(Image description)
+An image of a complex molecular structure, likely representing an antibody, is displayed to the right of the main heading. The structure is composed of multiple spherical or globular units, colored in shades of green, blue, and purple, interconnected to form a larger, somewhat symmetrical shape, resembling the Y-shape typically associated with antibodies.
+
+(Main content body text)
+Delivering human antibodies for the treatment of cancer
+
+---
+
+(Left column)
+Pritumumab
+Learn more about Nascent Biotech's primary drug product,
+Pritumumab.
+
+NBIO Stock Information
+NBIO: (%)
+
+Investor Presentation
+[Button: Download Investor Presentation]
+
+Email Updates
+[Button with envelope icon: Subscribe Now]
+
+(Right column)
+Latest News
+
+JUNE 3, 2019
+Nascent CEO Sean Carrick On RedChip Money Report
+
+MARCH 10, 2019
+Human Antibodies: Antibody drug conjugates: Progress, pitfalls, and
+promises
+
+DECEMBER 11, 2018
+Nascent Biotech Receives Clearance from FDA to Begin Phase I Human
+Trials in Brain Cancer
+
+JULY 27, 2018
+Prionogenicity of vimentin surmised from the sequelog of anti-idiotypic
+antibodies toward the paratope of malignant associated autologous anti-
+vimentin antibody, CLN-IgG (Pritumumab)
+
+APRIL 4, 2018
+Nascent Biotech to Sponsor Human Antibodies & Hybridomas
+Conference
+
+---
+
+(Footer)
+Copyright Nascent Biotech. All rights reserved.

@@ -1,0 +1,3099 @@
+=== PAGE 1 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Guidance for Industry  
+Presenting Risk Information in  
+Prescription Drug and Medical  
+Device Promotion  
+DRAFT GUIDANCE  
+This guidance document is being distributed for comment purposes only. 
+Comments and suggestions regarding this draft document should be submitted within 90 days of 
+publication in the Federal Register of the notice announcing the availability of the draft 
+guidance. Submit comments to the Division of Dockets Management (HFA-305), Food and Drug 
+Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852. All comments should be 
+identified with the docket number listed in the notice of availability that publishes in the Federal 
+Register. 
+For questions regarding this draft document contact (CDER) Kristin Davis at 301-796-1200, 
+(CBER) Ele Ibarra-Pratt at 301-827-3028, (CVM) Martine Hartogensis at 240-453-6833, or 
+(CDRH) Ann Simoneau at 240-276-0100. 
+U.S. Department of Health and Human Services  
+Food and Drug Administration  
+Center for Drug Evaluation and Research (CDER)  
+Center for Biologics Evaluation and Research (CBER)  
+Center for Veterinary Medicine (CVM)  
+Center for Devices and Radiological Health (CDRH)  
+May 2009 
+
+
+=== PAGE 2 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Guidance for Industry  
+Presenting Risk Information in  
+Prescription Drug and Medical  
+Device Promotion  
+Additional copies are available from: 
+ Office of Communication, Training and   
+Manufacturers Assistance, HFM-40  
+Center for Biologics Evaluation and Research 
+ Food and Drug Administration  
+1401 Rockville Pike, Rockville, MD 20852-1448 
+ http://www.fda.gov/cber/guidelines.htm.    
+(Tel) at 800-835-4709 or 301-827-1800  
+Office of Training and Communication  
+Division of Drug Information, HFD-240  
+Center for Drug Evaluation and Research  
+Food and Drug Administration  
+5600 Fishers Lane  
+Rockville, MD  20857  
+(Tel) 301-827-4573 
+ http://www.fda.gov/cder/guidance/index.htm  
+Office of Communication, Education and Radiological  
+Programs  
+Division of Small Manufacturers, International and  
+Consumer Assistance (HFZ-220)  
+Center for Devices and Radiological Health  
+Food and Drug Administration  
+1350 Piccard Drive  
+Rockville, MD 20850-4307 U.S.A.  
+http://www.fda.gov/cdrh/ggpmain.html  
+Email: dsmica@cdrh.fda.gov  
+Fax: 240.276.3151  
+(Tel) 800-638-2041 or 240-276-3150  
+*  
+Communications Staff, HFV-12  
+Center for Veterinary Medicine  
+Food and Drug Administration  
+7500 Standish Place,  
+Rockville, MD  20855  
+(Tel) 301-594-1755  
+http://www.fda.gov/cvm/guidance/guidance.html  
+U.S. Department of Health and Human Services  
+Food and Drug Administration  
+Center for Drug Evaluation and Research (CDER)  
+Center for Biologics Evaluation and Research (CBER)  
+Center for Veterinary Medicine (CVM)  
+Center for Devices and Radiological Health (CDRH)  
+May 2009  
+
+
+=== PAGE 3 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+TABLE OF CONTENTS 
+I. 
+INTRODUCTION............................................................................................................................ 1  
+II. 
+BACKGROUND............................................................................................................................... 2  
+A. 
+LEGAL OVERVIEW ...................................................................................................................... 3  
+B. 
+POLICY OVERVIEW..................................................................................................................... 4  
+III. 
+FACTORS CONSIDERED IN THE REVIEW OF RISK COMMUNICATION ................... 6  
+A. 
+GENERAL CONSIDERATIONS .................................................................................................. 7  
+1. Consistent Use of Language .............................................................................................................. 7  
+2. Use of Signals..................................................................................................................................... 7  
+3. Framing Risk Information.................................................................................................................. 8  
+4. Hierarchy of Risk Information ........................................................................................................... 9  
+B. 
+CONSIDERATIONS OF CONTENT.......................................................................................... 10  
+1. Quantity ............................................................................................................................................ 10  
+2. Materiality and Comprehensiveness................................................................................................ 11  
+C. 
+CONSIDERATIONS OF FORMAT............................................................................................ 14  
+1. Print Promotion................................................................................................................................ 15  
+2. Non-Print Promotion........................................................................................................................ 18  
+IV. 
+CONCLUSION............................................................................................................................... 21  
+ATTACHMENT: STATUTORY AND REGULATORY REQUIREMENTS FOR LABELING  
+AND ADVERTISING ................................................................................................................................. 22  
+
+
+=== PAGE 4 ===
+
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+1 
+Guidance for Industry 
+2 
+Presenting Risk Information in Prescription Drug and Medical 
+3 
+Device Promotion 
+4 
+ 
+5 
+ 
+6 
+ 
+7 
+This draft guidance, when finalized, will represent the Food and Drug Administration’s (FDA’s) current 
+8 
+thinking on this topic.  It does not create or confer any rights for or on any person and does not operate to 
+9 
+bind FDA or the public.  You can use an alternative approach if the approach satisfies the requirements of 
+10 
+the applicable statutes and regulations.  If you want to discuss an alternative approach, contact the FDA 
+11 
+staff responsible for implementing this guidance.  If you cannot identify the appropriate FDA staff, call 
+12 
+the appropriate number listed on the title page of this guidance.  
+13 
+ 
+14 
+ 
+15 
+ 
+16 
+I. 
+INTRODUCTION  
+17 
+ 
+18 
+This draft guidance describes factors FDA considers when evaluating advertisements (ads) and 
+19 
+promotional labeling for prescription drugs,1 ads for restricted medical devices,2 and promotional labeling 
+20 
+for all medical devices for their compliance with the Federal Food, Drug, and Cosmetic Act (the FD&C 
+21 
+Act or the Act) and relevant regulations.3   The draft guidance discusses factors that are relevant to the 
+22 
+disclosure of risk information and provides numerous examples to illustrate FDA’s thinking on these 
+23 
+factors.  This guidance responds to stakeholder requests for specific guidance on how FDA evaluates 
+24 
+prescription drug and medical device promotional pieces to determine whether they adequately present 
+25 
+risk information.  The recommendations contained in this draft guidance apply to promotional materials 
+26 
+directed to both consumers and healthcare professionals.   
+27 
+ 
+28 
+ 
+                                                     
+1  This draft guidance does not address over-the-counter (OTC) drug promotional labeling, which FDA also 
+regulates.  FDA encourages all manufacturers to ensure that t heir promotional l abeling is truthful and non-
+misleading.  FDA recognizes that the marketing status of animal drugs may vary, depending upon the intended 
+species.  For example, several anthelmintics on the market are available only by prescription for dogs and cats, yet 
+very similar products are available OTC for horses and food animals.  OTC drugs intended for food animals, in 
+particular, may carry significant risks that may affect not only the intended food animal, but also other animal 
+species and humans.  OTC promotional labeling for animal drugs should convey the serious risks associated with 
+use of the products, especially those affecting the public health.   
+2 Devices may become restricted, either by regulation issued under section 520(e) of the Act (21 U.S.C. 360j(e), or 
+by order approving an application for premarket approval (PMA), pursuant to section 515(d)(1)(B)(ii) (21 U.S.C. 
+360e(d)(1)(B)(ii)). 
+3 This draft guidance also does not apply to those reminder promotions (labeling or advertising that calls attention to 
+the name of a drug or device but does not include indications, dosage recommendations, or other information) that 
+are exempted by regulation from the requirements under the FD&C Act for the disclosure of risk information.  See 
+21 CFR 200.200, 201.100(f), 201.105(d)(2), 202.1(e)(2)(i), 801.109(d).  But see 21 U.S.C. 352(r) (requiring certain 
+risk information in all restricted device advertisements).  
+1  
+
+
+=== PAGE 5 ===
+
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+ 
+29 
+Although this draft guidance focuses on the presentation of risk information in prescription drug and 
+30 
+medical device promotion, the factors relating to effective communication outlined below are also 
+31 
+applicable to the presentation of benefit information in promotion.  Indeed, when FDA evaluates 
+32 
+promotional pieces for compliance with the Act and relevant regulations, it determines whether claims 
+33 
+about both risk and benefit of the product are accurate and non-misleading, and it also looks at whether 
+34 
+risks and benefits are presented in a comparably prominent manner.  Thus, considerations involving the 
+35 
+content and format of benefit information are an inherent part of FDA’s evaluation of risk presentations in 
+36 
+promotional pieces.  FDA recommends that companies take the factors outlined in this document into 
+37 
+account when developing both risk and benefit presentations in their promotional pieces, as the public 
+38 
+health is best served when risk and effectiveness information about drug and device products is clearly 
+39 
+and accurately communicated. 
+40 
+ 
+41 
+FDA’s guidance documents, including this draft guidance, do not establish legally enforceable 
+42 
+responsibilities.  Instead, guidances describe FDA’s current thinking on a topic and should be viewed 
+43 
+only as recommendations, unless specific regulatory or statutory requirements are cited.  The use of the 
+44 
+word should in Agency guidances means that something is suggested or recommended, but not required.  
+45 
+ 
+46 
+ 
+47 
+II. 
+BACKGROUND 
+ 
+48 
+ 
+49 
+The regulation of prescription drug and medical device promotion to healthcare professionals and 
+50 
+consumers is a broad and complex topic.4   This document addresses one key aspect of this topic – the 
+51 
+presentation of risk information.  FDA believes it is critically important to disclose risk information in 
+52 
+prescription drug and medical device promotion appropriately and effectively to healthcare professionals 
+53 
+and consumers.5  This information helps consumers know whether drugs or devices may be appropriate 
+54 
+for them as well as what they should tell their healthcare professionals about before taking or using or 
+55 
+while taking or using a product.  It also lets consumers know what risks they might experience and what 
+56 
+steps they need to take for safety reasons (e.g., no driving) because of taking or using a product.  
+57 
+Appropriate risk disclosures help healthcare professionals by giving them some of the information they 
+58 
+need to know about the product that will enable them to safely use or prescribe it. Recently published 
+59 
+industry guidelines encourage manufacturers to develop prescription medicine promotion that is 
+                                                     
+4 Although beyond the scope of this document, the complexity of the topic can be demonstrated by past studies that 
+have shown potential positive and negative effects of direct-to-consumer (DTC) advertising for prescription drugs.  
+For example, FDA research suggests that DTC advertising seems to increase awareness of conditions and 
+treatments, to motivate questions for the healthcare provider, and to help patients ask better questions.  Yet this 
+research also suggests that almost half of physicians feel some pressure to prescribe as a result of DTC advertising, 
+and patients and physicians report a belief that these ads overs
+ 
+tate the drug product’s efficacy and do not present a 
+fair balance of benefit and risk information.  For the complete study results, see K. Aikin, J. Swasy & A. Braman, 
+Patient and Physician Attitudes and Behaviors Associated With DTC Promotion of Prescription Drugs – Summary 
+of FDA Survey Research Results, Final Report, November 19, 2004, available at: 
+http://www.fda.gov/cder/ddmac/Final%20Report/FRfinal111904.pdf. 
+5   Effectively disclosing risk information also requires a consideration of whether an advertisement or promotional 
+material over warns.  For example, a drug advertisement that includes a listing of side effects that are not included in 
+the drug's approved labeling may lead to under-emphasis of th
+ e most important and serious risks.  FDA takes care to 
+ensure that important risk information is included i n the drug's approved lab
+ 
+eling, and sponsors have an obligation to 
+update their labeling with appropriate new safety information.  21 CFR 201.57(c)(6); 201.80(e).  Nothing in th
+ is 
+guidance should be construed as recommending that the sponsor of a dr
+ 
+ug include in advertising or promotional 
+materials risk in
+ formation not in t he product's approved labeling o r appropriate for inclusion in th
+ e labeling.  See 73 
+Fed. Reg. 2848, 2851 (January 16, 2008).  
+2  
+
+
+=== PAGE 6 ===
+
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                     
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+60 
+“designed to achieve a balanced presentation of both the benefits and the risks associated with the 
+61 
+advertised” product.6 
+62 
+63 
+However, omission or minimization of risk information is the most frequent violation of the regulations 
+64 
+cited in advertising and promotion enforcement letters sent to sponsors, and illustrative research in one of 
+65 
+the areas this guidance covers, direct-to-consumer prescription drug advertising, has shown that 60 
+66 
+percent of patients believe ads directed at them do not provide enough information about risks, 60 percent 
+67 
+of physicians believe that patients have little or no understanding from these ads about what the possible 
+68 
+risks and negative effects of the products are, and 72 percent of physicians believe that patients have little 
+69 
+or no understanding from these ads about who should not use the product.7 
+70 
+71 
+FDA is issuing this draft guidance to aid sponsors in effectively communicating risk information in their 
+72 
+promotion to both healthcare professionals and consumers.  This draft guidance describes how FDA 
+73 
+reviews prescription drug and medical device promotional pieces to determine whether they adequately 
+74 
+present risk information. The document begins with some background information, including a brief 
+75 
+overview of legal requirements and a discussion of policy considerations related to drug and device 
+76 
+promotional materials.  The draft guidance then describes factors FDA considers when reviewing risk 
+77 
+communication in promotional materials.  Because the principles within this guidance are based on 
+78 
+universal concepts of communication and understanding of risk information, the guidance will address 
+79 
+promotion aimed at both lay consumer and healthcare professional audiences. 
+80 
+81 
+A. 
+LEGAL OVERVIEW 
+82 
+83 
+Under the FD&C Act and FDA's implementing regulations, promotional pieces (such as promotional 
+84 
+labeling for drugs and devices and advertisements for prescription drugs and restricted devices) making 
+85 
+claims about a product are deemed misleading if they fail to disclose certain information about the 
+86 
+product's risks.8  Generally, to comply with the FD&C Act and FDA’s implementing regulations, such 
+87 
+promotional pieces:9 
+88 
+89 
+— Cannot be false or misleading in any particular10 
+90 
+— Must reveal material facts about the product being promoted, including facts about the 
+91 
+consequences that can result from use of the product as suggested in the promotional piece11 
+6 PhRMA, PhRMA Guiding Principles Direct to Consumer Advertisements About Prescription Medicines, Principle 
+11, November 2005, available at: http://www.phrma.org/files/DTCGuidingprinciples.pdf. 
+7 K. Aikin, J. Swasy & A. Braman, Patient and Physician Attitudes and Behaviors Associated With DTC Promotion 
+of Prescription Drugs – Summary of FDA Survey Research Results, Final Report, November 19, 2004, available at: 
+http://www.fda.gov/cder/ddmac/Final%20Report/FRfinal111904.pdf. 
+8 The relevant statutory provisions and regulations are discussed in more detail in the Attachment to this guidance. 
+9 The terms promotional piece, promotional materials, and promotional communications are used in this guidance to 
+refer generally to both advertising and promotional labeling, regardless of format. Promotional materials include, 
+among others, television ads, brochures, booklets, detailing pieces, internet web sites, print ads, exhibits, and sound 
+recordings or radio ads. As noted in the introduction, this guidance applies to all types of promotion for prescription 
+drugs, advertisements for restricted devices and promotional labeling for all devices.  
+10 Drugs and devices are misbranded under the Act if their labeling is false or misleading in any particular (21 
+U.S.C. 352(a)). Similarly, prescription drugs and restricted devices are misbranded if their advertising is false or 
+misleading in any particular (21 U.S.C. 352(n) & (q)(1); 21 CFR 202.1(e)(5)(i)). 
+3  
+
+
+=== PAGE 7 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+   
+ 
+ 
+  
+                                                                                                                                                                          
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+92 
+and 
+93 
+— Should present information about effectiveness and information about risk in a balanced  
+94 
+manner12  
+95 
+96 
+This draft guidance document describes factors FDA considers when evaluating risk disclosure in 
+97 
+prescription drug and medical device promotional materials to determine whether these materials comply 
+98 
+with the statutory and regulatory requirements.  The draft guidance also makes recommendations about 
+99 
+how manufacturers can develop the content and format of promotional communications to comply with 
+100 
+these requirements. The examples and recommendations provided are intended to provide guidance and 
+101 
+illustrate possible approaches; manufacturers are free to use alternative approaches if these approaches 
+102 
+satisfy the requirements of the statute and regulations. Unless otherwise specified in this draft guidance, 
+103 
+the principles set forth below apply to all promotional pieces, regardless of the medium used or the target 
+104 
+audience. 
+105 
+106 
+B. 
+POLICY OVERVIEW 
+107 
+108 
+Section III of this guidance highlights several factors, including those related to content and format, that 
+109 
+FDA uses to evaluate the risk communication in a promotional piece.  We recommend that manufacturers 
+110 
+consider these factors when trying to achieve effective risk communication.  It is important to emphasize 
+111 
+that when FDA evaluates the risk communication in a promotional piece, FDA looks not just at specific 
+112 
+risk-related statements, but at the net impression – i.e., the message communicated by all elements of the 
+113 
+piece as a whole.  The purpose of the evaluation is to determine whether the piece as a whole conveys an 
+114 
+accurate and non-misleading impression of the benefits and risks of the promoted product.  Manufacturers 
+115 
+should therefore focus not just on individual claims or presentations, but on the promotional piece as a 
+116 
+whole.13 A promotional communication that conveys a deceptive net impression of the product could be 
+117 
+misleading, even if specific individual claims or presentations are not misleading. 
+118 
+119 
+FDA’s consideration of the net impression of risk information is based on well-developed social science 
+120 
+principles supported by decades of scientific research14 and is consistent with the approach of other 
+121 
+agencies and organizations.  For example, the Federal Trade Commission (FTC) uses the interpretation of 
+122 
+the net impression of the piece to determine whether a promotional piece is likely to mislead a 
+123 
+consumer.15 Pharmaceutical industry members have also conducted social science research showing that, 
+124 
+when evaluating a promotional piece, the net impression conveyed by the piece as a whole is an important 
+125 
+element to consider, independent of individual statements within the piece.   
+11 21 U.S.C. 321(n); 21 CFR 1.21 & 202.1(e)(5)(iii). 
+12 See 21 CFR 202.1(e)(5)(ii). 
+13 Manufacturers should note that, although this guidance focuses on risk disclosures in promotional pieces, any 
+claims in a promotional piece that are misleading, whether risk-related or not, can cause the product being promoted 
+to become misbranded ( 21 U.S.C. 352(a), (n) & (q)(1); 21 CFR 202.1(e)(5)(i)). 
+14 For reviews of this field, see Kimble, G.A. (1985) The psychology of learning enters its second century.  In 
+Hammonds, B.L. (Ed.), Psychology and learning.  Washington, DC: American Psychological Association (pp. 5-47) 
+and Mayer, R.E. (2003) Memory and information processes.  In Reynolds, W.M., & Miller, G.E. (Eds.), Handbook 
+of Psychology: Educational Psychology, 7. New York: John Wiley & Sons, Inc. (pp. 47-57). 
+15 See Federal Trade Commission, FTC Policy Statement on Deception, (Oct. 14, 1983), appended to FTC v. 
+Cliffdale Associates, Inc., et al., 103 F.T.C. 110, 170 (1984) (hereinafter “FTC Policy Statement on Deception” with 
+page references to 103 F.T.C. 110).  
+4  
+
+
+=== PAGE 8 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+                                                     
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+126 
+127 
+Section III of the guidance contains examples of how various aspects of content and format can contribute 
+128 
+to a misleading net impression in promotional pieces.  The following two examples also illustrate this. 
+129 
+130 
+Example 1: A broadcast television ad for a cholesterol-lowering drug contains a factually 
+131 
+accurate audio risk statement that discloses the drug’s major side effects and contraindications.  
+132 
+This audio presentation is accompanied by quick scene changes showing comforting visual 
+133 
+images of patients benefiting from the drug.  It is also accompanied by loud, upbeat music. In 
+134 
+this case, the audio disclosure may not adequately communicate risks because of the 
+135 
+accompanying discordant visuals and distracting music. 
+136 
+137 
+Example 2: A one-page prescription drug ad for an arthritis drug, run in a medical journal, 
+138 
+prominently presents the following headline claims in large bolded font and with abundant 
+139 
+surrounding white space: 
+140 
+• 
+Benefits! DrugX is proven safe and effective for the relief  of arthritis pain and 
+141 
+stiffness, 
+142 
+• 
+Difference! DrugX’s unique gel formulation is convenient and easy to use, and 
+143 
+• 
+Reason to Believe! Drug X is the most frequently prescribed arthritis drug in the 
+144 
+United States 
+145 
+The bottom of the page contains an inconspicuous statement in small, non-bolded font and 
+146 
+without surrounding white space:  “Like all arthritis medications, Drug X has been associated 
+147 
+with a risk of serious infection.” The emphasis on benefit information in this piece – in terms of 
+148 
+the way the information is formatted and framed – overwhelms the risk information and may 
+149 
+cause readers to receive an erroneous impression that the drug is safer than it has proven to be, 
+150 
+even though the statements themselves may be factually accurate.  
+151 
+152 
+Using the factors explained in Part III of this draft guidance, trained professionals at FDA with expertise 
+153 
+in areas including communication, drug information, medicine and law, apply these factors and evaluate 
+154 
+claims in promotional pieces from the perspective of a reasonable consumer. As FDA has stated,16 the 
+155 
+agency believes that the reasonable consumer standard is the appropriate standard to use in determining 
+156 
+whether a claim in the labeling of a dietary supplement or conventional food is misleading.  The agency 
+157 
+confirms that the reasonable consumer standard will be used to evaluate communications covered by this 
+158 
+guidance document.  The reasonable consumer standard used by FDA in evaluating promotional 
+159 
+materials is similar to the FTC standard: 
+160 
+161 
+[W]e examine the practice from the perspective of a consumer acting reasonably in the 
+162 
+circumstances.  If the representation or practice affects or is directed primarily to a 
+163 
+particular group, the Commission examines reasonableness from the perspective of that 
+17
+164 
+group.
+165 
+16 Guidance for Industry: Qualified Health Claims in the Labeling of Conventional Foods and Dietary Supplements 
+(Dec. 2002) (replaced by Guidance for Industry and FDA: Interim Procedures for Qualified Health Claims in the 
+Labeling of Conventional Food and Human Dietary Supplements (July 2003)); see 70 Fed. Reg. 824 (Jan. 5, 2005) 
+(noting that, although the Guidance for Industry on Qualified Health Claims in Labeling of Conventional Foods and 
+Dietary Supplements (Dec. 2002) “has been ‘replaced’ by subsequent guidance, the agency has not abandoned the 
+position in the 2002 guidance regarding reasonable consumer standard”). 
+17  See FTC Policy Statement on Deception at 170. 
+5  
+
+
+=== PAGE 9 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+166 
+This standard does not preclude multiple interpretations of a claim, as long as they are reasonable. As the 
+167 
+FTC’s Policy Statement provides: 
+168 
+169 
+To be considered reasonable, the interpretation or reaction does not have to be the only 
+170 
+one.  When a seller’s representation conveys more than one meaning to reasonable 
+171 
+consumers, one of which is false, the seller is liable for the misleading interpretation.18 
+172 
+173 
+In applying the reasonable consumer standard, FDA, like FTC, takes into account the different levels of 
+174 
+expertise of lay consumers and healthcare professionals. Due to their training and experience, healthcare 
+175 
+professionals develop a level of knowledge related to scientific concepts and medical conditions and 
+176 
+products that lay consumers do not possess. FDA takes this difference in knowledge and experience into 
+177 
+account when assessing promotional materials directed at healthcare professionals versus those directed at 
+178 
+lay audiences.  However, research has shown that experts (in this case, healthcare professionals) are 
+179 
+subject to the same cognitive biases and processing limitations as non-experts.19 
+180 
+181 
+Cognitive science research has demonstrated that all people, regardless of expertise, are only able to think 
+182 
+through and process a limited amount of information at one time.20  However, our ability to process 
+183 
+information can be greatly improved by considering and controlling for the factors that affect attention 
+184 
+and comprehension. This guidance discusses those factors, how we apply them to our review of 
+185 
+promotional materials, and what manufacturers can do to ensure that their materials comply with the 
+186 
+regulations. 
+187 
+188 
+189 
+III. 
+FACTORS CONSIDERED IN THE REVIEW OF RISK COMMUNICATION 
+190 
+191 
+FDA relies on a vast scientific body of knowledge regarding human cognition in assessing which factors 
+192 
+to consider in evaluating promotional pieces and making regulatory decisions about the presentation of 
+193 
+risk information.  The following sections highlight factors that FDA considers when determining whether 
+194 
+risk information is communicated in a fashion consistent with the regulations. 
+195 
+18 Id. at 177. 
+19 Although physicians generally do not believe that they are influenced by advertising, (Spiller & Wymer, 2001), 
+research has shown that physicians are influenced by promotional activities (e.g., advertising: Avorn et al., 1982; 
+sales representatives: Gonul et al., 2001). Avorn, J., Chen, M. & Hartley, R. (1982) Scientific versus commercial 
+sources of influence on the prescribing behavior of physicians. American Journal of Medicine, 73, 4-8.  Gonul, F.F., 
+Carter, F., Petrova, E., & Srinivasan, K. (2001) Promotion of prescription drugs and its impact on physicians’ choice 
+behavior. Journal of Marketing, 65, 79-90.  Spiller, L.D., & Wymer, W.W. (2001) Physicians’ perceptions and uses 
+of commercial drug information sources: An examination of pharmaceutical marketing to physicians. Health 
+Marketing Quarterly, 19, 91-106.   
+20 See, e.g., Lavie, N. (2001) Capacity limits in selective attention: Behavioral evidence and implications for neural 
+activity. In Braun, J., Koch, C., et al. (Eds.), Visual attention and cortical circuits. Cambridge, MA: The MIT 
+Press (pp. 49-68); Miller, G.A. (1994) The magical number seven, plus or minus two: Some limits on our capacity 
+for processing information. Reprinted in Gutfreund, H., & Toulouse, G. (Eds.), Biology and computation: A 
+physicist’s choice.  River Edge, NJ: World Scientific Publishing Co. (pp. 207-233); Shapiro, K. (Ed.) (2001) The 
+limits of attention: Temporal constraints in human information processing.  London: Oxford University Press. 
+6  
+
+
+=== PAGE 10 ===
+
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+ 
+196 
+A. 
+GENERAL CONSIDERATIONS 
+197 
+ 
+198 
+This section explores some important factors that relate to both the content and the format of a 
+199 
+promotional piece.  FDA will consider the use of language and signals and how information is framed and 
+200 
+ordered. 
+201 
+ 
+202 
+1. 
+Consistent Use of Language Appropriate for Target Audience 
+203 
+ 
+204 
+Both language used to communicate benefits and language used to communicate risks should be 
+205 
+comprehensible to the same audience for a piece to be considered accurate and non-misleading.  Thus, 
+206 
+promotional materials directed to professionals can reasonably describe benefits and risks in medical 
+207 
+language, but promotional materials directed to consumers should convey benefits and risks in language 
+208 
+understandable to consumers.21   
+209 
+ 
+210 
+Example 3: A consumer-directed ad for a drug that presents benefit claims in consumer friendly 
+211 
+language should mention a risk of “fainting,” not “syncope.”   
+212 
+ 
+213 
+With respect to consumer-directed materials, FDA encourages manufacturers to present both benefit and 
+214 
+risk information in clear, understandable, and non-technical language for consumer audiences.22     
+215 
+ 
+216 
+2. 
+Use of Signals 
+217 
+ 
+218 
+Signaling is an important component of information communication.23   In written materials, signaling has 
+219 
+been defined as the use of “writing devices designed to emphasize aspects of a text’s structure or content 
+220 
+without altering the information in the text.”24   Headlines and subheads are examples of commonly used 
+221 
+signals.25   Depending on the circumstance, “accurate information in the text may not remedy a false 
+222 
+headline [or signal] because reasonable consumers may only glance at the headline” and skip the 
+                                                     
+21 See Root, J., & Stableford, S. (1999) Easy-to-read consumer communications: A
+  missing link in Medicaid 
+managed care. Journal of Health Politics, Policy, & Law, 24, 1-26. 
+22 Although not a true measure of “understandability,” text reading level, often expressed as “grade level,” is one 
+way to assess text difficulty.  Text that scores at 
+ 
+a higher grade level (e.g., 12th  grade) is considered more complex 
+than text scoring at a lower grade level (e.g., 8th grade).  Several validated reading level measures are available to 
+provide an approximate measure of text complexity.  See, e.g., Kincaid, J.P., Fishburne, R., Rogers, R.L., Chissom, 
+B.S. (1975) Derivation of New Readability Formulas (Automated Reliability Index, Fog Count, and Flesch Reading 
+Ease Formula) for Navy Enlisted Personnel.  Research Branch Report 8-75.  Memphis: Naval Air Station; 
+McLaughlin, G.H. (1969) SMOG grading: A new readability formula.  Journal of Reading, 12, 639-646; Mosenthal, 
+P.B. (1998) A new measure of assessing document complexity: The PMOSE/IKIRSCH document readability 
+formula. Journal of Adolescent and Adult Literacy, 41, 620-638.  We encourage manufacturers to test text 
+comprehensibility as well. 
+23 Loman, N.L., & Mayer, R.E. (1983) Signaling techniques that increase the understandability of expository prose.  
+Journal of Educational Psychology, 75, 402-412; Meyer, B.J.F. (2003) Text coherence and readability.  Topics in 
+Language Disorders, 23, 204-224; Spyridakis, J.H., & Standal, T.C. (1987) Signals in expository prose: Effects on 
+reading comprehension.  Reading Research Quarterly, 22, 285-298. 
+24 Lorch, R.F., Lorch, E.P., & Inman, W.E. (1993) Effects of signaling structure on text recall.  Journal of 
+Educational Psychology, 85, 281-290, p. 281. 
+25 Hyona, J., & Lorch, R.F. (2004) Effects of topic headings on text processing: Evidence from adult readers’ eye 
+fixation patterns.  Learning and Instruction, 14, 131-152. 
+7  
+
+
+=== PAGE 11 ===
+
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+223 
+remainder of the text.26   Signals are also used in broadcast situations, such as when an announcer draws 
+224 
+attention to different items of information, when a word on the screen identifies a new topic, or when 
+225 
+headlines emphasize some messages but not others.   
+226 
+ 
+227 
+When reviewing promotional materials, FDA looks to see if the use of signals is consistent across benefit 
+228 
+and risk information, so that the materials provide accurate and non-misleading impressions of a drug or 
+229 
+device.  
+230 
+ 
+231 
+Example 4: If a piece contains headlines that signal benefit information, (e.g., “Drug X Provides 
+232 
+Highly Effective Control”), some sort of headline should also signal risk information (e.g., “Side 
+233 
+Effects for Drug X”).   
+234 
+ 
+235 
+However, the mere presence of similar signals for both benefit and risk information is not necessarily 
+236 
+sufficient to make a piece accurate and non-misleading.  The content of the signals is also important.  
+237 
+Certain headlines may frame (see next section) subsequent risk information in ways that emphasize or 
+238 
+minimize its importance.   
+239 
+ 
+240 
+Example 5:  The headline “Important Risk Information about Device X” is preferable to 
+241 
+“Important Information about Device X” because the former headline indicates what type of 
+242 
+information follows.  Similarly, “Common Side Effects Seen with Drug X,” is preferable to 
+243 
+“Other Information about Drug X.”  Specific and clear signals are preferable because they are 
+244 
+more effective than vague or abstract terms.   
+245 
+ 
+246 
+Presenting risk information with no signal, or beginning the presentation of risk information with 
+247 
+unrelated information (e.g. presenting risk information in a paragraph that begins with information on 
+248 
+indication or dosing) can also minimize the risks of the product and mislead the audience.  For example, 
+249 
+the headlines in the following example convey additional benefit information, potentially misleading the 
+250 
+audience about the overall risk-benefit profile of the product. 
+251 
+ 
+252 
+Example 6: Placing risk information under headlines such as “Now Approved for Epilepsy” or 
+253 
+“Safe Enough for Children Under 5” minimizes the risk information that follows, particularly if 
+254 
+individuals only look at the headlines.  Instead, headlines preceding risk presentations should 
+255 
+signal that a risk presentation follows, for example, “Important Risk Information About Drug X.” 
+256 
+ 
+257 
+In videos, broadcast ads, and other promotional pieces with audio components, a change of announcer or 
+258 
+a statement in the audio portion of the piece to signal to the audience that risk information follows can aid 
+259 
+effective communication.  However, manufacturers should consider comparable voice characteristics, as 
+260 
+discussed in Section III.C.2.  Risk information may also be signaled graphically or visually.  Similar to 
+261 
+print pieces, specific and straightforward audio signals are most likely to adequately convey risk 
+262 
+information.    
+263 
+ 
+264 
+3. 
+Framing Risk Information 
+265 
+ 
+266 
+FDA evaluates how risk information is framed because framing can affect the presentation of risks and 
+267 
+benefits in a promotional piece.  Framing commonly refers to how a particular piece of information is 
+268 
+stated or conveyed, such as by emphasizing either the positive or negative aspects of the information or 
+269 
+by presenting the information in vague versus specific terms.  Research consistently shows that framing 
+                                                     
+26 FTC Policy Statement on Deception at 182.  
+8  
+
+
+=== PAGE 12 ===
+
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+270 
+the same information in different ways can change the way audience members respond to that 
+271 
+information.27   Thus, the way information is phrased can significantly influence the message the audience 
+272 
+receives from a promotional piece. 
+273 
+ 
+274 
+Framing risk information in non-specific terms can undermine the effective communication of that 
+275 
+information to the audience.  Risk information should be presented in the same terms or with the same 
+276 
+degree of specificity as benefit information.  For example, if a promotional piece refers to the product by 
+277 
+name in presenting efficacy information, it should refer to the product by name in presenting risk 
+278 
+information, rather than by referring to the product’s device or drug class.  
+279 
+ 
+280 
+Example 7: If the benefit information refers to the brand name, “Drug X,” then “Common side 
+281 
+effects associated with Drug X” would be preferable to “Common side effects associated with 
+282 
+[the generic name].”   
+283 
+ 
+284 
+Moreover, within the risk information presentation, phrases such as “Like all medicines, Drug X has some 
+285 
+side effects,” may have the effect of minimizing the risks that follow.  Framing risk information in a way 
+286 
+that minimizes the severity of a risk event may also cause a promotional piece to be considered false or 
+287 
+misleading.   
+288 
+ 
+289 
+Example 8: If a drug’s package insert contains a boxed warning about the risk of life-threatening 
+290 
+fevers associated with its use and reports that 55 percent of patients taking the drug experience 
+291 
+dizziness, a statement such as “Adverse events associated with drug X include fevers.  Some 
+292 
+patients experienced dizziness” misleadingly describes the risk profile of the drug by failing to 
+293 
+convey the seriousness of the fevers and the frequency of the dizziness.  Statements like “Life-
+294 
+threatening fevers have been reported with the use of Drug X” and “More than half of patients 
+295 
+taking Drug X experienced dizziness” would convey the seriousness and frequency of the two 
+296 
+risks appropriately. 
+297 
+ 
+298 
+In addition, the risks conveyed in the piece should be framed in a way that accurately reflects their nature. 
+299 
+ 
+300 
+Example 9: A statement such as “continuation of therapy may necessitate certain monitoring” is 
+301 
+too vague for a product that requires monthly blood tests to check for liver damage.  This 
+302 
+statement fails to convey the risk of liver damage and also misleadingly suggests that routine 
+303 
+monitoring may not be necessary for some patients.  A statement like “Monthly blood tests 
+304 
+should be performed to check for liver damage” would accurately convey the type of monitoring 
+305 
+needed and the risk involved. 
+306 
+ 
+307 
+4. 
+Hierarchy of Risk Information 
+308 
+ 
+309 
+FDA considers the ordering of risks within a presentation an important factor in determining the risk 
+310 
+profile conveyed by a piece, regardless of whether it is directed toward healthcare professionals or 
+                                                     
+27  See Armstrong, K., Schwartz, J.S., Fitzgerald, G., P
+ utt, M., & Ubel, P.A. (2002) Effect of f raming as gain versus 
+loss on understanding and hyp
+ 
+othetical treatment choices: survival and mortality curves.  Medical Decision Making, 
+22, 76-83; Dunegan, K.J. (1993) Fram
+ 
+ing, cognitive modes, and imagery theory: Toward an understanding of a glas
+ 
+s 
+half full.  Journal of Applied Psychology, 78, 491-503; Rothman, A.J., & Salovey, P. (1997) Shaping perceptions to 
+motivate healthy behavior:  The role of message framing.  Psychological Bulletin, 121, 3-19; Smith, S.M., & Petty, 
+R.E. (1996) Message framing and persuasion: A message processing analysis.  Personality and Social Psychology 
+Bulletin, 22, 257-268; Tversky, A., & Kahneman, D. (1981) The framing of decisions and the psychology of choice.  
+Science, 211, 453-458.   
+9  
+
+
+=== PAGE 13 ===
+
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+311 
+consumers.  As discussed in Section III.B.2 (below) and reflected in the format of the package insert for 
+312 
+prescription drugs and medical devices, risks associated with a specific product are assigned a hierarchy 
+313 
+of importance.   
+314 
+ 
+315 
+Memory research consistently shows that, in an experimental setting, when people process an entire list or 
+316 
+text, they are better able to recall items at the beginning and the end than items in the middle.28   
+317 
+Consequently, in a broadcast ad, where viewers do not have the opportunity to control the speed at which 
+318 
+information is presented to help them to process it, the beginning or end, or both, should be reserved for 
+319 
+the most important risk information.  On the other hand, w
+ hen reading a print promotional piece under 
+320 
+normal circumstances, readers may lose interest toward the end of a lengthy paragraph, and it is not likely 
+ 
+321 
+that the information at the end will be as well-comprehended as the information at the beginning.  If a 
+322 
+product’s most important risks are located in the middle of a list of less important risks, the important 
+323 
+risks may not be effectively communicated.  FDA therefore recommends that the most important risk 
+324 
+information, including relevant warnings and contraindications, be placed or stated first, especially in 
+325 
+print materials.  As discussed in Section III.C.1 (below), manufacturers should also note, however, that 
+326 
+risk information should not just be presented in one location in a piece, but should, like benefit 
+327 
+information, appear as an integral part of the piece.     
+328 
+ 
+329 
+FDA also considers the order in which risk information is presented to determine whether this ordering 
+330 
+suggests that certain risks apply only to certain populations or only under certain conditions when this is 
+331 
+not the case.   
+332 
+ 
+333 
+Example 10: A statement in a broadcast ad that “Patients should not drink alcohol when taking 
+334 
+Drug X.  Common side effects are drowsiness and nausea” may suggest that these side effects 
+335 
+occur only if alcohol is consumed when taking the drug.  Instead, the sponsor should consider 
+336 
+adding intervening information or changing the order of the presentation so that it is clear the side 
+337 
+effects listed are not caused by drinking alcohol while taking the drug. 
+338 
+ 
+339 
+B. 
+CONSIDERATIONS OF CONTENT  
+340 
+ 
+341 
+This section discusses how FDA evaluates the content of risk presentations in determining whether a 
+342 
+promotional piece is accurate and non-misleading. 
+343 
+ 
+344 
+1. 
+Quantity  
+345 
+ 
+346 
+One content factor FDA considers is the amount or quantity of information conveyed by a promotional 
+347 
+piece.  For example, a 30-second broadcast ad is likely to present less information than a 60-second 
+348 
+broadcast ad.  As the amount of benefit information conveyed increases, the amount of risk information 
+349 
+conveyed should similarly increase.   
+350 
+ 
+351 
+The quantity of information presented can affect the net impression of the piece.  The amount of 
+352 
+information presented is one component that, together with choice of words, color, graphics, voiceover, 
+353 
+and other aspects of the piece, can affect cognitive load, the mental effort required to understand the 
+                                                     
+28 See Botvinik, M.M., & Plaut, D.C. (2006) Short-term memory for serial order: A recurrent neural network model.  
+Psychological Review, 113, 201-233; Capitani, E.; della Sala, S.; Logie, R.H.; & Spinnier, H. (1992) Recency, 
+primacy, and memory: Reappraising and standardizing the serial position curve.  Cortex, 28, 315-342; Murdock, 
+B.B. (1962) The serial position effect of free recall.  Journal of Experimental Psychology, 64, 482-488. 
+10  
+
+
+=== PAGE 14 ===
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+                                                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+354 
+various components of information in the piece.29  If the benefit information is easily understood and 
+355 
+maintained through repetition or other reinforcing techniques, and the risk information is not similarly 
+356 
+reinforced, the net impression may not be appropriately balanced.   
+357 
+358 
+To ensure comparable benefit and risk presentations, manufacturers should consider the space or time 
+359 
+devoted to benefits and risks, the comprehensibility of the language used, and the information provided 
+360 
+on benefits and risks. FDA will look to see that promotional communications allot sufficient time and 
+361 
+space to convey the important benefits and risks of the product being promoted to ensure that, as a whole, 
+362 
+the communication provides an accurate and non-misleading impression of the product. 
+363 
+364 
+A promotional piece with several paragraphs of information regarding benefits differs from a piece 
+365 
+consisting mainly of one-line benefit claims.  The treatment of risk information in each piece should be 
+366 
+comparable to the treatment of benefit information, including how it is conveyed. 
+367 
+368 
+Promotional pieces do not have to convey an identical number of benefits and risks, and a given drug or 
+369 
+device may have few or many risks.30  FDA considers these factors when determining the comparability 
+370 
+of benefits and risks in a piece: 
+371 
+372 
+— The number of statements about benefits and risks 
+373 
+— The completeness and depth of detail given about benefits and risks 
+374 
+— The amount of time (in both the audio and visual portions) devoted to benefits and risks in a 
+375 
+video, audio, or broadcast communication 
+376 
+— The amount of space devoted to benefits and risks in a print communication 
+377 
+— The use of audio or visual components that enhance or distract from the presentation of risk 
+378 
+or benefit information 
+379 
+380 
+As stated in the Background and discussed above, FDA evaluates the net impression created by 
+381 
+promotional communications.  This evaluation includes considering the above factors as well as the 
+382 
+differences in the inherent risks associated with various drugs or devices. Simply satisfying one of the 
+383 
+above factors (e.g., devoting the same amount of time or space to risk and benefit information) will not 
+384 
+necessarily make a promotional piece accurate and non-misleading. Furthermore, certain important risk 
+385 
+information should be in all promotional pieces regardless of their length (see Section III.B.2 below). 
+386 
+387 
+2. 
+Materiality and Comprehensiveness  
+388 
+389 
+Generally speaking, materiality is determined by the degree to which information is objectively 
+390 
+important, relevant, or substantial to the target audience. A promotional piece that omits material 
+391 
+information about a product’s risks could be considered misleading even if the piece devotes similar 
+392 
+space or time to risk and effectiveness presentations.31 
+29 See Mayer, R.E., & Moreno, R. (2003) Nine ways to reduce cognitive load in multimedia learning. Educational 
+Psychologist, 38, 43-52; Pass, F., Renkl, A., & Sweller, J. (2004) Cognitive load theory: Instructional implications 
+of the interaction between information structures and cognitive architecture.  Instructional Science, 32, 1-8.   
+30 If the drug or device being promoted is associated with a minimal number of risks, and all of these risks are 
+conveyed in a format that is comparably prominent to the presentation of benefit information, then the risk 
+presentation in such an ad or promotional labeling piece would be considered accurate, non-misleading and balanced 
+even if the ad presented several more benefit than risk claims. 
+31 21 U.S.C. 321(n); see also 21 CFR 1.21 & 202.1(e)(5)(iii).  Please see the Attachment to this document for a full 
+description of the relevant requirements. 
+11  
+
+
+=== PAGE 15 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+                                                     
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+393 
+394 
+Material facts are those that would influence reasonable consumers (or healthcare professionals when 
+395 
+they are the intended audience) about a product.  Material facts include those that influence such people’s 
+396 
+understanding of the following: 
+397 
+398 
+— The relevant properties of a product 
+399 
+— Whether or not the product is appropriate for them or their patients 
+400 
+— Whether or not they are willing to accept the risks or burdens associated with using or 
+401 
+prescribing a product 
+402 
+403 
+Some drug and device risks are material regardless of the amount or type of benefit claims in a piece. 
+404 
+The most serious risks set forth in a product’s labeling are generally material to any presentation of 
+405 
+efficacy. A promotional piece that communicates a product’s benefits should similarly communicate the 
+406 
+most serious risks involved in using the product. Similarly, the most frequently occurring risks would 
+407 
+usually be material to consumers and healthcare professionals in promotion, particularly if a product is 
+408 
+only associated with a small number of more serious risks, because of the likelihood that they will affect 
+409 
+patients taking the drug or using the device. 
+410 
+411 
+• 
+Consideration of Target Audience 
+412 
+413 
+FDA considers the target audience of a promotional piece to be critical in determining what risk 
+414 
+information is material.  FDA evaluates the promotion from the perspective of a reasonable member of 
+415 
+the targeted population (e.g., consumers, specific patient populations, healthcare professionals).  As is 
+416 
+explored in more detail below (e.g., Examples 11 and 13), different information can be material to 
+417 
+different audiences. For example, in a piece promoting use of a product in a selected class of patients, 
+418 
+risks especially applicable to that selected class of patients are material (see “The Nature of Benefit 
+419 
+Claims,” below).32 
+420 
+421 
+Generally speaking, communications directed to healthcare professionals should convey the most critical 
+422 
+information they need to know about the product to help them decide whether it is appropriate for their 
+423 
+patients and to help enable them to safely use the product or counsel patients on the safe use of the 
+424 
+product. Consumer-directed communications should generally convey the following: 
+425 
+426 
+— What the drug or device is used for 
+427 
+— Who should or should not take a drug or use a device 
+428 
+— What can be expected from a drug or device 
+429 
+— What patients should ask their healthcare professionals about a drug or device 
+430 
+— What patients should tell their healthcare professionals about before or while taking a drug or 
+431 
+using a device 
+432 
+433 
+Example 11: A drug’s package insert includes a warning for healthcare professionals about dosing 
+434 
+adjustments in patients with kidney disease. This information is material for healthcare professionals, 
+435 
+both because of the seriousness indicated by its warning status and because of its relevance to safe 
+436 
+prescribing. However, although this information is important to the safe use of the drug and should 
+437 
+be considered by prescribers, it is not material to consumers, although the reasons for such care in 
+438 
+dosing (e.g., the consequences of inappropriate dosing) could be. 
+439 
+32 See 21 CFR 202.1(e)(7)(x). 
+12  
+
+
+=== PAGE 16 ===
+
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+ 
+440 
+• 
+Importance of Package Insert 
+441 
+ 
+442 
+In determining the materiality of the risks associated with a drug or device, FDA refers to the product’s 
+443 
+package insert. FDA is more likely to consider as important or material a product’s most serious or most 
+444 
+frequently occurring risks than a product’s less serious or less commonly occurring risks.33   FDA 
+445 
+characterizes the risks associated with a specific product along a hierarchy of importance reflected by 
+446 
+placement in a risk-related section of the product’s package insert – traditionally , the Contraindications, 
+447 
+Warnings or Hazards, Precautions, Adverse Reactions or Side Effects sections, as well as the  
+448 
+Overdosage, and Drug Abuse and Dependence sections in the case of prescription drugs – and in the use 
+449 
+of various means to emphasize certain risks, such as boxed warnings and bolded statements.  For labeling 
+450 
+that complies with the new formatting requirements in the recently finalized Physician Labeling Rule for 
+451 
+prescription drugs,34 the risk-related sections include Boxed Warning, Contraindications, Warnings and 
+452 
+Precautions, Adverse Reactions, Drug Interactions, Use in Specific Populations, Drug Abuse & 
+453 
+Dependence, and Overdosage. 
+454 
+ 
+455 
+For prescription drug physician labeling that follows the new requirements, the risks included in the 
+456 
+Highlights section of labeling are the most important risks associated with the drug.  For other labeling, 
+457 
+contraindications and warnings or hazards are considered to contain the most serious and material risk 
+458 
+information associated with a drug or device and convey information that must be understood before the 
+459 
+product is prescribed or used.  Contraindications and boxed warnings are generally considered the most 
+460 
+important.  Precautions also convey important risk information that can help healthcare professionals and 
+461 
+patients use a drug or device more safely.  These include ways to avoid adverse effects and information 
+462 
+about important differences in individual response and, for drugs, about interactions w
+ 
+ith other drugs or 
+463 
+food.  Risks conveyed only in the adverse events or side effects section are generally less serious or less 
+464 
+well-documented than those in the preceding three categories.  They are often the most commonly 
+465 
+experienced risks associated with a product, however, and they therefore may constitute important 
+466 
+information for both healthcare professionals and consumers.  
+467 
+  
+468 
+• 
+The Nature of Benefit Claims 
+469 
+ 
+470 
+Promotional pieces should reveal risk information that is material in light of the specific benefit claims 
+471 
+made in the piece.   
+472 
+ 
+473 
+Example 12: If a piece claims convenience because the promoted drug is dosed once-weekly, 
+474 
+information about risks directly related to the regimen’s convenience is material.  Such risk 
+475 
+information might include, for example, that inflammatory reactions such as swelling have been 
+476 
+reported at the application site for a topical product, or that patients must restrict their activities 
+477 
+for some time after taking an oral medication because of a risk of fainting.  
+                                                     
+33 As indicated above, the most seri
+ 
+ous risks set forth in a product’s labeling are generally material to
+  any 
+presentation of efficacy.  Frequently occurring, less s erious risks (e.g., thos
+ 
+e reflected in Adverse Reactions) can be 
+material, particularly for a product that is not associated with serious risks, but these less serious risks may not be 
+material for a product that has many serious risks that need to be disclosed in promotion, or whose most frequently 
+occurring risks occur at a very low rate.  In general, FDA believes that exhaustive lists of minor risks distract from 
+and make it difficult to comprehend and retain information on the more important risks. To this end, we have issued 
+a draft guidance for prescription drugs entitled Brief Summary Disclosing Risk Information in Consumer-Directed 
+Print Advertisements, which suggests approaches to communicating less, but better, information in consumer brief 
+summaries.  Once finalized, this guidance will represent the Agency's thinking on th
+ is topic. 
+34  See 71 Fed. Reg. 3922 (Jan. 24, 2006).  The rule became effective June 30, 2006. 
+13  
+
+
+=== PAGE 17 ===
+
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+ 
+478 
+ 
+479 
+Similarly, as stated above, for promotional pieces that promote a product’s benefits in a selected class of 
+480 
+patients, the significant risks applicable to that class of patients are material.35    
+481 
+ 
+482 
+Example 13: If a Web site for a product approved to treat high blood pressure presents 
+483 
+information about a product’s benefits in postmenopausal women, any risks specific to 
+484 
+postmenopausal women are particularly material. 
+485 
+ 
+486 
+• 
+Accuracy and Comprehensiveness of Risk Information 
+487 
+ 
+488 
+When it evaluates the content of a promotional piece’s risk information, FDA assesses the quality as well 
+489 
+as the quantity of the information.  Both consumer and professional audiences expect that certain 
+490 
+information will be present in promotions for prescription drugs and medical devices.  This expectation 
+491 
+results from schemas,36 or mental frameworks, about these promotional pieces that have developed from 
+492 
+previous exposures (i.e., preconceived expectations based on past experience).  Consumers have 
+493 
+preconceived ideas about the amount of scrutiny these ads undergo.  Many believe FDA exercises tight 
+494 
+regulatory control over the content of these ads and to some extent, believe that all ads have been pre-
+495 
+reviewed prior to airing.37   As a result, consumers are likely to expect that the most relevant risks have 
+496 
+been included in the ad.  Because people expect to see risk information, there is no reason for them to 
+497 
+imagine that the product has important risks that have been omitted.  Instead, the audience is likely to 
+498 
+believe that all significant risks are included, especially if some risks are included.  This missing risk 
+499 
+information can have serious effects; it may cause consumers to fail to inform their healthcare 
+500 
+professionals of important considerations, and healthcare professionals to prescribe inappropriately or 
+501 
+even dangerously. 
+502 
+ 
+503 
+Example 14: A product is associated with the rare but serious risk of a heart attack.  FDA is likely 
+504 
+to consider an ad misleading if it devotes a certain amount of time or space to the presentation of 
+505 
+claims about the product’s efficacy in treating migraines and then devotes a similar amount of 
+506 
+time or space to describing only the frequently occurring, least serious adverse events, or only 
+507 
+one of several significant risks.   
+508 
+ 
+509 
+Even though a similar quantity of risk and benefit information may be conveyed, a promotional piece that 
+510 
+presents information on the benefits of the product but then communicates only its least serious risks, or 
+511 
+an inadequate set of its serious risks, will not have conveyed an accurate understanding of the product’s 
+512 
+relevant properties. 
+513 
+ 
+514 
+C. 
+CONSIDERATIONS OF FORMAT 
+515 
+ 
+516 
+FDA also considers formatting factors when assessing whether a piece is false or misleading.  Format 
+517 
+includes the shape, size, and general layout of all portions of a print promotional piece, as 
+ 
+well as the 
+                                                     
+35  See 21 CFR 202.1(e)(7)(x). 
+36  See Kardash, C.A.M., Royer, J.M., & Greene, B.A. (1988) Effects of schemata on both encoding and retrieval of 
+information from prose.  Journal of Educational Psychology, 80, 324-329; Smith, E.E., & Swinney, D.A. (1992) 
+The role of schemas in reading text: A real-time examination.  Discourse Processes, 15, 303-316.  
+37 See, e.g., K. Aikin, J. Swasy & A. Braman, Patient and Physician Attitudes and Behaviors Associated With DTC 
+Promotion of Prescription Drugs – Summary of FDA Survey Research Results, Final Report, November 19, 2004, 
+available at: http://www.fda.gov/cder/ddmac/Final%20Report/FRfinal111904.pdf; Pr
+ 
+evention Magazine (2004) 5th  
+Annual Survey: Consumer Reaction to DTC Advertising of Prescription Medicines. Emmaus, PA: Rodale. 
+14  
+
+
+=== PAGE 18 ===
+
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+ 
+518 
+general plan of organization, arrangement, and theme in non-print promotional pieces such as videos and 
+519 
+broadcast ads. 
+520 
+ 
+521 
+To process information, a person must first pay attention to it.  Several factors contribute to whether 
+522 
+people will pay attention to information.  These factors also may help or hinder people’s understanding of 
+523 
+information once it has drawn their attention.  When evaluating whether a promotional piece 
+524 
+appropriately communicates risk information, FDA considers several formatting factors.38   Because these 
+525 
+factors apply to information processing in general, prescription drug and medical device manufacturers 
+526 
+should keep them in mind when developing promotional pieces.   
+527 
+  
+528 
+As a general matter, risk and benefit information should be comparably noticeable or conspicuous in 
+529 
+promotional pieces, and audiences should be able to read both risk and benefit information with similar 
+530 
+ease (e.g., comparably legible and understandable; see Section III.A.1 above).39  Manufacturers should 
+531 
+note that any one of the following formatting factors could make a piece false or misleading and that each 
+532 
+factor could interact with others to increase this problem or to create a false or misleading impression 
+533 
+when there might not be one if a factor were considered in isolation. 
+534 
+ 
+535 
+1. 
+Print Promotion 
+536 
+ 
+537 
+The layout of a print promotional piece (generally, its plan, design, or arrangement) inf
+ 
+luences readers’ 
+538 
+ability to pay attention to and process specific features of the piece.40  FDA considers the following 
+539 
+selected aspects of the layout of a print promotional piece when assessing the comparable prominence and 
+540 
+readability of risk and efficacy information.  This is not an exhaustive list; other issues, such as language 
+541 
+comprehension and the risk hierarchy, are covered in other sections. 
+542 
+ 
+543 
+• 
+Overall Location of Risk Information  
+544 
+ 
+545 
+For a piece to be accurate and non-misleading, risk information should be included in the main part of a 
+546 
+piece.  If the omission of risk information in any part of a piece makes that part of the piece false or 
+547 
+misleading, the problem cannot be corrected simply by including the risk information in a separate part of 
+548 
+the piece.41   To be comparably prominent to benefit information, risk information should generally appear 
+549 
+in the same parts of the piece as the benefits.  
+                                                     
+38 See, e.g., 21 CFR 202.1(e)(7)(viii) for a list of implementing factors FDA takes into consideration when 
+evaluating the balance between benefit and risk information in an ad.  See generally 21 CFR 202.1(e)(6)-(7). 
+39  See 21 U.S.C. § 352(c). 
+40 See Adams, A.S., & Edworthy, J. (1995) Quantifying and predicting the effects of basic text display variables on 
+the perceived urgency of warning labels: Tradeoffs involving font size, border weight, and color.  Ergonomics, 38, 
+2221-2237; Brundage, M., Feldman-Stewart, D., Leis, A., Bezjak, A., Degner, L., Velji, K., et al. (2005) 
+Communicating quality of life information to cancer patients: A
+  study o f six presentation formats.  Journal of 
+Clinical Oncology, 23, 6949-6956; Frantz, J.P. (1993) Effect o f location and presentation format on attention to and 
+compliance with product warnings and instructions.  Journal of Safety Research, 24, 131-154; Morrow, D., Leirer, 
+V., Altieri, P. (1995) List formats improve medication instructions for older adults. Educational Gerontology, 21, 
+151-166; Niemela, M., & Saariluoma, P. (2003) Layout attributes and recall.  Behaviour and Information 
+Technology, 22, 353-363; Wogalter, M.S., & Vigilante, W.J., Jr. (2003) Effects of label format on knowledge 
+acquisition and perceived readability by younger and older adults.  Ergonomics, 46, 327-344. 
+41  See 21 CFR 202.1(e)(3)(i).  The prescription drug regulations allow the presentation of risk information in a 
+particular part of a pr
+ 
+omotional piece to be concise if it is supplemented by a prominent reference on each page to 
+the presence and location of a more complete discussion of such information elsewhere in the piece.  Id. However, 
+15  
+
+
+=== PAGE 19 ===
+
+ 
+                                                                                                                                                                          
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+ 
+550 
+ 
+551 
+Complete separation of benefit and risk information (e.g., presenting several pages of benefits before any 
+552 
+risks) is one example of a lack of appropriate prominence.42   FDA will also look to see that risk 
+553 
+information is not placed in such a way as to interfere with readers’ perceptions of the relative importance 
+554 
+or utility of the information.   
+555 
+ 
+556 
+• 
+Location of Risk Information within a Part of the Promotional Piece 
+557 
+ 
+558 
+In addition to appearing with or near benefit presentations, risk information should appear as an integral 
+559 
+part of the piece, j ust as benefit information does.  For example, a prescription drug ad should not present 
+560 
+risks only on a brief summary page.   
+561 
+ 
+562 
+Example 15: A product’s logo and a tagline are often used to signal the end of a piece.  Readers 
+563 
+may assume that any risk information placed below the logo and tagline is there only for liability 
+564 
+purposes or to fulfill a regulatory requirement and is unrelated to the main message, especially if 
+565 
+the information is presented in small type or otherwise lacking in emphasis.  
+566 
+ 
+567 
+Example 16: A seven-page sales aid devotes the first six pages to effectiveness claims, which are 
+568 
+prominently presented with colorful graphics, abundant white space, and large, colorful headers.  
+569 
+Three of these pages also include a footnote referring readers to “Important Information on page 
+570 
+7.”  The seventh page summarizes some risk information from the PI in single-spaced paragraph 
+571 
+format without headers or other presentation elements to emphasize to the reader that it is 
+572 
+important risk information.  Such a presentation creates problems regarding the adequate 
+573 
+presentation of risk.  The important risk information about the drug should instead be integrated 
+574 
+into the piece and presented with similar prominence to the effectiveness claims. 
+575 
+ 
+576 
+Similarly, problems can arise when parts of a print promotional piece appear so unrelated that the risks do 
+577 
+not look to be part of the piece.   
+578 
+ 
+579 
+Example 17: Risk information is placed in a thin column along the side of an ad in a different font 
+580 
+and color scheme, so that the visuals and benefit information form a complete whole, separate 
+581 
+from the risk information.  This is not likely to be considered an adequate presentation of risk 
+582 
+information.   
+583 
+ 
+584 
+• 
+Font Size and Style 
+585 
+ 
+586 
+Font size and type style are format factors that can affect the prominence and readability of information.43  
+587 
+FDA does not object to a presentation on the basis of minor differences in font size alone, depending on 
+although the regulations allow for the “concise” presentation of such information, the nature and importance of this 
+information should be accurately conveyed. For example, if a drug contains a boxed warning with information on 
+the risk of elevations in potassium levels that can lead to life-threatening complications in some patients, a statement 
+in a part of a promotional piece that “Drug X may increase your potassium levels; see Prescribing Information (PI) 
+for more information” is not likely to convey to consumers or healthcare professionals the magnitude (i.e., life-
+threatening nature) of the risk.   
+42 21 CFR 202.1(e)(3)(i); see also 21 U.S.C. 321(n), 21 CFR 202.1(e)(5)(iii).  
+43 Adams, A.S., & Edworthy, J. (1995) Quantifying and predicting the effects of basic text display variables on the 
+perceived urgency of warning labels: Tradeoffs involving font size, border weight, and color. Ergonomics, 38, 
+2221-2237; Arditi, A., & Cho, J. (2005) Serifs and font legibility.  Vision Research, 45, 2926-2933; Baker, S.  
+16  
+
+
+=== PAGE 20 ===
+
+ 
+                                                                                                                                                                          
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+ 
+588 
+other factors used to achieve emphasis (e.g., bolded lettering, bullets).  However, FDA may object to 
+589 
+substantial differences in font size or the presentation of risk information in a difficult to read font size, 
+590 
+irrespective of the font size of benefit information, because this may seriously reduce the ability to see or 
+591 
+comprehend the risk information. 
+592 
+ 
+593 
+Even with identical risk and benefit font sizes, differences in type styles can render some information 
+594 
+easier to read than other information.44   To be comparably prominent and readable,  FDA recommends that 
+595 
+risk and benefit information be presented in type styles that are similar in the use of capitalization, serifs, 
+596 
+the weight of the type-face, the angle of the letters, the degree of flourishes and scripting, and other 
+597 
+typographical factors such as spacing (e.g., leading and kerning).45    
+598 
+ 
+599 
+• 
+Contrast 
+600 
+ 
+601 
+Contrast between text and background should not highlight the benefit information more than the risk 
+602 
+information.   
+603 
+ 
+604 
+Example 18: If benefit information in a piece is presented in white letters on a black background, 
+605 
+risk information should be presented with similar contrast.  If the piece presents risk information 
+606 
+in a way that would make it difficult to discern (e.g., using white letters on a light gray 
+607 
+background or gray letters on a black background), the presentation may be considered false or 
+608 
+misleading.    
+609 
+ 
+610 
+Even if the background is a color designed to attract attention, the contrast influences the prominence of 
+611 
+the words once attention has been gained.  In fact, printing words in some attention-grabbing colors (e.g., 
+612 
+red) may make the words difficult to read.46  Similarly, the placement o f risk information over pictures or 
+(2006).  Provision of effective information. British Dental Journal, 201, 100; Sheedy, J.E., Subbaram, M.V., 
+Zimmerman, A.B., & Hayes, J.R. (2005) Text legibility and the letter superiority effect.  Human Factors, 47, 797­
+815; Tantillo, J., Di Lorenzo-Aiss, J., & Mathisen, R.E. (1995) Quantifying perceived differences in type styles: An 
+exploratory study.  Psychology and Marketing, 12, 447-457; Wogalter, M.S., & Vigilante, W.J. (2003) Effects of 
+label format on knowledge acquisition and perceived readability by younger and older adults.  Ergonomics, 46, 327­
+344. 
+44 English, E. (1944) A study of the readability of four newspaper headline types. Journalism Quarterly, 21, 217­
+229; Mansfield, J.S., Legge, G.E., & Bane, M.C. (1996) Psychophysics of reading. XV: Font effects in normal and 
+low vision. Investigative Opthamology and Visual Science, 37, 1492-1501; Sheedy, J.E., Subbaram, M.V., 
+Zimmerman, A.B., & Hayes, J.R. (2005) Text legibility and the letter superiority effect.  Human Factors, 47, 797­
+815; Tantillo, J., Di Lorenzo-Aiss, J., & Mathisen, R.E. (1995) Quantifying perceived differences in type styles: An 
+exploratory study.  Psychology and Marketing, 12, 447-457. 
+45 See Arditi, A., & Cho, J. (2005) Serifs and font legibility. Vision Research, 45, 2926-2933; Baker, S. (2006) 
+Provision of effective information. British Dental Journal, 201, 100; Moriarty, S.E., & Scheiner, E.C. (1984) A 
+study of close-set text type. Journal of Applied Psychology, 69, 700-702; Paterson, D.G., & Tinker, M.A. (1947) 
+Influence of leading upon readability of newspaper type. Journal of Applied Psychology, 31, 160-163; Smither, 
+J.A., & Braun, C.C. (1994) Readability of prescription drug labels by older and younger adults.  Journal of Clinical 
+Psychology in Medical Settings, 1, 149-159; Tinker, M.A., & Paterson, D.G. (1946) Effect of line width and leading 
+on readability of newspaper type. Journalism Quarterly, 23, 307-309. 
+46 See Pearson, R., & van Schaik, P. (2003) The effect of spatial layout and link colour in web pages on performance 
+in a visual search task and an interactive search task. International Journal of Human-Computer Studies, 59, 327­
+353; but see Adams, A.S., & Edworthy, J. (1995) Quantifying and predicting the effects of basic text display 
+variables on the perceived urgency of warning labels: Tradeoffs involving font size, border weight, and color. 
+Ergonomics, 38, 2221-2237. 
+17  
+
+
+=== PAGE 21 ===
+
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+613 
+other visual elements with multiple colors can cause this information or portions of this information to 
+614 
+lack prominence and be difficult to read.47   Furthermore, a print piece that superimposes risk information 
+615 
+over a visual image could compromise the accuracy of the piece as a whole by drawing attention away 
+616 
+from the risk information.48  
+617 
+ 
+618 
+• 
+White Space 
+619 
+ 
+620 
+Background space (often called white space) between and around letters can influence the prominence 
+621 
+and readability of text.49   Presenting benefit information in multiple paragraphs with double spaces 
+622 
+between each paragraph, while presenting risk inf
+ 
+ormation in one block paragraph without spacing or 
+623 
+indentation could reduce the comparability of the risk and benefit presentations.  Moreover, if a 
+624 
+promotional piece uses headings, bullets, and other attention-getting symbols to emphasize product 
+625 
+benefits, FDA recommends that it use similar techniques to present product risks.50  
+626 
+ 
+627 
+2. 
+Non-Print Promotion 
+628 
+ 
+629 
+Some print formatting issues also apply to non-print promotion such as videos, broadcast ads, and similar 
+630 
+audio and visual pieces. However, the unique features of non-print media add complexity.  As with print, 
+631 
+FDA considers factors such as location, proximity, type size, type style, and contrast when evaluating 
+632 
+these materials.  These factors are especially important with regard to text that is superimposed on other 
+633 
+images in videos or broadcast ads (SUPERs) and other visual components, such as graphics, within the 
+634 
+scene.  In non-print pieces, FDA also evaluates other formatting factors in addition to those described 
+635 
+above to determine whether a particular piece is considered false or misleading (e.g., audio co
+ 
+mponents, 
+636 
+motion within the visual component, the juxtaposition of visual and audio components, and duration of 
+637 
+exposure).   
+638 
+ 
+639 
+• 
+Textual Elements 
+640 
+ 
+641 
+Prescription drug broadcast ads must present major product risks in the audio or audio and visual parts of 
+642 
+the ad.51   Thus, broadcast ads and videos often use SUPERs and other text to present risk-related 
+643 
+qualifying information.  When used to disclose risk, SUPERs can pose particular problems of readability, 
+644 
+comprehensibility, and proximity to benefit information.  For example, the FTC, which requires that 
+                                                     
+47  See, e.g., Hillstrom, A.P., & Chai, Y. (2006) Factors that guide or disrupt attentive visual processing.  Computers 
+in Human Behavior, 22, 648-656; Petty, R.E., Wells, G.L., & Brock, T.C. (1976) Distraction can enhance or reduce 
+yielding to propaganda: Thought disruption versus effort justification.  Journal of Personality and Social 
+Psychology, 34, 874-884; Zimbardo, P.G., Snyder, M., Thomas, J., Gold, A., & Gurwitz, S. (1970) Modifying the 
+impact of persuasive communications with external distraction.  Journal of Personality and Social Psychology, 16, 
+669-680. 
+48 See Shiffrin, R.M., & Schneider, W. (1977) Controlled and automatic human information processing II
+ :  
+Perceptual learning, automatic attending, and a general theory.  Psychological Review, 84, 127-190. 
+49 Adams, A.S., & Edworthy, J. (1995) Quantifying and predicting the effects of basic text display variables on the 
+perceived urgency of warning labels: Tradeoffs involving font size, border weight, and color.  Ergonomics, 38, 
+2221-2237; Pracejus, J.W., Olsen, G.D., & O’Guinn, T.C. (2006) How nothing became something: White space, 
+rhetoric, history, and meaning.  Journal of Consumer Research, 33, 82-90. 
+50 See Luckiesh, M., & Moss, F.K. (1940) Boldness as a factor in type-design and typography.  Journal of Applied 
+Psychology, 24, 170-183. 
+51 21 CFR 202.1(e)(1). 
+18  
+
+
+=== PAGE 22 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  
+ 
+   
+ 
+  
+ 
+                                                     
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+645 
+“[q]ualifying disclosures…be legible and understandable,” recognizes that, “in many circumstances 
+646 
+reasonable consumers do not read the entirety of an ad or are directed away from the importance of the 
+647 
+qualifying phrase by acts or statements of the seller.”52  FDA has similar concerns. 
+648 
+649 
+FDA assesses the temporal location of SUPERs within a broadcast ad or video when evaluating whether 
+650 
+it is false or misleading.  If claims must be qualified to avoid misleading the audience, we recommend 
+651 
+that the qualifier be vocalized, presented through visual images, or placed in a prominent SUPER that 
+652 
+runs concurrently with the claim.53 If SUPERs do not appear close enough to the claim or risk 
+653 
+information requiring qualification, a misleading impression of the product may result.54 In addition, if 
+654 
+qualifying information is complex and requires more than one line of text, we recommend that 
+655 
+manufacturers use other means to convey this information. 
+656 
+657 
+Other issues FDA considers important that manufacturers should keep in mind include the following: 
+658 
+659 
+— SUPERs, if used, should be reasonably visible to a person under typical viewing conditions. 
+660 
+— All SUPERs should be on screen long enough to allow the audience to read and understand their 
+661 
+full content. 
+662 
+— Graphics that distract from the presentation of risk information, including from risk-related 
+663 
+SUPERs (e.g., busy scenes, frequent scene changes, vivid and compelling visuals55 and moving 
+664 
+camera angles) can misleadingly minimize the risks of the product being promoted by detracting 
+665 
+from the audience’s comprehension of the risk presentation. 
+666 
+— Competition from other SUPERs (e.g., presenting a SUPER related to a particular risk while 
+667 
+unrelated SUPERs are on the screen) hampers the audience’s ability to read and understand the 
+668 
+SUPERs and could compromise the communication of risk information and make a piece 
+669 
+misleading.56 
+670 
+— Factors such as font size, type style, and capitalization can also affect the readability of 
+671 
+SUPERs.57  Words presented in all upper case letters are more difficult to read than words 
+672 
+presented in upper and lower case letters.58 
+673 
+52 FTC Policy Statement on Deception at 183. 
+53  See 21 CFR 202.1(e)(3)(i). 
+54 Manrai, L.A., Manrai, A.K., & Murray, N. (1994) Comprehension of info-aid supers in television advertising for 
+social ideas: Implications for public policy. Journal of Business Research, 30, 75-84.   
+55 Vivid visual images are those images, pictures or other visual stimuli that are emotionally or cognitively 
+interesting, attention-getting, compelling, provoking, or personal in a sensory, temporal or spatial manger (after 
+Nisbett, R., and Ross, L. (1980) Human Inference: Strategies and Shortcomings of Social Judgment. Englewood 
+Cliffs, NJ: Prentice-Hall).  Background music can also be distracting (Furnham, A., & Strbac, L. (2002).  Music is as 
+distracting as noise: The differential distraction of background music and noise on the cognitive test performance of 
+introverts and extraverts.  Ergonomics, 45, 203-217). 
+56 See, e.g., Mackie, D.M., & Worth, L.T. (1989) Processing deficits and the mediation of positive affect in 
+persuasion. Journal of Personality and Social Psychology, 57, 27-40; Manrai, L.A., Manrai, A.K., & Murray, N. 
+(1994) Comprehension of info-aid supers in television advertising for social ideas: Implications for public policy. 
+Journal of Business Research, 30, 75-84. 
+57 Baker, S. (2006) Provision of effective information. British Dental Journal, 201, 100; Manrai, L.A., Manrai, 
+A.K., & Murray, N. (1994) Comprehension of info-aid supers in television advertising for social ideas: Implications 
+for public policy. Journal of Business Research, 30, 75-84. 
+58 Paterson, D.G., & Tinker, M.A. (1941) Caps vs. lower-case in headlines. Editor & Publisher, 74, 51.  
+19  
+
+
+=== PAGE 23 ===
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+  
+ 
+                                                     
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+674 
+• 
+Contrast 
+675 
+676 
+Contrast is an important visual factor59 that FDA considers when evaluating television ads and videos.60 
+677 
+As in print pieces, risk disclosures presented in SUPERs should be in a font color that reasonably 
+678 
+contrasts with the background visuals.  Because important non-benefit information is often conveyed by 
+679 
+SUPERs, any obstacle to the prominence and readability of this information, and thus to the audience’s 
+680 
+understanding of SUPERs, may result in a misleading risk presentation. 
+681 
+682 
+• 
+Dual Mode Considerations 
+683 
+684 
+The interplay of visual and audio components in pieces such as television ads and videos introduces 
+685 
+unique factors FDA must consider when evaluating the adequacy of risk disclosure. The issues raised 
+686 
+above in Textual Elements about distracting visuals apply not only to the SUPER presentation but also to 
+687 
+the audio presentation of risks.61  If visuals in a broadcast ad distract the audience from the statement of a 
+688 
+product’s risks, the ad will not, as a whole, convey an accurate impression of the risks of the advertised 
+689 
+product. This distraction could be caused by factors including busy scenes, frequent scene changes, 
+690 
+moving camera angles, and even inherently compelling, vivid visuals.  In addition, the overall tone of the 
+691 
+ad or of specific background visuals can affect the comparable prominence of the risks, particularly if the 
+692 
+tone is contrary to the risk message. 
+693 
+694 
+Example 20: A video or broadcast ad depicts a joyous or exhilarating moment, contains images of 
+695 
+people enjoying the benefits of the product, or includes otherwise compelling or distracting non­
+696 
+risk related images while major risks are communicated in a voiceover. The inconsistent tone or 
+697 
+images may be too distracting for the audience to listen to or process the risks, causing the video 
+698 
+or broadcast ad to communicate a false or misleading net impression of the product. 
+699 
+700 
+• 
+Audio Considerations 
+701 
+702 
+FDA considers several audio-related factors when evaluating pieces such as sound recordings, videos, or 
+703 
+broadcast ads, including television, radio, and telephone communications. 
+704 
+705 
+— The qualities of speech should be similar across benefit and risk information for these 
+706 
+components to be considered comparably prominent. 
+707 
+— A critical speech consideration is pacing. If risk information is considerably more difficult to 
+708 
+hear and process than benefit information because it is presented at a much faster pace, the piece 
+709 
+will not convey an accurate impression of the product. 
+710 
+— Markedly reducing volume or being less articulate when discussing risks compared to benefits 
+711 
+may hinder the audience’s comprehension of the risks. 
+712 
+— Background music should be comparable in volume and distraction potential during both benefit 
+713 
+and risk presentations. 
+714 
+59 Mitzner, T.L., & Rogers, W.A. (2006) Reading in the dark: Effects of age and contrast on reading speed and 
+comprehension. Human Factors, 48, 229-240. 
+60 Seibert, W.F., Kasten, D.F., & Potter, J.R. (1959) A study of factors influencing the legibility of televised 
+characters.  Journal of the Society of Motion Picture & Television Engineers, 68, 467-472. 
+61 See, e.g, Regan, D.T., & Cheng, J.B. (1973) Distraction and attitude change: A resolution. Journal of 
+Experimental Social Psychology, 9, 138-147. 
+20  
+
+
+=== PAGE 24 ===
+
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+ 
+715 
+ 
+716 
+IV. 
+CONCLUSION 
+717 
+ 
+718 
+The FDA’s regulation of prescription drug and medical device promotion to healthcare professionals and 
+719 
+consumers is a broad and complex topic.  A vast scientific body of knowledge is available regarding 
+720 
+human cognition, and FDA relies on this knowledge when evaluating promotional pieces and making 
+721 
+regulatory decisions about the presentation of benefit and risk information.  The Agency hopes that by 
+722 
+discussing the most relevant factors and by providing specific examples, manufacturers will gain a better 
+723 
+understanding of what they should consider as they develop the content and format of their promotional 
+724 
+communications. 
+725 
+ 
+726 
+It is important to re-emphasize that, in addition to specific risk-related claims, FDA also considers the net 
+727 
+impression conveyed by all the elements of a piece.  For this reason, manufacturers should focus not just 
+728 
+on individual claims or presentations, but on the messages conveyed by the promotional piece as a whole. 
+21  
+
+
+=== PAGE 25 ===
+
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+ 
+729 
+ 
+730 
+ATTACHMENT: STATUTORY AND REGULATORY REQUIREMENTS FOR 
+731 
+LABELING AND ADVERTISING 
+732 
+ 
+733 
+FDA regulates the manufacture, sale, and distribution of drugs and devices in the United States under the 
+734 
+authority of the Federal Food, Drug, and Cosmetic Act (the Act).  This authority includes oversight of 
+735 
+labeling for all drugs and devices and of advertising for prescription drugs and restricted devices.  21 
+736 
+U.S.C. 352(a), (n), (q), & (r).  In regulating the labeling and advertising of drugs and devices, FDA 
+737 
+attends to the First Amendment. 
+738 
+ 
+739 
+The Act defines label to mean “a display of written, printed, or graphic matter upon the immediate 
+740 
+container of any article . . . .”  21 U.S.C. 321(k).  According to FDA regulations (21 CFR 1.3(b)): “Label 
+741 
+means any display of written, printed, or graphic matter on the immediate container of any article, or any 
+742 
+such matter affixed to any consumer commodity or affixed to or appearing upon a package containing any 
+743 
+consumer commodity.”  The Act defines labeling to mean “all labels and other written, printed, or graphic 
+744 
+matter (1) upon any article or any of its containers or wrappers, or (2) accompanying such article.”  21 
+745 
+U.S.C. 321(m).  Similarly, FDA regulations (21 CFR 1.3(a)) provide that labeling includes “all written, 
+746 
+printed, or graphic matter accompanying an article at any time while such article is in interstate commerce 
+747 
+or held for sale after shipment or delivery in interstate commerce.” 
+748 
+ 
+749 
+According to Kordel v. United States, 335 U.S. 345, 350 (1948), the language “accompanying such 
+750 
+article” in the “labeling” definition includes materials that supplement or explain an article, “in the 
+ 
+751 
+manner that a committee report of the Congress accompanies a bill.  No physical attachment one to the 
+752 
+other is necessary.  It is the textual relationship that is significant.”  FDA’s prescription drug advertising 
+753 
+regulations (21 CFR 202.1(l)(2)) thus provide as examples of labeling a wide variety of written, printed, 
+754 
+or graphic matter that bears a textual relationship with a product.  
+755 
+ 
+756 
+FDA generally recognizes two types of labeling for drugs and devices:  FDA-required labeling and 
+757 
+promotional labeling.  Much FDA-required labeling is subject to FDA review and approval.  For 
+758 
+example, after drafting by the manufacturer, required labeling is reviewed and approved by FDA as part 
+759 
+of the new drug application (NDA), new animal drug application (NADA), biologics license application 
+760 
+(BLA) or premarket approval application (PMA) review (21 CFR 314.50(c)(2), 514.1(b)(3), 601.2(a), and 
+761 
+814.20(b)(10)).   
+762 
+ 
+763 
+For devices that are not subject to premarket approval, but instead are subject to premarket notification 
+764 
+requirements or are exempt from premarket review, there is no agency review or approval of labeling, but 
+765 
+such devices remain subject to all of the requirements of applicable labeling regulations, including those 
+766 
+for adequate directions for use.  For a prescription drug or prescription device to be exempted from the 
+767 
+Act’s requirement of adequate directions for use (21 U.S.C. 352(f)(1)), its FDA-required labeling must 
+768 
+contain, am
+ 
+ong other information, information addressing product hazards and other risk information, as 
+769 
+specified in FDA regulations.62  
+770 
+ 
+771 
+Promotional labeling is generally any labeling other than the FDA-required labeling that is devised for 
+772 
+promotion of the product.  Promotional labeling may include items such as “brochures, booklets, mailing 
+ 
+773 
+pieces, detailing pieces, file cards, bulletins, calendars, price lists, catalogs, house organs, letters, motion 
+774 
+picture films, film strips, lantern slides, sound recordings, exhibits, literature, and reprints and similar 
+                                                     
+62 21 CFR 201.100(d)(1), (3), 201.105(c)(1), & 801.109(d). 
+22  
+
+
+=== PAGE 26 ===
+
+ 
+ 
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+775 
+pieces of printed, audio, or visual matter . . . .”63  The Act specifies that a drug or device shall be deemed 
+776 
+to be misbranded if its labeling is false or misleading in any particular.  21 U.S.C. 352(a).  The Act further 
+777 
+specifies that labeling or advertising may be considered misleading if it fails to reveal material facts about 
+778 
+the product being promoted, including facts about the consequences that can result from use of the 
+779 
+product as suggested in a promotional piece.  21 U.S.C. 321(n).  In addition, the Act specifies that a drug 
+780 
+or device will be deemed to be misbranded if any word, statement, or other information required under 
+781 
+the Act to appear on the label or labeling is not “prominently placed thereon with such conspicuousness 
+782 
+(as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to 
+783 
+render it likely to be read and understood by the ordinary individual under customary conditions of 
+784 
+purchase and use.” 21 U.S.C. 352(c).  
+785 
+ 
+786 
+Advertising64 for prescription drugs and restricted devices is also subject to requirements under the Act 
+787 
+for the disclosure of risk and other information.  Under section 502(n) of the Act (21 U.S.C. 352(n)) and 
+788 
+FDA’s implementing regulations (21 CFR Part 202), an ad for a prescription drug must include, in 
+789 
+addition to the product’s established name and quantitative composition, a “true statement” of information 
+790 
+in brief summary “relating to side effects, contraindi
+ 
+cations and effectiveness” of the product with respect 
+791 
+to the use or uses that the message promotes.65   Advertisements for restricted devices must include “a 
+792 
+brief statement of the intended uses of the device and relevant warnings, precautions, side effects, and 
+793 
+contraindications . . . .”  21 U.S.C. 352(r)(2).  For prescription drug advertisements, FDA’s implementing 
+794 
+regulations specify that, among other things, the statutory requirement of a “true statement” is not 
+795 
+satisfied if an ad for a prescription drug product is false or misleading with respect to side effects, 
+796 
+contraindications or effectiveness or if it fails to reveal material facts about “consequences that may result 
+797 
+from the use of the drug as recommended or suggested in the advertisement.”  21 CFR 202.1(e)(5).  
+798 
+Similarly, the Act also specifies that restricted device advertisements must not be false or misleading (21 
+799 
+U.S.C. 352(q)(1)) and must reveal facts that are material about the product being advertised, including 
+800 
+facts about the consequences that can result from use of the product as suggested in an ad.  21 U.S.C. 
+801 
+321(n). 
+802 
+ 
+803 
+The prescription drug regulations also specify that ads must present a fair balance between information 
+804 
+relating to risks and benefits, which is achieved when the treatment of risk and benefit information in a 
+805 
+promotional piece is comparably thorough and complete throughout the piece.  21 CFR 202.1(e)(5)(ii).  
+806 
+These regulations also provide illustrations of the factors FDA considers in determining whether 
+807 
+promotional pieces comply with the above requirements relating to risk disclosure.  Specifically, these 
+808 
+regulations identify twenty types of advertising communications that FDA considers “false, lacking in fair 
+809 
+balance, or otherwise misleading.”  21 CFR 202.1(e)(6).  These include, for example, representations or 
+810 
+suggestions that a drug is more effective or safer than has been demonstrated by substantial evidence or 
+811 
+substantial clinical experience, the use of pictures or graphics in a way that is misleading, and the 
+ 
+812 
+presentation of risk information “by means of a general term for a group” rather than disclosing specific 
+                                                     
+63 See, e.g.,  21 CFR 202.1(l)(2).  
+64  The act does not define “advertising” or “advertisement.” According to FDA regulations (21 CFR 202.1(l)(1)), 
+“Advertisements subject to section 502(n) of the act include advertisements in published journals, magazines, other 
+periodicals, and newspapers, and advertisements broadcast through media such as radio, television, and telephone 
+communication systems.”  
+65  According to 21 CFR 202.1(e)(3)(iii), the information in brief s ummary relating to side effects and 
+contraindications must disclose “each specific side effect and contraindication (which include side effects, warnings, 
+precautions, and contraindications and include any such information under such headings as cautions
+ 
+, special 
+considerations, important notes, etc. . . .) contained in required, approved, or permitted labeling for the advertised 
+drug dosage form(s)” (emphasis added).   
+23  
+
+
+=== PAGE 27 ===
+
+ 
+                                                     
+ 
+ 
+Contains Nonbinding Recommendations 
+Draft — Not for Implementation 
+ 
+813 
+risks.  21 CFR 202.1(e)(6)(i), (xviii), & (xx).  Representing or suggesting that a drug product is “safer 
+814 
+than has been demonstrated by substantial evidence or substantial clinical experience” means obscuring 
+815 
+or failing to include the most serious risk information set forth in the drug's FDA-approved labeling, and 
+ 
+816 
+does not refer to a failure to include risk information that is not set forth in the drug's FDA-approved 
+817 
+labeling.  
+818 
+ 
+819 
+In addition, these regulations identify thirteen additional types of advertising communications that “may 
+820 
+be false, lacking in fair balance, or otherwise misleading.”  21 CFR 202.1(e)(7).  These include, for 
+821 
+example, advertising communications that fail to “present information relating to side effects and 
+822 
+contraindications with a prominence and readability reasonably comparable with the presentation of 
+823 
+information relating to effectiveness of the drug.”  21 CFR 202.1(e)(7)(viii). 
+824 
+ 
+825 
+Although the regulations discussed above were promulgated in the context of prescription drug 
+826 
+advertising, the guidance they provide on what FDA considers false or misleading in promotion has 
+827 
+broader applicability.  For example, promotional pieces 
+ 
+that fail to present a balanced view of the risks 
+828 
+and benefits of a product are generally considered to be false or misleading and also generally fail to 
+829 
+reveal material facts about the product being promoted.  Because both labeling pieces for drugs and 
+830 
+devices, and advertising pieces for prescription drugs and restricted devices, are considered to misbrand a 
+831 
+product if they are false or misleading or fail to reveal material facts,66 drug and device manufacturers 
+832 
+should take into account the guidance provided by these regulations when developing promotional 
+833 
+labeling and advertising pieces for their products.   
+834 
+ 
+835 
+ 
+836 
+ 
+66 21 U.S.C. 352(a), (n), (q)(1) & 321(n); 21 CFR 202.1(e)(5). 
+24  
+
+

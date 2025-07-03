@@ -1,0 +1,35 @@
+=== PAGE 18 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving the original layout and structure:
+
+**Endocrine Effects at Cycle 6 vs Baseline¹,²**
+**Study Reference: Es0001-C201**
+
+a p < 0.05 DRSP/E4 vs LNG/EE and DRSP/EE
+b p < 0.05 DRSP/E4 vs LNG/EE or DRSP/EE
+
+The page displays a bar chart titled "Endocrine Effects at Cycle 6 vs Baseline". The y-axis is labeled "% Change From Baseline at Cycle 6" and ranges from -100 to 300. The x-axis lists various endocrine parameters or substances. Each parameter has three bars representing different drug regimens, as detailed in the legend below the chart. Statistical significance markers ('a' and 'b') are placed above some bars to indicate specific p-value comparisons.
+
+*   **X-axis categories (from left to right):**
+    *   Total T
+    *   Free T
+    *   Cortisol (with 'a' above the first bar)
+    *   Aldosterone
+    *   CBG
+    *   SHBG (with 'b' above the first bar and 'a' above the third bar)
+    *   TBG
+    *   Angiotensinogen (with 'a' above the first bar)
+
+*   **Chart Legend:**
+    *   DRSP 3 mg/E4 15 mg (n=38) (represented by a dark red/maroon bar)
+    *   LNG 150 mcg/EE 30 mcg (n=29) (represented by a blue/teal bar)
+    *   DRSP 3 mg/EE 20 mcg (n=31) (represented by a pink/magenta bar)
+
+**mayne pharma**
+CBG, cortisol binding globulin; DC, discontinuation; DRSP, drospirenone; LNG, levonorgestrel; SHBG, sex hormone binding globulin; T, testosterone; TBG, Thyroid binding globulin.
+References: 1. Data on file. Mayne Pharma US, Raleigh, NC. 2. Klipping C, et al. Contraception. 2021;103(4):213-221.
+                                                                        Full Prescribing Information is available at **www.Nextstellis.com**
+
+17

@@ -1,0 +1,23 @@
+chromadb
+sentence-transformers
+numpy
+torch
+streamlit
+langgraph
+langchain
+langchain-ollama
+langchain-community
+langchain-core
+# Additional libraries for Qwen_Lora_Finetune
+pandas
+datasets
+transformers
+peft
+scikit-learn
+matplotlib
+seaborn
+tqdm
+# Additional libraries for CustomAgent and other components
+ollama
+typing_extensions
+pydantic

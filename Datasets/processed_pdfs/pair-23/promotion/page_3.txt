@@ -1,0 +1,68 @@
+=== PAGE 3 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the text content from the PDF page, preserving the original layout and structure:
+
+**Image Description:**
+At the top left of the page is the company logo, which consists of a stylized blue infinity loop symbol to the left of the words "NASCENT BIOTECH, INC.".
+To the right of the main headline, there is a complex, multi-colored (green, light blue, dark blue, purple) 3D molecular structure, likely representing an antibody molecule, consistent with the surrounding text about antibodies and biotech.
+
+**Extracted Text:**
+
+**NASCENT**
+**BIOTECH, INC.**
+
+Products Investors News About Contact
+
+**Pritumumab**
+**has cured a rare form of**
+**brain cancer**
+
+Delivering human antibodies for the treatment of cancer
+
+---
+
+**Pritumumab**
+
+Learn more about Nascent Biotech's primary drug product,
+Pritumumab.
+
+**NBIO Stock Information**
+
+NBIO: [%]
+
+**Investor Presentation**
+
+Download Investor Presentation
+
+**Email Updates**
+[ ] Subscribe Now
+
+---
+
+**Latest News**
+
+JUNE 3, 2019
+Nascent CEO Sean Carrick On RedChip Money Report
+
+MARCH 10, 2019
+Human Antibodies: Antibody drug conjugates: Progress, pitfalls, and
+promises
+
+DECEMBER 11, 2018
+Nascent Biotech Receives Clearance from FDA to Begin Phase I Human
+Trials in Brain Cancer
+
+JULY 27, 2018
+Prionogenicity of vimentin surmised from the sequelog of anti-idiotypic
+antibodies toward the paratope of malignant associated autologous anti-
+vimentin antibody, CLN-IgG (Pritumumab)
+
+APRIL 4, 2018
+Nascent Biotech to Sponsor Human Antibodies & Hybridomas
+Conference
+
+---
+
+Copyright Nascent Biotech. All rights reserved.

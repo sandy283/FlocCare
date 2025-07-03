@@ -1,0 +1,35 @@
+=== PAGE 3 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Overview of PET/CT Imaging in Recurrent Prostate Cancer – Current and Emerging Techniques – DrFabio                                    3
+
+                          SODIUM FLUORIDE (NAF) PET/CT SCANS
+
+         NaF PET/CT is similar to standard bone scans, but uses PET imaging which is
+         significantly more sensitive and specific than standard Tc99 (Technetium) bone
+         scans. In the PCa recurrent setting, bone lesions as small a 2-3 mm with PSA
+         values < 1.0 can be detected. Unlike Tc99m bone scan, arthritic changes and prior
+         trauma are much less problematic with NaF PET/CT. Another advantage of NaF
+         PET is the shorter scan time, typically less than one hour, compared to 4 hours for
+         Tc99.
+
+         11C CHOLINE AND ACETATE PET/CT SCANS
+
+         Prostate cancer cells rely on fatty acid metabolism as their energy source. 11C-
+         choline and 11C-acetate are lipid metabolism PET agents. Both of these agents
+         are useful for detecting recurrent disease after a PSA relapse. 11C-choline has
+         been approved for use at Mayo Clinic. 11C-acetate is available under expanded
+         access clinical trials at multiple institutions. Small direct comparison studies of
+         11C-acetate and 11C-choline have revealed no clear clinical differences between
+         these agents, although a few studies have suggested a slightly higher detection
+         rate of local recurrences and small pelvic lymph node metastases with 11C-
+         acetate.
+
+         In a large-scale study of 11C-acetate PET/CT imaging in 887 patients with
+         relapsing PSA (at Phoenix Molecular Imaging), the overall detection rate of
+         recurrent prostate cancer was 88% with a PPV of 91%. A PSA threshold of 1.09
+         ng/mL was established for optimal imaging. However, if the PSA was less than
+         1.0 ng/mL and the PSA doubling rate was brisk (less than 3 months), the detection
+
+http://www.drfabio.com/imagingblog/2018/1/9/overview-of-petct-imaging-in-recurrent-prostate-cancer-current-and-emerging-techniques[11/15/2018 11:25:57 AM]

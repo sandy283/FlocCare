@@ -1,0 +1,23 @@
+=== PAGE 34 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the extracted text content from the PDF page, preserving its original layout and structure:
+
+```
+33
+                                    Important Safety Information for
+                                    NEXTSTELLIS®
+mayne pharma
+                                                                             Full Prescribing Information is available at www.Nextstellis.com
+```
+
+**Description of Visual Elements:**
+
+The page features a clean design with prominent colored blocks.
+*   On the left side, there is a solid vertical bar in a bright pink/magenta color, extending from the top edge downwards about two-thirds of the page height.
+*   A large, light blue rectangular block with rounded corners at the top left occupies the upper-middle portion of the page. This block contains the main title text "Important Safety Information for NEXTSTELLIS®" in white, large, sans-serif font. The "®" symbol is present after "NEXTSTELLIS".
+*   In the bottom-left area, below the pink bar, is the "mayne pharma" logo. It consists of the word "mayne" in white text within a solid black circle, followed by the word "pharma" in black text.
+*   At the bottom-left corner, the page number "33" is displayed in black text against the pink/magenta background of the vertical bar.
+*   At the bottom-right of the page, there is text "Full Prescribing Information is available at www.Nextstellis.com" in black.
+*   On the far right side of the page, there is an abstract, stylized graphic composed of three overlapping, irregular shapes in different colors: a small light blue shape at the top, a darker purple/maroon shape below it, and a larger pink/magenta shape at the bottom, resembling a fluid or organic form.

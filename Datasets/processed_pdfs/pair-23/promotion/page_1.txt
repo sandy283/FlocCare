@@ -1,0 +1,44 @@
+=== PAGE 1 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Here is the text content extracted from the PDF page, preserving its original layout and structure:
+
+(Header Area)
+                 NASCENT                                                    Products Investors News About Contact
+                 BIOTECH, INC.
+
+Pritumumab
+targets a novel antigenic on
+cancer cells
+
+Delivering human antibodies for the treatment of cancer
+
+(Visual Element Description):
+On the right side of the main header, there is an image depicting a three-dimensional molecular structure, likely representing an antibody or a similar protein. It is shaped like a 'Y' and is composed of numerous small, colored spheres or dots, forming distinct segments. The segments are colored green, light blue, dark blue, and purple, indicating different parts of the molecule. This image serves to visually represent the biological or molecular nature of the company's product, Pritumumab, which is described as targeting cancer cells using human antibodies.
+
+(Main Content Area - Left Column)               (Main Content Area - Right Column)
+Pritumumab                                      Latest News
+
+Learn more about Nascent Biotech's primary drug product,         JUNE 3, 2019
+Pritumumab.                                     Nascent CEO Sean Carrick On RedChip Money Report
+
+NBIO Stock Information                          MARCH 10, 2019
+                                                Human Antibodies: Antibody drug conjugates: Progress, pitfalls, and
+NBIO: (%)                                       promises
+
+Investor Presentation                           DECEMBER 11, 2018
+                                                Nascent Biotech Receives Clearance from FDA to Begin Phase I Human
+Download Investor Presentation                  Trials in Brain Cancer
+
+Email Updates                                   JULY 27, 2018
+                                                Prionogenicity of vimentin surmised from the sequelog of anti-idiotypic
+Subscribe Now                                   antibodies toward the paratope of malignant associated autologous anti-
+                                                vimentin antibody, CLN-IgG (Pritumumab)
+
+                                                APRIL 4, 2018
+                                                Nascent Biotech to Sponsor Human Antibodies & Hybridomas
+                                                Conference
+
+(Footer)
+Copyright Nascent Biotech. All rights reserved.

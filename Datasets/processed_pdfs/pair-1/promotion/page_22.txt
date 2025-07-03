@@ -1,0 +1,34 @@
+=== PAGE 22 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+The extracted text content from the PDF page is as follows, preserving its original layout and structure:
+
+A prominent blue-green horizontal band at the top of the page contains the main header.
+**Phase 3 Study Objectives and Endpoints**
+
+Below the main header, there is a section outlined by a pink dashed border.
+                Primary objective
+                Evaluate contraceptive efficacy of NEXTSTELLIS in a 24/4 regimen
+
+Below the primary objective section, there is a larger section outlined by a light blue dashed border.
+                                                                Endpoints
+                Primary (ages 16-35 years) in the North American trial
+                On-treatment pregnancy rate (Pearl Index) in at-risk cycles
+
+                Secondary (ages 16-50 years)
+                Cycle control-bleeding pattern
+                Safety-adverse events reportingᵃ
+                Subject's well-being
+                Broad and inclusive population: age, race, and BMI
+
+At the bottom left of the page:
+21
+A circular black logo with the white text "mayne pharma" is displayed.
+
+Below the Mayne Pharma logo and page number, there are footnotes and a reference:
+ᵃSafety population includes both US/Canada (ages 16-50) and EU/Russia (ages 18-50) phase 3 studies.
+Reference: Data on file. Raleigh, NC. Mayne Pharma LLC.
+
+At the bottom right of the page:
+Full Prescribing Information is available at www.Nextstellis.com

@@ -1,0 +1,56 @@
+=== PAGE 3 ===
+
+COMPLETE PAGE ANALYSIS:
+--------------------------------------------------
+Kateshia Brooks
+Otsuka Pharmaceutical Development and Commercialization, Inc.
+NDA 205422 / MA 772, 791
+
+Page 3
+
+According to the CLINICAL STUDIES, Adjunctive Treatment of Major Depressive Disorder
+section of the PI, the primary endpoint evaluated in the two studies supporting Rexulti’s use
+in the treatment of MDD was change from baseline to Week 6 in the MADRS. We note that
+the mean MADRS total score was 27 at randomization. According to Table 12, in Study 1,
+the least-squares mean change from baseline for the primary endpoint was -8.4 for the
+Rexulti (2 mg/day) + ADT treatment group compared to -5.2 for placebo + ADT, with a
+placebo-subtracted difference of -3.2 (95% unadjusted confidence interval [CI]: -4.9, -1.5).
+Therefore, upon comparison with mean baseline, the placebo-subtracted difference of -3.2
+equates to a reduction in depression symptoms of 11.9% from the mean baseline of 27 (3.2
+divided by 27), far less than the 62% reduction claimed in the TV ad and banner.
+
+Furthermore, although the TV ad and banner promote the 2 mg tablet, we applied the above
+analysis from Study 1 to Study 2 to more fully consider the claims made. According to the PI,
+Study 2 evaluated a 1 mg/day and 3 mg/day dose of Rexulti + ADT versus placebo + ADT for
+the adjunctive treatment of MDD. Like Study 1, patients in Study 2 did not reach the 62%
+reduction claimed. According to Table 12, in Study 2, the least-squares mean change from
+baseline for the primary endpoint was -7.6 for the Rexulti (1 mg/day) + ADT treatment group
+compared to -6.3 for placebo + ADT, with a placebo-subtracted difference of -1.3 (95% CI: -
+2.7, 0.1). The placebo-subtracted difference of -1.3 equates to a change of 4.8% from the
+mean baseline of 27 (1.3 divided by 27). The least-squares mean change from baseline for
+the primary endpoint was -8.3 for the Rexulti (3 mg/day) + ADT treatment group compared to
+-6.3 for placebo + ADT, with a placebo-subtracted difference of -2.0 (95% CI: -3.4, -0.5). The
+placebo-subtracted difference of -2.0 equates to a change of 7.4% from the mean baseline of
+27 (2.0 divided by 27). Therefore, as with Study 1, data from Study 2 also demonstrated a
+significantly lower reduction in depression symptoms from the mean baseline (4.8% and
+7.4%, respectively, as measured by MADRS) than the 62% reduction claimed in the TV ad
+and banner.
+
+OPDP acknowledges that the TV ad and banner include the SUPER “Individual results may
+vary” (in pertinent part; TV ad, frame 9; banner, frame 4). However, this does not mitigate the
+misleading impression created by the promotional communications of the magnitude of
+benefit that patients can expect when taking Rexulti and an ADT.
+
+**Conclusion and Requested Action**
+
+For the reasons discussed above, the TV ad and banner misbrand Rexulti within the meaning
+of the FD&C Act and make its distribution violative. 21 U.S.C. 352(a), (n); 321(n); 331(a).
+See 21 CFR 202.1(e)(5).
+
+This letter notifies you of our concerns and provides you with an opportunity to address them.
+OPDP requests that Otsuka cease any violations of the FD&C Act. Please submit a written
+response to this letter within 15 working days from the date of receipt, addressing the
+concerns described in this letter, listing all promotional communications (with the 2253
+submission date) for Rexulti that contain representations like those described above, and
+
+Reference ID: 5270026
