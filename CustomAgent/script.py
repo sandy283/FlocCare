@@ -1,3 +1,11 @@
+# SQLite compatibility fix for ChromaDB on cloud platforms
+import sys
+try:
+    import pysqlite3
+    sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+except ImportError:
+    pass
+
 import streamlit as st
 import operator
 from typing import Annotated, Literal, Optional
@@ -13,7 +21,6 @@ from uuid import uuid4
 import asyncio
 from concurrent.futures import ThreadPoolExecutor
 import threading
-import sys
 import os
 
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))

@@ -1,7 +1,14 @@
+# SQLite compatibility fix for ChromaDB on cloud platforms
+import sys
+try:
+    import pysqlite3
+    sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+except ImportError:
+    pass
+
 import chromadb
 from sentence_transformers import SentenceTransformer
 import ollama
-import sys
 import json
 from pydantic import BaseModel, Field
 from typing import List
