@@ -37,6 +37,7 @@ with st.sidebar:
         help="Choose which backend to use for LLM responses. Hugging Face works everywhere; Ollama only works locally."
     )
     hf_token_input = st.text_input("Hugging Face Token (paste here for cloud backend)", type="password")
+    download_status = st.empty()
     regulation = st.selectbox(
         "Select Regulation:",
         ["FDA", "EMA", "HSA"],
@@ -102,6 +103,32 @@ with st.sidebar:
                     st.error(f"Error processing claim: {str(e)}")
            
             st.rerun()
+
+    if backend == "Hugging Face (Cloud)":
+        if st.button("Download Hugging Face Model", key="download_hf_model"):
+            HF_API_URL = st.secrets.get("HF_API_URL") or os.environ.get("HF_API_URL")
+            HF_TOKEN = hf_token_input or st.secrets.get("HF_TOKEN") or os.environ.get("HF_TOKEN")
+            if not HF_API_URL or not HF_TOKEN:
+                download_status.error("[Hugging Face API credentials not set. Please set HF_API_URL and HF_TOKEN in Streamlit secrets, environment variables, or paste in the sidebar.]")
+            else:
+                headers = {"Authorization": f"Bearer {HF_TOKEN}"}
+                try:
+                    response = requests.post(
+                        HF_API_URL,
+                        headers=headers,
+                        json={"inputs": "Hello!"}
+                    )
+                    response.raise_for_status()
+                    result = response.json()
+                    # If the model is loading, Hugging Face returns a message
+                    if isinstance(result, dict) and result.get("error", "").startswith("Model") and "is currently loading" in result["error"]:
+                        download_status.info("Model is being loaded on Hugging Face. Please wait and try again in a few moments.")
+                    elif (isinstance(result, list) and "generated_text" in result[0]) or ("generated_text" in result):
+                        download_status.success("Model downloaded and ready!")
+                    else:
+                        download_status.success("Model downloaded and ready!")
+                except Exception as e:
+                    download_status.error(f"Couldn't get the model: {e}")
 
 
 # --- LLM call abstraction ---
