@@ -12,7 +12,6 @@ langchain-core>=0.1.0
 # Additional libraries for Qwen_Lora_Finetune
 pandas>=1.5.0
 datasets>=2.0.0
-transformers>=4.30.0
 peft>=0.4.0
 scikit-learn>=1.0.0
 matplotlib>=3.5.0
@@ -22,3 +21,4 @@ tqdm>=4.64.0
 ollama>=0.1.0
 typing_extensions>=4.0.0
 pydantic>=1.10.0
+google-generativeai>=0.5.0
