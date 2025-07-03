@@ -14,7 +14,27 @@ from pydantic import BaseModel, Field
 from typing import List
 
 client = chromadb.PersistentClient(path="./rag_db")
-collection = client.get_collection("medical_docs")
+
+# Handle collection creation/access gracefully
+try:
+    collection = client.get_collection("medical_docs")
+    print("✅ Found existing RAG collection")
+except Exception as e:
+    print(f"⚠️ RAG collection not found: {e}")
+    try:
+        # Try to list collections to see what's available
+        collections = client.list_collections()
+        if collections:
+            collection = collections[0]  # Use the first available collection
+            print(f"✅ Using available collection: {collection.name}")
+        else:
+            # Create a dummy collection as fallback
+            collection = client.create_collection("medical_docs_fallback")
+            print("✅ Created fallback collection")
+    except Exception as create_error:
+        print(f"❌ Could not create/access any collection: {create_error}")
+        collection = None
+
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
 class QueryExpansion(BaseModel):
@@ -137,25 +157,34 @@ def search_multiple_queries(queries, n_results=5):
     all_results = []
     seen_docs = set()
     
+    # Handle case where collection is not available
+    if collection is None:
+        print("⚠️ No RAG collection available, returning empty results")
+        return all_results
+    
     for query in queries:
-        query_embedding = model.encode(query).tolist()
-        results = collection.query(
-            query_embeddings=[query_embedding],
-            n_results=n_results,
-            include=["documents", "metadatas", "distances"]
-        )
-        
-        for doc, meta, dist in zip(results["documents"][0], results["metadatas"][0], results["distances"][0]):
-            doc_id = doc[:100]
-            if doc_id not in seen_docs:
-                seen_docs.add(doc_id)
-                all_results.append({
-                    'document': doc,
-                    'metadata': meta,
-                    'distance': dist,
-                    'relevance_score': 1 - dist,
-                    'query': query
-                })
+        try:
+            query_embedding = model.encode(query).tolist()
+            results = collection.query(
+                query_embeddings=[query_embedding],
+                n_results=n_results,
+                include=["documents", "metadatas", "distances"]
+            )
+            
+            for doc, meta, dist in zip(results["documents"][0], results["metadatas"][0], results["distances"][0]):
+                doc_id = doc[:100]
+                if doc_id not in seen_docs:
+                    seen_docs.add(doc_id)
+                    all_results.append({
+                        'document': doc,
+                        'metadata': meta,
+                        'distance': dist,
+                        'relevance_score': 1 - dist,
+                        'query': query
+                    })
+        except Exception as e:
+            print(f"⚠️ Error querying collection: {e}")
+            continue
     
     return all_results
 
@@ -302,6 +331,26 @@ Raw context available but could not be structured properly.
 def advanced_rag_query(query_text, n_results=10):
     print(f"Original Query: {query_text}")
     
+    # Check if RAG system is available
+    if collection is None:
+        print("⚠️ RAG database not available. Providing general response.")
+        return f"""
+RAG Database Status: Not Available
+
+The regulatory document database is currently not accessible. 
+For query: "{query_text}"
+
+General Guidance:
+• Consult official regulatory authority websites (FDA, EMA, HSA)
+• Review current Good Manufacturing Practice (GMP) guidelines
+• Check product labeling and advertising requirements
+• Verify clinical trial and approval requirements
+• Consider regional regulatory differences
+
+Note: For specific regulatory guidance, please consult the original regulatory documents 
+and seek advice from qualified regulatory professionals.
+"""
+    
     print("\nExpanding query...")
     expanded_queries = expand_query(query_text)
     for i, q in enumerate(expanded_queries):
@@ -310,6 +359,24 @@ def advanced_rag_query(query_text, n_results=10):
     print(f"\nSearching with {len(expanded_queries)} queries...")
     all_results = search_multiple_queries(expanded_queries, n_results//2)
     print(f"   Found {len(all_results)} unique documents")
+    
+    # Handle case where no results are found
+    if not all_results:
+        print("⚠️ No documents found in RAG database for this query.")
+        return f"""
+No Relevant Documents Found
+
+Query: "{query_text}"
+
+The RAG system searched through available regulatory documents but found no relevant matches. 
+This could mean:
+• The query requires information not available in the current database
+• Try rephrasing the query with different terminology
+• Consider broader or more specific search terms
+
+General Recommendation:
+Consult official regulatory sources directly for the most up-to-date and comprehensive guidance.
+"""
     
     print("\nReranking results using LLM evaluation...")
     reranked_results = rerank_results(all_results, query_text)
@@ -332,6 +399,8 @@ def advanced_rag_query(query_text, n_results=10):
         print(f"   Semantic Score: {result['relevance_score']:.3f}")
         print(f"   Matched Query: {result['query']}")
         print(f"   Content Preview: {result['document'][:200]}...")
+    
+    return key_info
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
