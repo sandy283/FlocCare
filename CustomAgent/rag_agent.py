@@ -15,25 +15,13 @@ from typing import List
 
 client = chromadb.PersistentClient(path="./rag_db")
 
-# Handle collection creation/access gracefully
+# Access the medical_docs collection  
 try:
     collection = client.get_collection("medical_docs")
-    print("✅ Found existing RAG collection")
+    print("✅ Found medical_docs collection with", collection.count(), "documents")
 except Exception as e:
-    print(f"⚠️ RAG collection not found: {e}")
-    try:
-        # Try to list collections to see what's available
-        collections = client.list_collections()
-        if collections:
-            collection = collections[0]  # Use the first available collection
-            print(f"✅ Using available collection: {collection.name}")
-        else:
-            # Create a dummy collection as fallback
-            collection = client.create_collection("medical_docs_fallback")
-            print("✅ Created fallback collection")
-    except Exception as create_error:
-        print(f"❌ Could not create/access any collection: {create_error}")
-        collection = None
+    print(f"⚠️ medical_docs collection not found: {e}")
+    collection = None
 
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
@@ -163,28 +151,24 @@ def search_multiple_queries(queries, n_results=5):
         return all_results
     
     for query in queries:
-        try:
-            query_embedding = model.encode(query).tolist()
-            results = collection.query(
-                query_embeddings=[query_embedding],
-                n_results=n_results,
-                include=["documents", "metadatas", "distances"]
-            )
-            
-            for doc, meta, dist in zip(results["documents"][0], results["metadatas"][0], results["distances"][0]):
-                doc_id = doc[:100]
-                if doc_id not in seen_docs:
-                    seen_docs.add(doc_id)
-                    all_results.append({
-                        'document': doc,
-                        'metadata': meta,
-                        'distance': dist,
-                        'relevance_score': 1 - dist,
-                        'query': query
-                    })
-        except Exception as e:
-            print(f"⚠️ Error querying collection: {e}")
-            continue
+        query_embedding = model.encode(query).tolist()
+        results = collection.query(
+            query_embeddings=[query_embedding],
+            n_results=n_results,
+            include=["documents", "metadatas", "distances"]
+        )
+        
+        for doc, meta, dist in zip(results["documents"][0], results["metadatas"][0], results["distances"][0]):
+            doc_id = doc[:100]
+            if doc_id not in seen_docs:
+                seen_docs.add(doc_id)
+                all_results.append({
+                    'document': doc,
+                    'metadata': meta,
+                    'distance': dist,
+                    'relevance_score': 1 - dist,
+                    'query': query
+                })
     
     return all_results
 
