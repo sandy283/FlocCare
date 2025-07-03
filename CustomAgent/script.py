@@ -22,9 +22,130 @@ import asyncio
 from concurrent.futures import ThreadPoolExecutor
 import threading
 import os
+import requests
 
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from rag_agent import advanced_rag_query
+
+
+# --- Backend selector and LLM abstraction ---
+with st.sidebar:
+    st.header("Settings")
+    backend = st.selectbox(
+        "Choose LLM Backend:",
+        ("Hugging Face (Cloud)", "Ollama (Local)"),
+        help="Choose which backend to use for LLM responses. Hugging Face works everywhere; Ollama only works locally."
+    )
+    regulation = st.selectbox(
+        "Select Regulation:",
+        ["FDA", "EMA", "HSA"],
+        help="Choose the regulatory body for compliance checking"
+    )
+   
+    st.markdown("---")
+    st.markdown("Example Claims")
+    examples = [
+        "This drug guarantees 100% effectiveness in curing diabetes.",
+        "Clinical studies show this knee surgery has a 95% success rate.",
+        "Our pain relief cream is the most advanced in the world!",
+        "FDA-approved for treatment of mild to moderate pain.",
+        "This supplement will prevent heart attacks."
+    ]
+   
+    for ex in examples:
+        if st.button(ex[:50] + "...", key=ex):
+            st.session_state.messages.append({"role": "user", "content": ex})
+           
+            state = {
+                "messages": [HumanMessage(content=ex)],
+                "regulation": regulation,
+                "compliant": None,
+                "explanation": None,
+                "ask_human": None,
+            }
+           
+            thread_id = uuid4().hex
+            config = {"configurable": {"thread_id": thread_id}}
+           
+            st.session_state.current_thread_id = thread_id
+            st.session_state.current_config = config
+           
+            with st.spinner("Checking compliance..."):
+                try:
+                    result = st.session_state.graph.invoke(state, config=config)
+                   
+                    compliant = result.get("compliant", "unknown")
+                   
+                    # Add section separator for initial compliance result
+                    st.session_state.messages.append({
+                        "role": "assistant",
+                        "content": '<div style="background-color: #FFFF00; color: black; padding: 8px; border-radius: 5px; font-weight: bold;"> INITIAL COMPLIANCE ASSESSMENT</div>'
+                    })
+                    
+                    if compliant == "yes":
+                        st.session_state.messages.append({
+                            "role": "assistant",
+                            "content": f"COMPLIANT with {regulation} regulations"
+                        })
+                        st.session_state.awaiting_other_regulation_check = True
+                        st.session_state.current_claim = ex
+                    else:
+                        st.session_state.messages.append({
+                            "role": "assistant",
+                            "content": f"NON-COMPLIANT with {regulation} regulations"
+                        })
+                        st.session_state.awaiting_other_regulation_check = True
+                        st.session_state.current_claim = ex
+                       
+                except Exception as e:
+                    st.error(f"Error processing claim: {str(e)}")
+           
+            st.rerun()
+
+
+# --- LLM call abstraction ---
+def call_llm(prompt, backend, model_name="gemma3:4b"):
+    if backend == "Hugging Face (Cloud)":
+        HF_API_URL = st.secrets.get("HF_API_URL") or os.environ.get("HF_API_URL")
+        HF_TOKEN = st.secrets.get("HF_TOKEN") or os.environ.get("HF_TOKEN")
+        if not HF_API_URL or not HF_TOKEN:
+            return "[Hugging Face API credentials not set. Please set HF_API_URL and HF_TOKEN in Streamlit secrets or environment variables.]"
+        headers = {"Authorization": f"Bearer {HF_TOKEN}"}
+        try:
+            response = requests.post(
+                HF_API_URL,
+                headers=headers,
+                json={"inputs": prompt}
+            )
+            response.raise_for_status()
+            result = response.json()
+            if isinstance(result, list) and "generated_text" in result[0]:
+                return result[0]["generated_text"]
+            elif "generated_text" in result:
+                return result["generated_text"]
+            elif "error" in result:
+                return f"[Hugging Face API error: {result['error']}]"
+            else:
+                return str(result)
+        except Exception as e:
+            return f"[Hugging Face API error: {e}]"
+    elif backend == "Ollama (Local)":
+        try:
+            import ollama
+            response = ollama.chat(
+                model=model_name,
+                messages=[{"role": "user", "content": prompt}]
+            )
+            return response["message"]["content"]
+        except Exception as e:
+            return f"[Ollama error: {e}]"
+    else:
+        return "[Invalid backend selected.]"
+
+
+# --- Replace ask_ollama with call_llm ---
+def ask_llm(question: str) -> str:
+    return call_llm(question, backend)
 
 
 def extract_things_to_find(claim, regulation_results, explanations):
@@ -45,8 +166,7 @@ Provide a concise summary (max 200 words) of what exactly needs to be searched i
 
 Focus on actionable search terms and specific regulatory areas, not general explanations.
 """
-    
-    response = ask_ollama(prompt)
+    response = ask_llm(prompt)
     return response.strip()
 
 
@@ -66,28 +186,14 @@ class ComplianceState(TypedDict):
     ask_human: Optional[str]
 
 
-def ask_ollama(question: str) -> str:
-    try:
-        response = ollama.chat(
-            model='gemma3:4b',#'deepseek-r1:1.5b', # change models here for better performance
-            messages=[{'role': 'user', 'content': question}],
-        )
-        return response['message']['content']
-    except Exception as e:
-        print(f"Error: {e}")
-        return "Error"
-
-
 def classifier_node(state: ComplianceState) -> dict:
     user_msg = next((m.content for m in state["messages"] if isinstance(m, HumanMessage)), "")
     regulation = state.get('regulation', 'FDA')
-    
     reg_contexts = {
         'FDA': 'Food and Drug Administration (USA) pharmaceutical and medical device regulations',
         'EMA': 'European Medicines Agency pharmaceutical and medical product regulations',
         'HSA': 'Health Sciences Authority (Singapore) pharmaceutical and medical device regulations'
     }
-    
     prompt = (
         f"You are a pharmaceutical regulatory compliance expert. Classify the following medical claim as compliant or non-compliant with "
         f"{reg_contexts[regulation]}. "
@@ -95,7 +201,7 @@ def classifier_node(state: ComplianceState) -> dict:
         "Respond with ONLY 'yes' if compliant, 'no' if non-compliant.\n\n"
         f"Medical Claim: {user_msg}"
     )
-    result = ask_ollama(prompt).strip().lower()
+    result = ask_llm(prompt).strip().lower()
     if "yes" in result:
         return {"compliant": "yes"}
     elif "no" in result:
@@ -113,13 +219,11 @@ def reasoning_node(state: ComplianceState) -> dict:
     user_msg = next((m.content for m in state["messages"] if isinstance(m, HumanMessage)), "")
     decision = state.get("compliant", "no")
     regulation = state.get("regulation", "FDA")
-    
     reg_contexts = {
         'FDA': 'Food and Drug Administration (USA) pharmaceutical and medical device regulations',
         'EMA': 'European Medicines Agency pharmaceutical and medical product regulations', 
         'HSA': 'Health Sciences Authority (Singapore) pharmaceutical and medical device regulations'
     }
-    
     prompt = (
         f"You are a pharmaceutical regulatory compliance expert. Explain why the following medical claim was classified as '{decision}' under {reg_contexts[regulation]}. "
         "Focus on specific regulatory violations such as: unsubstantiated health claims, lack of clinical evidence, "
@@ -128,7 +232,7 @@ def reasoning_node(state: ComplianceState) -> dict:
         f"Medical Claim: {user_msg}\n"
         f"Classification: {decision.upper()}"
     )
-    explanation = ask_ollama(prompt)
+    explanation = ask_llm(prompt)
     return {"explanation": explanation}
 
 
@@ -232,75 +336,6 @@ if "current_explanations" not in st.session_state:
 
 st.title("Medical Compliance Checker")
 st.markdown("Check if medical claims comply with regulatory standards (FDA/EMA/HSA)")
-
-
-with st.sidebar:
-    st.header("Settings")
-    regulation = st.selectbox(
-        "Select Regulation:",
-        ["FDA", "EMA", "HSA"],
-        help="Choose the regulatory body for compliance checking"
-    )
-   
-    st.markdown("---")
-    st.markdown("Example Claims")
-    examples = [
-        "This drug guarantees 100% effectiveness in curing diabetes.",
-        "Clinical studies show this knee surgery has a 95% success rate.",
-        "Our pain relief cream is the most advanced in the world!",
-        "FDA-approved for treatment of mild to moderate pain.",
-        "This supplement will prevent heart attacks."
-    ]
-   
-    for ex in examples:
-        if st.button(ex[:50] + "...", key=ex):
-            st.session_state.messages.append({"role": "user", "content": ex})
-           
-            state = {
-                "messages": [HumanMessage(content=ex)],
-                "regulation": regulation,
-                "compliant": None,
-                "explanation": None,
-                "ask_human": None,
-            }
-           
-            thread_id = uuid4().hex
-            config = {"configurable": {"thread_id": thread_id}}
-           
-            st.session_state.current_thread_id = thread_id
-            st.session_state.current_config = config
-           
-            with st.spinner("Checking compliance..."):
-                try:
-                    result = st.session_state.graph.invoke(state, config=config)
-                   
-                    compliant = result.get("compliant", "unknown")
-                   
-                    # Add section separator for initial compliance result
-                    st.session_state.messages.append({
-                        "role": "assistant",
-                        "content": '<div style="background-color: #FFFF00; color: black; padding: 8px; border-radius: 5px; font-weight: bold;"> INITIAL COMPLIANCE ASSESSMENT</div>'
-                    })
-                    
-                    if compliant == "yes":
-                        st.session_state.messages.append({
-                            "role": "assistant",
-                            "content": f"COMPLIANT with {regulation} regulations"
-                        })
-                        st.session_state.awaiting_other_regulation_check = True
-                        st.session_state.current_claim = ex
-                    else:
-                        st.session_state.messages.append({
-                            "role": "assistant",
-                            "content": f"NON-COMPLIANT with {regulation} regulations"
-                        })
-                        st.session_state.awaiting_other_regulation_check = True
-                        st.session_state.current_claim = ex
-                       
-                except Exception as e:
-                    st.error(f"Error processing claim: {str(e)}")
-           
-            st.rerun()
 
 
 chat_container = st.container()
@@ -483,7 +518,7 @@ Provide a final, authoritative compliance assessment that:
 Structure your response clearly with sections for Final Decision, Evidence, and Recommendations.
 """
                     
-                    final_response = ask_ollama(final_prompt)
+                    final_response = ask_llm(final_prompt)
                     
                     st.session_state.messages.append({
                         "role": "assistant",
